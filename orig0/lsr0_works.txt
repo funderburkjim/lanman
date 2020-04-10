@@ -1,0 +1,2401 @@
+00001 <head>I.</head>
+00002 <head>|| atha nalopAkhyAnam ||</head>
+[Page001+ 17]
+00003 <head>bRhadazva uvAca |</head>
+00004 <lg><l>AsId rAjA nalo nAma vIrasenasuto balI |</l>
+00005 <l>upapanno guNair iSTai rUpavAn azvakovidaH || 1 ||</l></lg>
+00006 <lg><l>atiSThan manujendrANAM mUrdhni devapatir yathA |</l>
+00007 <l>upary upari sarveSAm Aditya iva tejasA || 2 ||</l></lg>
+00008 <lg><l>brahmaNyo vedavic chUro niSadheSu mahIpatiH |</l>
+00009 <l>akSapriyaH satyavAdI mahAn akSauhiNIpatiH || 3 ||</l></lg>
+00010 <lg><l>Ipsito naranArINAm udAraH saMyatendriyaH |</l>
+00011 <l>rakSitA dhanvinAM zreSThaH sAkSAd iva manuH svayam || 4 ||</l></lg>
+00012 <lg><l>tathaivAsId vidarbheSu bhImo bhImaparAkramaH |</l>
+00013 <l>zUraH sarvaguNair yuktaH prajAkAmaH sa cAprajaH || 5 ||</l></lg>
+00014 <lg><l>sa prajArthe paraM yatnam akarot susamAhitaH |</l>
+00015 <l>tam abhyagacchad brahmarSir damano nAma bhArata || 6 ||</l></lg>
+00016 <lg><l>taM sa bhImaH prajAkAmas toSayAmAsa dharmavit |</l>
+00017 <l>mahiSyA saha rAjendra satkAreNa suvarcasam || 7 ||</l></lg>
+00018 <lg><l>tasmai prasanno damanaH sabhAryAya varaM dadau |</l>
+[Page002+ 23]
+00019 <l>kanyAratnaM kumArAMz ca trIn udArAn mahAyazAH || 8 ||</l></lg>
+00020 <lg><l>damayantIM damaM dAntaM damanaM ca suvarcasam |</l>
+00021 <l>upapannAn guNaiH sarvair bhImAn bhImaparAkramAn || 9 ||</l></lg>
+00022 <lg><l>damayantI tu rUpeNa tejasA yazasA zriyA |</l>
+00023 <l>saubhAgyena ca lokeSu yazaH prApa sumadhyamA || 10 ||</l></lg>
+00024 <lg><l>atha tAM vayasi prApte dAsInAM samalaMkRtam |</l>
+00025 <l>zataM zataM sakhInAM ca paryupAsac chacIm iva || 11 ||</l></lg>
+00026 <lg><l>tatra sma rAjate bhaimI sarvAbharaNabhUSitA |</l>
+00027 <l>sakhImadhye 'navadyAGgI vidyut saudAmanI yathA || 12 ||</l></lg>
+00028 <lg><l>atIva rUpasaMpannA zrIr ivAyatalocanA |</l>
+00029 <l>na deveSu na yakSeSu tAdRg rUpavatI kva cit || 13 ||</l></lg>
+00030 <lg><l>mAnuSeSv api cAnyeSu dRSTapUrvAtha vA zrutA |</l>
+00031 <l>cittapramAthinI bAlA devAnAm api sundarI || 14 ||</l></lg>
+00032 <lg><l>nalaz ca narazArdUlo lokeSv apratimo bhuvi |</l>
+00033 <l>kandarpa iva rUpeNa mUrtimAn abhavat svayam || 15 ||</l></lg>
+00034 <lg><l>tasyAH samIpe tu nalaM prazazaMsuH kutUhalAt |</l>
+00035 <l>naiSadhasya samIpe tu damayantIM punaH punaH || 16 ||</l></lg>
+00036 <lg><l>tayor adRSTakAmo 'bhUc chRNvatoH satataM guNAn |</l>
+00037 <l>anyonyaM prati kaunteya sa vyavardhata hRcchayaH || 17 ||</l></lg>
+00038 <lg><l>azaknuvan nalaH kAmaM tadA dhArayituM hRdA |</l>
+00039 <l>antaHpurasamIpasthe vana Aste raho gataH || 18 ||</l></lg>
+00040 <lg><l>sa dadarza tato haMsAn~ jAtarUpapariSkRtAn |</l>
+00041 <l>vane vicaratAM teSAm ekaM jagrAha pakSiNam || 19 ||</l></lg>
+[Page003+ 23]
+00042 <lg><l>tato 'ntarikSago vAcaM vyAjahAra nalaM tadA |</l>
+00043 <l>hantavyo 'smi na te rAjan kariSyAmi tava priyam || 20 ||</l></lg>
+00044 <lg><l>damayantIsakAze tvAM kathayiSyAmi naiSadha |</l>
+00045 <l>yathA tvad anyaM puruSaM na sA maMsyati karhi cit || 21 ||</l></lg>
+00046 <lg><l>evam uktas tato haMsam utsasarja mahIpatiH |</l>
+00047 <l>te tu haMsAH samutpatya vidarbhAn agamaMs tataH || 22 ||</l></lg>
+00048 <lg><l>vidarbhanagarIM gatvA damayantyAs tadAntike |</l>
+00049 <l>nipetus te garutmantaH sA dadarza ca tAn gaNAn || 23 ||</l></lg>
+00050 <lg><l>sA tAn adbhutarUpAn vai dRSTvA sakhigaNAvRtA |</l>
+00051 <l>hRSTA grahItuM khagamAMs tvaramANopacakrame || 24 ||</l></lg>
+00052 <lg><l>atha haMsA visasRpuH sarvataH pramadAvane |</l>
+00053 <l>ekaikazas tadA kanyAs tAn haMsAn samupAdravan || 25 ||</l></lg>
+00054 <lg><l>damayantI tu yaM haMsaM samupAdhAvad antike |</l>
+00055 <l>sa mAnuSIM giraM kRtvA damayantIm athAbravIt || 26 ||</l></lg>
+00056 <lg><l>damayanti nalo nAma niSadheSu mahIpatiH |</l>
+00057 <l>azvinoH sadRzo rUpe na samAs tasya mAnuSAH || 27 ||</l></lg>
+00058 <lg><l>tasya vai yadi bhAryA tvaM bhavethA varavarNini |</l>
+00059 <l>saphalaM te bhavej janma rUpaM cedaM sumadhyame || 28 ||</l></lg>
+00060 <lg><l>vayaM hi devagandharvamAnuSoragarAkSasAn |</l>
+00061 <l>dRSTavanto na cAsmAbhir dRSTapUrvas tathAvidhaH || 29 ||</l></lg>
+00062 <lg><l>tvaM cApi ratnaM nArINAM nareSu ca nalo varaH |</l>
+00063 <l>viziSTAyA viziSTena saMgamo guNavAn bhavet || 30 ||</l></lg>
+00064 <lg><l>evam uktA tu haMsena damayantI vizAM pate |</l>
+[Page004+ 21]
+00065 <l>abravIt tatra taM haMsaM tvam apy evaM nale vad || 31 ||</l></lg>
+00066 <lg><l>tathety uktvANDajaH kanyAM vidarbhasya vizAM pate |</l>
+00067 <l>punar Agamya niSadhAn nale sarvaM nyavedayat || 32 ||</l></lg>
+00068 <p>|| iti nalopAkhyAne prathamaH sargaH || 1 ||</p>
+00069 <head>bRhadazva uvAca |</head>
+00070 <lg><l>damayantI tu tac chrutvA vaco haMsasya bhArata |</l>
+00071 <l>tataH prabhRti na svasthA nalaM prati babhUva sA || 1 ||</l></lg>
+00072 <lg><l>tataz cintAparA dInA vivarNavadanA kRzA |</l>
+00073 <l>babhUva damayantI tu niHzvAsaparamA tadA || 2 ||</l></lg>
+00074 <lg><l>UrdhvadRSTir dhyAnaparA babhUvonmattadarzanA |</l>
+00075 <l>pANDuvarNA kSaNenAtha hRcchayAviSTacetanA || 3 ||</l></lg>
+00076 <lg><l>na zayyAsanabhogeSu ratiM vindati karhi cit |</l>
+00077 <l>na naktaM na divA zete hA heti rudatI punaH || 4 ||</l></lg>
+00078 <lg><l>tato vidarbhapataye damayantyAH sakhIjanaH |</l>
+00079 <l>nyavedayat tAm asvasthAM damayantIM narezvare || 5 ||</l></lg>
+00080 <lg><l>tac chrutvA nRpatir bhImo damayantIsakhIgaNAt |</l>
+00081 <l>cintayAmAsa tat kAryaM sumahat svAM sutAM prati || 6 ||</l></lg>
+00082 <lg><l>sa samIkSya mahIpAlaH svAM sutAM prAptayauvanAm |</l>
+00083 <l>apazyad AtmanA kAryaM damayantyAH svayaMvaram || 7 ||</l></lg>
+00084 <lg><l>sa saMnimantrayAmAsa mahIpAlAn vizAM patiH |</l>
+00085 <l>anubhUyatAm ayaM vIrAH svayaMvara iti prabho || 8 ||</l></lg>
+[Page005+ 22]
+00086 <lg><l>zrutvA tu pArthivAH sarve damayantyAH svayaMvaram |</l>
+00087 <l>abhijagmus tato bhImaM rAjAno bhImazAsanAt || 9 ||</l></lg>
+00088 <lg><l>hastyazvarathaghoSeNa pUrayanto vasuMdharAm |</l>
+00089 <l>vicitramAlyAbharaNair balair dRzyaiH svalaMkRtaiH || 10 ||</l></lg>
+00090 <lg><l>teSAM bhImo mahAbAhuH pArthivAnAM mahAtmanAm |</l>
+00091 <l>yathArham akarot pUjAM te 'vasaMs tatra pUjitAH || 11 ||</l></lg>
+00092 <lg><l>etasminn eva kAle tu surANAm RSisattamau |</l>
+00093 <l>aTamAnau mahAtmAnAv indralokam ito gatau || 12 ||</l></lg>
+00094 <lg><l>nAradaH parvataz caiva mahAprAjn~au mahAvratau |</l>
+00095 <l>devarAjasya bhavanaM vivizAte supUjitau || 13 ||</l></lg>
+00096 <lg><l>tAv arcayitvA maghavA tataH kuzalam avyayam |</l>
+00097 <l>papracchAnAmayaM cApi tayoH sarvagataM vibhuH || 14 ||</l></lg>
+00098 <head>nArada uvAca |</head>
+00099 <lg><l>AvayoH kuzalaM deva sarvatra gatam Izvara |</l>
+00100 <l>loke ca maghavan kRtsne nRpAH kuzalino vibho || 15 ||</l></lg>
+00101 <head>bRhadazva uvAca |</head>
+00102 <lg><l>nAradasya vacaH zrutvA papraccha valavRtrahA |</l>
+00103 <l>dharmajn~AH pRthivIpAlAs tyaktajIvitayodhinaH || 16 ||</l></lg>
+00104 <lg><l>zastreNa nidhanaM kAle ye gacchanty aparAGmukhAH |</l>
+00105 <l>ayaM loko 'kSayas teSAM yathaiva mama kAmadhuk || 17 ||</l></lg>
+00106 <lg><l>kva nu te kSatriyAH zUrA na hi pazyAmi tAn aham |</l>
+00107 <l>Agacchato mahIpAlAn dayitAn atithIn mama || 18 ||</l></lg>
+[Page006+ 23]
+00108 <lg><l>evam uktas tu zakreNa nAradaH pratyabhASata |</l>
+00109 <l>zRNu me maghavan yena na dRzyante mahIkSitaH || 19 ||</l></lg>
+00110 <lg><l>vidarbharAjn~o duhitA damayantIti vizrutA |</l>
+00111 <l>rUpeNa samatikrAntA pRthivyAM sarvayoSitaH || 20 ||</l></lg>
+00112 <lg><l>tasyAH svayaMvaraH zakra bhavitA nacirAd iva |</l>
+00113 <l>tatra gacchanti rAjAno rAjaputrAz ca sarvazaH || 21 ||</l></lg>
+00114 <lg><l>tAM ratnabhUtAM lokasya prArthayanto mahIkSitaH |</l>
+00115 <l>kAGkSanti sma vizeSeNa valavRtraniSUdana || 22 ||</l></lg>
+00116 <lg><l>etasmin kathyamAne tu lokapAlAz ca sAgnikAH |</l>
+00117 <l>Ajagmur devarAjasya samIpam amarottamAH || 23 ||</l></lg>
+00118 <lg><l>tatas te zuzruvuH sarve nAradasya vaco mahat |</l>
+00119 <l>zrutvaiva cAbruvan hRSTA gacchAmo vayam apy uta || 24 ||</l></lg>
+00120 <lg><l>tataH sarve mahArAja sagaNAH sahavAhanAH |</l>
+00121 <l>vidarbhAn abhijagmus te yataH sarve mahIkSitaH || 25 ||</l></lg>
+00122 <lg><l>nalo 'pi rAjA kaunteya zrutvA rAjn~AM samAgamam |</l>
+00123 <l>abhyagacchad adInAtmA damayantIm anuvrataH || 26 ||</l></lg>
+00124 <lg><l>atha devAH pathi nalaM dadRzur bhUtale sthitam |</l>
+00125 <l>sAkSAd iva sthitaM mUrtyA manmathaM rUpasaMpadA || 27 ||</l></lg>
+00126 <lg><l>taM dRSTvA lokapAlAs te bhrAjamAnaM yathA ravim |</l>
+00127 <l>tasthur vigatasaMkalpA vismitA rUpasaMpadA || 28 ||</l></lg>
+00128 <lg><l>tato 'ntarikSe viSTabhya vimAnAni divaukasaH |</l>
+00129 <l>abruvan naiSadhaM rAjann avatIrya nabhastalAt || 29 ||</l></lg>
+00130 <lg><l>bho bho naiSadha rAjendra nala satyavrato bhavAn |</l>
+[Page007+ 21]
+00131 <l>asmAkaM kuru sAhAyyaM dUto bhava narottama || 30 ||</l></lg>
+00132 <p>|| iti nalopAkhyAne dvitIyaH sargaH || 2 ||</p>
+00133 <head>bRhadazva uvAca |</head>
+00134 <lg><l>tebhyaH pratijn~Aya nalaH kariSya iti bhArata |</l>
+00135 <l>athaitAn paripapraccha kRtAn~jalir upasthitaH || 1 ||</l></lg>
+00136 <lg><l>ke vai bhavantaH kaz cAsau yasyAhaM dUta IpsitaH |</l>
+00137 <l>kiM ca tad vo mayA kAryaM kathayadhvaM yathAtatham || 2 ||</l></lg>
+00138 <lg><l>evam ukte naiSadhena maghavAn abhyabhASata |</l>
+00139 <l>amarAn vai nibodhAsmAn damayantyartham AgatAn || 3 ||</l></lg>
+00140 <lg><l>aham indro 'yam agniz ca tathaivAyam apAM patiH |</l>
+00141 <l>zarIrAntakaro nRRNAM yamo 'yam api pArthiva || 4 ||</l></lg>
+00142 <lg><l>tvaM vai samAgatAn asmAn damayantyai nivedaya |</l>
+00143 <l>lokapAlA mahendrAdyAH samAyAnti didRkSavaH || 5 ||</l></lg>
+00144 <lg><l>prAptum icchanti devAs tvAM zakro 'gnir varuNo yamaH |</l>
+00145 <l>teSAm anyatamaM devaM patitve varayasva ha || 6 ||</l></lg>
+00146 <lg><l>evam uktaH sa zakreNa nalaH prAn~jalir abravIt |</l>
+00147 <l>ekArthaM samupetaM mAM na preSayitum arhatha || 7 ||</l></lg>
+00148 <lg><l>kathaM nu jAtasaMkalpaH striyam utsahate pumAn |</l>
+00149 <l>parArtham IdRzaM vaktuM tat kSamantu mahezvarAH || 8 ||</l></lg>
+00150 <head>devA UcuH |</head>
+00151 <lg><l>kariSya iti saMzrutya pUrvam asmAsu naiSadha |</l>
+[Page008+ 23]
+00152 <l>na karipyasi kasmAt tvaM vraja naiSadha mAciram || 9 ||</l></lg>
+00153 <head>bRhadazva uvAca |</head>
+00154 <lg><l>evam uktaH sa devais tair naiSadhaH punar abravIt |</l>
+00155 <l>surakSitAni vezmAni praveSTuM katham utsahe || 10 ||</l></lg>
+00156 <lg><l>pravekSyasIti taM zakraH punar evAbhyabhASata |</l>
+00157 <l>jagAma sa tathety uktvA damayantyA nivezanam || 11 ||</l></lg>
+00158 <lg><l>dadarza tatra vaidarbhIM sakhIgaNasamAvRtAm |</l>
+00159 <l>dedIpyamAnAM vapuSA zriyA ca varavarNinIm || 12 ||</l></lg>
+00160 <lg><l>atIva sukumArAGgIM tanumadhyAM sulocanAm |</l>
+00161 <l>AkSipantIm iva prabhAM zazinaH svena tejasA || 13 ||</l></lg>
+00162 <lg><l>tasya dRSTvaiva vavRdhe kAmas tAM cAruhAsinIm |</l>
+00163 <l>satyaM cikIrSamANas tu dhArayAmAsa hRcchayam || 14 ||</l></lg>
+00164 <lg><l>tatas tA naiSadhaM dRSTvA saMbhrAntAH paramAGganAH |</l>
+00165 <l>AsanebhyaH samutpetus tejasA tasya dharSitAH || 15 ||</l></lg>
+00166 <lg><l>prazazaMsuz ca suprItA nalaM tA vismayAnvitAH |</l>
+00167 <l>na cainam abhyabhASanta manobhis tv abhyapUjayan || 16 ||</l></lg>
+00168 <lg><l>aho rUpam aho kAntir aho dhairyaM mahAtmanaH |</l>
+00169 <l>ko 'yaM devo 'tha vA yakSo gandharvo vA bhaviSyati || 17 ||</l></lg>
+00170 <lg><l>na tAs taM zaknuvanti sma vyAhartum api kiM cana |</l>
+00171 <l>tejasA dharSitAs tasya lajjAvatyo varAGganAH || 18 ||</l></lg>
+00172 <lg><l>athainaM smayamAnaM tu smitapUrvAbhibhASiNI |</l>
+00173 <l>damayantI nalaM vIram abhyabhASata vismitA || 19 ||</l></lg>
+00174 <lg><l>kas tvaM sarvAnavadyAGga mama hRcchayavardhana |</l>
+[Page009+ 20]
+00175 <l>prApto 'sy amaravad vIra jn~Atum icchAmi te 'nagha || 20 ||</l></lg>
+00176 <lg><l>katham AgamanaM ceha kathaM cAsi na lakSitaH |</l>
+00177 <l>surakSitaM hi me vezma rAjA caivograzAsanaH || 21 ||</l></lg>
+00178 <lg><l>evam uktas tu vaidarbhyA nalas tAM pratyuvAca ha |</l>
+00179 <l>nalaM mAM viddhi kalyANi devadUtam ihAgatam || 22 ||</l></lg>
+00180 <lg><l>devAs tvAM prAptum icchanti zakro 'gnir varuNo yamaH |</l>
+00181 <l>teSAm anyatamaM devaM patiM varaya zobhane || 23 ||</l></lg>
+00182 <lg><l>teSAm eva prabhAvena praviSTo 'ham alakSitaH |</l>
+00183 <l>pravizantaM na mAM kaz cid apazyan nApy avArayat || 24 ||</l></lg>
+00184 <lg><l>etadartham ahaM bhadre preSitaH surasattamaiH |</l>
+00185 <l>etac chrutvA zubhe buddhiM prakuruSva yathecchasi || 25 ||</l></lg>
+00186 <p>|| iti nalopAkhyAne tRtIyaH sargaH || 3 ||</p>
+00187 <head>bRhadazva uvAca |</head>
+00188 <lg><l>sA namaskRtya devebhyaH prahasya nalamabravIt |</l>
+00189 <l>praNayasva yathAzraddhaM rAjankiM karavANi te || 1 ||</l></lg>
+00190 <lg><l>ahaM caiva hi yaccAnyanmamAsti vasu kiM cana |</l>
+00191 <l>tatsarvaM tava vizrabdhaM kuru praNayamIzvara || 2 ||</l></lg>
+00192 <lg><l>haMsAnAM vacanaM yattu tanmAM dahati pArthiva |</l>
+00193 <l>tvatkRte hi mayA vIra rAjAnaH saMnipAtitAH || 3 ||</l></lg>
+00194 <lg><l>yadi tvaM bhajamAnAM mAM pratyAkhyAsyasi mAnada |</l>
+[Page010+ 23]
+00195 <l>viSamagniM jalaM rajjumAsthAsye tava kAraNAt || 4 ||</l></lg>
+00196 <lg><l>evamuktastu vaidarbhyA nalastAM pratyuvAca ha |</l>
+00197 <l>tiSThatsu lokapAleSu kathaM mAnuSamicchasi || 5 ||</l></lg>
+00198 <lg><l>yeSAmahaM lokakRtAmIzvarANAM mahAtmanAm |</l>
+00199 <l>na pAdarajasA tulyo manaste teSu vartatAm || 6 ||</l></lg>
+00200 <lg><l>vipriyaM hyAcaranmartyo devAnAM mRtyumRcchati |</l>
+00201 <l>trAhi mAmanavadyAGgi varayasva surottamAn || 7 ||</l></lg>
+00202 <lg><l>virajAMsi ca vAsAMsi divyAzcitrAH srajastathA |</l>
+00203 <l>bhUSaNAni ca mukhyAni devAnprApya tu bhuGkSa vai || 8 ||</l></lg>
+00204 <lg><l>ya imAM pRthivIM kRtsnAM saMkSipya grasate punaH |</l>
+00205 <l>hutAzamIzaM devAnAM kA taM na varayetpatim || 9 ||</l></lg>
+00206 <lg><l>yasya daNDabhayAtsarve bhUtagrAmAH samAgatAH |</l>
+00207 <l>dharmamevAnurudhyanti kA taM na varayetpatim || 10 ||</l></lg>
+00208 <lg><l>dharmAtmAnaM mahAtmAnaM daityadAnavamardanam |</l>
+00209 <l>mahendraM sarvadevAnAM kA taM na varayetpatim || 11 ||</l></lg>
+00210 <lg><l>kriyatAmavizaGkena manasA yadi manyase |</l>
+00211 <l>varaNaM lokapAlAnAM suhRdvAkyamidaM zRNu || 12 ||</l></lg>
+00212 <lg><l>naiSadhenaivamuktA sA damayantI vaco 'bravIt |</l>
+00213 <l>samAplutAbhyAM netrAbhyAM zokajenAtha vAriNA || 13 ||</l></lg>
+00214 <lg><l>devebhyo 'haM namaskRtya sarvebhyaH pRthivIpate |</l>
+00215 <l>vRNe tvAmeva bhartAraM satyametadbravImi te || 14 ||</l></lg>
+00216 <lg><l>tAmuvAca tato rAjA vepamAnAM kRtAn~jalim |</l>
+00217 <l>dautyenAgatya kalyANi kathaM svArthamihotsahe || 15 ||</l></lg>
+[Page011+ 23]
+00218 <lg><l>kathaM hyahaM pratizrutya devatAnAM vizeSataH |</l>
+00219 <l>parArthe yatnamArabhya kathaM svArthamihotsahe || 16 ||</l></lg>
+00220 <lg><l>eSa dharmo yadi svArtho mamApi bhavitA tataH |</l>
+00221 <l>evaM svArthaM kariSyAmi tathA bhadre vidhIyatAm || 17 ||</l></lg>
+00222 <lg><l>tato bASpAkulAM vAcaM damayantI zucismitA |</l>
+00223 <l>pratyAharantI zanakairnalaM rAjAnamabravIt || 18 ||</l></lg>
+00224 <lg><l>upAyo 'yaM mayA dRSTo nirapAyo narezvara |</l>
+00225 <l>yena doSo na bhavitA tava rAjankathaM cana || 19 ||</l></lg>
+00226 <lg><l>tvaM caiva hi narazreSTha devAzcendrapurogamAH |</l>
+00227 <l>AyAntu sahitAH sarve mama yatra svayaMvaraH || 20 ||</l></lg>
+00228 <lg><l>tato 'haM lokapAlAnAM saMnidhau tvAM narezvara |</l>
+00229 <l>varayiSye naravyAghra naivaM doSo bhaviSyati || 21 ||</l></lg>
+00230 <lg><l>evamuktastu vaidarbhyA nalo rAjA vizAM pate |</l>
+00231 <l>AjagAma punastatra yatra devAH samAgatAH || 22 ||</l></lg>
+00232 <lg><l>tamapazyaMstathAyAntaM lokapAlA mahezvarAH |</l>
+00233 <l>dRSTvA cainaM tato 'pRcchanvRttAntaM sarvameva tam || 23 ||</l></lg>
+00234 <lg><l>kacciddRSTA tvayA rAjandamayantI zucismitA |</l>
+00235 <l>kimabravIcca naH sarvAnvada bhUmipate 'nagha || 24 ||</l></lg>
+00236 <head>nala uvAca |</head>
+00237 <lg><l>bhavadbhirahamAdiSTo damayantyA nivezanam |</l>
+00238 <l>praviSTaH sumahAkakSaM daNDibhiH sthavirairvRtam || 25 ||</l></lg>
+00239 <lg><l>pravizantaM ca mAM tatra na kazciddRSTavAnnaraH |</l>
+00240 <l>Rte tAM pArthivasutAM bhavatAmeva tejasA || 26 ||</l></lg>
+[Page012+ 21]
+00241 <lg><l>sakhyazcAsyA mayA dRSTAstabhizcApyupalakSitaH |</l>
+00242 <l>vismitAzcAbhavansarvA dRSTvA mAM vibudhezvarAH || 27 ||</l></lg>
+00243 <lg><l>varNyamAneSu ca mayA bhavatsu rucirAnanA |</l>
+00244 <l>mAmeva gatasaMkalpA vRNIte sA surottamAH || 28 ||</l></lg>
+00245 <lg><l>abravIccaiva mAM bAlA AyAntu sahitAH surAH |</l>
+00246 <l>tvayA saha naravyAghra mama yatra svayaMvaraH || 29 ||</l></lg>
+00247 <lg><l>teSAmahaM saMnidhau tvAM varayiSyAmi naiSadha |</l>
+00248 <l>evaM tava mahAbAho doSo na bhaviteti ha || 30 ||</l></lg>
+00249 <lg><l>etAvadeva vibudhA yathAvRttamudAhRtam |</l>
+00250 <l>mayA zeSe pramANaM tu bhavantastridazezvarAH || 31 ||</l></lg>
+00251 <p>|| iti nalopAkhyAne caturthaH sargaH || 4 ||</p>
+00252 <head>bRhadazva uvAca |</head>
+00253 <lg><l>atha kAle zubhe prApte tithau puNye kSaNe tathA |</l>
+00254 <l>AjuhAva mahIpAlAnbhImo rAjA svayaMvare || 1 ||</l></lg>
+00255 <lg><l>tacchrutvA pRthivIpAlAH sarve hRcchayapIDitAH |</l>
+00256 <l>tvaritAH samupAjagmurdamayantImabhIpsavaH || 2 ||</l></lg>
+00257 <lg><l>kanakastambharuciraM toraNena virAjitam |</l>
+00258 <l>vivizuste nRpA raGgaM mahAsiMhA ivAcalam || 3 ||</l></lg>
+00259 <lg><l>tatrAsaneSu vividheSvAsInAH pRthivIkSitaH |</l>
+00260 <l>surabhisragdharAH sarve pramRSTamaNikuNDalAH || 4 ||</l></lg>
+00261 <lg><l>tatra sma pInA dRzyante bAhavaH parighopamAH |</l>
+[Page013+ 23]
+00262 <l>AkAravantaH suzlakSNAH pan~cazIrSA ivoragAH || 5 ||</l></lg>
+00263 <lg><l>sukezAntAni cArUNi sunAsAkSibhruvANi ca |</l>
+00264 <l>mukhAni rAjn~AM zobhante nakSatrANi yathA divi || 6 ||</l></lg>
+00265 <lg><l>damayantI tato raGgaM praviveza zubhAnanA |</l>
+00266 <l>muSNantI prabhayA rAjn~AM cakSUMSi ca manAMsi ca || 7 ||</l></lg>
+00267 <lg><l>tasyA gAtreSu patitA teSAM dRSTirmahAtmanAm |</l>
+00268 <l>tatra tatraiva saktAbhUnna cacAla ca pazyatAm || 8 ||</l></lg>
+00269 <lg><l>tataH saMkIrtyamAneSu rAjn~AM nAmasu bhArata |</l>
+00270 <l>dadarza bhaimI puruSAtpan~ca tulyAkRtInatha || 9 ||</l></lg>
+00271 <lg><l>tAnsamIkSya tataH sarvAnnirvizeSAkRtInsthitAn |</l>
+00272 <l>saMdehAdatha vaidarbhI nAbhyajAnAnnalaM nRpam || 10 ||</l></lg>
+00273 <lg><l>yaM yaM hi dadRze teSAM taM taM mene nalaM nRpam |</l>
+00274 <l>sA cintayantI buddhyAtha tarkayAmAsa bhAvinI || 11 ||</l></lg>
+00275 <lg><l>kathaM hi devAn~jAnIyAM kathaM vidyAM nalaM nRpam || 12 ||</l></lg>
+00276 <lg><l>evaM saMcintayantI sA vaidarbhI bhRzaduHkhitA |</l>
+00277 <l>zrutAni devaliGgAni tarkayAmAsa bhArata || 13 ||</l></lg>
+00278 <lg><l>devAnAM yAni liGgAni sthavirebhyaH zrutAni me |</l>
+00279 <l>tAnIha tiSThatAM bhUmAvekasyApi na lakSaye || 14 ||</l></lg>
+00280 <lg><l>sA vinizcitya bahudhA vicArya ca punaH punaH |</l>
+00281 <l>zaraNaM prati devAnAM prAptakAlamamanyata || 15 ||</l></lg>
+00282 <lg><l>vAcA ca manasA caiva namaskAraM prayujya sA |</l>
+00283 <l>devebhyaH prAn~jalirbhUtvA vepamAnedamabravIt || 16 ||</l></lg>
+00284 <lg><l>haMsAnAM vacanaM zrutvA yathA me naiSadho vRtaH |</l>
+[Page014+ 23]
+00285 <l>patitve tena satyena devAstaM pradizantu me || 17 ||</l></lg>
+00286 <lg><l>vacasA manasA caiva yathA nAbhicarAmyaham |</l>
+00287 <l>tena satyena vibudhAstameva pradizantu me || 18 ||</l></lg>
+00288 <lg><l>yathA devaiH sa me bhartA vihito niSadhAdhipaH |</l>
+00289 <l>tena satyena me devAstameva pradizantu me || 19 ||</l></lg>
+00290 <lg><l>yathedaM vratamArabdhaM nalasyArAdhane mayA |</l>
+00291 <l>tena satyena me devAstameva pradizantu me || 20 ||</l></lg>
+00292 <lg><l>svaM caiva rUpaM kurvantu lokapAlA mahezvarAH |</l>
+00293 <l>yathAhamabhijAnIyAM puNyazlokaM narAdhipam || 21 ||</l></lg>
+00294 <lg><l>nizamya damayantyAstatkaruNaM paridevitam |</l>
+00295 <l>yathoktaM cakrire devAH sAmarthyaM liGgadhAraNe || 22 ||</l></lg>
+00296 <lg><l>sApazyadvibudhAnsarvAnasvedAnstabdhalocanAn |</l>
+00297 <l>hRSitasragrajohInAnsthitAnaspRzataH kSitim || 23 ||</l></lg>
+00298 <lg><l>chAyAdvitIyo mlAnasragrajaHsvedasamanvitaH |</l>
+00299 <l>bhUmiSTho naiSadhazcaiva nimeSeNa ca sUcitaH || 24 ||</l></lg>
+00300 <lg><l>sA samIkSya tu tAndevAtpuNyazlokaM ca bhArata |</l>
+00301 <l>naiSadhaM varayAmAsa bhaimI dharmeNa pANDava || 25 ||</l></lg>
+00302 <lg><l>vilajjamAnA vastrAnte jagrAhAyatalocanA |</l>
+00303 <l>skandhadeze 'sRjattasya srajaM paramazobhanAm || 26 ||</l></lg>
+00304 <lg><l>varayAmAsa caivainaM patitve varavarNinI |</l>
+00305 <l>tato hA heti sahasA muktaH zabdo narAdhipaiH || 27 ||</l></lg>
+00306 <lg><l>devairmaharSibhistatra sAdhu sAdhviti bhArata |</l>
+00307 <l>vismitairIritaH zabdaH prazaMsadbhirnalaM nRpam || 28 ||</l></lg>
+[Page015+ 23]
+00308 <lg><l>damayantIM tu kauravya vIrasenasuto nRpaH |</l>
+00309 <l>AzvAsayadvarArohAM prahRSTenAntarAtmanA || 29 ||</l></lg>
+00310 <lg><l>yattvaM bhajasi kalyANi pumAMsaM devasaMnidhau |</l>
+00311 <l>tasmAnmAM viddhi bhartAramevaM te vacane ratam || 30 ||</l></lg>
+00312 <lg><l>yAvacca me dhariSyanti prANA dehe zucismite |</l>
+00313 <l>tAvattvayi bhaviSyAmi satyametadbravImi te || 31 ||</l></lg>
+00314 <lg><l>damayantIM tathA vAgbhirabhinandya kRtAn~jaliH |</l>
+00315 <l>… … … || 32 ||</l></lg>
+00316 <lg><l>tau parasparataH prItau dRSTvA tvagnipurogamAn |</l>
+00317 <l>tAneva zaraNaM devAn~jagmaturmanasA tadA || 33 ||</l></lg>
+00318 <lg><l>vRte tu naiSadhe bhaimyA lokapAlA mahaujasaH |</l>
+00319 <l>prahRSTamanasaH sarve nalAyASTau varAndaduH || 34 ||</l></lg>
+00320 <lg><l>pratyakSadarzanaM yajn~e gatiM cAnuttamAM zubhAm |</l>
+00321 <l>naiSadhAya dadau zakraH prIyamANaH zacIpatiH || 35 ||</l></lg>
+00322 <lg><l>agnirAtmabhavaM prAdAdyatra vAn~chati naiSadhaH |</l>
+00323 <l>lokAnAtmaprabhAMzcaiva dadau tasmai hutAzanaH || 36 ||</l></lg>
+00324 <lg><l>yamastvannarasaM prAdAddharme ca paramAM sthitim |</l>
+00325 <l>apAM patirapAM bhAvaM yatra vAn~chati naiSadhaH || 37 ||</l></lg>
+00326 <lg><l>srajazcottamagandhADhyAH sarve ca mithunaM daduH |</l>
+00327 <l>varAnevaM pradAyAsya devAste tridivaM gatAH || 38 ||</l></lg>
+00328 <lg><l>pArthivAzcAnubhUyAsya vivAhaM vismayAnvitAH |</l>
+00329 <l>damayantyAzca muditAH pratijagmuryathAgatam || 39 ||</l></lg>
+00330 <lg><l>gateSu pArthivendreSu bhImaH prIto mahAmanAH |</l>
+[Page016+ 20]
+00331 <l>vivAhaM kArayAmAsa damayantyA nalasya ca || 40 ||</l></lg>
+00332 <lg><l>upya tatra yathAkAmaM naiSadho dvipadAM varaH |</l>
+00333 <l>bhImena samanujn~Ato jagAma nagaraM svakam || 41 ||</l></lg>
+00334 <lg><l>atIva mudito rAjA bhrAjamAnoM 'zumAniva |</l>
+00335 <l>aran~jayatprajA vIro dharmeNa paripAlayan || 42 ||</l></lg>
+00336 <lg><l>Ije cApyazvamedhena yayAtiriva nAhuSaH |</l>
+00337 <l>anyaizca bahubhirdhImAnkratubhizcAptadakSiNaiH || 43 ||</l></lg>
+00338 <lg><l>punazca ramaNIyeSu vaneSUpavaneSu ca |</l>
+00339 <l>damayantyA saha nalo vijahArAmaropamaH || 44 ||</l></lg>
+00340 <lg><l>janayAmAsa ca nalo damayantyAM mahAmanAH |</l>
+00341 <l>indrasenaM sutaM cApi indrasenAM ca kanyakAm || 45 ||</l></lg>
+00342 <lg><l>evaM sa yajamAnazca viharaMzca narAdhipaH |</l>
+00343 <l>rarakSa vasusaMpUrNAM vasudhAM vasudhAdhipaH || 46 ||</l></lg>
+00344 <p>|| iti nalopAkhyAne pan~camaH sargaH || 5 ||</p>
+00345 <head>|| atha hitopadezaH ||</head>
+00346 <head>{#II.#}</head>
+00347 <lg><l>zruto hitopadezo 'yaM pATavaM saMskRtoktiSu |</l>
+00348 <l>vAcAM sarvatra vaicitryaM nItividyAM dadAti ca ||</l></lg>
+00349 <lg><l>ajarAmaravatprAjn~o vidyAmarthaM ca cintayet |</l>
+00350 <l>gRhIta iva kezeSu mRtyunA dharmamAcaret ||</l></lg>
+[Page017+ 22]
+00351 <lg><l>sarvadravyeSu vidyaiva dravyamAhuranuttamam |</l>
+00352 <l>ahAryatvAdanardhyatvAdakSayatvAcca sarvadA ||</l></lg>
+00353 <lg><l>vidyA zastraM ca zAstraM ca dve vidye pratipattaye |</l>
+00354 <l>AdyA hAsyAya vRddhatve dvitIyAdriyate sadA ||</l></lg>
+00355 <lg><l>yannave bhAjane lagnaH saMskAro nAnyathA bhavet |</l>
+00356 <l>kathAchalena bAlAnAM nItistadiha kathyate ||</l></lg>
+00357 <lg><l>mitralAbhaH suhRdbhedo vigrahaH saMdhireva ca |</l>
+00358 <l>pan~catantrAttathAnyasmAdgranthAdAkRSya likhyate ||</l></lg>
+00359 <p>asti bhAgIrathItIre pATaliputranAmadheyaM nagaram | tatra sa-
+00360 rvasvAmiguNopetaH sudarzano nAma narapatirAsIt | sa bhUpatire-
+00361 kadA kenApi paThyamAnaM zlokadvayaM zuzrAva |
+00362 <lg><l>anekasaMzayocchedi parokSArthasya darzakam |</l>
+00363 <l>sarvasya locanaM zAstraM yasya nAstyandha eva saH ||</l></lg>
+00364 <lg><l>yauvanaM dhanasaMpattiH prabhutvamavivekatA |</l>
+00365 <l>ekaikamapyanarthAya kiM punastu catuSTayam ||</l></lg>
+00366 ityAkarNyAtmanaH putrANAmanadhigatazAstrANAM nityamunmArgagA-
+00367 minAM zAstrAnanuSThAnenodvignamanAH sa rAjA cintayAmAsa |
+00368 <lg><l>ko 'rthaH putreNa jAtena yo na vidvAnna dhArmikaH |</l>
+00369 <l>kANena cakSuSA kiM vA cakSuHpIDaiva kevalam ||</l></lg>
+00370 <lg><l>ajAtamRtamUrkhANAM varamAdyau na cAntimaH |</l>
+00371 <l>sakRdduHkhakarAvAdyAvantimastu pade pade ||</l></lg>
+00372 kiM ca | <lg><l>sa jAto yena jAtena yAti vaMzaH samunnatim |</l>
+[Page018+ 23]
+00373 <l>parivartini saMsAre mRtaH ko vA na jAyate ||</l></lg>
+00374 aparaM ca | <lg><l>varameko guNI putro na ca mUrkhazatairapi |</l>
+00375 <l>ekazcandrastamo hanti na ca tArAgaNairapi ||</l></lg>
+00376 <lg><l>yasya tasya prasUto 'pi guNavAnpUjyate naraH |</l>
+00377 <l>dhanurvaMzavizuddho 'pi nirguNaH kiM kariSyati ||</l></lg>
+00378 <lg><l>hA hA putraka nAdhIta sugataitAsu rAtriSu |</l>
+00379 <l>tena tvaM viduSAM madhye paGke gauriva sIdasi ||</l></lg>
+00380 tatkathamidAnImete mama putrA guNavantaH kriyantAm | yacco-
+00381 cyate | <lg><l>yadabhAvi na tadbhAvi bhAvi cenna tadanyathA |</l>
+00382 <l>iti cintAviSaghno 'yamagadaH kiM na pIyate ||</l></lg>
+00383 etatkAryAkSamANAM keSAM cidAlasyavacanam |
+00384 <lg><l>na daivamiti saMcintya tyajedudyogamAtmanaH |</l>
+00385 <l>anudyogena kastailaM tilebhyaH prAptumarhati ||</l></lg>
+00386 anyacca | <lg><l>udyoginaM puruSasiMhamupaiti lakSmIr</l>
+00387 <l>daivena deyamiti kApuruSA vadanti |</l>
+00388 <l>daivaM nihatya kuru pauruSamAtmazaktyA</l>
+00389 <l>yatne kRte yadi na sidhyati ko 'tra doSaH ||</l></lg>
+00390 <lg><l>yathA hyekena cakreNa rathasya na gatirbhavet |</l>
+00391 <l>evaM puruSakAreNa vinA daivaM na sidhyati ||</l></lg>
+00392 tathA ca | <lg><l>pUrvajanmakRtaM karma taddaivamiti kathyate |</l>
+00393 <l>tasmAtpuruSakAreNa yatnaM kuryAdatandritaH ||</l></lg>
+00394 <lg><l>udyamena hi sidhyanti kAryANi na manorathaiH |</l>
+00395 <l>na hi suptasya siMhasya pravizanti mukhe mRgAH ||</l></lg>
+[Page019+ 23]
+00396 <lg><l>mUrkho 'pi zobhate tAvatsabhAyAM vastraveSTitaH |</l>
+00397 <l>tAvacca zobhate mUrkho yAvatkiM cinna bhASate ||</l></lg>
+00398 etaccintayitvA sa rAjA paNDitasabhAM kAritavAn | rAjIvAca |
+00399 bho bhoH paNDitAH | zrUyatAm | asti kazcidevaMbhUto vidvAnyo
+00400 mama putrANAM nityamunmArgagAminAmanadhigatazAstrANAmi-
+00401 dAnIM nItizAstropadezena punarjanma kArayituM samarthaH |
+00402 yataH | <lg><l>kAcaH kAn~canasaMsargAddhatte mArakatIM dyutim |</l>
+00403 <l>tathA satsaMnidhAnena mUrkho yAti pravINatAm ||</l></lg>
+00404 uktaM ca | <lg><l>hIyate hi matistAta hInaiH saha samAgamAt |</l>
+00405 <l>samaizca samatAmeti viziSTaizca viziSTatAm ||</l></lg>
+00406 atrAntare viSNuzarmanAmA mahApaNDitaH sakalanItizAstratattva-
+00407 jn~o bRhaspatirivAbravIt | devAmahAkulasaMbhUtA ete rAjaputrAH |
+00408 tanmayA nItiM grAhayituM zakyante |
+00409 yataH | <lg><l>nAdravye nihitA kA citkriyA phalavatI bhavet |</l>
+00410 <l>na vyApArazatenApi zukavatpAThyate bakaH ||</l></lg>
+00411 anyacca | <lg><l>asmiMstu nirguNaM gotre nApatyamupajAyate |</l>
+00412 <l>Akare padmarAgANAM janma kAcamaNeH kutaH ||</l></lg>
+00413 ato 'haM SaNmAsAbhyantare tava putrAnnItizAstrAbhijn~Ankari-
+00414 SyAmi | rAjA savinayaM punaruvAca |
+00415 <lg><l>kITo 'pi sumanaHsaGgAdArohati satAM ziraH |</l>
+00416 <l>azmApi yAti devatvaM mahadbhiH supratiSThitaH ||</l></lg>
+00417 tadeteSAmasmatputrANAM nItizAstropadezAya bhavantaH pramANam |
+00418 ityuktvA tasya viSNuzarmaNo bahumAnapuraHsaraM putrAnsamarpita-
+[Page020+ 21]
+00419 vAn | atha prAsAdapRSThe sukhopaviSTAnAM rAjaputrANAM purastA-
+00420 tprastAvakrameNa sa paNDito 'bravIt |
+00421 <lg><l>kAvyazAstravinodena kAlo gacchati dhImatAm |</l>
+00422 <l>vyasanena tu mUrkhANAM nidrayA kalahena vA ||</l></lg>
+00423 tadbhavatAM vinodAya kAkakUrmAdInAM vicitrAM kathAM kathayAmi |
+00424 rAjaputrairuktam | Arya | kathyatAm | viSNuzarmovAca | zRNuta
+00425 yUyam | saMprati mitralAbhaH prastUyate |</p>
+00426 <head>{#III.#}</head>
+00427 <p>ahamekadA dakSiNAraNye carannapazyam | eko vRddhavyAghraH snA-
+00428 taH kuzahastaH sarastIre brUte | bho bhoH pAnthAH | idaM suvarNakaGka-
+00429 NaM gRhyatAm | tadvacanamAkarNya bhayAtko 'pi tatpArzvaM na bhaja-
+00430 te | tato lobhAkRSTena kena citpAnthenAlocitam | bhAgyenai-
+00431 tatsaMbhavati | kiM tvasminnAtmasaMdehe pravRttirna vidheyA | yataH |
+00432 <lg><l>aniSTAdiSTalAbhe 'pi na gatirjAyate zubhA |</l>
+00433 <l>yatrAsti viSasaMsargo 'mRtaM tadapi mRtyave ||</l></lg>
+00434 kiM tu sarvatrArthArjane pravRttiH saMdeha eva | tathA coktam |
+00435 <lg><l>na saMzayamanAruhya naro bhadrANi pazyati |</l>
+00436 <l>saMzayaM punarAruhya yadi jIvati pazyati ||</l></lg>
+00437 tannirUpayAmi tAvat | prakAzaM brUte | kutra tava kaGkaNam |
+00438 vyAghro hastaM prasArya darzayati | pAntho 'vadat | kathaM mArAtmake
+00439 tvayi vizvAsaH | vyAghra uvAca | zRNu re pAntha | prAgeva yau-
+[Page021+ 23]
+00440 vanadazAyAmatidurvRtta Asam | anekagobrAhmaNamanuSyavadhAnme
+00441 putrA anekazo mRtA dArAzca | sAMprataM nirvaMzo 'smi | tataH ke-
+00442 nApi dhArmikeNAhamupadiSTaH | dAnadharmamAcaratu bhavAniti | ta-
+00443 dupadezAdidAnImahaM snAnazIlo dAtA vRddho galitanakhadanto
+00444 dayAvAMzca kathaM na vizvAsabhUmiH | uktaM ca |
+00445 <lg><l>ijyAdhyayanadAnAni tapaH satyaM kSamA damaH |</l>
+00446 <l>alobha iti mArgo 'yaM dharmasyASTavidhaH smRtaH ||</l></lg>
+00447 <lg><l>tatra pUrvazcaturvargo dambhArthamapi sevyate |</l>
+00448 <l>uttarazca caturvargo nAmahAtmasu vidyate ||</l></lg>
+00449 mama caitAvAlMM lobhaviraho yena svahastagatamapi suvarNakaGkaNaM
+00450 yasmai kasmai ciddAtumicchAmi | tathApi vyAghro mAnuSaM khAdatIti
+00451 lokapravAdo durnivAraH | yataH |
+00452 <lg><l>gatAnugatiko lokaH kuTTanImupadezinIm |</l>
+00453 <l>pramANayati no dharme yathA goghnamapi dvijam ||</l></lg>
+00454 mayA ca dharmazAstrANyadhItAni | zRNu |
+00455 <lg><l>marusthalyAM yathA vRSTiH kSudhArte bhojanaM tathA |</l>
+00456 <l>daridre dIyate dAnaM saphalaM pANDunandana ||</l></lg>
+00457 <lg><l>prANA yathAtmano 'bhISTA bhUtAnAmapi te tathA |</l>
+00458 <l>Atmaupamyena sarvatra dayAM kurvanti sAdhavaH ||</l></lg>
+00459 aparaM ca | <lg><l>pratyAkhyAne ca dAne ca sukhaduHkhe priyApriye |</l>
+00460 <l>Atmaupamyena puruSaH pramANamadhigacchati ||</l></lg>
+00461 anyacca | <lg><l>mAtRvatparadArAMzca paradravyANi loSTavat |</l>
+00462 <l>AtmavatsarvabhUtAni yaH pazyati sa pazyati ||</l></lg>
+[Page022+ 23]
+00463 tvaM ca durgataH | tena tattubhyaM dAtuM sayatno 'ham | tathA coktam |
+00464 <lg><l>daridrAnbhara kaunteya mA prayacchezvare dhanam |</l>
+00465 <l>vyAdhitasyauSadhaM pathyaM nIrujastu kimauSadhaiH ||</l></lg>
+00466 anyacca | <lg><l>dAtavyamiti yaddAnaM dIyate 'nupakAriNe |</l>
+00467 <l>deze kAle ca pAtre ca taddAnaM sAttvikaM smRtam ||</l></lg>
+00468 tadatra sarasi snAtvA suvarNakaGkaNamidaM pratigRhANa | tato jAta-
+00469 vizvAso yAvadasau saraH snAtuM praviSTastAvadeva mahApaGke nima-
+00470 gnaH palAyitumakSamaH | paGke patitaM dRSTvA vyAghro 'vadat | a-
+00471 haha | mahApaGke patito 'si | atastvAmutthApayAmi | ityuktvA
+00472 zanaiH zanairupagamya tena vyAghreNa dhRtaH sa pAntho 'cintayat |
+00473 <lg><l>na dharmazAstraM paThatIti kAraNaM</l>
+00474 <l>na cApi vedAdhyayanaM durAtmanaH |</l>
+00475 <l>svabhAva evAtra tathAtiricyate</l>
+00476 <l>yathA prakRtyA madhuraM gavAM payaH ||</l></lg>
+00477 kiM ca | <lg><l>avazendriyacittAnAM hastisnAnamiva kriyA |</l>
+00478 <l>durbhagAbharaNaprAyo jn~AnaM bhAraH kriyAM vinA ||</l></lg>
+00479 tanna mayA bhadraM kRtaM yadatra mArAtmake vizvAsaH kRtaH | tathA hyu-
+00480 ktam | <lg><l>nakhinAM ca nadInAM ca zRGgiNAM zastrapANinAm |</l>
+00481 <l>vizvAso naiva kartavyaH strISu rAjakuleSu ca ||</l></lg>
+00482 aparaM ca | <lg><l>sarvasya hi parIkSyante svabhAvA netare guNAH |</l>
+00483 <l>atItya hi guNAnsarvAnsvabhAvo mUrdhni vartate ||</l></lg>
+00484 anyacca | <lg><l>sa hi gagaNavihArI kalmaSadhvaMsakArI</l>
+00485 <l>dazazatakaradhArI jyotiSAM madhyacArI |</l>
+[Page023+ 22]
+00486 <l>vidhurapi vidhiyogAdgrasyate rAhuNAsau</l>
+00487 <l>likhitamapi lalATe pron~chituM kaH samarthaH ||</l></lg>
+00488 iti cintayanneva tenAsau vyAghreNa vyApAditaH khAditazca |</p>
+00489 <head>{#IV.#}</head>
+00490 <p>asti magadhadeze campakavatI nAmAraNyAnI | tasyAM cirA-
+00491 nmahatA snehena mRgakAkau nivasataH | sa ca mRgaH svecchayA bhrA-
+00492 myanpuSTAGgaH kena citsRgAlenAvalokitaH | taM dRSTvA sRgAlo
+00493 'cintayat | AH | kathametanmAMsaM sulalitaM bhakSayAmi | bha-
+00494 vatu | vizvAsaM tAvadutpAdayAmi | ityAlocyopasRtyAbravIt |
+00495 mitra | kuzalaM te | mRgeNoktam | kastvam | jambuko brUte | kSu-
+00496 drabuddhinAmA jambuko 'ham | atrAraNye mitrabandhuhIno mRtava-
+00497 dekAkI nivasAmi | idAnIM bhavantaM mitramAsAdya punaH saba-
+00498 ndhurjIvalokaM praviSTo 'smi | adhunA mayA tavAnucareNa sarva-
+00499 thA bhavitavyam | mRgeNoktam | evamastu | tato 'staM gate sa-
+00500 vitari bhagavati marIcimAlini mRgasya vAsabhUmiM prati mR-
+00501 gajambukau gatau | tatra campakavRkSazAkhAyAM subuddhinAmA kAko
+00502 mRgasya ciramitraM nivasati | tau dRSTvA kAko 'vadat | sakhe
+00503 citrAGga | ko 'yaM dvitIyaH | mRgo brUte | jambuko 'yamasma-
+00504 tsakhyamicchannAgataH | kAko brUte | mitra | akasmAdAgantunA
+00505 saha vizvAso naiva yuktaH | tanna bhadramAcaritam | tathA coktam |
+00506 <lg><l>ajn~AtakulazIlasya vAso deyo na kasya cit |</l>
+00507 <l>mArjArasya hi doSeNa hato gRdhro jaradgavaH ||</l></lg>
+[Page024+ 23]
+00508 ityAkarNya sa jambukaH sakopamAha | mRgasya prathamadarzanadine bha-
+00509 vAnapyajn~AtakulazIla evAsIt | tadbhavatA saha kathamadya yA-
+00510 vadetasya snehAnuvRttiruttarottaraM vardhate |
+00511 <lg><l>yatra vidvajjano nAsti zlAghyastatrAlpadhIrapi |</l>
+00512 <l>nirastapAdape deza eraNDo 'pi drumAyate ||</l></lg>
+00513 anyaccA | <lg><l>ayaM nijaH paro veti gaNanA laghucetasAm |</l>
+00514 <l>udAracaritAnAM tu vasudhaiva kuTumbakam ||</l></lg>
+00515 yathA cAyaM mRgo mama bandhustathA bhavAnapi | mRgo 'bravIt |
+00516 kimanenottarottareNa | sarvairekatra vizrambhAlApaiH sukhamanubhavadbhiH
+00517 sthIyatAm | yataH |
+00518 <lg><l>na kazcitkasya cinmitraM na kazcitkasya cidripuH |</l>
+00519 <l>vyavahAreNa mitrANi jAyante ripavastathA ||</l></lg>
+00520 kAkenoktam | evamastu | atha prAtaH sarve yathAbhimatadezaM ga-
+00521 tAH | ekadA nibhRtaM sRgAlo brUte | sakhe mRga | etasminneva va-
+00522 naikadeze sasyapUrNaM kSetramasti | tadahaM tvAM tatra nItvA darzayAmi |
+00523 tathA kRte sati mRgaH pratyahaM tatra gatvA sasyaM khAdati | atha
+00524 kSetrapatinA taddRSTvA pAzAstatra niyojitAH | anantaraM punarA-
+00525 gato mRgastatra caranpAzairbaddho 'cintayat | ko mAmitaH kA-
+00526 lapAzAdiva vyAdhapAzAttrAtuM mitrAdanyaH samarthaH | atrAntare
+00527 jambukastatrAgatyopasthito 'cintayat | phalitaM tAvadasmAkaM
+00528 kapaTaprabandhena | manorathasiddhirapi bAhulyAnme bhaviSyati | e-
+00529 tasyotkRtyamAnasya mAMsAsRganuliptAnyasthIni mayAvazyaM prA-
+00530 ptavyAni | sa ca mRgastaM dRSTvollasito brUte | sakhe | chinddhi tA-
+[Page025+ 23]
+00531 vanmama bandhanam | satvaraM trAyasva mAm | yataH |
+00532 <lg><l>Apatsu mitraM jAnIyAdyuddhe zUramRNe zucim |</l>
+00533 <l>bhAryAM kSINeSu vitteSu vyasaneSu ca bAndhavAn ||</l></lg>
+00534 aparaM ca | <lg><l>utsave vyasane caiva durbhikSe zatrusaMkaTe |</l>
+00535 <l>rAjadvAre zmazAne ca yastiSThati sa bAndhavaH ||</l></lg>
+00536 jambukaH pAzaM muhurmuhurvilokyAcintayat | dRDhabandhanabaddho 'sti
+00537 tAvadayaM mRgaH | brUte ca | snAyunirmitAH pAzAH | tadadya bhaTTA-
+00538 rakavAre kathametAndantaiH spRzAmi | mitra | yadi nAnyathA manya-
+00539 se tadA prabhAte yattvayocyate tanmayA kartavyam | ityuktvA tatsa-
+00540 mIpa AtmAnamAcchAdya sthitaH saH | anantaraM sa kAkaH pradoSa-
+00541 kAle mRgamanAgatamavalokyetastato 'nviSya tathAvidhaM dRSTvo-
+00542 vAca | sakhe | kimetat | mRgeNoktam | avadhIritasuhRdvAkyasya
+00543 phalametat | tathA coktam |
+00544 <lg><l>suhRdAM hitakAmAnAM yaH zRNoti na bhASitam |</l>
+00545 <l>vipatsaMnihitA tasya sa naraH zatrunandanaH ||</l></lg>
+00546 kAko brUte | sa sRgAlaH kva | mRgeNoktam | manmAMsArthI tiSThatya-
+00547 traiva | kAko brUte | mitra | uktameva mayA pUrvam |
+00548 <lg><l>aparAdho na me 'stIti naitadvizvAsakAraNam |</l>
+00549 <l>vidyate hi nRzaMsebhyo bhayaM guNavatAmapi ||</l></lg>
+00550 <lg><l>parokSe kAryahantAraM pratyakSe priyavAdinam |</l>
+00551 <l>varjayettAdRzaM mitraM viSakumbhaM payomukham ||</l></lg>
+00552 dIrghaM niHzvasya | are van~caka | kiM tvayA pApakarmaNA kRtam |
+00553 yataH |
+[Page026+ 23]
+00554 <lg><l>saMlApitAnAM madhurairvacobhirmithyopacAraizca vazIkRtAnAm |</l>
+00555 <l>AzAvatAM zraddadhatAM ca loke kimarthinAM van~cayitavyamasti ||</l></lg>
+00556 anyacca | <lg><l>upakAriNi vizrabdhe zuddhamatau yaH samAcarati pApam |</l>
+00557 <l>taM janamasatyasaMdhaM bhagavati vasudhe kathaM vahasi ||</l></lg>
+00558 <lg><l>durjanena samaM sakhyaM prItiM cApi na kArayet |</l>
+00559 <l>uSNo dahati cAGgAraH zItaH kRSNAyate karam ||</l></lg>
+00560 atha vA sthitiriyaM durjanAnAm |
+00561 <lg><l>prAkpAdayoH patati khAdati pRSThamAMsaM</l>
+00562 <l>karNe kalaM kimapi rauti zanairvicitram |</l>
+00563 <l>chidraM nirUpya sahasA pravizatyazaGkaH</l>
+00564 <l>sarvaM khalasya caritaM mazakaH karoti ||</l></lg>
+00565 tathA ca | <lg><l>durjanaH priyavAdI ca naitadvizvAsakAraNam |</l>
+00566 <l>madhu tiSThati jihvAgre hRdaye tu halAhalam ||</l></lg>
+00567 atha prabhAte sa kSetrapatirlaguDahastastaM pradezamAgacchankAkenAva-
+00568 lokitaH | tamAlokya kAkenoktam | sakhe mRga | tvamAtmAnaM
+00569 mRtavatsaMdarzya vAtenodaraM pUrayitvA pAdAnstabdhIkRtya tiSTha | ya-
+00570 dAhaM zabdaM karomi tadA tvaM satvaramutthAya palAyiSyasi | mRga-
+00571 stathaiva kAkavacanena sthitaH | tataH kSetrapatinA harSotphullalo-
+00572 canenAvalokitaH | tathAvidhaM mRgamavalokyAsau AH svayaMmR-
+00573 to 'yamityuktvA mRgaM bandhanAnmocayitvA pAzAnsaMvarituM saya-
+00574 tno babhUva | tataH kiyaddUre 'ntarite kSetrapatau sa mRgaH kAkasya
+00575 zabdaM zrutvA sasaMbhramaH samutthAya palAyitaH | tamuddizya tena kSe-
+00576 trapatinA prakopAtkSiptalaguDena sRgAlo vyApAditaH | tathA
+[Page027+ 22]
+00577 coktam | <lg><l>tribhirvarSaistribhirmAsaistribhiH pakSaistribhirdinaiH |</l>
+00578 <l>atyugrapuNyapApAnAmihaiva phalamaznute ||</l></lg>
+00579 ato 'haM bravImi |</p>
+00580 <lg><l>bhakSyabhakSakayoH prItirvipattereva kAraNam |</l>
+00581 <l>sRgAlAtpAzabaddho 'sau mRgaH kAkena rakSitaH ||</l></lg>
+00582 <head>{#V.#}</head>
+00583 <p>asti bhAgIrathItIre gRdhrakUTanAmni parvate mahAnparkaTIvRkSaH |
+00584 tasya koTare daivadurvipAkAdgalitanayano jaradgavo nAma gRdhraH pra-
+00585 tivasati | atha kRpayA tajjIvanAya tadvRkSavAsinaH pakSiNaH
+00586 svAhArAtkiM citkiM ciddadati | tenAsau jIvati | atha kadA
+00587 ciddIrghakarNanAmA mArjAraH pakSizAvakAnbhakSayituM tatrAgataH |
+00588 tatastamAyAntaM dRSTvA pakSizAvakairbhayArtaiH kolAhalaH kRtaH |
+00589 tacchrutvA jaradgavenoktam | ko 'yamAyAti | dIrghakarNo gRdhrama-
+00590 valokya sabhayamAha | hA hato 'smi | adhunAtisaMnidhAnena
+00591 palAyanamapyazakyam | tadyathA bhavitavyaM tathA bhavatu | etatsamI-
+00592 pamupagacchAmi | ityAlocyopasRtyAbravIt | Arya | tvAmabhi-
+00593 vande | gRdhro 'vadat | kastvam | so 'bravIt | mArjAro 'ham |
+00594 gRdhro brUte | taddUramapasara | no ceddhantavyo 'si mayA | mArjA-
+00595 ro 'vadat | zrUyatAM tAvadasmadvacanam | tato yadyahaM vadhyastadA
+00596 hantavyaH | yataH |
+00597 <lg><l>jAtimAtreNa kazcitkiM vadhyate pUjyate kva cit |</l>
+00598 <l>vyavahAraM parijn~Aya vadhyaH pUjyo 'tha vA bhavet ||</l></lg>
+[Page028+ 23]
+00599 gRdhro brUte | brUhi | kIdRgvyApAravAn | so 'vadat | ahamatra
+00600 gaGgAtIre nityasnAyI nirAmiSAzI brahmacaryeNa cAndrAyaNavra-
+00601 tamAcaraMstiSThAmi | yuSmAMzca dharmajn~AnaratAnvizvAsabhUmayaH pa-
+00602 kSiNaH sarve sarvadA mamAgre stuvanti | ato bhavadbhyo vidyAva-
+00603 yovRddhebhyo dharmaM zrotumihAgataH | bhavantazcaitAdRzA dharmajn~A ya-
+00604 nmAmatithiM hantumudyatAH | gRhasthasya dharmazcaiSa samudIritaH |
+00605 <lg><l>arAvapyucitaM kAryamAtithyaM gRhamAgate |</l>
+00606 <l>chettumapyAgate chAyAM nopasaMharate drumaH ||</l></lg>
+00607 kiM ca | yadyannaM nAsti tadA prItivacasApyatithiH pUjyaH | yataH |
+00608 <lg><l>tRNAni bhUmirudakaM vAkcaturthI ca sUnRtA |</l>
+00609 <l>etAnyapi satAM gehe nocchidyante kadA cana ||</l></lg>
+00610 anyacca | <lg><l>bAlo vA yadi vA vRddho yuvA vA gRhamAgataH |</l>
+00611 <l>tasya pUjA vidhAtavyA sarvatrAbhyAgato guruH ||</l></lg>
+00612 anyacca | <lg><l>nirguNeSvapi sattveSu dayAM kurvanti sAdhavaH |</l>
+00613 <l>na hi saMharate jyotsnAM candrazcANDAlavezmani ||</l></lg>
+00614 anyacca | <lg><l>atithiryasya bhagnAzo gRhAtpratinivartate |</l>
+00615 <l>sa dattvA duSkRtaM tasmai puNyamAdAya gacchati ||</l></lg>
+00616 anyacca | <lg><l>uttamasyApi varNasya nIco 'pi gRhamAgataH |</l>
+00617 <l>pUjanIyo yathAyogyaM sarvadevamayo 'tithiH ||</l></lg>
+00618 gRdhro 'vadat | mArjArA hi mAMsarucayo bhavanti pakSizAvakA-
+00619 zcAtra nivasanti | tenaivaM bravImi | mArjAro 'pyevaM zrutvA bhU-
+00620 miM spRSTvA karNau spRzati brUte ca | mayA dharmazAstraM zrutvA vI-
+00621 tarAgeNedaM duSkaraM vrataM cAndrAyaNamadhyavasAyitam | yataH para-
+[Page029+ 22]
+00622 sparaM vivadamAnAnAmapi dharmazAstrANAmahiMsA paramo dharma i-
+00623 tyatraikamatyam | yataH |
+00624 <lg><l>sarvahiMsAnivRttAzca narAH sarvaMsahAzca ye |</l>
+00625 <l>sarvasyAzrayabhUtAzca te narAH svargagAmiNaH ||</l></lg>
+00626 anyacca | <lg><l>eka eva suhRddharmo nidhane 'pyanuyAti yaH |</l>
+00627 <l>zarIreNa samaM nAzaM sarvamanyaddhi gacchati ||</l></lg>
+00628 kiM ca | <lg><l>yo 'tti yasya yadA mAMsamubhayoH pazyatAntaram |</l>
+00629 <l>ekasya kSaNikI prItiranyaH prANairvimucyate ||</l></lg>
+00630 api ca | <lg><l>martavyamiti yadduHkhaM puruSasyopajAyate |</l>
+00631 <l>zakyastenAnumAnena paro 'pi parirakSitum ||</l></lg> zRNu
+00632 punaH | <lg><l>svacchandavanajAtena zAkenApi prapUryate |</l>
+00633 <l>asya dagdhodarasyArthe kaH kuryAtpAtakaM mahat ||</l></lg>
+00634 evaM vizvAsya sa mArjArastarukoTare sthitaH | tato dineSu ga-
+00635 cchatsu pakSizAvakAnAkramya koTaramAnIya pratyahaM khAdati | atha
+00636 yeSAmapatyAni khAditAni taiH zokArtairvilapadbhiritastato ji-
+00637 jn~AsA samArabdhA | tatparijn~Aya mArjAraH koTarAnniHsRtya palA-
+00638 yitaH | pazcAtpatatribhiritastato nirUpayadbhistatra tarukoTare zA-
+00639 vakAsthIni prAptAni | anantaraM cAnenaiva zAvakAH khAditA
+00640 iti nizcitya militvA taiH pakSibhiH sa gRdhro vyApAditaH |
+00641 ato 'haM bravImi |</p>
+00642 <lg><l>ajn~AtakulazIlasya vAso deyo na kasya cit |</l>
+00643 <l>mArjArasya hi doSeNa hato gRdhro jaradgavaH ||</l></lg>
+[Page030+ 23]
+00644 <head>{#VI.#}</head>
+00645 <p>asti vArANasyAM karpUrapaTo nAma rajakaH | sa caikadA ni-
+00646 rbharaM prasuptaH | tadanantaraM dravyANi hartuM tadgRhaM cauraH praviSTaH | ta-
+00647 sya prAGgaNe gardabho baddhastiSThati kukkurazcopaviSTaH | taM caurama-
+00648 valokya gardabhaH zvAnamAha | tava tAvadayaM vyApAraH | tatkimi-
+00649 ti tvamuccaiH zabdaM kRtvA svAminaM na jAgarayasi | kukkuro brUte |
+00650 mAma | niyogasyAsya carcA kiM tvayA kartavyA | tvameva jAnAsi
+00651 yathAhametasyAharnizaM gRharakSAM karomi | yato 'yaM cirAnnirvR-
+00652 to mamopayogaM na jAnAti tenAdhunA mamAhAradAne 'pi
+00653 mandAdaraH | vinA vidhuradarzanaM svAmino 'nujIviSu mandA-
+00654 darA bhavanti | gardabho brUte | zRNu re barbara |
+00655 <lg><l>yAcate kAryakAle yaH sa kiMbhRtyaH sa kiMsuhRt |</l></lg> kukku-
+00656 ro brUte | <lg><l>bhRtyAnsaMbhAvayedyastu kAryakAle sa kiMprabhuH ||</l></lg>
+00657 kiM ca | <lg><l>AzritAnAM bhRtau svAmisevAyAM dharmasevane |</l>
+00658 <l>putrasyotpAdane caiva na santi pratihastakAH ||</l></lg>
+00659 tato gardabhaH sakopamAha | AH | pApIyAMstvaM yaH svAmikAryo-
+00660 pekSAM karoSi | bhavatu | yathA svAmI jAgarti tathA mayA kartavyam |
+00661 yataH | <lg><l>pRSThataH sevayedarkaM jaThareNa hutAzanam |</l>
+00662 <l>svAminaM sarvabhAvena paralokamamAyayA ||</l></lg>
+00663 ityuktvA sa atIva cItkAraM kRtavAn | tataH sa rajakastena cI-
+00664 tkAreNa prabuddho nidrAvimardakopAdutthAya gardabhaM laguDena tADa-
+00665 yAmAsa | ato 'haM bravImi |</p>
+00666 <lg><l>parAdhikAracarcAM yaH kuryAtsvAmihitecchayA |</l>
+[Page031+ 21]
+00667 <l>sa viSIdati cItkArAttADito gardabho yathA ||</l></lg>
+00668 <head>{#VII.#}</head>
+00669 <p>astyuttarApathe 'rbudazikharanAmni parvate mahAvikramo nAma
+00670 siMhaH | tasya parvatakandaramadhizayAnasya kesarAgraM mUSikaH kazci-
+00671 cchinatti | sa siMhaH kesarAgraM lUnaM buddhvA kupito vivarAntargataM
+00672 mUSikamalabhamAno 'cintayat | kiM vidheyamatra | bhavatu | evaM
+00673 zrUyate | <lg><l>kSudrazatrurbhavedyastu vikramAnna sa namyate |</l>
+00674 <l>taM nihantuM puraskAryaH sadRzastasya sainikaH ||</l></lg>
+00675 ityAlocya tena grAmaM gatvA dadhikarNanAmA biDAlo mAMsA-
+00676 dyAhAreNa saMtoSya prayatnAdAnIya svakandare dhRtaH | tatastadbhayA-
+00677 nmUSiko bahirna niHsarati | tenAsau siMho 'kSatakesaraH sukhaM
+00678 svapiti | mUSikazabdaM yadA yadA zRNoti tadA tadA savizeSaM
+00679 taM biDAlaM mAMsAhAradAnena saMvardhayati | athaikadA sa mUSikaH
+00680 kSudhA pIDito bahiH saMcaraMstena mArjAreNa prApto vyApAditaH
+00681 khAditazca | anantaraM sa siMho yadA kadA cidapi mUSikazabdaM
+00682 na zuzrAva tadopayogAbhAvAttasya biDAlasyAhAradAne mandA-
+00683 daro babhUva | ato 'haM bravImi |</p>
+00684 <lg><l>nirapekSo na kartavyo bhRtyaiH svAmI kadA cana |</l>
+00685 <l>nirapekSaM prabhuM kRtvA bhRtyaH syAddadhikarNavat ||</l></lg>
+00686 <head>{#VIII. IX.#}</head>
+00687 <p>kasmiMzcittarau vAyasadaMpatI nivasataH | tayozcApatyAni ta-
+[Page032+ 23]
+00688 rukoTarAvasthitakRSNasarpeNa khAditAni | tataH punargarbhavatI vA-
+00689 yasI brUte | svAmin | tyajyatAmayaM taruH | atra yAvatkRSNasa-
+00690 rpastAvadAvayoH saMtatiH kadA cidapi na bhaviSyati | yataH |
+00691 <lg><l>duSTA bhAryA zaThaM mitraM bhRtyazcottaradAyakaH |</l>
+00692 <l>sasarpe ca gRhe vAso mRtyureva na saMzayaH ||</l></lg>
+00693 vAyaso brUte | priye | na bhetavyam | vAraM vAraM mayaitasya mahA-
+00694 parAdhaH soDhaH | idAnIM punarna kSantavyaH | vAyasyAha | kathamanena
+00695 balavatA kRSNasarpeNa sArdhaM bhavAnvigrahItuM samarthaH | vAyaso brU-
+00696 te | alamanayA cintayA | yataH |
+00697 <lg><l>yasya buddhirbalaM tasya nirbuddhestu kuto balam |</l>
+00698 <l>vane siMho balonmattaH zazakena nipAtitaH ||</l></lg>
+00699 vAyasyAha | kathametat | vAyasaH kathayati | asti mandaranA-
+00700 mni parvate durdAnto nAma siMhaH | sa ca sarvadA pazUnAM vadhaM
+00701 vidadhAna evAste | tataH sarvaiH pazubhirmelakaM kRtvA sa siM-
+00702 ho vijn~aptaH | deva | kimarthaM sarvapazuvadhaH kriyate | vayameva
+00703 bhavadAhArArthaM pratyahamekaikaM pazumupaDhaukayAmaH | siMhenoktam |
+00704 yadyetadabhimataM bhavatAM tarhi bhavatu | tataH prabhRti pratyahamekaikaM
+00705 pazumupakalpitaM bhakSayannAste | atha kadA citkasyApi vR-
+00706 ddhazazakasya vAsaraH prAptaH | tataH so 'cintayat |
+00707 <lg><l>trAsahetorvinItistu kriyate jIvitAzayA |</l>
+00708 <l>pan~catvaM cedgamiSyAmi kiM siMhAnunayena me ||</l></lg>
+00709 tanmandaM mandamupagacchAmi | tataH siMho 'pi kSudhA pIDitaH
+00710 kopAttamuvAca | kutastvaM vilambyAgato 'si | zazako 'bra-
+[Page033+ 21]
+00711 vIt | nAhamaparAddhaH | pathi siMhAntareNa balAddhRtastasyAgre
+00712 punarAgamanAya zapathaM kRtvA svAminaM nivedayitumatrAgato
+00713 'smi | siMhaH sakopamAha | satvaraM gatvA mAM darzaya | kvAsau
+00714 durAtmA tiSThati | tataH zazakastaM gRhItvA gambhIrakUpasamIpaM
+00715 gataH | atrAgatya pazyatu svAmItyuktvA tasminkUpajale ta-
+00716 syaiva pratibimbaM darzitavAn | tato 'sau darpAdhmAtastasyo-
+00717 paryAtmAnaM nikSipya pan~catvaM gataH | ato 'haM bravImi | yasya
+00718 buddhirbalaM tasyetyAdi |
+00719 vAyasI brUte | zrutaM mayA | kartavyatAM brUhi | vAyaso 'vadat |
+00720 priye | Asanne sarasi rAjaputraH satatamAgatya snAti | tasminpra-
+00721 stare tadaGgAdavatAritaM kanakasUtraM can~cvA dhRtvAnIyAsminkoTare
+00722 dhariSyasi | atha kanakasUtrAnusaraNapravRttai rAjapuruSaiH koTare ni-
+00723 rUpyamANe kRSNasarpo draSTavyo vyApAdayitavyazca | atha kadA ci-
+00724 tsnAtuM praviSTe rAjaputre vAyasyA tadanuSThitam | tathAnuSThite tadvR-
+00725 ttam | ato 'haM bravImi |</p>
+00726 <lg><l>upAyena hi tatkuryAdyanna zakyaM parAkramaiH |</l>
+00727 <l>kAkyA kanakasUtreNa kRSNasarpo nipAtitaH ||</l></lg>
+00728 <head>{#X.#}</head>
+00729 <p>asti narmadAtIre parvatopatyakAyAM vizAlaH zAlmalItaruH |
+00730 tatra nirmitanIDakroDe pakSiNaH sukhena varSAsvapi nivasanti |
+00731 atha nIlapaTairiva jaladharapaTalairAvRte nabhastale dhArAsArairmahatI
+[Page034+ 21]
+00732 vRSTirbabhUva | tato vAnarAMstarutale 'vasthitAn~chItArtAnkampa-
+00733 mAnAnavalokya pakSibhiruktam | bho bho vAnarAH | zrUyatAm |
+00734 <lg><l>asmAbhirnirmitA nIDAzcan~cumAtrAhRtaistRNaiH |</l>
+00735 <l>hastapAdAdisaMyuktA yUyaM kimavasIdatha ||</l></lg>
+00736 tacchrutvA vAnarairjAtAmarSairAlocitam | aho | nirvAtanIDaga-
+00737 rbhAvasthitAH sukhinaH pakSiNo 'smAnnindanti | tadbhavatu | tAva-
+00738 dvRSTerupazamaH | anantaraM zAnte pAnIyavarSe tairvAnarairvRkSamAruhya
+00739 sarve nIDA bhagnAH | teSAM pakSiNAmaNDAni cAdhaH patitAni |
+00740 ato 'haM bravImi |</p>
+00741 <lg><l>vidvAnevopadeSTavyo nAvidvAMstu kadA cana |</l>
+00742 <l>vAnarAnupadizyAjn~AnsthAnabhraMzaM yayuH khagAH ||</l></lg>
+00743 <head>{#XI.#}</head>
+00744 <p>asti hastinApure karpUravilAso nAma rajakaH | tasya garda-
+00745 bho 'tibhAravAhanAddurbalo mumUrSurivAbhavat | tatastena raja-
+00746 kenAsau vyAghracarmaNA pracchAdyAraNyasamIpe sasyakSetre mocitaH |
+00747 tato dUrAdavalokya vyAghrabuddhyA kSetrapatayaH satvaraM palAyante | sa
+00748 ca sukhena sasyaM carati | athaikadA kenApi sasyarakSakeNa dhUsara-
+00749 kambalakRtatanutrANena dhanuSkANDaM sajjIkRtyAvanatakAyenaikAnte
+00750 sthitam | taM ca dUre dRSTvA gardabhaH puSTAGgo gardabhIyamiti matvA
+00751 zabdaM kurvANastadabhimukhaM dhAvitaH | tatastena sasyarakSakeNa garda-
+00752 bho 'yamiti jn~AtvA lIlayaiva vyApAditaH | ato 'haM bravImi |</p>
+[Page035+ 22]
+00753 <lg><l>suciraM hi caranmaunaM zreyaH pazyatyabuddhimAn |</l>
+00754 <l>dvIpicarmaparicchanno vAgdoSAdgardabho hataH ||</l></lg>
+00755 <head>{#XII.#}</head>
+00756 <p>kadA cidvarSAsvapi vRSTerabhAvAttRSArto gajayUtho yUthapatimA-
+00757 ha | nAtha | ko 'pyupAyo 'smAkaM jIvanAya nAsti | astyatra
+00758 kSudrajantUnAM nimajjanasthAnam | vayaM ca nimajjanAbhAvAdandhA
+00759 iva kva yAmaH kiM vA kurmaH | tato hastirAjo nAtidUraM gatvA
+00760 nirmalaM hradaM darzitavAn | tatastattIrAvasthitAH zazakA gajayU-
+00761 thapAdAhatibhirbahavazcUrNitAH | anantaraM zilImukho nAma za-
+00762 zakaH sarvAnAhUya cintayAmAsa | anena gajayUthena pipAsA-
+00763 kulitena pratyahamevAtrAgantavyam | ato vinaGkSyatyasmatkulam |
+00764 atha vijayo nAma vRddhazazako 'vadat | mA viSIdata | pratI-
+00765 kAro mayA kartavyaH | iti pratijn~Aya calitaH | gacchatA ca
+00766 tenAlocitam | kathaM mayA gajayUthapanikaTe gatvA vaktavyam |
+00767 yataH | <lg><l>spRzannapi gajo hanti jighrannapi bhujaMgamaH |</l>
+00768 <l>hasannapi nRpo hanti mAnayannapi durjanaH ||</l></lg>
+00769 ato 'haM parvatazikharamAruhya yUthanAthamabhivAdayAmi | tathA-
+00770 nuSThite sati yUthanAtha uvAca | kastvam | kutaH samAyAtaH | sa
+00771 brUte | dUto 'haM bhagavatA candreNa preSitaH | yUthapatirAha | kA-
+00772 ryamucyatAm | vijayo vadati | zRNu gajendra |
+00773 <lg><l>udyateSvapi zastreSu dUto vadati nAnyathA |</l>
+00774 <l>sadaivAvadhyabhAvena yathArthasya hi vAcakaH ||</l></lg>
+[Page036+ 22]
+00775 tadahaM tadAjn~ayA bravImi | zRNu | yadete zazakAzcandrasarorakSakA-
+00776 stvayA niHsAritAstanna yuktaM kRtam | yato rakSakAste zazakA
+00777 madIyA ata eva loke me zazAGka iti prasiddhiH | evamuktava-
+00778 ti dUte sa yUthapatirbhayAdidamAha | idamajn~AnataH kRtam | punarna
+00779 gamiSyAmi | dUta uvAca | tadatra sarasi bhagavantaM candramasaM prako-
+00780 pAtkampamAnaM praNamya prasAdya ca gaccha | tatastena rAtrau nItvA tatra
+00781 jale can~calaM candrapratibimbaM darzayitvA sa yUthapatiH praNAmaM kA-
+00782 ritaH | deva | ajn~AnAdevAnenAparAdhaH kRtastatkSamyatAmityuktvA
+00783 tena zazakena sa yUthapatiH prasthApitaH | ato 'haM bravImi |</p>
+00784 <lg><l>vyapadezena mahatAM siddhiH saMjAyate parA |</l>
+00785 <l>zazino vyapadezena vasanti zazakAH sukham ||</l></lg>
+00786 <head>{#XIII.#}</head>
+00787 <p>asti sRgAlaH kazcitsvecchayA nagaropAnte bhramannIlasaMdhA-
+00788 nabhANDe nipatitaH | pazcAttata utthAtumasamarthaH prAtarAtmAnaM mR-
+00789 tavatsaMdarzya sthitaH | atha nIlIbhANDasvAminAsAvutthApya dUre
+00790 nItvA parityaktaH | tato 'sau vanaM gatvAtmAnaM nIlavarNamavalo-
+00791 kyAcintayat | ahamidAnImuttamavarNaH | tadAtmanaH kimutkarSaM
+00792 na sAdhayAmi | ityAlocya sRgAlAnAhUya tenoktam | ahaM bha-
+00793 gavatyA vanadevatayA svahastenAraNyarAjye sarvauSadhirasenAbhiSi-
+00794 ktaH | pazyata mama varNam | tadadyArabhyAsmadAjn~ayAsminnaraNye
+00795 vyavahAraH kAryaH | sRgAlAzca taM viziSTavarNamavalokya sASTA-
+00796 GgapAtaM praNamyocuH | yathAjn~Apayati devaH | tato 'nena krameNa
+[Page037+ 22]
+00797 sarveSvaraNyavAsiSvAdhipatyaM tasya babhUva | tatastena siMhavyAghrA-
+00798 dInuttamaparijanAnprApya sRgAlAnavalokya lajjamAnenAvajn~ayA
+00799 dUrIkRtAH svajn~AtayaH | tato viSaNNAnsRgAlAnavalokya vRddhasR-
+00800 gAlena kena citpratijn~Atam | mA viSIdata | evaM cedanenAnI-
+00801 tijn~ena vayaM marmajn~AH paribhUtAH tadyathAyaM nazyati tanmayA
+00802 vidheyam | yato 'mI vyAghrAdayo varNamAtravipralabdhAH sRgA-
+00803 lamajn~AtvA rAjAnamamuM manyante tadyathAyaM paricIyate tathA
+00804 kuruta | tatra caivamanuSTheyaM yathA vadAmi | yadA sarve saMdhyAsamaye
+00805 tatsaMnidhAne mahArAvamekadA kariSyatha tatastaM zabdamAkarNya sva-
+00806 bhAvAttenApi zabdaH kartavyaH | yataH |
+00807 <lg><l>yaH svabhAvo hi yasya syAttasyAsau duratikramaH |</l>
+00808 <l>zvA yadi kriyate bhogI tatkiM nAznAtyupAnaham ||</l></lg>
+00809 tataH zabdAdvijn~Aya vyAghreNa hantavyaH | tathAnuSThite sati tadvR-
+00810 ttam | tathA coktam |
+00811 <lg><l>chidraM marma ca vIryaM ca vijAnAti nijo ripuH |</l>
+00812 <l>dahatyantargatazcaiva zruSkavRkSamivAnalaH ||</l></lg>
+00813 ato 'haM bravImi |</p>
+00814 <lg><l>AtmapakSaM parityajya parapakSe ca yo rataH |</l>
+00815 <l>sa parairhanyate mUDho nIlavarNasRgAlavat ||</l></lg>
+00816 <head>{#XIV. XV. XVI.#}</head>
+00817 <p>asti magadhadeze phullotpalAbhidhAnaM saraH | tatra cirAtsaMka-
+00818 TavikaTanAmAnau haMsau nivasataH | tayormitraM kambugrIvanAmA
+[Page038+ 23]
+00819 kUrmaH prativasati | athaikadA dhIvarairAgatya tatroktaM yadadyAsmA-
+00820 bhiratroSitvA prAtaH kUrmamatsyAdayo vyApAdayitavyAH | tadAka-
+00821 rNya kUrmo haMsAvAha | suhRdau | zruto 'yaM dhIvarAlApaH | adhunA
+00822 kiM mayA kartavyam | haMsAvAhatuH | jn~AyatAM tAvat | pazcAdya-
+00823 ducitaM tatkartavyam | kUrmo brUte | maivaM yato dRSTavyatikaro 'ha-
+00824 matra | tathA coktam |
+00825 <lg><l>anAgatavidhAtA ca pratyutpannamatizca yaH |</l>
+00826 <l>dvAvetau sukhamedhete yadbhaviSyo vinazyati ||</l></lg>
+00827 tAvAhatuH | kathametat | kUrmaH kathayati | puraitasminneva sara-
+00828 syevaMvidheSveva dhIvareSUpasthiteSu matsyatrayeNAlocitam |
+00829 tatrAnAgatavidhAtA nAmaiko matsyaH | tenoktam | ahaM tAva-
+00830 jjalAzayAntaraM gacchAmi | ityuktvA sa hradAntaraM gataH | a-
+00831 pareNa pratyutpannamatinAmnA matsyenAbhihitam | bhAvinyarthe pra-
+00832 mANAbhAvAtkutra mayA gantavyam | tadutpanne kArye yathAkArya-
+00833 manuSTheyam | tato yadbhaviSyeNoktam |
+00834 <lg><l>yadabhAvi na tadbhAvi bhAvi cenna tadanyathA |</l>
+00835 <l>iti cintAviSaghno 'yamagadaH kiM na pIyate ||</l></lg>
+00836 tataH prAtarjAlena baddhaH pratyutpannamatirmRtavadAtmAnaM saMdarzya
+00837 sthitaH | tato jAlAdapasAritaH sthalAdutplutya gambhIraM nIraM
+00838 praviSTaH | yadbhaviSyazca dhIvaraiH prApto vyApAditaH | ato 'haM
+00839 bravImi | anAgatavidhAtetyAdi |
+00840 tadyathAhamanyahradaM prApnomi tadadya vidhIyatAm | haMsAvAhatuH |
+00841 jalAzayAntare prApte tava kuzalam | sthale gacchataste ko vi-
+[Page039+ 23]
+00842 dhiH | kUrmo brUte | yathAhaM bhavadbhyAM sahAkAzavartmanA yAmi sa
+00843 upAyo vidhIyatAm | haMsau brUtaH | kathamupAyaH saMbhavati | ka-
+00844 cchapo vadati | yuvAbhyAM can~cudhRtaM kASThamekaM mayA mukhenAvala-
+00845 mbitavyam | ato bhavatoH pakSabalena mayApi sukhaM gantavyam |
+00846 haMsau brUtaH | saMbhavatyeSa upAyaH | kiM tu |
+00847 <lg><l>upAyaM cintayetprAjn~astathApAyaM ca cintayet |</l>
+00848 <l>pazyato bakamUrkhasya nakulairbhakSitA bakAH ||</l></lg>
+00849 kUrmaH pRcchati | kathametat | tau kathayataH | astyuttarApathe
+00850 gRdhrakUTo nAma parvataH | tatraiva revAtIre nyagrodhapAdape bakA
+00851 nivasanti | tasya vaTasyAdhastAdvivare sarpastiSThati | sa ca
+00852 bakAnAM bAlApatyAni khAdati | tataH zokArtAnAM bakAnAM
+00853 pralApaM zrutvA kena cidvRddhabakenoktam | bhoH | evaM kuruta
+00854 yUyam | matsyAnAnIya nakulavivarAdArabhya sarpavivaraM yA-
+00855 vatpaGktikrameNaikaikazo matsyAndhatta | tatastadAhAravartmanA naku-
+00856 lairAgatya sarpo draSTavyaH svabhAvadveSAdvyApAdayitavyazca | tathA-
+00857 nuSThite sati tadvRttam | atha nakulairvRkSopari pakSizAvakA-
+00858 nAM rAvaH zrutaH | pazcAttairvRkSamAruhya zAvakAH sarva eva khA-
+00859 ditAH | ata AvAM brUvaH | upAyaM cintayedityAdi |
+00860 AvAbhyAM nIyamAnaM tvAM dRSTvA lokaiH kiM cidvaktavyameva | ta-
+00861 dAkarNya yadi tvamuttaraM dadAsi tadA tava maraNaM bhaviSyati | ta-
+00862 tsarvathAtraiva sthIyatAm | kUrmo vadati | kimahamajn~aH | na ki-
+00863 mapi mayA vaktavyam | tata evamanuSThite satyAkAze nIyamAnaM
+00864 taM kUrmamAlokya sarve gorakSakAH pazcAddhAvanti vadanti ca |
+[Page040+ 22]
+00865 aho mahadAzcaryam | pakSibhyAM kUrmaH samuhyate | tatra kazcidAha | ya-
+00866 dyayaM kUrmaH patati tadAtraiva paktvA khAditavyaH | ko 'pi nigadati |
+00867 gRhaM netavyaH | kazcidvadati | sarasaH samIpe paktvA bhakSitavyaH |
+00868 tatparuSavacanamAkarNya sa kUrmaH krodhAdvismRtasaMskAro 'vadat |
+00869 yuSmAbhirbhasma bhakSitavyam | iti vadanneva kASThAtpatito gora-
+00870 kSakairvyApAditaH | ato 'haM bravImi |</p>
+00871 <lg><l>suhRdAM hitakAmAnAM na karotIha yo vacaH |</l>
+00872 <l>sa kUrma iva durbuddhiH kASThAdbhraSTo vinazyati ||</l></lg>
+00873 <head>{#XVII.#}</head>
+00874 <p>asti gautamAraNye mahAtapA nAma muniH | tenAzramasaMni-
+00875 dhAne mUSikazAvakaH kAkamukhAdbhraSTo dRSTaH | tato dayAlunA
+00876 tena muninA nIvArakaNaiH sa saMvardhitaH | taM ca mUSikaM khAdi-
+00877 tumanudhAvanbiDAlo muninA dRSTaH | pazcAttapaHprabhAvAttena muni-
+00878 nA mUSiko baliSTho biDAlaH kRtaH | sa biDAlaH kukkurAdbibheti |
+00879 tato 'sau kukkuraH kRtaH | kukkurasya vyAghrAnmahadbhayam | tadanantaraM sa
+00880 vyAghraH kRtaH | atha vyAghramapi taM mUSikanirvizeSaM pazyati mu-
+00881 niH | ataH sarve tatrasthA janAstaM vyAghraM dRSTvA vadanti | anena
+00882 muninA mUSiko 'yaM vyAghratAM nItaH | etacchrutvA sa vyAghraH sa-
+00883 vyatho 'cintayat | yAvadanena muninA jIvitavyaM tAvadidaM mama
+00884 svarUpAkhyAnamakIrtikaraM na palAyiSyate | iti samAlocya mu-
+00885 niM hantuM samudyataH | tato muninA tasya cikIrSitaM jn~AtvA pu-
+00886 narmUSiko bhavetyuktvA mUSika eva kRtaH | ato 'haM bravImi |</p>
+[Page041+ 22]
+00887 <lg><l>nIcaH zlAghyapadaM prApya svAminaM loptumicchati |</l>
+00888 <l>mUSiko vyAghratAM prApya muniM hantuM gato yathA ||</l></lg>
+00889 <head>{#XVIII.#}</head>
+00890 <p>asti mAlavaviSaye padmagarbhAbhidhAnaM saraH | tatraiko vRddha-
+00891 bakaH sAmarthyahInastathodvignamivAtmAnaM darzayitvA sthitaH | sa
+00892 ca kena citkulIreNa dUrAdeva pRSTaH | kimiti bhavAnAhArapari-
+00893 tyAgena tiSThati | bakenoktam | matsyA mama jIvanahetavaH |
+00894 te cAtrAvazyameva kaivartairvyApAdayitavyA iti nagaropAnte paryA-
+00895 locanA mayAkarNitA | tadito vartanAbhAvAdasmanmaraNamupasthi-
+00896 tam | iti jn~AtvAhamAhAre 'pi mandAdaraH kRtaH | tacchrutvA sa-
+00897 rvairmatsyairAlocitam | iha samaye tAvadupakAraka evAyamupala-
+00898 kSyate 'smAkam | tadayameva yathAkartavyaM pRcchyatAm | tathA
+00899 coktam |
+00900 <lg><l>upakartrAriNA saMdhirna mitreNApakAriNA |</l>
+00901 <l>upakArApakArau hi lakSyaM lakSaNametayoH ||</l></lg>
+00902 matsyA UcuH | bho baka | asmAkaM kutra rakSaNopAyaH | bako brU-
+00903 te | asti rakSaNaheturjalAzayAntaram | tatrAhamekaikazo yuSmAnna-
+00904 yAmi | matsyairapi bhayAduktam | evamastu | tato 'sau duSTabaka-
+00905 stAnmatsyAnekaikAnnItvA kasmiMzciddeze khAditvA punarAgatya va-
+00906 dati | te mayA jalAzayAntare sthApitAH | anantaraM kulIrasta-
+00907 muvAca | bho baka | mAmapi tatra naya | tato bako 'pyapUrvaku-
+00908 lIramAMsArthI sAdaraM taM nItvA sthale dhRtavAn | kulIro 'pi
+[Page042+ 22]
+00909 matsyakaGkAlAkIrNAM bhUmiM dRSTvAcintayat | hA hato 'smi ma-
+00910 ndabhAgyaH | bhavatu | idAnIM samayocitaM vyavaharAmi | yataH |
+00911 <lg><l>tAvadbhayAttu bhetavyaM yAvadbhayamanAgatam |</l>
+00912 <l>AgataM tu bhayaM dRSTvA prahartavyamabhItavat ||</l></lg>
+00913 aparaM ca | <lg><l>ayuddhe hi yadA pazyenna kiM ciddhitamAtmanaH |</l>
+00914 <l>yudhyamAnastadA prAjn~o mriyate ripuNA saha ||</l></lg>
+00915 ityAlocya sa kulIrastasya bakasya grIvAM ciccheda | sa bakaH
+00916 pan~catvaM gataH | ato 'haM bravImi |</p>
+00917 <lg><l>bhakSayitvA bahUnmatsyAnuttamAdhamamadhyamAn |</l>
+00918 <l>atilaulyAdbakaH kazcinmRtaH karkaTakagrahAt ||</l></lg>
+00919 <head>{#XIX.#}</head>
+00920 <p>asti devIkoTTanagare devazarmA nAma brAhmaNaH | tena viSu-
+00921 vatsaMkrAntau saktupUrNazarAvaH prAptaH | tatastamAdAyAsau bhA-
+00922 NDapUrNakumbhakAramaNDapikaikadeze zayyAnikSiptadehaH sanrAtrAva-
+00923 cintayat | yadyahamimaM saktuzarAvaM vikrIya daza kapardakAnprA-
+00924 pnomi tadA tairiha samaye zarAvAMstato ghaTAdInupakrIya vikrI-
+00925 yAnekadhA vRddhairdhanaiH punaH punaH pUgavastrAdikamupakrIya lakSasaM-
+00926 khyAni dhanAnyutpAdya vivAhacatuSTayaM karomi | tatastAsu patnISu
+00927 yAdhikarUpavatI tasyAmadhikAnurAgaM karomi | anantaraM jAte-
+00928 rSyAstatsapatnyo yadA dvaMdvaM kurvanti tadA kopAkulo 'haM tAH
+00929 patnIrlaguDenetthaM tADayAmi | ityabhidhAyotthAya tena laguDaH
+00930 kSiptaH | ataH saktuzarAvazcUrNito bhANDAni ca bahUni bhagnA-
+[Page043+ 21]
+00931 ni | tato bhANDabhaGgazabdenAgatakumbhakAreNa taddRSTvA sa brAhma-
+00932 NastiraskRto maNDapikAgarbhAdbahiSkRtaH | ato 'haM bravImi |</p>
+00933 <lg><l>anAgatavatIM cintAM kRtvA yastu prahRSyati |</l>
+00934 <l>sa tiraskAramApnoti bhagnabhANDo dvijo yathA ||</l></lg>
+00935 <head>{#XX.#}</head>
+00936 <p>asti gautamAraNye prastutayajn~aH kazcidbrAhmaNaH | sa ca ya-
+00937 jn~ArthaM grAmAntarAcchAgamupakrIya skandhe kRtvA gacchandhUrtatrayeNA-
+00938 valokitaH | tataste dhUrtA yadyeSa cchAgaH kenApyupAyena prApya
+00939 khAdyate tadA matiprakarSo bhavatItyAlocya prAntare vRkSatrayatale
+00940 brAhmaNasya vartmanyupavizya sthitAH | tatraikena dhUrtena sa brAhmaNo
+00941 gacchannabhihitaH | bho brAhmaNa | kimiti tvayA kukkuraH ska-
+00942 ndhenohyate | brAhmaNo brUte | nAyaM zvA | yajn~acchAgo 'yaM | ana-
+00943 ntaraM punardvitIyena krozamAtrAvasthitena tadevoktam | tadAkarNya
+00944 brAhmaNastaM chAgaM bhUmau nidhAya muhurmuhurnirIkSya punaH skandhe kR-
+00945 tvA dolAyamAnamatizcalitaH | tadanantaraM punargacchansa brAhmaNa-
+00946 stRtIyena dhUrtenoktaH | bho brAhmaNa | kimiti kukkuraM skandhena
+00947 bhavAnvahati | tadAkarNya nizcitamevAyaM kukkura iti matvA
+00948 chAgaM tyaktvA snAtvA svagRhaM yayau | sa cchAgo tairdhUrtairnItvA bha-
+00949 kSitaH | ato 'haM bravImi |</p>
+00950 <lg><l>Atmaupamyena yo vetti durjanaM satyavAdinam |</l>
+00951 <l>sa tathA van~cyate dhUrtairbrAhmaNazchAgato yathA ||</l></lg>
+[Page044+ 21]
+00952 <head>{#XXI.#}</head>
+00953 <p>astyujjayinyAM mATharo nAma brAhmaNaH | tasya brAhmaNI bA-
+00954 lApatyasya rakSArthaM brAhmaNamavasthApya snAtuM gatA | atha brAhma-
+00955 Nasya kRte rAjn~aH zrAddhaM dAtumAhvAnamAgatam | tacchrutvA brAhmaNaH
+00956 sahajadAridryAdacintayat | yadi satvaraM na gacchAmi tadAnyaH ka-
+00957 zcicchrAddhaM grahISyati | uktaM ca |
+00958 <lg><l>AdAnasya pradAnasya kartavyasya ca karmaNaH |</l>
+00959 <l>kSipramakriyamANasya kAlaH pibati tadrasam ||</l></lg>
+00960 kiM tu bAlakasyAtra rakSako nAsti | tatkiM karomi | yAtu |
+00961 cirakAlapAlitamimaM putranirvizeSaM nakulaM bAlakarakSArthama-
+00962 vasthApya gacchAmi | tathA kRtvA sa tatra gataH | tatastena naku-
+00963 lena bAlakasamIpamAgacchatA kRSNasarpo dRSTo vyApAditazca |
+00964 athAsau nakulo brAhmaNamAyAntamavalokya raktaviliptamukha-
+00965 pAdaH satvaramupAgamya tasya caraNayorluloTha | tato 'sau brAhma-
+00966 NastaM tathAvidhaM dRSTvA mama putro 'nena bhakSita ityavadhArya vyA-
+00967 pAditavAn | anantaraM yAvadasAvupasRtya pazyati brAhmaNastA-
+00968 vadbAlakaH susthaH sarpazca vyApAditastiSThati | tatastamupakAra-
+00969 kameva nakulaM nirUpya vibhAvitakRtyaH saMtaptacetAH sa paraM vi-
+00970 SAdamagamat | ato 'haM bravImi |</p>
+00971 <lg><l>yo 'rthatattvamavijn~Aya krodhasyaiva vazaM gataH |</l>
+00972 <l>sa tathA tapyate mUDho brAhmaNo nakulAdyathA ||</l></lg>
+[Page045+ 20]
+00973 <head>|| atha kathAsaritsAgaraH ||</head>
+00974 <head>{#XXII.#}</head>
+00975 <lg><l>atrAntare sa rAjApi putrakaH satyasaMgaraH |</l>
+00976 <l>viveza vindhyakAntAraM viraktaH sveSu bandhuSu ||</l></lg>
+00977 <lg><l>bhramannavApa tatrAsau bAhuyuddhaikatatparau |</l>
+00978 <l>puruSau dvau tatastau sa pRSTavAnkau yuvAmiti ||</l></lg>
+00979 <lg><l>mayAsurasutAvAvAM tadIyaM cAsti nau dhanam |</l>
+00980 <l>idaM bhAjanameSA ca yaSTirete ca pAduke ||</l></lg>
+00981 <lg><l>tannimittena yuddhaM nau yo balI sa harediti |</l>
+00982 <l>etattadvacanaM zrutvA hasanprovAca putrakaH ||</l></lg>
+00983 <lg><l>kiyadetaddhanaM puMsastatastau samavocatAm |</l>
+00984 <l>pAduke paridhAyaite khecaratvamavApyate ||</l></lg>
+00985 <lg><l>yaSTyA yallikhyate kiM citsatyaM saMpadyate hi tat |</l>
+00986 <l>bhAjane yo ya AhArazcintyate sa sa tiSThati ||</l></lg>
+00987 <lg><l>tacchrutvA putrako 'vAdItkiM yuddhenAstvayaM paNaH |</l>
+00988 <l>dhAvanbalAdhiko yaH syAtsa evaitaddharediti ||</l></lg>
+00989 <lg><l>evamastviti tau mUDhau dhAvitau so 'pi pAduke |</l>
+00990 <l>adhyAsyodapatadvyoma gRhItvA yaSTibhAjane ||</l></lg>
+00991 <lg><l>atha dUraM kSaNAdgatvA dadarza nagarIM zubhAm |</l>
+00992 <l>AkarSikAkhyAM tasyAM ca nabhaso 'vatatAra saH ||</l></lg>
+[Page046+ 23]
+00993 <head>{#XXIII.#}</head>
+00994 <lg><l>arthaiH saMcayavAnarthAnprApnoti kiyadadbhutam |</l>
+00995 <l>mayA punarvinaivArthaM lakSmIrAsAditA purA ||</l></lg>
+00996 <lg><l>garbhasthasyaiva me pUrvaM pitA pan~catvamAgataH |</l>
+00997 <l>manmAtuzca tadA pApairgotrajaiH sakalaM hRtam ||</l></lg>
+00998 <lg><l>tataH sA tadbhayAdgatvA rakSantI garbhamAtmanaH |</l>
+00999 <l>tasthau kumAradattasya pitRmitrasya vezmani ||</l></lg>
+01000 <lg><l>tatra tasyAzca jAto 'haM sAdhvyA vRttinibandhanam |</l>
+01001 <l>tatazcAvardhayatsA mAM kRcchrakarmANi kurvatI ||</l></lg>
+01002 <lg><l>upAdhyAyamathAbhyarthya tayA kiM cana dInayA |</l>
+01003 <l>krameNa zikSitazcAhaM lipiM gaNitameva ca ||</l></lg>
+01004 <lg><l>vaNikputro 'si tatputra vANijyaM kuru sAMpratam |</l>
+01005 <l>vizAkhilAkhyo deze 'sminvaNikcAsti mahAdhanaH ||</l></lg>
+01006 <lg><l>daridrANAM kulInAnAM bhANDamUlyaM dadAti saH |</l>
+01007 <l>gaccha yAcasva taM mUlyamiti mAtAbravIcca mAm ||</l></lg>
+01008 <lg><l>tato 'hamagamaM tasya sakAzaM so 'pi tatkSaNam |</l>
+01009 <l>ityavocatkrudhA kaM cidvaNikputraM vizAkhilaH ||</l></lg>
+01010 <lg><l>mUSako dRzyate yo 'yaM gataprANo 'tra bhUtale |</l>
+01011 <l>etenApi hi paNyena kuzalo dhanamarjayet ||</l></lg>
+01012 <lg><l>dattAstava punaH pApa dInArA bahavo mayA |</l>
+01013 <l>dUre tiSThatu tadvRddhistvayA te 'pi na rakSitAH ||</l></lg>
+01014 <lg><l>tacchrutvA sahasaivAhaM tamavocaM vizAkhilam |</l>
+01015 <l>gRhIto 'yaM mayA tvatto bhANDamUlyAya mUSakaH ||</l></lg>
+[Page047+ 22]
+01016 <lg><l>ityuktvA mUSakaM haste gRhItvA saMpuTe ca tam |</l>
+01017 <l>likhitvAsya gato 'bhUvamahaM so 'pyahasadvaNik ||</l></lg>
+01018 <lg><l>caNakAn~jaliyugmena mUlyena sa ca mUSakaH |</l>
+01019 <l>mArjArasya kRte dattaH kasya cidvaNijo mayA ||</l></lg>
+01020 <lg><l>kRtvA tAMzcaNakAnpiSTAngRhItvA jalakumbhikAm |</l>
+01021 <l>atiSThaM catvare gatvA chAyAyAM nagarAdbahiH ||</l></lg>
+01022 <lg><l>tatra zrAntAgatAyAmbhaH zItalaM caNakAMzca tAn |</l>
+01023 <l>kASThabhArikasaMghAya saprazrayamadAmaham ||</l></lg>
+01024 <lg><l>ekaikaH kASThikaH prItyA kASThe dve dve dadau mama |</l>
+01025 <l>vikrItavAnahaM tAni nItvA kASThAni cApaNe ||</l></lg>
+01026 <lg><l>tataH stokena mUlyena krItvA tAMzcaNakAMstataH |</l>
+01027 <l>tathaiva kASThikebhyo 'hamanyedyuH kASThamAharam ||</l></lg>
+01028 <lg><l>evaM pratidinaM kRtvA prApya mUlyaM kramAnmayA |</l>
+01029 <l>kASThikebhyo 'khilaM dAru krItaM tebhyo dinatrayam ||</l></lg>
+01030 <lg><l>akasmAdatha saMjAte kASThacchede 'tivRSTibhiH |</l>
+01031 <l>mayA taddAru vikrItaM paNAnAM bahubhiH zataiH ||</l></lg>
+01032 <lg><l>tenaiva vipaNIM kRtvA dhanena nijakauzalAt |</l>
+01033 <l>kurvanvANijyaM kramazaH saMpanno 'smi mahAdhanaH ||</l></lg>
+01034 <lg><l>sauvarNo mUSakaH kRtvA mayA tasmai samarpitaH |</l>
+01035 <l>vizAkhilAya so 'pi svAM kanyAM mahyamadAttataH ||</l></lg>
+01036 <lg><l>ata eva ca loke 'haM prasiddho mUSakAkhyayA |</l>
+01037 <l>evaM lakSmIriyaM prAptA nirdhanena satA mayA ||</l></lg>
+[Page048+ 22]
+01038 <head>{#XXIV.#}</head>
+01039 <lg><l>tathA ca pUrvaM rAjAbhUttapasvI karuNAparaH |</l>
+01040 <l>dAtA dhIraH zibirnAma sarvasattvAbhayapradaH ||</l></lg>
+01041 <lg><l>taM van~cayitumindro 'tha kRtvA zyenavapuH svayam |</l>
+01042 <l>mAyAkapotavapuSaM dharmamanvapataddrutam ||</l></lg>
+01043 <lg><l>kapotaH sa bhayAdgatvA ziberaGkamazizriyat |</l>
+01044 <l>manuSyavAcA zyeno 'tha sa taM rAjAnamabravIt ||</l></lg>
+01045 <lg><l>rAjanbhakSyamidaM mun~ca kapotaM kSudhitasya me |</l>
+01046 <l>anyathA mAM mRtaM viddhi kaste dharmastato bhavet ||</l></lg>
+01047 <lg><l>tataH zibiruvAcainameSa me zaraNAgataH |</l>
+01048 <l>atyAjyastaddadAmyanyanmAMsametatsamaM tava ||</l></lg>
+01049 <lg><l>zyeno jagAda yadyevamAtmamAMsaM prayaccha me |</l>
+01050 <l>tatheti tatprahRSTaH sansa rAjA pratyapadyata ||</l></lg>
+01051 <lg><l>yathA yathA ca mAMsaM svamutkRtyAropayannRpaH |</l>
+01052 <l>tathA tathA tulAyAM sa kapoto 'bhyadhiko 'bhavat ||</l></lg>
+01053 <lg><l>tataH zarIraM sakalaM tulAM rAjAdhyaropayat |</l>
+01054 <l>sAdhu sAdhu samaM tvetaddivyA vAgudabhUttataH ||</l></lg>
+01055 <lg><l>indradharmau tatastyaktvA rUpaM zyenakapotayoH |</l>
+01056 <l>tuSTAvakSatadehaM taM rAjAnaM cakratuH zibim ||</l>
+01057 <l>dattvA cAsmai varAnanyAMstAvantardhAnamIyatuH ||</l></lg>
+01058 <head>{#XXV.#}</head>
+01059 <lg><l>purAbhUdgautamo nAma trikAlajn~o mahAmuniH |</l>
+[Page049+ 22]
+01060 <l>ahalyeti ca tasyAsIdbhAryA rUpajitApsarAH ||</l></lg>
+01061 <lg><l>ekadA rUpalubdhastAmindraH prArthitavAnrahaH |</l>
+01062 <l>prabhUNAM hi vibhUtyandhA dhAvatyaviSaye matiH ||</l></lg>
+01063 <lg><l>sAnumene ca taM mUDhA vRSasyantI zacIpatim |</l>
+01064 <l>tacca prabhAvato buddhvA tatrAgAdgautamo muniH ||</l></lg>
+01065 <lg><l>mArjArarUpaM cakre ca bhayAdindro 'pi tatkSaNam |</l>
+01066 <l>kaH sthito 'treti so 'pRcchadahalyAmatha gautamaH ||</l></lg>
+01067 <lg><l>eso Thi+o khu majjA+o ityapabhraSTavakrayA |</l>
+01068 <l>girA satyAnurodhinyA sA taM pratyabravItpatim ||</l></lg>
+01069 <lg><l>satyaM tvajjAra ityuktvA vihasansa tato muniH |</l>
+01070 <l>satyAnurodhaklRptAntaM zApaM tasyAmapAtayat ||</l></lg>
+01071 <lg><l>pApazIle zilAbhAvaM bhUrikAlamavApnuhi |</l>
+01072 <l>A vanAntarasaMcArirAghavAlokanAditi ||</l></lg>
+01073 <lg><l>dattazApo yathAkAmaM tapase sa muniryayau |</l>
+01074 <l>ahalyApi zilAbhAvaM dAruNaM pratyapadyata ||</l></lg>
+01075 <head>{#XXVI.#}</head>
+01076 <lg><l>tataH kadA cidadhyAsta vasantasamayotsave |</l>
+01077 <l>devIkRtaM tadudyAnaM sa rAjA sAtavAhanaH ||</l></lg>
+01078 <lg><l>viharansa ciraM tatra mahendra iva nandane |</l>
+01079 <l>vApIjale 'vatIrNo 'bhUtkrIDituM kAminIsakhaH ||</l></lg>
+01080 <lg><l>asin~cattatra dayitAH sahelaM karavAribhiH |</l>
+01081 <l>asicyata sa tAbhizca vazAbhiriva vAraNaH ||</l></lg>
+[Page050+ 23]
+01082 <lg><l>athaikA tasya mahiSI rAjn~aH stanabharAlasA |</l>
+01083 <l>zirISasukumArAGgI krIDantI zramamabhyagAt ||</l></lg>
+01084 <lg><l>sA jalairabhiSin~cantaM rAjAnamasahA satI |</l>
+01085 <l>abravInmodakairdeva paritADaya mAmiti ||</l></lg>
+01086 <lg><l>tacchrutvA modakAnrAjA drutamAnAyayattadA |</l>
+01087 <l>tato vihasya sA rAjn~I punarevamabhASata ||</l></lg>
+01088 <lg><l>rAjannavasaraH ko 'tra modakAnAM jalAntare |</l>
+01089 <l>udakaiH sin~ca mA tvaM mAmityuktaM hi mayA tava ||</l></lg>
+01090 <lg><l>saMdhimAtraM na jAnAsi mAzabdodakazabdayoH |</l>
+01091 <l>na ca prakaraNaM vetsi mUrkhastvaM kathamIdRzaH ||</l></lg>
+01092 <lg><l>ityuktaH sa tayA rAjn~yA zabdazAstravidA nRpaH |</l>
+01093 <l>parivAre hasatyantarlajjAkrAnto jhaTityabhUt ||</l></lg>
+01094 <lg><l>parityaktajalakrIDo vItadarpazca tatkSaNam |</l>
+01095 <l>jAtAvamAno nirlakSyaH prAvizannijamandiram ||</l></lg>
+01096 <lg><l>tatazcintAparo muhyannAhArAdiparAGmukhaH |</l>
+01097 <l>citrastha iva pRSTo 'pi naiva kiM cidabhASata ||</l></lg>
+01098 <lg><l>pANDityaM zaraNaM vA me mRtyurveti vicintayan |</l>
+01099 <l>zayanIyaparinyastagAtraH saMtApavAnabhUt ||</l></lg>
+01100 <lg><l>akasmAdatha rAjn~astAM dRSTvAvasthAM tathAvidhAm |</l>
+01101 <l>kimetaditi saMbhrAntaH sarvaH parijano 'bhavat ||</l></lg>
+01102 <lg><l>tato 'haM zarvavarmA ca jn~Atavantau krameNa tAm |</l>
+01103 <l>atrAntare ca sa prAyaH paryahIyata vAsaraH ||</l>
+01104 <l>prAtarAvAmagacchAva vAsavezma mahIpateH ||</l></lg>
+[Page051+ 23]
+01105 <lg><l>tatra sarvasya ruddhe 'pi praveze kathamapyaham |</l>
+01106 <l>prAvizaM mama pazcAcca zarvavarmA laghukramam ||</l></lg>
+01107 <lg><l>upavizyAtha nikaTe vijn~aptaH sa mayA nRpaH |</l>
+01108 <l>akAraNaM kathaM deva vartase vimanA iti ||</l></lg>
+01109 <lg><l>tacchrutvApi tathaivAsItsa tUSNIM sAtavAhanaH |</l>
+01110 <l>zarvavarmA tatazcedamadbhutaM vAkyamabravIt ||</l></lg>
+01111 <lg><l>zrutimantaM mAM kurviti prAguktaM deva me tvayA |</l>
+01112 <l>tenAhaM kRtavAnadya svapnamANavakaM nizi ||</l></lg>
+01113 <lg><l>svapne tato mayA dRSTaM nabhasazcyutamambujam |</l>
+01114 <l>tacca divyena kenApi kumAreNa vikAsitam ||</l></lg>
+01115 <lg><l>tatazca nirgatA tasmAddivyA strI dhavalAmbarA |</l>
+01116 <l>tava deva mukhaM sA ca praviSTA samanantaram ||</l></lg>
+01117 <lg><l>iyaddRSTvA prabuddho 'smi sA ca manye sarasvatI |</l>
+01118 <l>devasya vadane sAkSAtsaMpraviSTA na saMzayaH ||</l></lg>
+01119 <lg><l>evaM niveditasvapne zarvavarmaNi tatkSaNam |</l>
+01120 <l>mAmastamaunaH sAkUtamavadatsAtavAhanaH ||</l></lg>
+01121 <lg><l>zikSyamANaH prayatnena kAlena kiyatA pumAn |</l>
+01122 <l>adhigacchati pANDityametanme kathyatAM tvayA ||</l></lg>
+01123 <lg><l>mama tena vinA hyeSA lakSmIrna pratibhAsate |</l>
+01124 <l>vibhavaiH kiM nu mUrkhasya kASThasyAbharaNairiva ||</l></lg>
+01125 <lg><l>tato 'hamavadaM rAjanvarSairdvAdazabhiH sadA |</l>
+01126 <l>jn~Ayate sarvavidyAnAM mukhaM vyAkaraNaM naraiH ||</l></lg>
+01127 <lg><l>ahaM tu zikSayAmi tvAM varSaSaTkena tadvibho |</l>
+[Page052+ 23]
+01128 <l>zrutvaitatsahasA serSyaM zarvavarmA kilAvadat ||</l></lg>
+01129 <lg><l>sukhocito janaH klezaM kathaM kuryAdiyacciram |</l>
+01130 <l>tadahaM mAsaSaTkena deva tvAM zikSayAmi tat ||</l></lg>
+01131 <lg><l>zrutvaivaitadasaMbhAvyaM tamavocamahaM ruSA |</l>
+01132 <l>SaDbhirmAsaistvayA devaH zikSitazcettato mayA ||</l></lg>
+01133 <lg><l>saMskRtaM prAkRtaM tadvaddezabhASA ca sarvadA |</l>
+01134 <l>bhASAtrayamidaM tyaktaM yanmanuSyeSu saMbhavet ||</l></lg>
+01135 <lg><l>zarvavarmA tato 'vAdInna cedevaM karomyaham |</l>
+01136 <l>dvAdazAbdAnvahAmyeSa zirasA tava pAduke ||</l></lg>
+01137 <lg><l>ityuktvA nirgate tasminnahamapyagamaM gRham |</l>
+01138 <l>rAjApyubhayataH siddhiM matvA zasto babhUva saH ||</l></lg>
+01139 <lg><l>zarvavarmA ca vIhastaH pratijn~AM tAM sudustarAm |</l>
+01140 <l>pazyansAnuzayaH sarvaM svabhAryAyai zazaMsa tat ||</l></lg>
+01141 <lg><l>sApi taM duHkhitAvocatsaMkaTe 'smiMstava prabho |</l>
+01142 <l>vinA svAmikumAreNa gatiranyA na dRzyate ||</l></lg>
+01143 <lg><l>tatheti nizcayaM kRtvA pazcime prahare nizi |</l>
+01144 <l>zarvavarmA nirAhArastatraiva prasthito 'bhavat ||</l></lg>
+01145 <lg><l>so 'pi vAtaikabhakSaH sankRtamaunaH sunizcayaH |</l>
+01146 <l>prApa svAmikumArasya zarvavarmAntikaM kramAt ||</l></lg>
+01147 <lg><l>zarIranirapekSeNa tapasA tatra toSitaH |</l>
+01148 <l>prasAdamakarottasya kArttikeyo yathepsitam ||</l></lg>
+01149 <lg><l>Agatya zarvavarmAtha kumAravarasiddhimAn |</l>
+01150 <l>cintitopasthitA rAjn~e sarvA vidyAH pradattavAn ||</l></lg>
+[Page053+ 21]
+01151 <lg><l>prAdurAsaMzca tAstasya sAtavAhanabhUpateH |</l>
+01152 <l>tatkSaNaM kiM na kuryAddhi prasAdaH pAramezvaraH ||</l></lg>
+01153 <head>{#XXVII.#}</head>
+01154 <lg><l>evaM guNADhyavacasA sAtha saptakathAmayI |</l>
+01155 <l>svabhASayA kathA divyA kathitA kANabhUtinA ||</l></lg>
+01156 <lg><l>tathaiva ca guNADhyena paizAcyA bhASayA tayA |</l>
+01157 <l>nibaddhA saptabhirvarSairgranthalakSANi sapta sA ||</l></lg>
+01158 <lg><l>maitAM vidyAdharA hArSuriti tAmAtmazoNitaiH |</l>
+01159 <l>aTavyAM maSyabhAvAcca lilekha sa mahAkaviH ||</l></lg>
+01160 <lg><l>tathA ca zrItumAyAtaiH siddhavidyAdharAdibhiH |</l>
+01161 <l>nirantaramabhUttatra savitAnamivAmbaram ||</l></lg>
+01162 <lg><l>guNADhyena nibaddhAM ca tAM dRSTvaiva mahAkathAm |</l>
+01163 <l>jagAma muktazApaH sankANabhUtirnijAM gatim ||</l></lg>
+01164 <lg><l>pizAcA ye 'pi tatrAsannanye tatsahacAriNaH |</l>
+01165 <l>te 'pi prApurdivaM sarve divyAmAkarNya tAM kathAm ||</l></lg>
+01166 <lg><l>pratiSThAM prApaNIyaiSA pRthivyAM me bRhatkathA |</l>
+01167 <l>ayamartho 'pi me devyA zApAntoktAvudIritaH ||</l></lg>
+01168 <lg><l>tatkathaM prApayAmyenAM kasmai tAvatsamarpaye |</l>
+01169 <l>ityevAcintayattatra sa guNADhyo mahAkaviH ||</l></lg>
+01170 <lg><l>athaiko guNadevAkhyo nandidevAbhidhaH paraH |</l>
+01171 <l>tamUcaturupAdhyAyaM ziSyAvanugatAvubhau ||</l></lg>
+[Page054+ 23]
+01172 <lg><l>tatkAvyasyArpaNasthAnamekaH zrIsAtavAhanaH |</l>
+01173 <l>rasiko hi vahetkAvyaM puSpAmodamivAnilaH ||</l></lg>
+01174 <lg><l>evamastviti tau ziSyAvantikaM tasya bhUpateH |</l>
+01175 <l>prAhiNotpustakaM dattvA guNADhyo guNazAlinau ||</l></lg>
+01176 <lg><l>svayaM ca gatvA tatraiva pratiSThAne purAdvahiH |</l>
+01177 <l>kRtasaMketa udyAne tasthau devIvinirmite ||</l></lg>
+01178 <lg><l>tacchiSyAbhyAM ca gatvA tatsAtavAhanabhUpateH |</l>
+01179 <l>guNADhyakRtireSeti darzitaM kAvyapustakam ||</l></lg>
+01180 <lg><l>pizAcabhASAM tAM zrutvA tau ca dRSTvA tadAkRtI |</l>
+01181 <l>vidyAmadena sAsUyaM sa rAjaivamabhASata ||</l></lg>
+01182 <lg><l>pramANaM sapta lakSANi paizAcaM nIrasaM vacaH |</l>
+01183 <l>zoNitenAkSaranyAso dhikpizAcakathAmimAm ||</l></lg>
+01184 <lg><l>tataH pustakamAdAya gatvA tAbhyAM yathAgatam |</l>
+01185 <l>ziSyAbhyAM tadguNADhyAya yathAvRttamakathyata ||</l></lg>
+01186 <lg><l>guNADhyo 'pi tadAkarNya sadyaH khedavazo 'bhavat |</l>
+01187 <l>tattvajn~ena kRtAvajn~aH ko nAmAntarna tapyate ||</l></lg>
+01188 <lg><l>saziSyazca tato gatvA nAtidUraM ziloccayam |</l>
+01189 <l>viviktaramyabhUbhAgamagnikuNDaM vyadhAtpuraH ||</l></lg>
+01190 <lg><l>tatrAgnau pattramekaikaM ziSyAbhyAM sAzru vIkSitaH |</l>
+01191 <l>vAcayitvA sa cikSepa zrAvayanmRgapakSiNaH ||</l></lg>
+01192 <lg><l>naravAhanadattasya caritaM ziSyayoH kRte |</l>
+01193 <l>granthalakSaM kathAmekAM varjayitvA tadIpsitAm ||</l></lg>
+01194 <lg><l>tasmiMzca tAM kathAM divyAM paThatyapi dahatyapi |</l>
+[Page055+ 23]
+01195 <l>parityaktatRNAhArAH zRNvantaH sAzrulocanAH ||</l></lg>
+01196 <lg><l>Asannabhyetya tatraiva nizcalA baddhamaNDalAH |</l>
+01197 <l>nikhilAH khalu sAraGgavarAhamahiSAdayaH ||</l></lg>
+01198 <lg><l>atrAntare sa rAjAbhUdasvasthaH sAtavAhanaH |</l>
+01199 <l>doSaM cAsyAvadanvaidyAH zuSkamAMsopabhogajam ||</l></lg>
+01200 <lg><l>AkSiptAstannimittaM ca sUpakArA babhASire |</l>
+01201 <l>asmAkamIdRzaM mAMsaM dadate lubdhakA iti ||</l></lg>
+01202 <lg><l>pRSTAzca lubdhakA UcurnAtidUre girAvitaH |</l>
+01203 <l>paThitvA pattramekaikaM ko 'pyagnau kSipati dvijaH ||</l></lg>
+01204 <lg><l>tatsametya nirAhArAH zRNvanti prANino 'khilAH |</l>
+01205 <l>nAnyato yAnti tenaiSAM zuSkaM mAMsamidaM kSudhA ||</l></lg>
+01206 <lg><l>iti vyAdhavacaH zrutvA kRtvA tAneva cAgrataH |</l>
+01207 <l>svayaM sa kautukAdrAjA guNADhyasyAntikaM yayau ||</l></lg>
+01208 <lg><l>dadarza taM samAkIrNaM jaTAbhirvanavAsataH |</l>
+01209 <l>prazAntazeSazApAgnidhUmikAbhirivAbhitaH ||</l></lg>
+01210 <lg><l>athainaM pratyabhijn~Aya sabASpamRgamadhyagam |</l>
+01211 <l>namaskRtya ca papraccha taM vRttAntaM mahIpatiH ||</l></lg>
+01212 <lg><l>so 'pi svaM puSpadantasya rAjn~e zApAdiceSTitam |</l>
+01213 <l>jn~AnI kathAvatAraM tamAcakhyau bhUtabhASayA ||</l></lg>
+01214 <lg><l>tato gaNAvatAraM taM matvA pAdAnato nRpaH |</l>
+01215 <l>yayAce tAM kathAM tasmAddivyAM haramukhodgatAm ||</l></lg>
+01216 <lg><l>athovAca sa taM bhUpaM guNADhyaH sAtavAhanam |</l>
+01217 <l>rAjanSaDgranthalakSANi mayA dagdhAni SaTkathAH ||</l></lg>
+[Page056+ 21]
+01218 <lg><l>lakSamekamidaM tvasti kathaikA saiva gRhyatAm |</l>
+01219 <l>macchiSyau tava cAtraitau vyAkhyAtArau bhaviSyataH ||</l></lg>
+01220 <lg><l>ityuktvA nRpamAmantrya tyaktvA yogena tAM tanum |</l>
+01221 <l>guNADhyaH zApanirmuktaH prApa divyaM nijaM padam ||</l></lg>
+01222 <lg><l>atha tAM guNADhyadattAmAdAya kathAM bRhatkathAM nAmnA |</l>
+01223 <l>nRpatiragAnnijanagaraM naravAhanadattacaritamayIm ||</l></lg>
+01224 <lg><l>guNadevanandidevau tatra ca tau tatkathAkaveH ziSyau |</l>
+01225 <l>kSitikanakavastravAhanabhavanadhanaiH saMvibheje saH ||</l></lg>
+01226 <lg><l>tAbhyAM saha ca kathAM tAmAzvAsya sa sAtavAhanastasyAH |</l>
+01227 <l>tadbhASayAvatAraM vaktuM cakre kathApITham ||</l></lg>
+01228 <lg><l>sA ca citrarasanirbharA kathA vismRtAmarakathA kutUhalAt |</l>
+01229 <l>tadvidhAya nagare nirantarAM khyAtimatra bhuvanatraye gatA ||</l></lg>
+01230 <p>|| iti kathAsaritsAgare 'STamastaraGgaH ||</p>
+01231 <head>{#XXVIII.#}</head>
+01232 <head>|| atha mAnavadharmazAstram ||</head>
+01233 <lg><l>AsIdidaM tamobhUtamaprajn~AtamalakSaNam |</l>
+01234 <l>apratarkyamavijn~eyaM prasuptamiva sarvataH || 5 || || adhyA0 1 ||</l></lg>
+01235 <lg><l>tataH svayaMbhUrbhagavAnavyakto vyan~jayannidam |</l>
+01236 <l>mahAbhUtAdi vRttaujAH prAdurAsIttamonudaH || 6 ||</l></lg>
+01237 <lg><l>yo 'sAvatIndriyagrAhyaH sUkSmo 'vyaktaH sanAtanaH |</l>
+01238 <l>sarvabhUtamayo 'cintyaH sa eva svayamudbabhau || 7 ||</l></lg>
+[Page057+ 23]
+01239 <lg><l>so 'bhidhyAya zarIrAtsvAtsisRkSurvividhAH prajAH |</l>
+01240 <l>apa eva sasarjAdau tAsu bIjamavAsRjat || 8 ||</l></lg>
+01241 <lg><l>tadaNDamabhavaddhaimaM sahasrAMzusamaprabham |</l>
+01242 <l>tasmin~jajn~e svayaM brahmA sarvalokapitAmahaH || 9 ||</l></lg>
+01243 <lg><l>Apo nArA iti proktA Apo vai narasUnavaH |</l>
+01244 <l>tA yadasyAyanaM pUrvaM tena nArAyaNaH smRtaH || 10 ||</l></lg>
+01245 <lg><l>yattatkAraNamavyaktaM nityaM sadasadAtmakam |</l>
+01246 <l>tadvisRSTaH sa puruSo loke brahmeti kIrtyate || 11 ||</l></lg>
+01247 <lg><l>tasminnaNDe sa bhagavAnuSitvA parivatsaram |</l>
+01248 <l>svayamevAtmano dhyAnAttadaNDamakaroddvidhA || 12 ||</l></lg>
+01249 <lg><l>tAbhyAM sa zakalAbhyAM ca divaM bhUmiM ca nirmame |</l>
+01250 <l>madhye vyoma dizazcASTAvapAM sthAnaM ca zAzvatam || 13 ||</l></lg>
+01251 <lg><l>agnivAyuravibhyastu trayaM brahma sanAtanam |</l>
+01252 <l>dudoha yajn~asiddhyarthamRgyajuHsAmalakSaNam || 23 ||</l></lg>
+01253 <lg><l>lokAnAM tu vivRddhyarthaM mukhabAhUrupAdataH |</l>
+01254 <l>brAhmaNaM kSatriyaM vaizyaM zUdraM ca niravartayat || 31 ||</l></lg>
+01255 <lg><l>ahorAtre vibhajate sUryo mAnuSadaivike |</l>
+01256 <l>rAtriH svapnAya bhUtAnAM ceSTAyai karmaNAmahaH || 65 ||</l></lg>
+01257 <lg><l>pitrye rAtryahanI mAsaH pravibhAgastu pakSayoH |</l>
+01258 <l>karmaceSTAsvahaH kRSNaH zuklaH svapnAya zarvarI || 66 ||</l></lg>
+01259 <lg><l>daive rAtryahanI varSaM pravibhAgastayoH punaH |</l>
+01260 <l>ahastatrodagayanaM rAtriH syAddakSiNAyanam || 67 ||</l></lg>
+01261 <lg><l>brAhmasya tu kSapAhasya yatpramANaM samAsataH |</l>
+[Page058+ 23]
+01262 <l>ekaikazo yugAnAM tu kramazastannibodhata || 68 ||</l></lg>
+01263 <lg><l>catvAryAhuH sahasrANi varSANAM tu kRtaM yugam |</l>
+01264 <l>tasya tAvacchatI saMdhyA saMdhyAMzazca tathAvidhaH || 69 ||</l></lg>
+01265 <lg><l>itareSu sasaMdhyeSu sasaMdhyAMzeSu ca triSu |</l>
+01266 <l>ekApAyena vartante sahasrANi zatAni ca || 70 ||</l></lg>
+01267 <lg><l>yadetatparisaMkhyAtamAdAveva caturyugam |</l>
+01268 <l>etaddvAdazasAhasraM devAnAM yugamucyate || 71 ||</l></lg>
+01269 <lg><l>daivikAnAM yugAnAM tu sahasraM parisaMkhyayA |</l>
+01270 <l>brAhmamekamaharjn~eyaM tAvatI rAtrireva ca || 72 ||</l></lg>
+01271 <lg><l>bhUtAnAM prANinaH zreSThAH prANinAM buddhijIvinaH |</l>
+01272 <l>buddhimatsu narAH zreSThA nareSu brAhmaNAH smRtAH || 96 ||</l></lg>
+01273 <lg><l>brAhmaNeSu ca vidvAMso vidvatsu kRtabuddhayaH |</l>
+01274 <l>kRtabuddhiSu kartAraH kartRSu brahmavedinaH || 97 ||</l></lg>
+01275 <lg><l>vedo 'khilo dharmamUlaM smRtizIle ca tadvidAm |</l>
+01276 <l>AcArazcaiva sAdhUnAmAtmanastuSTireva ca || 6 || || adhyA0 2 ||</l></lg>
+01277 <lg><l>zrutismRtyuditaM dharmamanutiSThanhi mAnavaH |</l>
+01278 <l>iha kIrtimavApnoti pretya cAnuttamaM sukham || 9 ||</l></lg>
+01279 <lg><l>zrutistu vedo vijn~eyo dharmazAstraM tu vai smRtiH |</l>
+01280 <l>te sarvArtheSvamImAMsye tAbhyAM dharmo hi nirbabhau || 10 ||</l></lg>
+01281 <lg><l>yo 'vamanyeta te mUle hetuzAstrAzrayAddvijaH |</l>
+01282 <l>sa sAdhubhirbahiSkAryo nAstiko vedanindakaH || 11 ||</l></lg>
+01283 <lg><l>vedaH smRtiH sadAcAraH svasya ca priyamAtmanaH |</l>
+01284 <l>etaccaturvidhaM prAhuH sAkSAddharmasya lakSaNam || 12 ||</l></lg>
+[Page059+ 23]
+01285 <lg><l>vaidikaiH karmabhiH puNyairniSekAdirdvijanmanAm |</l>
+01286 <l>kAryaH zarIrasaMskAraH pAvanaH pretya ceha ca || 26 ||</l></lg>
+01287 <lg><l>gArbhairhomairjAtakarmacauDamaun~jInibandhanaiH |</l>
+01288 <l>baijikaM gArbhikaM caino dvijAnAmapamRjyate || 27 ||</l></lg>
+01289 <lg><l>svAdhyAyena vratairhomaistraividyenejyayA sutaiH |</l>
+01290 <l>mahAyajn~aizca yajn~aizca brAhmIyaM kriyate tanuH || 28 ||</l></lg>
+01291 <lg><l>prAGnAbhivardhanAtpuMso jAtakarma vidhIyate |</l>
+01292 <l>mantravatprAzanaM cAsya hiraNyamadhusarpiSAm || 29 ||</l></lg>
+01293 <lg><l>nAmadheyaM dazamyAM tu dvAdazyAM vAsya kArayet |</l>
+01294 <l>puNye tithau muhUrte vA nakSatre vA guNAnvite || 30 ||</l></lg>
+01295 <lg><l>maGgalyaM brAhmaNasya syAtkSatriyasya balAnvitam |</l>
+01296 <l>vaizyasya dhanasaMyuktaM zUdrasya tu jugupsitam || 31 ||</l></lg>
+01297 <lg><l>zarmavadbrAhmaNasya syAdrAjn~o rakSAsamanvitam |</l>
+01298 <l>vaizyasya puSTisaMyuktaM zUdrasya praiSyasaMyutam || 32 ||</l></lg>
+01299 <lg><l>strINAM sukhodyamakrUraM vispaSTArthaM manoharam |</l>
+01300 <l>maGgalyaM dIrghavarNAntamAzIrvAdAbhidhAnavat || 33 ||</l></lg>
+01301 <lg><l>caturthe mAsi kartavyaM zizorniSkramaNaM gRhAt |</l>
+01302 <l>SaSThe 'nnaprAzanaM mAsi yadveSTaM maGgalaM kule || 34 ||</l></lg>
+01303 <lg><l>cUDAkarma dvijAtInAM sarveSAmeva dharmataH |</l>
+01304 <l>prathame 'bde tRtIye vA kartavyaM zruticodanAt || 35 ||</l></lg>
+01305 <lg><l>garbhASTame 'bde kurvIta brAhmaNasyopanAyanam |</l>
+01306 <l>garbhAdekAdaze rAjn~o garbhAttu dvAdaze vizaH || 36 ||</l></lg>
+01307 <lg><l>pratigRhyepsitaM daNDamupasthAya ca bhAskaram |</l>
+[Page060+ 23]
+01308 <l>pradakSiNaM parItyAgniM caredbhaikSaM yathAvidhi || 48 ||</l></lg>
+01309 <lg><l>bhavatpUrvaM caredbhaikSamupanIto dvijottamaH |</l>
+01310 <l>bhavanmadhyaM tu rAjanyo vaizyastu bhavaduttaram || 49 ||</l></lg>
+01311 <lg><l>vyatyastapANinA kAryamupasaMgrahaNaM guroH |</l>
+01312 <l>savyena savyaH spraSTavyo dakSiNena ca dakSiNaH || 72 ||</l></lg>
+01313 <lg><l>adhyeSyamANaM tu gururnityakAlamatandritaH |</l>
+01314 <l>adhISva bho iti brUyAdvirAmo 'stviti cAramet || 73 ||</l></lg>
+01315 <lg><l>brahmaNaH praNavaM kuryAdAdAvante ca sarvadA |</l>
+01316 <l>sravatyanoMkRtaM pUrvaM parastAcca vizIryate || 74 ||</l></lg>
+01317 <lg><l>akAraM cApyukAraM ca makAraM ca prajApatiH |</l>
+01318 <l>vedatrayAnniraduhadbhUrbhuvaH svaritIti ca || 76 ||</l></lg>
+01319 <lg><l>tribhya eva tu vedebhyaH pAdaM pAdamadUduhat |</l>
+01320 <l>tadityRco 'syAH sAvitryAH parameSThI prajApatiH || 77 ||</l></lg>
+01321 <lg><l>etadakSarametAM ca japanvyAhRtipUrvikAm |</l>
+01322 <l>saMdhyayorvedavidvipro vedapuNyena yujyate || 78 ||</l></lg>
+01323 <lg><l>UrdhvaM prANA hyutkrAmanti yUnaH sthavira Ayati |</l>
+01324 <l>pratyutthAnAbhivAdAbhyAM punastAnpratipadyate || 120 ||</l></lg>
+01325 <lg><l>abhivAdanazIlasya nityaM vRddhopasevinaH |</l>
+01326 <l>catvAri tasya vardhante AyurvidyA yazo balam || 121 ||</l></lg>
+01327 <lg><l>abhivAdAtparaM vipro jyAyAMsamabhivAdayan |</l>
+01328 <l>asau nAmAhamasmIti svaM nAma parikIrtayet || 122 ||</l></lg>
+01329 <lg><l>nAmadheyasya ye ke cidabhivAdaM na jAnate |</l>
+01330 <l>tAnprAjn~o 'hamiti brUyAtstriyaH sarvAstathaiva ca || 123 ||</l></lg>
+[Page061+ 23]
+01331 <lg><l>bhoHzabdaM kIrtayedante svasya nAmno 'bhivAdane |</l>
+01332 <l>nAmnAM svarUpabhAvo hi bhobhAva RSibhiH smRtaH || 124 ||</l></lg>
+01333 <lg><l>AyuSmAnbhava saumyeti vAcyo vipro 'bhivAdane |</l>
+01334 <l>akArazcAsya nAmno 'nte vAcyaH pUrvAkSaraH plutaH || 125 ||</l></lg>
+01335 <lg><l>yo na vettyabhivAdasya vipraH pratyabhivAdanam |</l>
+01336 <l>nAbhivAdyaH sa viduSA yathA zUdrastathaiva saH || 126 ||</l></lg>
+01337 <lg><l>brAhmaNaM kuzalaM pRcchetkSatrabandhumanAmayam |</l>
+01338 <l>vaizyaM kSemaM samAgamya zUdramArogyameva ca || 127 ||</l></lg>
+01339 <lg><l>avAcyo dIkSito nAmnA yavIyAnapi yo bhavet |</l>
+01340 <l>bhobhavatpUrvakaM tvenamabhibhASeta dharmavit || 128 ||</l></lg>
+01341 <lg><l>parapatnI tu yA strI syAdasaMbandhA ca yonitaH |</l>
+01342 <l>tAM brUyAdbhavatItyevaM subhage bhaginIti ca || 129 ||</l></lg>
+01343 <lg><l>mAtulAMzca pitRvyAMzca zvazurAnRtvijo gurUn |</l>
+01344 <l>asAvahamiti brUyAtpratyutthAya yavIyasaH || 130 ||</l></lg>
+01345 <lg><l>brAhmasya janmanaH kartA svadharmasya ca zAsitA |</l>
+01346 <l>bAlo 'pi vipro vRddhasya pitA bhavati dharmataH || 150 ||</l></lg>
+01347 <lg><l>adhyApayAmAsa pitRRn~chizurAGgirasaH kaviH |</l>
+01348 <l>putrakA iti hovAca jn~Anena parigRhya tAn || 151 ||</l></lg>
+01349 <lg><l>te tamarthamapRcchanta devAnAgatamanyavaH |</l>
+01350 <l>devAzcaitAnsametyocurnyAyyaM vaH zizuruktavAn || 152 ||</l></lg>
+01351 <lg><l>ajn~o bhavati vai bAlaH pitA bhavati mantradaH |</l>
+01352 <l>ajn~aM hi bAlamityAhuH pitetyeva tu mantradam || 153 ||</l></lg>
+01353 <lg><l>SaTitraMzadAbdikaM caryaM gurau traivedikaM vratam |</l>
+[Page062+ 23]
+01354 <l>tadardhikaM pAdikaM vA grahaNAntikameva vA || 1 || || adhyA0 3 ||</l></lg>
+01355 <lg><l>vedAnadhItya vedau vA vedaM vApi yathAkramam |</l>
+01356 <l>aviplutabrahmacaryo gRhasthAzramamAvaset || 2 ||</l></lg>
+01357 <lg><l>taM pratItaM svadharmeNa brahmadAyaharaM pituH |</l>
+01358 <l>sragviNaM talpa AsInamarhayetprathamaM gavA || 3 ||</l></lg>
+01359 <lg><l>guruNAnumataH snAtvA samAvRtto yathAvidhi |</l>
+01360 <l>udvaheta dvijo bhAryAM savarNAM lakSaNAnvitAm || 4 ||</l></lg>
+01361 <lg><l>sarvAnparityajedarthAnsvAdhyAyasya virodhinaH |</l>
+01362 <l>yathA tathAdhyApayaMstu sA hyasya kRtakRtyatA || 17 || adhyA0 4 ||</l></lg>
+01363 <lg><l>klRptakezanakhazmazrurdAntaH zuklAmbaraH zuciH |</l>
+01364 <l>svAdhyAye caiva yuktaH syAnnityamAtmahiteSu ca || 35 ||</l></lg>
+01365 <lg><l>vaiNavIM dhArayedyaSTiM sodakaM ca kamaNDalum |</l>
+01366 <l>yajn~opavItaM vedaM ca zubhe raukme ca kuNDale || 36 ||</l></lg>
+01367 <lg><l>nekSetodyantamAdityaM nAstaM yAntaM kadA cana |</l>
+01368 <l>nopasRSTaM na vAristhaM na madhyaM nabhaso gatam || 37 ||</l></lg>
+01369 <lg><l>na laGghayedvatsatantIM na pradhAvecca varSati |</l>
+01370 <l>na codake nirIkSeta svaM rUpamiti dhAraNA || 38 ||</l></lg>
+01371 <lg><l>mRdaM gAM daivataM vipraM ghRtaM madhu catuSpatham |</l>
+01372 <l>pradakSiNAni kurvIta prajn~AtAMzca vanaspatIn || 39 ||</l></lg>
+01373 <lg><l>vAyvagnivipramAdityamapaH pazyaMstathaiva gAH |</l>
+01374 <l>na kadA cana kurvIta viNmUtrasya visarjanam || 48 ||</l></lg>
+01375 <lg><l>mUtroccArasamutsargaM divA kuryAdudaGmukhaH |</l>
+01376 <l>dakSiNAbhimukho rAtrau saMdhyayozca yathA divA || 50 ||</l></lg>
+[Page063+ 23]
+01377 <lg><l>na vArayedgAM dhayantIM na cAcakSIta kasya cit |</l>
+01378 <l>na divIndrAyudhaM dRSTvA kasya ciddarzayedbudhaH || 59 ||</l></lg>
+01379 <lg><l>sAmadhvanAvRgyajuSI nAdhIyIta kadA cana |</l>
+01380 <l>vedasyAdhItya vApyantamAraNyakamadhItya ca || 123 ||</l></lg>
+01381 <lg><l>Rgvedo devadaivatyo yajurvedastu mAnuSaH |</l>
+01382 <l>sAmavedaH smRtaH pitryastasmAttasyAzucirdhvaniH || 124 ||</l></lg>
+01383 <lg><l>nAdharmazcarito loke sadyaH phalati gauriva |</l>
+01384 <l>zanairAvartamAnastu karturmUlAni kRntati || 172 ||</l></lg>
+01385 <lg><l>yadi nAtmani putreSu na cetputreSu naptRSu |</l>
+01386 <l>na tveva tu kRto 'dharmaH karturbhavati niSphalaH || 173 ||</l></lg>
+01387 <lg><l>dharmaM zanaiH saMcinuyAdvalmIkamiva puttikAH |</l>
+01388 <l>paralokasahAyArthaM sarvabhUtAnyapIDayan || 238 ||</l></lg>
+01389 <lg><l>nAmutra hi sahAyArthaM pitA mAtA ca tiSThataH |</l>
+01390 <l>na putradAraM na jn~AtirdharmastiSThati kevalaH || 239 ||</l></lg>
+01391 <lg><l>ekaH prajAyate jantureka eva pralIyate |</l>
+01392 <l>eko 'nubhuGkte sukRtameka eva ca duSkRtam || 240 ||</l></lg>
+01393 <lg><l>mRtaM zarIramutsRjya kASThaloSTasamaM kSitau |</l>
+01394 <l>vimukhA bAndhavA yAnti dharmastamanugacchati || 241 ||</l></lg>
+01395 <lg><l>tasmAddharmaM sahAyArthaM nityaM saMcinuyAcchanaiH |</l>
+01396 <l>dharmeNa hi sahAyena tamastarati dustaram || 242 ||</l></lg>
+01397 <lg><l>prANasyAnnamidaM sarvaM prajApatirakalpayat |</l>
+01398 <l>sthAvaraM jaGgamaM caiva sarvaM prANasya bhojanam || 28 || adhyA0 5 ||</l></lg>
+01399 <lg><l>carANAmannamacarA daMSTriNAmapyadaMSTriNaH |</l>
+[Page064+ 23]
+01400 <l>ahastAzca sahastAnAM zUrANAM caiva bhIravaH || 29 ||</l></lg>
+01401 <lg><l>kuryAdghRtapazuM saGge kuryAtpiSTapazuM tathA |</l>
+01402 <l>na tveva tu vRthA hantuM pazumicchetkadA cana || 37 ||</l></lg>
+01403 <lg><l>yAvanti pazuromANi tAvatkRtvo ha mAraNam |</l>
+01404 <l>vRthApazughnaH prApnoti pretya janmani janmani || 38 ||</l></lg>
+01405 <lg><l>mAM sa bhakSayitAmutra yasya mAMsamihAdmyaham |</l>
+01406 <l>etanmAMsasya mAMsatvaM pravadanti manISiNaH || 55 ||</l></lg>
+01407 <lg><l>nAsti strINAM pRthagyajn~o na vrataM nApyupoSitam |</l>
+01408 <l>patiM zuzrUSate yena tena svarge mahIyate || 155 ||</l></lg>
+01409 <lg><l>pANigrAhasya sAdhvI strI jIvato vA mRtasya vA |</l>
+01410 <l>patilokamabhIpsantI nAcaretkiM cidapriyam || 156 ||</l></lg>
+01411 <lg><l>kAmaM tu kSapayeddehaM puSpamUlaphalaiH zubhaiH |</l>
+01412 <l>na tu nAmApi gRhlIyAtpatyau prete parasya tu || 157 ||</l></lg>
+01413 <lg><l>AsItA maraNAtkSAntA niyatA brahmacAriNI |</l>
+01414 <l>yo dharma ekapatnInAM kAGkSantI tamanuttamam || 158 ||</l></lg>
+01415 <lg><l>evaM gRhAzrame sthitvA vidhivatsnAtako dvijaH |</l>
+01416 <l>vane vasettu niyato yathAvadvijitendriyaH || 1 || || adhyA0 6 ||</l></lg>
+01417 <lg><l>vasIta carma cIraM vA sAyaM snAyAtprage tathA |</l>
+01418 <l>jaTAzca bibhRyAnnityaM zmazrulomanakhAni ca || 6 ||</l></lg>
+01419 <lg><l>grISme pan~catapAstu syAdvarSAsvabhrAvakAzikaH |</l>
+01420 <l>ArdravAsAstu hemante kramazo vardhayaMstapaH || 23 ||</l></lg>
+01421 <lg><l>vaneSu tu vihRtyaivaM tRtIyaM bhAgamAyuSaH |</l>
+01422 <l>caturthamAyuSo bhAgaM tyaktvA saGgAnparivrajet || 33 ||</l></lg>
+[Page065+ 23]
+01423 <lg><l>AzramAdAzramaM gatvA hutahomo jitendriyaH |</l>
+01424 <l>bhikSAbaliparizrAntaH pravrajanpretya vardhate || 34 ||</l></lg>
+01425 <lg><l>brahmacArI gRhasthazca vAnaprastho yatistathA |</l>
+01426 <l>ete gRhasthaprabhavAzcatvAraH pRthagAzramAH || 87 ||</l></lg>
+01427 <lg><l>ekaikaM hrAsayetpiNDaM kRSNe zukle ca vardhayet |</l>
+01428 <l>upaspRzaMstriSavaNametaccAndrAyaNaM smRtam || 216 || adhyA0 11 ||</l></lg>
+01429 <lg><l>etameva vidhiM kRtsnamAcaredyavamadhyame |</l>
+01430 <l>zuklapakSAdi niyatazcaraMzcAndrAyaNaM vratam || 217 ||</l></lg>
+01431 <lg><l>zubhAzubhaphalaM karma manovAgdehasaMbhavam |</l>
+01432 <l>karmajA gatayo nRRNAmuttamAdhamamadhyamAH || 3 || || adhyA0 12 ||</l></lg>
+01433 <lg><l>tasyeha trividhasyApi tryadhiSThAnasya dehinaH |</l>
+01434 <l>dazalakSaNayuktasya mano vidyAtpravartakam || 4 ||</l></lg>
+01435 <lg><l>paradravyeSvabhidhyAnaM manasAniSTacintanam |</l>
+01436 <l>vitathAbhinivezazca trividhaM karma mAnasam || 5 ||</l></lg>
+01437 <lg><l>pAruSyamanRtaM caiva paizunyaM cApi sarvazaH |</l>
+01438 <l>asaMbaddhapralApazca vAGmayaM syAccaturvidham || 6 ||</l></lg>
+01439 <lg><l>adattAnAmupAdAnaM hiMsA caivAvidhAnataH |</l>
+01440 <l>paradAropasevA ca zArIraM trividhaM smRtam || 7 ||</l></lg>
+01441 <lg><l>mAnasaM manasaivAyamupabhuGkte zubhAzubham |</l>
+01442 <l>vAcA vAcA kRtaM karma kAyenaiva ca kAyikam || 8 ||</l></lg>
+01443 <lg><l>zarIrajaiH karmadoSairyAti sthAvaratAM naraH |</l>
+01444 <l>vAcikaiH pakSimRgatAM mAnasairantyajAtitAm || 9 ||</l></lg>
+01445 <lg><l>yadyAcarati dharmaM sa prAyazo 'dharmamalpazaH |</l>
+[Page066+ 23]
+01446 <l>taireva cAvRto bhUtaiH svarge sukhamupAznute || 20 ||</l></lg>
+01447 <lg><l>yadi tu prAyazo 'dharmaM sevate dharmamalpazaH |</l>
+01448 <l>tairbhUtaiH sa parityakto yAmIH prApnoti yAtanAH || 21 ||</l></lg>
+01449 <lg><l>yAmIstA yAtanAH prApya sa jIvo vItakalmaSaH |</l>
+01450 <l>tAnyeva pan~ca bhUtAni punarabhyeti bhAgazaH || 22 ||</l></lg>
+01451 <lg><l>etA dRSTvAsya jIvasya gatIH svenaiva cetasA |</l>
+01452 <l>dharmato 'dharmatazcaiva dharme dadhyAtsadA manaH || 23 ||</l></lg>
+01453 <lg><l>sattvaM rajastamazcaiva trInvidyAdAtmano guNAn |</l>
+01454 <l>yairvyApyemAnsthito bhAvAnmahAnsarvAnazeSataH || 24 ||</l></lg>
+01455 <lg><l>yatkarma kRtvA kurvaMzca kariSyaMzcaiva lajjate |</l>
+01456 <l>tajjn~eyaM viduSA sarvaM tAmasaM guNalakSaNam || 35 ||</l></lg>
+01457 <lg><l>yenAsminkarmaNA loke khyAtimicchati puSkalAm |</l>
+01458 <l>na ca zocatyasaMpattau tadvijn~eyaM tu rAjasam || 36 ||</l></lg>
+01459 <lg><l>yatsarveNecchati jn~AtaM yanna lajjati cAcaran |</l>
+01460 <l>yena tuSyati cAtmAsya tatsattvaguNalakSaNam || 37 ||</l></lg>
+01461 <lg><l>tamaso lakSaNaM kAmo rajasastvartha ucyate |</l>
+01462 <l>sattvasya lakSaNaM dharmaH zraiSThyameSAM yathAkramam || 38 ||</l></lg>
+01463 <lg><l>yena yAMstu guNenaiSAM saMsArAnpratipadyate |</l>
+01464 <l>tAnsamAsena vakSyAmi sarvasyAsya yathAkramam || 39 ||</l></lg>
+01465 <lg><l>devatvaM sAttvikA yAnti manuSyatvaM ca rAjasAH |</l>
+01466 <l>tiryaktvaM tAmasA nityamityeSA trividhA gatiH || 40 ||</l></lg>
+01467 <lg><l>trividhA trividhaiSAM tu vijn~eyA gauNikI gatiH ||</l>
+01468 <l>adhamA madhyamAgryA ca karmavidyAvizeSataH || 41 ||</l></lg>
+[Page067+ 23]
+01469 <lg><l>sthAvarAH kRmikITAzca matsyAH sarpAH sakacchapAH |</l>
+01470 <l>pazavazca mRgAzcaiva jaghanyA tAmasI gatiH || 42 ||</l></lg>
+01471 <lg><l>hastinazca turaMgAzca zUdrA mlecchAzca garhitAH |</l>
+01472 <l>siMhA vyAghrA varAhAzca madhyamA tAmasI gatiH || 43 ||</l></lg>
+01473 <lg><l>cAraNAzca suparNAzca puruSAzcaiva dAmbhikAH |</l>
+01474 <l>rakSAMsi ca pizAcAzca tAmasISUttamA gatiH || 44 ||</l></lg>
+01475 <lg><l>jhallA mallA naTAzcaiva puruSAH zastravRttayaH |</l>
+01476 <l>dyUtapAnaprasaktAzca jaghanyA rAjasI gatiH || 45 ||</l></lg>
+01477 <lg><l>rAjAnaH kSatriyAzcaiva rAjn~AM caiva purohitAH |</l>
+01478 <l>vAdayuddhapradhAnAzca madhyamA rAjasI gatiH || 46 ||</l></lg>
+01479 <lg><l>gandharvA guhyakA yakSA vibudhAnucarAzca ye |</l>
+01480 <l>tathaivApsarasaH sarvA rAjasISUttamA gatiH || 47 ||</l></lg>
+01481 <lg><l>tApasA yatayo viprA ye ca vaimAnikA gaNAH |</l>
+01482 <l>nakSatrANi ca daityAzca prathamA sAttvikI gatiH || 48 ||</l></lg>
+01483 <lg><l>yajvAna RSayo devA vedA jyotIMSi vatsarAH |</l>
+01484 <l>pitarazcaiva sAdhyAzca dvitIyA sAttvikI gatiH || 49 ||</l></lg>
+01485 <lg><l>brahmA vizvasRjo dharmo mahAnavyakta eva ca |</l>
+01486 <l>uttamAM sAttvikImetAM gatimAhurmanISiNaH || 50 ||</l></lg>
+01487 <lg><l>zvasUkarakharoSTrANAM go'jAvimRgapakSiNAm |</l>
+01488 <l>caNDAlapulkasAnAM ca brahmahA yonimRcchati || 55 ||</l></lg>
+01489 <lg><l>hiMsrA bhavanti kravyAdAH kRmayo 'bhakSyabhakSiNaH |</l>
+01490 <l>parasparAdinaH stenAH pretA 'ntyastrIniSeviNaH || 59 ||</l></lg>
+01491 <lg><l>dhAnyaM hRtvA bhavatyAkhuH kAMsyaM haMso jalaM plavaH |</l>
+[Page068+ 20]
+01492 <l>madhu daMzaH payaH kAko rasaM zvA nakulo ghRtam || 62 ||</l></lg>
+01493 <lg><l>chucchundariH zubhAngandhAnpattrazAkaM tu barhiNaH |</l>
+01494 <l>zvAvitkRtAnnaM vividhamakRtAnnaM tu zalyakaH || 65 ||</l></lg>
+01495 <lg><l>striyo 'pyetena kalyena hRtvA doSamavApnuyuH |</l>
+01496 <l>eteSAmeva jantUnAM bhAryAtvamupayAnti tAH || 69 ||</l></lg>
+01497 <lg><l>vedAbhyAsastapo jn~AnamindriyANAM ca saMyamaH |</l>
+01498 <l>ahiMsA gurusevA ca niHzreyasakaraM param || 83 ||</l></lg>
+01499 <lg><l>pravRttaM karma saMsevya devAnAmeti sAmyatAm |</l>
+01500 <l>nivRttaM sevamAnastu bhUtAnyatyeti pan~ca vai || 90 ||</l></lg>
+01501 <lg><l>yA vedabAhyAH smRtayo yAzca kAzca kudRSTayaH |</l>
+01502 <l>sarvAstA niSphalAH pretya tamoniSThA hi tAH smRtAH || 95 ||</l></lg>
+01503 <lg><l>utpadyante cyavante ca yAnyato 'nyAni kAni cit |</l>
+01504 <l>tAnyarvAkkAlikatayA niSphalAnyanRtAni ca || 96 ||</l></lg>
+01505 <lg><l>ajn~ebhyo granthinaH zreSThA granthibhyo dhAriNo varAH |</l>
+01506 <l>dhAribhyo jn~AninaH zreSThA jn~Anibhyo vyavasAyinaH || 103 ||</l></lg>
+01507 <head>{#XXIX. XXX.#}</head>
+01508 <lg><l>ekonA viMzatirnAryaH krIDAM kartuM vane gatAH |</l>
+01509 <l>viMzatirgRhamAyAtAH zeSo vyAghreNa bhakSitaH ||</l></lg>
+01510 <lg><l>samAdizatpitA putraM likha lekhaM mamAjn~ayA |</l>
+01511 <l>na tena likhito lekhaH piturAjn~A na khaNDitA ||</l></lg>
+[Page069+ 19]
+01512 <head>{#XXXI. RIGVEDA I. 1.#}</head>
+01513 <lg><l>a_gnimI†Le pu_rohi†taM ya_jn~asya† de_vamR_tvija†m |</l>
+01514 <l>hotA†raM ratna_dhAta†mam || 1 ||</l></lg>
+01515 <lg><l>a_gniH pUrve†bhi_rRSi†bhi_rIDyo_ nUta†nairu_ta |</l>
+01516 <l>sa de_vAMM eha va†kSati || 2 ||</l></lg>
+01517 <lg><l>a_gninA† ra_yima†znava_tpoSa†me_va di_ve di†ve |</l>
+01518 <l>ya_zasaM† vI_rava†ttamam || 3 ||</l></lg>
+01519 <lg><l>agne_ yaM ya_jn~ama†dhva_raM vi_zvataH† pari_bhUrasi† |</l>
+01520 <l>sa idde_veSu† gacchati || 4 ||</l></lg>
+01521 <lg><l>a_gnirhotA† ka_vikra†tuH sa_tyazci_trazra†vastamaH |</l>
+01522 <l>de_vo de_vebhi_rA ga†mat || 5 ||</l></lg>
+01523 <lg><l>yada_Gga dA_zuSe_ tvamagne† bha_draM ka†ri_Syasi† |</l>
+01524 <l>tavettatsa_tyama†GgiraH || 6 ||</l></lg>
+01525 <lg><l>upa† tvAgne di_ve di†ve_ doSA†vastardhi_yA va_yam |</l>
+01526 <l>namo_ bhara†nta_ ema†si || 7 ||</l></lg>
+01527 <lg><l>rAja†ntamadhva_rANAM† go_pAmR_tasya_ dIdi†vim |</l>
+01528 <l>vardha†mAnaM_ sve dame† || 8 ||</l></lg>
+01529 <lg><l>sa naH† pi_teva† sU_nave 'gne† sUpAya_no bha†va |</l>
+01530 <l>saca†svA naH sva_staye† || 9 ||</l></lg>
+[Page070+ 22]
+01531 <head>{#XXXII. RIGVEDA I. 32.#}</head>
+01532 <lg><l>indra†sya_ nu vI_ryA†Ni_ pra vo†caM_ yAni† ca_kAra† pratha_mAni† va_jrI |</l>
+01533 <l>aha_nnahi_manva_pasta†tarda_ pra va_kSaNA† abhina_tparva†tAnAm || 1 ||</l></lg>
+01534 <lg><l>aha_nnahiM_ parva†te zizriyA_NaM tvaSTA†smai_ vajraM† sva_ryaM† tatakSa |</l>
+01535 <l>vA_zrA i†va dhe_navaH_ syanda†mAnA_ an~jaH† samu_dramava† jagmu_rApaH† || 2 ||</l></lg>
+01536 <lg><l>vR_SA_yamA†No 'vRNIta_ somaM_ trika†drukeSvapibatsu_tasya† |</l>
+01537 <l>A sAya†kaM ma_ghavA†datta_ vajra_maha†nnenaM prathama_jAmahI†nAm || 3 ||</l></lg>
+01538 <lg><l>yadi_ndrAha†nprathama_jAmahI†nA_mAnmA_yinA_mami†nAH_ prota mA_yAH |</l>
+01539 <l>AtsUryaM† ja_naya_ndyAmu_SAsaM† tA_dItnA_ zatruM_ na kilA† vivitse || 4 ||</l></lg>
+01540 <lg><l>aha†nvR_traM vR†tra_taraM_ vyaM†sa_mindro_ vajre†Na maha_tA va_dhena† |</l>
+01541 <l>skandhAM†sIva_ kuli†zenA_ vivR_kNAhiH† zayata upa_pRkpR†thi_vyAH || 5 ||</l></lg>
+01542 <lg><l>a_yo_ddheva† du_rmada_ A hi ju_hve ma†hAvI_raM tu†vibA_dhamR†jI_Sam |</l>
+01543 <l>nAtA†rIdasya_ samR†tiM va_dhAnAM_ saM ru_jAnAH† pipiSa_ indra†zatruH || 6 ||</l></lg>
+01544 <lg><l>a_pAda†ha_sto a†pRtanya_dindra_mAsya_ vajra_madhi_ sAnau† jaghAna |</l>
+01545 <l>vRSNo_ vadhriH† prati_mAnaM_ bubhU†Sanpuru_trA vR_tro a†zaya_dvya†staH || 7 ||</l></lg>
+01546 <lg><l>na_daM na bhi_nnama†mu_yA zayA†naM_ mano_ ruhA†NA_ ati† ya_ntyApaH† |</l>
+01547 <l>yAzci†dvR_tro ma†hi_nA pa_ryati†STha_ttAsA_mahiH† patsutaH_zIrba†bhUva || 8 ||</l></lg>
+01548 <lg><l>nI_cAva†yA abhavadvR_trapu_trendro† asyA_ ava_ vadha†rjabhAra |</l>
+01549 <l>utta†rA_ sUradha†raH pu_tra A†sI_ddAnuH† zaye sa_hava†tsA_ na dhe_nuH || 9 ||</l></lg>
+01550 <lg><l>ati†SThantInAmaniveza_nAnAM_ kASThA†nAM_ madhye_ nihi†taM_ zarI†ram |</l>
+01551 <l>vR_trasya† ni_NyaM vi ca†ra_ntyApo† dI_rghaM tama_ Aza†ya_dindra†zatruH || 10 ||</l></lg>
+01552 <lg><l>dA_sapa†tnI_rahi†gopA atiSTha_nniru†ddhA_ ApaH† pa_Nine†va_ gAvaH† |</l>
+[Page071+ 21]
+01553 <l>a_pAM bila_mapi†hitaM_ yadAsI†dvR_traM ja†gha_nvAMM apa_ tadva†vAra || 11 ||</l></lg>
+01554 <lg><l>azvyo vAro† abhava_stadi†ndra sR_ke yattvA† pra_tyaha†nde_va ekaH† |</l>
+01555 <l>aja†yo_ gA aja†yaH zUra_ soma_mavA†sRjaH_ sarta†ve sa_pta sindhU†n || 12 ||</l></lg>
+01556 <lg><l>nAsmai† vi_dyunna ta†nya_tuH si†Sedha_ na yAM miha_maki†raddhrA_duniM† ca |</l>
+01557 <l>indra†zca_ yadyu†yu_dhAte_ ahi†zco_tApa_rIbhyo† ma_ghavA_ vi ji†gye || 13 ||</l></lg>
+01558 <lg><l>ahe†ryA_tAraM_ kama†pazya indra hR_di yatte† ja_ghnuSo_ bhIraga†cchat |</l>
+01559 <l>nava† ca_ yanna†va_tiM ca_ srava†ntIH zye_no na bhI_to ata†ro_ rajAM†si || 14 ||</l></lg>
+01560 <lg><l>indro† yA_to 'va†sitasya_ rAjA_ zama†sya ca zR_GgiNo_ vajra†bAhuH |</l>
+01561 <l>sedu_ rAjA† kSayati carSaNI_nAma_rAnna ne_miH pari_tA ba†bhUva || 15 ||</l></lg>
+01562 <head>{#XXXIII. RIGVEDA I. 50.#}</head>
+01563 <lg><l>udu_ tyaM jA_tave†dasaM de_vaM va†hanti ke_tavaH† |</l>
+01564 <l>dR_ze vizvA†ya_ sUrya†m || 1 ||</l></lg>
+01565 <lg><l>apa_ tye tA_yavo† yathA_ nakSa†trA yantya_ktubhiH† |</l>
+01566 <l>sUrA†ya vi_zvaca†kSase || 2 ||</l></lg>
+01567 <lg><l>adR†zramasya ke_tavo_ vi ra_zmayo_ janAMM_ anu† |</l>
+01568 <l>bhrAja†nto a_gnayo† yathA || 3 ||</l></lg>
+01569 <lg><l>ta_raNi†rvi_zvada†rzato jyoti_SkRda†si sUrya |</l>
+01570 <l>vizva_mA bhA†si roca_nam || 4 ||</l></lg>
+01571 <lg><l>pra_tyaGde_vAnAM_ vizaH† pra_tyaGGude†Si_ mAnu†SAn |</l>
+01572 <l>pra_tyaGvizvaM_ sva†rdR_ze || 5 ||</l></lg>
+01573 <lg><l>yenA† pAvaka_ cakSa†sA bhura_NyantaM_ janAMM_ anu† |</l>
+[Page072+ 21]
+01574 <l>tvaM va†ruNa_ pazya†si || 6 ||</l></lg>
+01575 <lg><l>vi dyAme†Si_ raja†spR_thvahA_ mimA†no a_ktubhiH† |</l>
+01576 <l>pazya_n~janmA†ni sUrya || 7 ||</l></lg>
+01577 <lg><l>sa_pta tvA† ha_rito_ rathe_ vaha†nti deva sUrya |</l>
+01578 <l>zo_ciSke†zaM vicakSaNa || 8 ||</l></lg>
+01579 <lg><l>ayu†kta sa_pta zu_ndhyuvaH_ sUro_ ratha†sya na_ptyaH† |</l>
+01580 <l>tAbhi†ryAti_ svayu†ktibhiH || 9 ||</l></lg>
+01581 <head>{#XXXIV. RIGVEDA I. 97.#}</head>
+01582 <lg><l>apa† naH_ zozu†cada_ghamagne† zuzu_gdhyA ra_yim |</l>
+01583 <l>apa† naH_ zozu†cada_gham || 1 ||</l></lg>
+01584 <lg><l>su_kSe_tri_yA su†gAtu_yA va†sU_yA ca† yajAmahe |</l>
+01585 <l>apa† naH_ zozu†cada_gham || 2 ||</l></lg>
+01586 <lg><l>pra yadbhandi†STha eSAM_ prAsmAkA†sazca sU_rayaH† |</l>
+01587 <l>apa† naH_ zozu†cada_gham || 3 ||</l></lg>
+01588 <lg><l>pra yatte† agne sU_rayo_ jAye†mahi_ pra te† va_yam |</l>
+01589 <l>apa† naH_ zozu†cada_gham || 4 ||</l></lg>
+01590 <lg><l>pra yada_gneH saha†svato vi_zvato_ yanti† bhA_navaH† |</l>
+01591 <l>apa† naH_ zozu†cada_gham || 5 ||</l></lg>
+01592 <lg><l>tvaM hi vi†zvatomukha vi_zvataH† pari_bhUrasi† |</l>
+01593 <l>apa† naH_ zozu†cada_gham || 6 ||</l></lg>
+01594 <lg><l>dviSo† no vizvatomu_khAti† nA_veva† pAraya |</l>
+[Page073+ 21]
+01595 <l>apa† naH_ zozu†cada_gham || 7 ||</l></lg>
+01596 <lg><l>sa naH_ sindhu†miva nA_vayAti† parSA sva_staye† |</l>
+01597 <l>apa† naH_ zozu†cada_gham || 8 ||</l></lg>
+01598 <head>{#XXXV. RIGVEDA I. 165.#}</head>
+01599 <lg><l>kayA† zu_bhA sava†yasaH_ sanI†LAH samA_nyA ma_rutaH_ saM mi†mikSuH |</l>
+01600 <l>kayA† ma_tI kuta_ etA†sa e_te 'rca†nti_ zuSmaM_ vRSa†No vasU_yA || 1 ||</l></lg>
+01601 <lg><l>kasya_ brahmA†Ni jujuSu_ryuvA†naH_ ko a†dhva_re ma_ruta_ A va†varta |</l>
+01602 <l>zye_nAMM i†va_ dhraja†to a_ntari†kSe_ kena† ma_hA mana†sA rIramAma || 2 ||</l></lg>
+01603 <lg><l>kuta_stvami†ndra_ mAhi†naH_ sanneko† yAsi satpate_ kiM ta† i_tthA |</l>
+01604 <l>saM pR†cchase samarA_NaH zu†bhA_nairvo_cestanno† harivo_ yatte† a_sme || 3 ||</l></lg>
+01605 <lg><l>brahmA†Ni me ma_tayaH_ zaM su_tAsaH_ zuSma† iyarti_ prabhR†to me_ adriH† |</l>
+01606 <l>A zA†sate_ prati† haryantyu_kthemA ha†rI vahata_stA no_ accha† || 4 ||</l></lg>
+01607 <lg><l>ato† va_yama†nta_mebhi†ryujA_nAH svakSa†trebhista_nva1H_† zumbha†mAnAH |</l>
+01608 <l>maho†bhi_retAMM_ upa† yujmahe_ nvindra† sva_dhAmanu_ hi no† ba_bhUtha† || 5 ||</l></lg>
+01609 <lg><l>kva1_† syA vo† marutaH sva_dhAsI_dyanmAmekaM† sa_madha†ttAhi_hatye† |</l>
+01610 <l>a_haM hyU1_†grasta†vi_Sastuvi†SmA_nvizva†sya_ zatro_rana†maM vadha_snaiH || 6 ||</l></lg>
+01611 <lg><l>bhUri† cakartha_ yujye†bhira_sme sa†mA_nebhi†rvRSabha_ pauMsye†bhiH |</l>
+01612 <l>bhUrI†Ni_ hi kR_NavA†mA zavi_SThendra_ kratvA† maruto_ yadvazA†ma || 7 ||</l></lg>
+01613 <lg><l>vadhIM† vR_traM ma†ruta indri_yeNa_ svena_ bhAme†na tavi_So ba†bhU_vAn |</l>
+01614 <l>a_hame_tA mana†ve vi_zvazca†ndrAH su_gA a_pazca†kara_ vajra†bAhuH || 8 ||</l></lg>
+01615 <lg><l>anu†tta_mA te† maghava_nnaki_rnu na tvAvAMM† asti de_vatA_ vidA†naH |</l>
+[Page074+ 20]
+01616 <l>na jAya†mAno_ naza†te_ na jA_to yAni† kari_SyA kR†Nu_hi pra†vRddha || 9 ||</l></lg>
+01617 <lg><l>eka†sya cinme vi_bhva1_†stvojo_ yA nu da†dhR_SvAnkR_Navai† manI_SA |</l>
+01618 <l>a_haM hyU1_†gro ma†ruto_ vidA†no_ yAni_ cyava_mindra_ idI†za eSAm || 10 | |</l></lg>
+01619 <lg><l>ama†ndanmA maruta_ stomo_ atra_ yanme† naraH_ zrutyaM_ brahma† ca_kra |</l>
+01620 <l>indrA†ya_ vRSNe_ suma†khAya_ mahyaM_ sakhye_ sakhA†yasta_nve† ta_nUbhiH† || 11 ||</l></lg>
+01621 <lg><l>e_vede_te prati† mA_ roca†mAnA_ ane†dyaH_ zrava_ eSo_ dadhA†nAH |</l>
+01622 <l>saM_cakSyA† marutazca_ndrava†rNA_ acchA†nta me cha_dayA†thA ca nU_nam || 12 ||</l></lg>
+01623 <lg><l>ko nvatra† maruto mAmahe vaH_ pra yA†tana_ sakhIMM_racchA† sakhAyaH |</l>
+01624 <l>manmA†ni citrA apivA_taya†nta e_SAM bhU†ta_ nave†dA ma R_tAnA†m || 13 ||</l></lg>
+01625 <lg><l>A yaddu†va_syAddu_vase_ na kA_rura_smAn~ca_kre mA_nyasya† me_dhA |</l>
+01626 <l>o Su va†rtta maruto_ vipra_macche_mA brahmA†Ni jari_tA vo† arcat || 14 ||</l></lg>
+01627 <lg><l>e_Sa va_ stomo† maruta i_yaM gIrmA†ndA_ryasya† mA_nyasya† kA_roH |</l>
+01628 <l>eSA yA†sISTa ta_nve† va_yAM vi_dyAme_SaM vR_janaM† jI_radA†num || 15 ||</l></lg>
+01629 <head>{#XXXVI. RIGVEDA III. 62.#}</head>
+01630 <lg><l>tatsa†vi_turvare†NyaM_ bhargo† de_vasya† dhImahi |</l>
+01631 <l>dhiyo_ yo naH† praco_dayA†t || 10 ||</l></lg>
+01632 <lg><l>de_vasya† savi_turva_yaM vA†ja_yantaH_ puraM†dhyA |</l>
+01633 <l>bhaga†sya rA_timI†mahe || 11 ||</l></lg>
+01634 <lg><l>de_vaM naraH† savi_tAraM_ viprA† ya_jn~aiH su†vR_ktibhiH† |</l>
+01635 <l>na_ma_syanti† dhi_yeSi_tAH || 12 ||</l></lg>
+[Page075+ 21]
+01636 <head>{#XXXVII. RIGVEDA IV. 42.#}</head>
+01637 <lg><l>mama† dvi_tA rA_STraM kSa_triya†sya vi_zvAyo_rvizve† a_mRtA_ yathA† naH |</l>
+01638 <l>kratuM† sacante_ varu†Nasya de_vA rAjA†mi kR_STeru†pa_masya† va_vreH || 1 ||</l></lg>
+01639 <lg><l>a_haM rAjA_ varu†No_ mahyaM_ tAnya†suM_ryA†Ni pratha_mA dhA†rayanta |</l>
+01640 <l>kratuM† sacante_ varu†Nasya de_vA rAjA†mi kR_STeru†pa_masya† va_vreH || 2 ||</l></lg>
+01641 <lg><l>a_hamindro_ varu†Na_ste ma†hi_tvorvI ga†bhI_re raja†sI su_meke† |</l>
+01642 <l>tvaSTe†va_ vizvA_ bhuva†nAni vi_dvAnsamai†rayaM_ roda†sI dhA_rayaM† ca || 3 ||</l></lg>
+01643 <lg><l>a_hama_po a†pinvamu_kSamA†NA dhA_rayaM_ divaM_ sada†na R_tasya† |</l>
+01644 <l>R_tena† pu_tro adi†terR_tAvo_ta tri_dhAtu† prathaya_dvi bhUma† || 4 ||</l></lg>
+01645 <lg><l>mAM naraH_ svazvA† vA_jaya†nto_ mAM vR_tAH sa_mara†Ne havante |</l>
+01646 <l>kR_NomyA_jiM ma_ghavA_hamindra_ iya†rmi re_Numa_bhibhU†tyojAH || 5 ||</l></lg>
+01647 <lg><l>a_haM tA vizvA† cakaraM_ naki†rmA_ daivyaM_ saho† varate_ apra†tItam |</l>
+01648 <l>yanmA_ somA†so ma_mada_nyadu_kthobhe bha†yete_ raja†sI apA_re || 6 ||</l></lg>
+01649 <lg><l>vi_duSTe_ vizvA_ bhuva†nAni_ tasya_ tA pra bra†vISi_ varu†NAya vedhaH |</l>
+01650 <l>tvaM vR_trANi† zRNviSe jagha_nvAntvaM vR_tAMM a†riNA indra_ sindhU†n || 7 ||</l></lg>
+01651 <head>{#XXXVIII. RIGVEDA IV. 52.#}</head>
+01652 <lg><l>prati_ SyA sU_narI_ janI† vyu_cchantI_ pari_ svasuH† |</l>
+01653 <l>di_vo a†darzi duhi_tA || 1 ||</l></lg>
+01654 <lg><l>azve†va ci_trAru†SI mA_tA gavA†mR_tAva†rI |</l>
+01655 <l>sakhA†bhUda_zvino†ru_SAH || 2 ||</l></lg>
+01656 <lg><l>u_ta sakhA†sya_zvino†ru_ta mA_tA gavA†masi |</l>
+[Page076+ 20]
+01657 <l>u_toSo_ vasva† IziSe || 3 ||</l></lg>
+01658 <lg><l>yA_va_yaddve†SasaM tvA ciki_tvitsU†nRtAvari |</l>
+01659 <l>prati_ stomai†rabhutsmahi || 4 ||</l></lg>
+01660 <lg><l>prati† bha_drA a†dRkSata_ gavAM_ sargA_ na ra_zmayaH† |</l>
+01661 <l>oSA a†prA u_ru jrayaH† || 5 ||</l></lg>
+01662 <lg><l>A_pa_pruSI† vibhAvari_ vyA†va_rjyoti†SA_ tamaH† |</l>
+01663 <l>uSo_ anu† sva_dhAma†va || 6 ||</l></lg>
+01664 <lg><l>A dyAM ta†noSi ra_zmibhi_rAntari†kSamu_ru pri_yam |</l>
+01665 <l>uSaH† zu_kreNa† zo_ciSA† || 7 ||</l></lg>
+01666 <head>{#XXXIX. RIGVEDA V. 24.#}</head>
+01667 <lg><l>agne_ tvaM no_ anta†ma u_ta trA_tA zi_vo bha†vA varU_thyaH† || 1 ||</l></lg>
+01668 <lg><l>vasu†ra_gnirvasu†zravA_ acchA† nakSi dyu_matta†maM ra_yiM dAH† || 2 ||</l></lg>
+01669 <lg><l>sa no† bodhi zru_dhI hava†muru_SyA No† aghAya_taH sa†masmAt || 3 ||</l></lg>
+01670 <lg><l>taM tvA† zociSTha dIdivaH su_mnAya† nU_namI†mahe_ sakhi†bhyaH || 4 ||</l></lg>
+01671 <head>{#XL. RIGVEDA V. 40.#}</head>
+01672 <lg><l>sva†rbhAno_radha_ yadi†ndra mA_yA a_vo di_vo varta†mAnA a_vAha†n |</l>
+01673 <l>gU_LhaM sUryaM_ tama_sApa†vratena tu_rIye†Na_ brahma†NAvinda_datriH† || 6 ||</l></lg>
+01674 <lg><l>mA mAmi_maM tava_ santa†matra ira_syA dru_gdho bhi_yasA_ ni gA†rIt |</l>
+01675 <l>tvaM mi_tro a†si sa_tyarA†dhA_stau me_hAva†taM_ varu†Nazca_ rAjA† || 7 ||</l></lg>
+01676 <lg><l>grAvNo† bra_hmA yu†yujA_naH sa†pa_ryankI_riNA† de_vAnnama†sopa_zikSa†n ||</l>
+[Page077+ 20]
+01677 <l>atriH_ sUrya†sya di_vi cakSu_rAdhA_tsva†rbhAno_rapa† mA_yA a†ghukSat || 8 ||</l></lg>
+01678 <head>{#XLI. RIGVEDA VII. 55.#}</head>
+01679 <lg><l>a_mI_va_hA vA†stoSpate_ vizvA† rU_pANyA†vi_zan |</l>
+01680 <l>sakhA† su_zeva† edhi naH || 1 ||</l></lg>
+01681 <lg><l>yada†rjuna sArameya da_taH pi†zaGga_ yaccha†se |</l>
+01682 <l>vI†va bhrAjanta R_STaya_ upa_ srakve†Su_ bapsa†to_ ni Su sva†pa || 2 ||</l></lg>
+01683 <lg><l>ste_naM rA†ya sArameya_ taska†raM vA punaHsara |</l>
+01684 <l>sto_tRRnindra†sya rAyasi_ kima_smAndu†cchunAyase_ ni Su sva†pa || 3 ||</l></lg>
+01685 <lg><l>tvaM sU†ka_rasya† dardRhi_ tava† dardartu sUka_raH |</l>
+01686 <l>sto_tRRnindra†sya rAyasi_ kima_smAndu†cchunAyase_ ni Su sva†pa || 4 ||</l></lg>
+01687 <lg><l>sastu† mA_tA sastu† pi_tA sastu_ zvA sastu† vi_zpatiH† |</l>
+01688 <l>sa_santu_ sarve† jn~A_tayaH_ sastva_yama_bhito_ janaH† || 5 ||</l></lg>
+01689 <lg><l>ya Aste_ yazca_ cara†ti_ yazca_ pazya†ti no_ janaH† |</l>
+01690 <l>teSAM_ saM ha†nmo a_kSANi_ yathe_daM ha_rmyaM tathA† || 6 ||</l></lg>
+01691 <lg><l>sa_hasra†zRGgo vRSa_bho yaH sa†mu_drAdu_dAca†rat |</l>
+01692 <l>tenA† saha_sye†nA va_yaM ni janA†nsvApayAmasi || 7 ||</l></lg>
+01693 <lg><l>pro_SThe_za_yA va†hyeza_yA nArI_ryAsta†lpa_zIva†rIH |</l>
+01694 <l>striyo_ yAH puNya†gandhA_stAH sarvAH† svApayAmasi || 8 ||</l></lg>
+01695 <head>{#XLII. RIGVEDA VII. 56.#}</head>
+01696 <lg><l>ka IM_ vya†ktA_ naraH_ sanI†LA ru_drasya_ maryA_ adhA_ svazvAH† || 1 ||</l></lg>
+[Page078+ 21]
+01697 <lg><l>naki_rhye†SAM ja_nUMSi_ veda_ te a_Gga vi†dre mi_tho ja_nitra†m || 2 ||</l></lg>
+01698 <lg><l>a_bhi sva_pUbhi†rmi_tho va†panta_ vAta†svanasaH zye_nA a†spRdhran || 3 ||</l></lg>
+01699 <lg><l>e_tAni_ dhIro† ni_NyA ci†keta_ pRzni_ryadUdho† ma_hI ja_bhAra† || 4 ||</l></lg>
+01700 <lg><l>sA viTsuvIrA† ma_rudbhi†rastu sa_nAtsaha†ntI_ puSya†ntI nR_mNam || 5 ||</l></lg>
+01701 <lg><l>yAmaM_ yeSThAH† zu_bhA zobhi†SThAH zri_yA saMmi†zlA_ ojo†bhiru_grAH || 6 ||</l></lg>
+01702 <lg><l>u_graM va_ oja† sthi_rA zavAM_syadhA† ma_rudbhi†rga_Nastuvi†SmAn || 7 ||</l></lg>
+01703 <lg><l>zu_bhro vaH_ zuSmaH_ krudhmI_ manAM†si_ dhuni_rmuni†riva_ zardha†sya dhR_SNoH ||</l></lg>
+01704 <lg><l>sane†mya_smadyu_yota† di_dyuM mA vo† durma_tiri_ha praNa†GnaH || 9 ||</l></lg>
+01705 <lg><l>pri_yA vo_ nAma† huve tu_rANA_mA yattR_panma†ruto vAvazA_nAH || 10 ||</l></lg>
+01706 <head>{#XLIII. RIGVEDA VII. 86.#}</head>
+01707 <lg><l>dhIrA_ tva†sya mahi_nA ja_nUMSi_ vi yasta_stambha_ roda†sI cidu_rvI |</l>
+01708 <l>pra nAka†mR_SvaM nu†nude bR_hantaM† dvi_tA nakSa†traM pa_pratha†cca_ bhUma† || 1 ||</l></lg>
+01709 <lg><l>u_ta svayA† ta_nvA_3_† saM va†de_ tatka_dA nva1_†ntarvaru†Ne bhuvAni |</l>
+01710 <l>kiM me† ha_vyamahR†NAno juSeta ka_dA mR†LI_kaM su_manA† a_bhi khya†m || 2 ||</l></lg>
+01711 <lg><l>pR_cche tadeno† varuNa di_dRkSUpo† emi ciki_tuSo† vi_pRccha†m |</l>
+01712 <l>sa_mA_naminme† ka_vaya†zcidAhura_yaM ha_ tubhyaM_ varu†No hRNIte || 3 ||</l></lg>
+01713 <lg><l>kimAga† Asa varuNa_ jyeSThaM_ yatsto_tAraM_ jighAM†sasi_ sakhA†yam |</l>
+01714 <l>pra tanme† voco dULabha svadhA_vo 'va† tvAne_nA nama†sA tu_ra i†yAm || 4 ||</l></lg>
+01715 <lg><l>ava† dru_gdhAni_ pitryA† sRjA_ no 'va_ yA va_yaM ca†kR_mA ta_nUbhiH† |</l>
+01716 <l>ava† rAjanpazu_tRpaM_ na tA_yuM sR_jA va_tsaM na dAmno_ vasi†STham || 5 ||</l></lg>
+01717 <lg><l>na sa svo dakSo† varuNa_ dhrutiH_ sA surA† ma_nyurvi_bhIda†ko_ aci†ttiH |</l>
+[Page079+ 20]
+01718 <l>asti_ jyAyA_nkanI†yasa upA_re svapna†zca_nedanR†tasya prayo_tA || 6 ||</l></lg>
+01719 <lg><l>araM† dA_so na mI_LhuSe† karANya_haM de_vAya_ bhUrNa_ye 'nA†gAH |</l>
+01720 <l>ace†tayada_cito† de_vo a_ryo gRtsaM† rA_ye ka_vita†ro junAti || 7 ||</l></lg>
+01721 <lg><l>a_yaM su tubhyaM† varuNa svadhAvo hR_di stoma_ upa†zritazcidastu |</l>
+01722 <l>zaM naH_ kSeme_ zamu_ yoge† no astu yU_yaM pA†ta sva_stibhiH_ sadA† naH ||</l></lg>
+01723 <head>{#XLIV. RIGVEDA VII. 88.#}</head>
+01724 <lg><l>pra zu_ndhyuvaM_ varu†NAya_ preSThAM† ma_tiM va†siSTha mI_LhuSe† bharasva |</l>
+01725 <l>ya I†ma_rvAn~caM_ kara†te_ yaja†traM sa_hasrA†maghaM_ vRSa†NaM bR_hanta†m || 1 ||</l></lg>
+01726 <lg><l>adhA_ nva†sya saM_dRzaM† jaga_nvAna_gneranI†kaM_ varu†Nasya maMsi |</l>
+01727 <l>sva1_†ryadazma†nnadhi_pA u_ andho_ 'bhi mA_ vapu†rdR_zaye† ninIyAt || 2 ||</l></lg>
+01728 <lg><l>A yadruhAva_ varu†Nazca_ nAvaM_ pra yatsa†mu_dramI_rayA†va_ madhya†m |</l>
+01729 <l>adhi_ yada_pAM snubhi_zcarA†va_ pra pre_Gkha I†GkhayAvahai zu_bhe kam || 3 ||</l></lg>
+01730 <lg><l>vasi†SThaM ha_ varu†No nA_vyAdhA_dRSiM† cakAra_ svapA_ maho†bhiH |</l>
+01731 <l>sto_tAraM_ vipraH† sudina_tve ahnAM_ yAnnu dyAva†sta_tana_nyAdu_SAsaH† || 4 ||</l></lg>
+01732 <lg><l>kva1_† tyAni† nau sa_khyA ba†bhUvuH_ sacA†vahe_ yada†vR_kaM pu_rA ci†t |</l>
+01733 <l>bR_hantaM_ mAnaM† varuNa svadhAvaH sa_hasra†dvAraM jagamA gR_haM te† || 5 ||</l></lg>
+01734 <lg><l>ya A_pirnityo† varuNa pri_yaH santvAmAgAM†si kR_Nava_tsakhA† te |</l>
+01735 <l>mA ta_ ena†svanto yakSinbhujema ya_ndhi SmA_ vipra† stuva_te varU†tham || 6 ||</l></lg>
+01736 <lg><l>dhru_vAsu† tvA_su kSi_tiSu† kSi_yanto_ vya1_†smatpAzaM_ varu†No mumocat |</l>
+01737 <l>avo† vanvA_nA adi†teru_pasthA†dyU_yaM pA†ta sva_stibhiH_ sadA† naH || 7 ||</l></lg>
+[Page080+ 21]
+01738 <head>{#XLV. RIGVEDA VII. 89.#}</head>
+01739 <lg><l>mo Su va†ruNa mR_nmayaM† gR_haM rA†janna_haM ga†mam |</l>
+01740 <l>mR_LA su†kSatra mR_Laya† || 1 ||</l></lg>
+01741 <lg><l>yademi† prasphu_ranni†va_ dRti_rna dhmA_to a†drivaH |</l>
+01742 <l>mR_LA su†kSatra mR_Laya† || 2 ||</l></lg>
+01743 <lg><l>kratvaH† samaha dI_natA† pratI_paM ja†gamA zuce |</l>
+01744 <l>mR_LA su†kSatra mR_Laya† || 3 ||</l></lg>
+01745 <lg><l>a_pAM madhye† tasthi_vAMsaM_ tRSNA†vidajjari_tAra†m |</l>
+01746 <l>mR_LA su†kSatra mR_Laya† || 4 ||</l></lg>
+01747 <lg><l>yatkiM ce_daM va†ruNa_ daivye_ jane† 'bhidro_haM ma†nu_SyA_3_†zcarA†masi |</l>
+01748 <l>aci†ttI_ yattava_ dharmA† yuyopi_ma mA na_stasmA_dena†so deva rIriSaH ||</l></lg>
+01749 <head>{#XLVI. RIGVEDA VIII. 14.#}</head>
+01750 <lg><l>yadi†ndrA_haM yathA_ tvamIzI†ya_ vasva_ eka_ it |</l>
+01751 <l>sto_tA me_ goSa†khA syAt || 1 ||</l></lg>
+01752 <lg><l>zikSe†yamasmai_ ditse†yaM_ zacI†pate manI_SiNe† |</l>
+01753 <l>yada_haM gopa†tiH_ syAm || 2 ||</l></lg>
+01754 <lg><l>dhe_nuSTa† indra sU_nRtA_ yaja†mAnAya sunva_te |</l>
+01755 <l>gAmazvaM† pi_pyuSI† duhe || 3 ||</l></lg>
+01756 <lg><l>na te† va_rtAsti_ rAdha†sa_ indra† de_vo na martyaH† |</l>
+01757 <l>yadditsa†si stu_to ma_gham || 4 ||</l></lg>
+01758 <lg><l>ya_jn~a indra†mavardhaya_dyadbhUmiM_ vyava†rtayat |</l>
+[Page081+ 21]
+01759 <l>ca_krA_Na o†pa_zaM di_vi || 5 ||</l></lg>
+01760 <lg><l>vA_vR_dhA_nasya† te va_yaM vizvA_ dhanA†ni ji_gyuSaH† |</l>
+01761 <l>U_timi_ndrA vR†NImahe || 6 ||</l></lg>
+01762 <lg><l>vya1_†ntari†kSamatira_nmade_ soma†sya roca_nA |</l>
+01763 <l>indro_ yadabhi†nadva_lam || 7 ||</l></lg>
+01764 <lg><l>udgA A†ja_daGgi†robhya A_viSkR_NvanguhA† sa_tIH |</l>
+01765 <l>a_rvAn~caM† nunude va_lam || 8 ||</l></lg>
+01766 <lg><l>indre†Na roca_nA di_vo dR_LhAni† dRMhi_tAni† ca |</l>
+01767 <l>sthi_rANi_ na pa†rA_Nude† || 9 ||</l></lg>
+01768 <lg><l>a_pAmU_rmirmada†nniva_ stoma† indrAjirAyate |</l>
+01769 <l>vi te_ madA† arAjiSuH || 10 ||</l></lg>
+01770 <lg><l>tvaM hi sto†ma_vardha†na_ indrAsyu†ktha_vardha†naH |</l>
+01771 <l>sto_tRR_NAmu_ta bha†dra_kRt || 11 ||</l></lg>
+01772 <lg><l>indra_mitke_zinA_ harI† soma_peyA†ya vakSataH |</l>
+01773 <l>upa† ya_jn~aM su_rAdha†sam || 12 ||</l></lg>
+01774 <lg><l>a_pAM phene†na_ namu†ceH_ zira† i_ndroda†vartayaH |</l>
+01775 <l>vizvA_ yadaja†ya_ spRdhaH† || 13 ||</l></lg>
+01776 <lg><l>mA_yAbhi†ru_tsisR†psata_ indra_ dyAmA_ruru†kSataH |</l>
+01777 <l>ava_ dasyUMM†radhUnuthAH || 14 ||</l></lg>
+01778 <lg><l>a_su_nvAmi†ndra saM_sadaM_ viSU†cIM_ vya†nAzayaH |</l>
+01779 <l>so_ma_pA utta†ro_ bhava†n || 15 ||</l></lg>
+[Page082+ 20]
+01780 <head>{#XLVII. RIGVEDA VIII. 85.#}</head>
+01781 <lg><l>vR_trasya† tvA zva_sathA_dISa†mANA_ vizve† de_vA a†jahu_rye sakhA†yaH |</l>
+01782 <l>ma_rudbhi†rindra sa_khyaM te† a_stvathe_mA vizvAH_ pRta†nA jayAsi || 7 ||</l></lg>
+01783 <lg><l>triH Sa_STistvA† ma_ruto† vAvRdhA_nA u_srA i†va rA_zayo† ya_jn~iyA†saH |</l>
+01784 <l>upa_ tvemaH† kR_dhi no† bhAga_dheyaM_ zuSmaM† ta e_nA ha_viSA† vidhema || 8 ||</l></lg>
+01785 <lg><l>ti_gmamAyu†dhaM ma_rutA_manI†kaM_ kasta† indra_ prati_ vajraM† dadharSa |</l>
+01786 <l>a_nA_yu_dhAso_ asu†rA ade_vAzca_kreNa_ tAMM apa† vapa RjISin ||</l></lg>
+01787 <head>{#XLVIII. RIGVEDA VIII. 91.#}</head>
+01788 <lg><l>agne† ghR_tasya† dhI_tibhi†stepA_no de†va zo_ciSA† |</l>
+01789 <l>A de_vAnva†kSi_ yakSi† ca || 16 ||</l></lg>
+01790 <lg><l>taM tvA†jananta mA_taraH† ka_viM de_vAso† aGgiraH |</l>
+01791 <l>ha_vya_vAha_mama†rtyam || 17 ||</l></lg>
+01792 <lg><l>prace†tasaM tvA ka_ve 'gne† dU_taM vare†Nyam |</l>
+01793 <l>ha_vya_vAhaM_ ni Se†dire || 18 ||</l></lg>
+01794 <lg><l>na_hi me_ astyaghnyA_ na svadhi†ti_rvana†nvati |</l>
+01795 <l>athai†tA_dRgbha†rAmi te || 19 ||</l></lg>
+01796 <lg><l>yada†gne_ kAni_ kAni† ci_dA te_ dArU†Ni da_dhmasi† |</l>
+01797 <l>tA ju†Sasva yaviSThya || 20 ||</l></lg>
+01798 <lg><l>a_gnimindhA†no_ mana†sA_ dhiyaM† saceta_ martyaH† |</l>
+01799 <l>a_gnimI†dhe vi_vasva†bhiH || 22 ||</l></lg>
+[Page083+ 21]
+01800 <head>{#XLIX. RIGVEDA X. 9.#}</head>
+01801 <lg><l>Apo_ hi SThA ma†yo_bhuva_stA na† U_rje da†dhAtana |</l>
+01802 <l>ma_he raNA†ya_ cakSa†se || 1 ||</l></lg>
+01803 <lg><l>yo vaH† zi_vata†mo_ rasa_stasya† bhAjayate_ha naH† |</l>
+01804 <l>u_za_tIri†va mA_taraH† || 2 ||</l></lg>
+01805 <lg><l>tasmA_ araM† gamAma vo_ yasya_ kSayA†ya_ jinva†tha |</l>
+01806 <l>Apo† ja_naya†thA ca naH || 3 ||</l></lg>
+01807 <head>{#L. RIGVEDA X. 14.#}</head>
+01808 <lg><l>pa_re_yi_vAMsaM† pra_vato† ma_hIranu† ba_hubhyaH_ panthA†manupaspazA_nam |</l>
+01809 <l>vai_va_sva_taM saM_gama†naM_ janA†nAM ya_maM rAjA†naM ha_viSA† duvasya || 1 ||</l></lg>
+01810 <lg><l>ya_mo no† gA_tuM pra†tha_mo vi†veda_ naiSA gavyU†ti_rapa†bharta_vA u† |</l>
+01811 <l>yatrA† naH_ pUrve† pi_taraH† pare_yure_nA ja†jn~A_nAH pa_thyA_3_† anu_ svAH || 2 ||</l></lg>
+01812 <lg><l>prehi_ prehi† pa_thibhiH† pU_rvyebhi_ryatrA† naH_ pUrve† pi_taraH† pare_yuH |</l>
+01813 <l>u_bhA rAjA†nA sva_dhayA_ mada†ntA ya_maM pa†zyAsi_ varu†NaM ca de_vam || 7 ||</l></lg>
+01814 <lg><l>saM ga†cchasva pi_tRbhiH_ saM ya_mene†STApU_rtena† para_me vyo†man |</l>
+01815 <l>hi_tvAyA†va_dyaM puna_rasta_mehi_ saM ga†cchasva ta_nvA† su_varcAH† || 8 ||</l></lg>
+01816 <lg><l>ape†ta_ vI†ta_ vi ca† sarpa_tAto_ 'smA e_taM pi_taro† lo_kama†kran |</l>
+01817 <l>aho†bhira_dbhira_ktubhi_rvya†ktaM ya_mo da†dAtyava_sAna†masmai || 9 ||</l></lg>
+01818 <lg><l>ati† drava sArame_yau zvAnau† catura_kSau za_balau† sA_dhunA† pa_thA |</l>
+01819 <l>athA† pi_tRRnsu†vi_datrAMM_ upe†hi ya_mena_ ye sa†dha_mAdaM_ mada†nti || 10 ||</l></lg>
+01820 <lg><l>yau te_ zvAnau† yama rakSi_tArau† catura_kSau pa†thi_rakSI† nR_cakSa†sau |</l>
+[Page084+ 21]
+01821 <l>tAbhyA†menaM_ pari† dehi rAjansva_sti cA†smA anamI_vaM ca† dhehi || 11 ||</l></lg>
+01822 <lg><l>u_rU_Na_sAva†su_tRpA† udumba_lau ya_masya† dU_tau ca†rato_ janAMM_ anu† |</l>
+01823 <l>tAva_smabhyaM† dR_zaye_ sUryA†ya_ puna†rdAtA_masu†ma_dyeha bha_dram || 12 ||</l></lg>
+01824 <head>{#LI. RIGVEDA X. 16.#}</head>
+01825 <lg><l>maina†magne_ vi da†ho_ mAbhi zo†co_ mAsya_ tvacaM† cikSipo_ mA zarI†ram |</l>
+01826 <l>ya_dA zR_taM kR_Navo† jAtave_do 'the†menaM_ pra hi†NutAtpi_tRbhyaH† || 1 ||</l></lg>
+01827 <lg><l>zR_taM ya_dA kara†si jAtave_do 'the†menaM_ pari† dattAtpi_tRbhyaH† |</l>
+01828 <l>ya_dA gacchA_tyasu†nItime_tAmathA† de_vAnAM† vaza_nIrbha†vAti || 2 ||</l></lg>
+01829 <lg><l>sUryaM_ cakSu†rgacchatu_ vAta†mA_tmA dyAM ca† gaccha pRthi_vIM ca_ dharma†NA |</l>
+01830 <l>a_po vA† gaccha_ yadi_ tatra† te hi_tamoSa†dhISu_ prati† tiSThA_ zarI†raiH || 3 ||</l></lg>
+01831 <lg><l>a_jo bhA_gastapa†sA_ taM ta†pasva_ taM te† zo_cista†patu_ taM te† a_rciH |</l>
+01832 <l>yAste† zi_vAsta_nvo† jAtaveda_stAbhi†rvahainaM su_kRtA†mu lo_kam || 4 ||</l></lg>
+01833 <lg><l>ava† sRja_ puna†ragne pi_tRbhyo_ yasta_ Ahu†ta_zcara†ti sva_dhAbhiH† |</l>
+01834 <l>Ayu_rvasA†na_ upa† vetu_ zeSaH_ saM ga†cchatAM ta_nvA† jAtavedaH || 5 ||</l></lg>
+01835 <lg><l>yatte† kR_SNaH za†ku_na A†tu_toda† pipI_laH sa_rpa u_ta vA_ zvApa†daH |</l>
+01836 <l>a_gniSTadvi_zvAda†ga_daM kR†Notu_ soma†zca_ yo brA†hma_NAMM A†vi_veza† || 6 ||</l></lg>
+01837 <lg><l>a_gnervarma_ pari_ gobhi†rvyayasva_ saM prorNu†Sva_ pIva†sA_ meda†sA ca |</l>
+01838 <l>nettvA† dhR_SNurhara†sA_ jarhR†SANo da_dhRgvi†dha_kSyanpa†rya_GkhayA†te || 7 ||</l></lg>
+01839 <lg><l>i_mama†gne cama_saM mA vi ji†hvaraH pri_yo de_vAnA†mu_ta so_myAnA†m |</l>
+01840 <l>e_Sa yazca†ma_so de†va_pAna_stasmi†nde_vA a_mRtA† mAdayante || 8 ||</l></lg>
+01841 <lg><l>kra_vyAda†ma_gniM pra hi†Nomi dU_raM ya_marA†jn~o gacchatu ripravA_haH |</l>
+[Page085+ 21]
+01842 <l>i_haivAyamita†ro jA_tave†dA de_vebhyo† ha_vyaM va†hatu prajA_nan || 9 ||</l></lg>
+01843 <lg><l>yo a_gniH kra_vyAtpra†vi_veza† vo gR_hami_maM pazya_nnita†raM jA_tave†dasam |</l>
+01844 <l>taM ha†rAmi pitRya_jn~Aya† de_vaM sa gha_rmami†nvAtpara_me sa_dhasthe† || 10 ||</l></lg>
+01845 <lg><l>yo a_gniH kra†vya_vAha†naH pi_tRRnyakSa†dRtA_vRdhaH† |</l>
+01846 <l>predu† ha_vyAni† vocati de_vebhya†zca pi_tRbhya_ A || 11 ||</l></lg>
+01847 <lg><l>u_zanta†stvA_ ni dhI†mahyu_zantaH_ sami†dhImahi |</l>
+01848 <l>u_zannu†za_ta A va†ha pi_tRRnha_viSe_ atta†ve || 12 ||</l></lg>
+01849 <lg><l>yaM tvama†gne sa_mada†ha_stamu_ nirvA†payA_ punaH† |</l>
+01850 <l>ki_yAmbvatra† rohatu pAkadU_rvA vya†lkazA || 13 ||</l></lg>
+01851 <lg><l>zIti†ke_ zIti†kAvati_ hlAdi†ke_ hlAdi†kAvati |</l>
+01852 <l>ma_NDU_kyA_3_† su saM ga†ma i_maM sva1_†gniM ha†rSaya || 14 ||</l></lg>
+01853 <head>{#LII. RIGVEDA X. 17.#}</head>
+01854 <lg><l>tvaSTA† duhi_tre va†ha_tuM kR†No_tItI_daM vizvaM_ bhuva†naM_ same†ti |</l>
+01855 <l>ya_masya† mA_tA pa†ryu_hyamA†nA ma_ho jA_yA viva†svato nanAzaM || 1 ||</l></lg>
+01856 <lg><l>apA†gUhanna_mRtAM_ martye†bhyaH kR_tvI sava†rNAmadadu_rviva†svate |</l>
+01857 <l>u_tAzvinA†vabhara_dyattadAsI_daja†hAdu_ dvA mi†thu_nA sa†ra_NyUH || 2 ||</l></lg>
+01858 <lg><l>pU_SA tve_tazcyA†vayatu_ pra vi_dvAnana†STapazu_rbhuva†nasya go_pAH |</l>
+01859 <l>sa tvai_tebhyaH_ pari† dadatpi_tRbhyo_ 'gnirde_vebhyaH† suvida_triye†bhyaH || 3 ||</l></lg>
+01860 <lg><l>Ayu†rvi_zvAyuH_ pari† pAsati tvA pU_SA tvA† pAtu_ prapa†the pu_rastA†t |</l>
+01861 <l>yatrAsa†te su_kRto_ yatra_ te ya_yustatra† tvA de_vaH sa†vi_tA da†dhAtu || 4 ||</l></lg>
+01862 <lg><l>pU_SemA AzA_ anu† veda_ sarvAH_ so a_smAMM abha†yatamena neSat |</l>
+[Page086+ 21]
+01863 <l>sva_sti_dA AghR†NiH_ sarva†vI_ro 'pra†yucchanpu_ra e†tu prajA_nan || 5 ||</l></lg>
+01864 <lg><l>prapa†the pa_thAma†janiSTa pU_SA prapa†the di_vaH prapa†the pRthi_vyAH |</l>
+01865 <l>u_bhe a_bhi pri_yata†me sa_dhasthe_ A ca_ parA† ca carati prajA_nan || 6 ||</l></lg>
+01866 <head>{#LIII. RIGVEDA X. 18.#}</head>
+01867 <lg><l>paraM† mRtyo_ anu_ pare†hi_ panthAM_ yaste_ sva ita†ro deva_yAnA†t |</l>
+01868 <l>cakSu†Smate zRNva_te te† bravImi_ mA naH† pra_jAM rI†riSo_ mota vI_rAn || 1 ||</l></lg>
+01869 <lg><l>mR_tyoH pa_daM yo_paya†nto_ yadaita_ drAghI†ya_ AyuH† prata_raM dadhA†nAH |</l>
+01870 <l>A_pyAya†mAnAH pra_jayA_ dhane†na zu_ddhAH pU_tA bha†vata yajn~iyAsaH || 2 ||</l></lg>
+01871 <lg><l>i_me jI_vA vi mR_tairAva†vRtra_nnabhU†dbha_drA de_vahU†tirno a_dya |</l>
+01872 <l>prAn~co† agAma nR_taye_ hasA†ya_ drAghI†ya_ AyuH† prata_raM dadhA†nAH || 3 ||</l></lg>
+01873 <lg><l>i_maM jI_vebhyaH† pari_dhiM da†dhAmi_ maiSAM_ nu gA_dapa†ro_ artha†me_tam |</l>
+01874 <l>za_taM jI†vantu za_radaH† purU_cIra_ntarmR_tyuM da†dhatAM_ parva†tena || 4 ||</l></lg>
+01875 <lg><l>yathAhA†nyanupU_rvaM bhava†nti_ yatha† R_tava† R_tubhi_ryanti† sA_dhu |</l>
+01876 <l>yathA_ na pUrva_mapa†ro_ jahA†tye_vA dhA†ta_rAyUM†Si kalpayaiSAm || 5 ||</l></lg>
+01877 <lg><l>A ro†ha_tAyu†rja_rasaM† vRNA_nA a†nupU_rvaM yata†mAnA_ yati_ STha |</l>
+01878 <l>i_ha tvaSTA† su_jani†mA sa_joSA† dI_rghamAyuH† karati jI_vase† vaH || 6 ||</l></lg>
+01879 <lg><l>i_mA nArI†ravidha_vAH su_patnI_rAn~ja†nena sa_rpiSA_ saM vi†zantu |</l>
+01880 <l>a_na_zravo† 'namI_vAH su_ratnA_ A ro†hantu_ jana†yo_ yoni_magre† || 7 ||</l></lg>
+01881 <lg><l>udI†rSva nArya_bhi jI†valo_kaM ga_tAsu†me_tamupa† zeSa_ ehi† |</l>
+01882 <l>ha_sta_grA_bhasya† didhi_Sostave_daM patyu†rjani_tvama_bhi saM ba†bhUtha || 8 ||</l></lg>
+01883 <lg><l>dhanu_rhastA†dA_dadA†no mR_tasyA_sme kSa_trAya_ varca†se_ balA†ya |</l>
+[Page087+ 21]
+01884 <l>atrai_va tvami_ha va_yaM su_vIrA_ vizvA_ spRdho† a_bhimA†tIrjayema || 9 ||</l></lg>
+01885 <lg><l>upa† sarpa mA_taraM_ bhUmi†me_tAmu†ru_vyaca†saM pRthi_vIM su_zevA†m |</l>
+01886 <l>UrNa†mradA yuva_tirdakSi†NAvata e_SA tvA† pAtu_ nirR†teru_pasthA†t || 10 ||</l></lg>
+01887 <lg><l>ucchva†n~casva pRthivi_ mA ni bA†dhathAH sUpAya_nAsmai† bhava sUpavan~ca_nA |</l>
+01888 <l>mA_tA pu_traM yathA† si_cAbhye†naM bhUma UrNuhi || 11 ||</l></lg>
+01889 <lg><l>u_cchvan~ca†mAnA pRthi_vI su ti†SThatu sa_hasraM_ mita_ upa_ hi zraya†ntAm |</l>
+01890 <l>te gR_hAso† ghRta_zcuto† bhavantu vi_zvAhA†smai zara_NAH sa_ntvatra† || 12 ||</l></lg>
+01891 <lg><l>utte† stabhnAmi pRthi_vIM tvatparI_maM lo_gaM ni_dadha_nmo a_haM ri†Sam |</l>
+01892 <l>e_tAM sthUNAM† pi_taro† dhArayantu_ te 'trA† ya_maH sAda†nA te minotu ||</l></lg>
+01893 <lg><l>pra_tI_cIne_ mAmaha_nISvAH† pa_rNami_vA da†dhuH |</l>
+01894 <l>pra_tIcIM† jagrabhA_ vAca_mazvaM† raza_nayA† yathA || 14 ||</l></lg>
+01895 <head>{#LIV. RIGVEDA X. 33.#}</head>
+01896 <lg><l>ku_ru_zrava†NamAvRNi_ rAjA†naM_ trAsa†dasyavam |</l>
+01897 <l>maMhi†SThaM vA_ghatA_mRSiH† || 4 ||</l></lg>
+01898 <lg><l>yasya† mA ha_rito_ rathe† ti_sro vaha†nti sAdhu_yA |</l>
+01899 <l>stavai† sa_hasra†dakSiNe || 5 ||</l></lg>
+01900 <lg><l>yasya_ prasvA†daso_ gira† upa_mazra†vasaH pi_tuH |</l>
+01901 <l>kSetraM_ na ra_NvamU_cuSe† || 6 ||</l></lg>
+01902 <lg><l>adhi† putropamazravo_ napA†nmitrAtitherihi |</l>
+01903 <l>pi_tuSTe† asmi vandi_tA || 7 ||</l></lg>
+01904 <lg><l>yadIzI†yA_mRtA†nAmu_ta vA_ martyA†nAm |</l>
+[Page088+ 19]
+01905 <l>jIve_dinma_ghavA_ mama† || 8 ||</l></lg>
+01906 <lg><l>na de_vAnA_mati† vra_taM za_tAtmA† ca_na jI†vati |</l>
+01907 <l>tathA† yu_jA vi vA†vRte || 9 ||</l></lg>
+01908 <head>{#LV. RIGVEDA X. 40. 10.#}</head>
+01909 <lg><l>jI_vaM ru†danti_ vi ma†yante adhva_re dI_rghAmanu_ prasi†tiM dIdhiyu_rnaraH† |</l>
+01910 <l>vA_maM pi_tRbhyo_ ya i_daM sa†meri_re mayaH_ pati†bhyo_ jana†yaH pari_Svaje† || 1 ||</l></lg>
+01911 <head>{#LVI. RIGVEDA X. 52.#}</head>
+01912 <lg><l>vizve† devAH zA_stana† mA_ yathe_ha hotA† vR_to ma_navai_ yanni_Sadya† |</l>
+01913 <l>pra me† brUta bhAga_dheyaM_ yathA† vo_ yena† pa_thA ha_vyamA vo_ vahA†ni || 1 ||</l></lg>
+01914 <lg><l>a_haM hotA_ nya†sIdaM_ yajI†yA_nvizve† de_vA ma_ruto† mA junanti |</l>
+01915 <l>aha†raharazvi_nAdhva†ryavaM vAM bra_hmA sa_midbha†vati_ sAhu†tirvAm || 2 ||</l></lg>
+01916 <lg><l>a_yaM yo hotA_ kiru_ sa ya_masya_ kamapyU†he_ yatsa†ma_n~janti† de_vAH |</l>
+01917 <l>aha†raharjAyate mA_si mA_syathA† de_vA da†dhire havya_vAha†m || 3 ||</l></lg>
+01918 <lg><l>mAM de_vA da†dhire havya_vAha_mapa†mluktaM ba_hu kR_cchrA cara†ntam |</l>
+01919 <l>a_gnirvi_dvAnya_jn~aM naH† kalpayAti_ pan~ca†yAmaM tri_vRtaM† sa_ptata†ntum || 4 ||</l></lg>
+01920 <lg><l>A vo† yakSyamRta_tvaM su_vIraM_ yathA† vo devA_ vari†vaH_ karA†Ni |</l>
+01921 <l>A bA_hvorvajra_mindra†sya dheyA_mathe_mA vizvAH_ pRta†nA jayAti || 5 ||</l></lg>
+01922 <lg><l>trINi† za_tA trI sa_hasrA†Nya_gniM triM_zacca† de_vA nava† cAsaparyan |</l>
+01923 <l>aukSa†nghR_tairastR†Nanba_rhira†smA_ AdiddhotA†raM_ nya†sAdayanta || 6 ||</l></lg>
+[Page089+ 21]
+01924 <head>{#LVII. RIGVEDA X. 53.#}</head>
+01925 <lg><l>tantuM† ta_nvanraja†so bhA_numanvi†hi_ jyoti†SmataH pa_tho ra†kSa dhi_yA kR_tAn |</l>
+01926 <l>a_nu_lba_NaM va†yata_ jogu†vA_mapo_ manu†rbhava ja_nayA_ daivyaM_ jana†m || 6 ||</l></lg>
+01927 <lg><l>azma†nvatI rIyate_ saM ra†bhadhva_mutti†SThata_ pra ta†ratA sakhAyaH |</l>
+01928 <l>atrA† jahAma_ ye asa_nnaze†vAH zi_vAnva_yamutta†remA_bhi vAjA†n || 8 ||</l></lg>
+01929 <head>{#LVIII. RIGVEDA X. 85. 36, 24--26, 32--33, 27, 43--47.#}</head>
+01930 <lg><l>gR_bhNAmi† te saubhaga_tvAya_ hastaM_ mayA_ patyA† ja_rada†STi_ryathAsaH† |</l>
+01931 <l>bhago† arya_mA sa†vi_tA puraM†dhi_rmahyaM† tvAdu_rgArha†patyAya de_vAH || 36 ||</l></lg>
+01932 <lg><l>pra tvA† mun~cAmi_ varu†Nasya_ pAzA_dyena_ tvAba†dhnAtsavi_tA su_zevaH† |</l>
+01933 <l>R_tasya_ yonau† sukR_tasya† lo_ke 'ri†STAM tvA sa_ha patyA† dadhAmi || 24 ||</l></lg>
+01934 <lg><l>preto mu_n~cAmi_ nAmutaH† suba_ddhAma_muta†skaram |</l>
+01935 <l>yathe_yami†ndra mIDhvaH supu_trA su_bhagAsa†ti || 25 ||</l></lg>
+01936 <lg><l>pU_SA tve_to na†yatu hasta_gRhyA_zvinA† tvA_ pra va†hatAM_ rathe†na |</l>
+01937 <l>gR_hAnga†ccha gR_hapa†tnI_ yathAso† va_zinI_ tvaM vi_datha_mA va†dAsi || 26 ||</l></lg>
+01938 <lg><l>mA vi†danparipa_nthino_ ya A_sIda†nti_ daMpa†tI |</l>
+01939 <l>su_gebhi†rdu_rgamatI†tA_mapa† drA_ntvarA†tayaH || 32 ||</l></lg>
+01940 <lg><l>su_ma_Gga_lIri_yaM va_dhUri_mAM sa_meta_ pazya†ta |</l>
+01941 <l>saubhA†gyamasyai da_ttvAyAthAstaM_ vi pare†tana || 33 ||</l></lg>
+01942 <lg><l>i_ha pri_yaM pra_jayA† te_ samR†dhyatAma_smingR_he gArha†patyAya jAgRhi |</l>
+01943 <l>e_nA patyA† ta_nvaM1_† saM sR†ja_svAdhA_ jivrI† vi_datha_mA va†dAthaH || 27 ||</l></lg>
+01944 <lg><l>A naH† pra_jAM ja†nayatu pra_jApa†tirAjara_sAya_ sama†naktvarya_mA |</l>
+[Page090+ 21]
+01945 <l>adu†rmaGgalIH patilo_kamA vi†za_ zaM no† bhava dvi_pade_ zaM catu†Spade ||</l></lg>
+01946 <lg><l>agho†racakSu_rapa†tighnyedhi zi_vA pa_zubhyaH† su_manAH† su_varcAH† |</l>
+01947 <l>vI_ra_sUrde_vakA†mA syo_nA zaM no† bhava dvi_pade_ zaM catu†Spade || 44 ||</l></lg>
+01948 <lg><l>i_mAM tvami†ndra mIDhvaH supu_trAM su_bhagAM† kRNu |</l>
+01949 <l>dazA†syAM pu_trAnA dhe†hi_ pati†mekAda_zaM kR†dhi || 45 ||</l></lg>
+01950 <lg><l>sa_mrAjn~I_ zvazu†re bhava sa_mrAjn~I† zva_zrvAM bha†va |</l>
+01951 <l>nanA†ndari sa_mrAjn~I† bhava sa_mrAjn~I_ adhi† de_vRSu† || 46 ||</l></lg>
+01952 <lg><l>sama†n~jantu_ vizve† de_vAH samApo_ hRda†yAni nau |</l>
+01953 <l>saM mA†ta_rizvA_ saM dhA_tA samu_ deSTrI† dadhAtu nau || 47 ||</l></lg>
+01954 <head>{#LIX. RIGVEDA X. 137.#}</head>
+01955 <lg><l>u_ta de†vA_ ava†hitaM_ devA_ unna†yathA_ punaH† |</l>
+01956 <l>u_tAga†zca_kruSaM† devA_ devA† jI_vaya†thA_ punaH† || 1 ||</l></lg>
+01957 <lg><l>dvAvi_mau vAtau† vAta_ A sindho_rA pa†rA_vataH† |</l>
+01958 <l>dakSaM† te a_nya A vA†tu_ parA_nyo vA†tu_ yadrapaH† || 2 ||</l></lg>
+01959 <lg><l>A vA†ta vAhi bheSa_jaM vi vA†ta vAhi_ yadrapaH† |</l>
+01960 <l>tvaM hi vi_zvabhe†Sajo de_vAnAM† dU_ta Iya†se || 3 ||</l></lg>
+01961 <lg><l>A tvA†gamaM_ zaMtA†tibhi_ratho† ari_STatA†tibhiH |</l>
+01962 <l>dakSaM† te bha_dramAbhA†rSaM_ parA_ yakSmaM† suvAmi te || 4 ||</l></lg>
+01963 <lg><l>trAya†ntAmi_ha de_vAstrAya†tAM ma_rutAM† ga_NaH |</l>
+01964 <l>trAya†ntAM_ vizvA† bhU_tAni_ yathA_yama†ra_pA asa†t || 5 ||</l></lg>
+01965 <lg><l>Apa_ idvA u† bheSa_jIrApo† amIva_cAta†nIH |</l>
+[Page091+ 19]
+01966 <l>ApaH_ sarva†sya bheSa_jIstAste† kRNvantu bheSa_jam || 6 ||</l></lg>
+01967 <lg><l>hastA†bhyAM_ daza†zAkhAbhyAM ji_hvA vA_caH pu†roga_vI |</l>
+01968 <l>a_nA_ma_yi_tnubhyAM† tvA_ tAbhyAM_ tvopa† spRzAmasi || 7 ||</l></lg>
+01969 <head>{#LX. RIGVEDA X. 154.#}</head>
+01970 <lg><l>soma_ eke†bhyaH pavate ghR_tameka_ upA†sate |</l>
+01971 <l>yebhyo_ madhu† pra_dhAva†ti_ tAMzci†de_vApi† gacchatAt || 1 ||</l></lg>
+01972 <lg><l>tapa†sA_ ye a†nAdhR_SyAstapa†sA_ ye sva†rya_yuH |</l>
+01973 <l>tapo_ ye ca†kri_re maha_stAMzci†de_vApi† gacchatAt || 2 ||</l></lg>
+01974 <lg><l>ye yudhya†nte pra_dhane†Su_ zUrA†so_ ye ta†nU_tyajaH† |</l>
+01975 <l>ye vA† sa_hasra†dakSiNA_stAMzci†de_vApi† gacchatAt || 3 ||</l></lg>
+01976 <lg><l>ye ci_tpUrva† Rta_sApa† R_tAvA†na RtA_vRdhaH† |</l>
+01977 <l>pi_tRRntapa†svato yama_ tAMzci†de_vApi† gacchatAt || 4 ||</l></lg>
+01978 <lg><l>sa_hasra†NIthAH ka_vayo_ ye go†pA_yanti_ sUrya†m |</l>
+01979 <l>RSI_ntapa†svato yama tapo_jAMM api† gacchatAt || 5 ||</l></lg>
+01980 <head>{#LXI. RIGVEDA X. 155.#}</head>
+01981 <lg><l>parI_me gAma†neSata_ parya_gnima†hRSata |</l>
+01982 <l>de_veSva†krata_ zravaH_ ka i_mAMM A da†dharSati || 5 ||</l></lg>
+01983 <head>{#LXII. MAITRAYANI SANHITA II. 13. 23.#}</head>
+01984 <lg><l>hiraNyagarbhaH† sa†mavartatA†gre bhUta†sya jAtaH† pa†tire†ka AsIt |</l>
+[Page092+ 21]
+01985 <l>sa† dAdhAra pRthivIM† dyA†mute†mAM† ka†smai devA†ya havi†SA vidhema || 1 ||</l></lg>
+01986 <lg><l>yaH† prANato† nimiSata†zca rA†jA pa†tirvi†zvasya ja†gato babhU†va |</l>
+01987 <l>I†ze yo† asya† dvipa†dazca†tuSpadaH ka†smai devA†ya havi†SA vidhema || 2 ||</l></lg>
+01988 <lg><l>ya† ojodA† baladA† ya†sya vi†zva upA†sate prazi†SaMM ya†sya devAH† |</l>
+01989 <l>ya†sya chAyA†mR†taMM ya†sya mRtyuH† ka†smai devA†ya havi†SA vidhema || 3 ||</l></lg>
+01990 <lg><l>ya†syeme† vi†zve gira†yo mahitvA† samudra†MM ya†sya rasa†yA sahA†huH† |</l>
+01991 <l>di†zo ya†sya pradi†zaH pa†n~ca devIH† ka†smai devA†ya havi†SA vidhema || 4 ||</l></lg>
+01992 <lg><l>ye†na dyau†rugrA† pRthivI† ca dRDhA† ye†na svR stabhitaMM† ye†na nA†kaH |</l>
+01993 <l>yo† anta†rikSaMM vimame† va†rIyaH ka†smai devA†ya havi†SA vidhema || 5 ||</l></lg>
+01994 <lg><l>ya† ime† dyA†vApRthivI† tastabhAne† a†dhArayadro†dasI re†jamAne |</l>
+01995 <l>ya†sminna†dhi vi†tataH sU†rA e†ti ka†smai devA†ya havi†SA vidhema || 6 ||</l></lg>
+01996 <lg><l>A†po ha ya†nmahatI†rvi†zvamA†yanga†rbhaM da†dhAnA jana†yantIragni†m |</l>
+01997 <l>ta†to devA†nAM ni†ravartatA†suH ka†smai devA†ya havi†SA vidhema || 7 ||</l></lg>
+01998 <head>{#LXIII. MAITRAYANI SANHITA I. 5. 12.#}</head>
+01999 <p>yamo† vA† amriyata | te† devA† yamyA† yama†ma†pAbruvan | tAMM†
+02000 ya†da†pRchantsA†bravIdadyA†mRte†ti | te{??} 'bruvanna† vA† iya†mima†mitthaM†
+02001 mRSyate rA†trIMM sRjAvahA i†ti | a†harvA†va† ta†rhyA†sInna† rA†triH | te†
+02002 devA† rA†trimasRjanta | ta†taH zva†stanamabhavat | ta†taH sA† ta†mamR-
+02003 Syata | ta†smAdAhurahorAtrA†Ni vA†vA†ghaM† marSayantI†ti |</p>
+02004 <head>{#LXIV. MAITRAYANI SANHITA I. 10. 13.#}</head>
+02005 <p>prajA†patervA† eta†jjyeSThaM† tokaMM† ya†tpa†rvatAH | te† pakSi†Na A-
+[Page093+ 21]
+02006 san | te† parApA†tamAsata ya†tra yatrA†kAmayanta | a†tha vA† iya†M
+02007 ta†rhi zithirA†sIt | te†SAmi†ndraH pakSA†nachinat | tai†rimA†madRMM-
+02008 hat | ye† pakSA† A†saMMste† jImU†tA abhavan | ta†smAdete† sadadi†
+02009 pa†rvatamu†pa plavante | yo†nirhye{??}SAmeSaH† |</p>
+02010 <head>{#LXV. MAITRAYANI SANHITA II. 1. 12.#}</head>
+02011 <p>aindrAbArhaspatyaMM† havi†rni†rvapedyo† rASTrI†yo ne†va prastiGnuyA†t |
+02012 a†ditirvai prajA†kAmaudana†mapacat | so†n~ziSTamAznAt | taMM† vA†
+02013 i†ndramanta†reva† ga†rbhaMM sa†ntamayasma†yena dA†mnA†paumbhat | so† 'pobdho
+02014 'jAyata | ta†MM vA† ete†na bR†haspa†tirayAjayadaindrAbArhaspatye†na |
+02015 ta†sya ta†ddA†ma svaya†meva† vya{??}padyata | sa† imA† di†zo va†jreNAbhipa-
+02016 ryA†vartata | yo† rASTrI†yo ne†va prastiGnuyA†tta†mete†na yAjayedaindrA-
+02017 bArhaspatye†na | pa†ritato hi† vA† eSa† pApma†nA | a†thaiSa† na† pra†
+02018 stiGnoti | bR†haspa†taye nirupya†tA i†ndrAya kriyate sarva†ta evai†naM
+02019 mun~cati | va†jreNemA† di†zo 'bhiparyA†vartate |</p>
+02020 <head>{#LXVI. TAITTIRIYA SANHITA II. 6. 6.#}</head>
+02021 <p>agnestrayo jyAyAMso bhrAtara Asan | te devebhyo havyaM vaha-
+02022 ntaH prAmIyanta | so 'gnirabibheditthaM vAva sya ArtimAriSya-
+02023 tIti | sa nilAyata | so 'paH prAvizat | taM devatAH praiSamai-
+02024 cchan | taM matsyaH prAbravIt | tamazapaddhiyA dhiyA tvA vadhyA-
+02025 suryo mA prAvoca iti | tasmAnmatsyaM dhiyA dhiyA ghnanti | za-
+02026 pto hi | tamanvavindan | tamabruvannupa na A vartasva havyaM no
+[Page094+ 21]
+02027 vaheti | so 'bravIdvaraM vRNai yadeva gRhItasyAhutasya bahiHpari-
+02028 dhi skandAttanme bhrAtRNAM bhAgadheyamasaditi | tasmAdyadgRhItasyA-
+02029 hutasya bahiHparidhi skandati teSAM tadbhAgadheyam |</p>
+02030 <head>{#LXVII. AITAREYA BRAHMANA III. 20.#}</head>
+02031 <p>indro vai vRtraM haniSyansarvA devatA abravIdanu mopa tiSThadhva-
+02032 mupa mA hvayadhvamiti | tatheti | taM haniSyanta Adravan | so
+02033 'venmAM vai haniSyanta A dravanti hantemAnbhISayA iti | tA-
+02034 nabhi prAzvasIt | tasya zvasathAdISamANA vizve devA adravan |
+02035 maruto hainaM nAjahuH prahara bhagavo jahi vIrayasvetyevainametAM
+02036 vAcaM vadanta upAtiSThanta | tadetadRSiH pazyannabhyanUvAca vRtrasya
+02037 tvA zvasathAditi | so 'vedime vai kila me sacivA ime mA-
+02038 kAmayanta hantemAnasminnuktha A bhajA iti | tAnetasminnuktha
+02039 Abhajat |</p>
+02040 <head>{#LXVIII. AITAREYA BRAHMANA III. 21.#}</head>
+02041 <p>indro vai vRtraM hatvA sarvA vijitIrvijityAbravItprajApati-
+02042 mahametadasAni yattvamahaM mahAnasAnIti | sa prajApatirabravI-
+02043 datha ko 'hamiti | yadevaitadavoca ityabravIt | tato vai ko
+02044 nAma prajApatirabhavat | ko vai nAma prajApatiH | yanmahAni-
+02045 ndro 'bhavattanmahendrasya mahendratvam |</p>
+02046 <head>{#LXIX. ÇATAPATHA BRAHMANA II. 2. 2.#}</head>
+02047 <p>dvayA vai devAH | devA ahaiva devAH | atha ye brAhmaNAH zuzruvAM-
+[Page095+ 21]
+02048 so 'nUcAnAste manuSyadevAH | teSAM dvedhA vibhakta eva yajn~aH |
+02049 Ahutaya eva devAnAM dakSiNA manuSyadevAnAM brAhmaNAnAM zu-
+02050 zruvuSAmanUcAnAnAm | Ahutibhireva devAnprINAti dakSiNA-
+02051 bhirmanuSyadevAnbrAhmaNAn~chuzruvuSo 'nUcAnAn | ta enamubhaye
+02052 devAH prItAH sudhAyAM dadhati || 6 ||</p>
+02053 <head>{#LXX. ÇATAPATHA BRAHMANA II. 2. 2.#}</head>
+02054 <p>tasya vA etasyAgnyAdheyasya satyamevopacAraH | sa yaH satyaM
+02055 vadati yathAgniM samiddhaM taM ghRtenAbhiSin~cedevaM hainaM sa uddIpayati
+02056 tasya bhUyo bhUya eva tejo bhavati zvaH zvaH zreyAnbhavati | atha yo
+02057 'nRtaM vadati yathAgniM samiddhaM tamudakenAbhiSin~cedevaM hainaM sa jA-
+02058 sayati tasya kanIyaH kanIya eva tejo bhavati zvaH zvaH pApI-
+02059 yAnbhavati | tasmAdu satyameva vadet || 19 || tadu hApyaruNamau-
+02060 paveziM jn~Ataya UcuH sthaviro vA asyagnI A dhatsveti | sa
+02061 hovAca te maitadbrUtha vAcaMyama evaidhi na vA AhitAgninAnRtaM
+02062 vaditavyaM na vadan~jAtu nAnRtaM vadettAvatsatyamevopacAra iti || 20 ||</p>
+02063 <head>{#LXXI. ÇATAPATHA BRAHMANA X. 4. 3.#}</head>
+02064 <p>eSa vai mRtyuryatsaMvatsaraH | eSa hi martyAnAmahorAtrAbhyAmA-
+02065 yuH kSiNoti | atha mriyante | tasmAdeSa eva mRtyuH | sa yo
+02066 haitaM mRtyuM saMvatsaraM veda na hAsyaiSa purA jaraso 'horAtrAbhyAmA-
+02067 yuH kSiNoti | sarvaM haivAyureti || 1 || eSa u evAntakaH | eSa
+02068 hi martyAnAmahorAtrAbhyAmAyuSo 'ntaM gacchati | atha mriyante |
+[Page096+ 23]
+02069 tasmAdeSa evAntakaH | sa yo haitamantakaM mRtyuM saMvatsaraM veda na
+02070 hAsyaiSa purA jaraso 'horAtrAbhyAmAyuSo 'ntaM gacchati | sarvaM
+02071 haivAyureti || 2 || te devA etasmAdantakAnmRtyoH saMvatsarAtprajA-
+02072 paterbibhayAM cakruryadvai no 'yamahorAtrAbhyAmAyuSo 'ntaM na ga-
+02073 cchediti || 3 || ta etAnyajn~akratUMstenire 'gnihotraM darzapUrNamA-
+02074 sau cAturmAsyAni pazubandhaM saumyamadhvaram | ta etairyajn~akratubhi-
+02075 ryajamAnA nAmRtatvamAnazire || 4 || te hApyagniM cikyire | te
+02076 'parimitA eva parizrita upa dadhuraparimitA yajuSmatIrapari-
+02077 mitA lokaMpRNA yathedamapyetarhyeka upadadhati | iti devA a-
+02078 kurvan | iti te ha naivAmRtatvamAnazire || 5 || te 'rcantaH zrA-
+02079 myantazceruramRtatvamavarurutsamAnAH | tAnha prajApatiruvAca na
+02080 vai me sarvANi rUpANyupa dhatthAti vaiva recayatha na vAbhyApayatha
+02081 tasmAnnAmRtA bhavatheti || 6 || te hocustebhyo vai nastvameva ta-
+02082 dbrUhi yathA te sarvANi rUpANyupadadhAmeti || 7 || sa hovAca
+02083 SaSTiM ca trINi ca zatAni parizrita upa dhatta SaSTiM ca trINi
+02084 ca zatAni yajuSmatIradhi SaTtriMzatamatha lokaMpRNA daza ca sa-
+02085 hasrANyaSTau ca zatAnyupa dhattAtha me sarvANi rUpANyupa dhAsya-
+02086 thAthAmRtA bhaviSyatheti | te ha tathA devA upa dadhuH | tato de-
+02087 vA amRtA AsuH || 8 || sa mRtyurdevAnabravIditthameva sarve manu-
+02088 SyA amRtA bhaviSyantyatha ko mahyaM bhAgo bhaviSyatIti | te ho-
+02089 curnAto 'paraH kazcana saha zarIreNAmRto 'sadyadaiva tvametaM bhAgaM
+02090 harAsA atha vyAvRtya zarIreNAmRto 'sadyo 'mRto 'sadvidyayA
+02091 vA karmaNA veti | yadvai tadabruvanvidyayA vA karmaNA vetyeSA
+[Page097+ 21]
+02092 haiva sA vidyA yadagniretadu haiva tatkarma yadagniH || 9 || te ya e-
+02093 vametadvidurye vaitatkarma kurvate mRtvA punaH saM bhavanti | te saMbha-
+02094 vanta evAmRtatvamabhisaM bhavanti | atha ya evaM na vidurye vaita-
+02095 tkarma na kurvate mRtvA punaH saM bhavanti ta etasyaivAnnaM punaH pu-
+02096 narbhavanti || 10 ||</p>
+02097 <head>{#LXXII. ÇATAPATHA BRAHMANA XII. 7. 3.#}</head>
+02098 <p>indrasyendriyamannasya rasaM somasya bhakSaM surayAsuro namuciraha-
+02099 rat | so 'zvinau ca sarasvatIM copAdhAvacchepAno 'smi na-
+02100 mucaye na tvA divA na naktaM hanAni na daNDena na dhanvanA na pR-
+02101 thena na muSTinA na zuSkeNa nArdreNAtha ma idamahArSIdidaM ma
+02102 A jihIrSatheti | te 'bruvannastu no 'trApyathA harAmeti | saha
+02103 na etadathA haratetyabravIt | iti tAvazvinau ca sarasvatI ca
+02104 apAM phenaM vajramasin~canna zuSko nArdra iti | tenendro namuce-
+02105 rAsurasya vyuSTAyAM rAtrAvanudita Aditye na divA na naktami-
+02106 ti zira udavAsayat | tasmAdetadRSiNAbhyanUktamapAM pheneneti |</p>
+02107 <head>{#LXXIII. NIRUKTA II. 16.#}</head>
+02108 <p>atiSThantInAmanivizamAnAnAmityasthAvarANAM kASThAnAM
+02109 madhye nihitaM zarIraM meghaH | zarIraM zRNAteH zamnAtervA | vRtrasya
+02110 niNyaM nirNAmaM vicaranti vijAnantyApa iti | dIrghaM drAghateH |
+02111 tamastanoteH | AzayadAzeteH | indrazatrurindro 'sya zamayitA vA
+02112 zAtayitA vA tasmAdindrazatruH | tatko vRtraH | megha iti nairu-
+[Page098+ 22]
+02113 ktAH | tvASTro 'sura ityaitihAsikAH | apAM ca jyotiSazca
+02114 mizrIbhAvakarmaNo varSakarma jAyate | tatropamArthena yuddhavarNA
+02115 bhavanti | ahivattu khalu mantravarNA brAhmaNavAdAzca | vivRddhyA
+02116 zarIrasya srotAMsi nivArayAM cakAra | tasminhate prasasyandira
+02117 ApaH | tadabhivAdinyeSargbhavati |</p>
+02118 <head>{#LXXIV. AÇVALAYANA'S GRIHYASUTRA I. 5, 7, 8.#}</head>
+02119 <p>kulamagre parIkSeta ye mAtRtaH pitRtazceti yathoktaM purastAt | 1 |
+02120 buddhimate kanyAM prayacchet | 2 | buddhirUpazIlalakSaNasaMpannAmarogA-
+02121 mupayaccheta | 3 | durvijn~eyAni lakSaNAnyaSTau piNDAnkRtva Rtamagre
+02122 prathamaM jajn~a Rte satyaM pratiSThitam | yadiyaM kumAryabhijAtA
+02123 tadiyamiha pratipadyatAm | yatsatyaM taddRzyatAmiti piNDAna-
+02124 bhimantrya kumArIM brUyAdeSAmekaM gRhANeti | 4 | kSetrAccedubhayataH-
+02125 sasyAdgRhlIyAdannavatyasyAH prajA bhaviSyatIti vidyAdgoSThAtpa-
+02126 zumatI vedipurISAdbrahmavarcasvinyavidAsino hradAtsarvasaMpannA-
+02127 devanAtkitavI catuSpathAddvipravrAjinIriNAdadhanyA zmazAnA-
+02128 tpatighnI | 5 | || 5 ||</p>
+02129 <p>atha khalUccAvacA janapadadharmA grAmadharmAzca tAnvivAhe pra-
+02130 tIyAt | 1 | yattu samAnaM tadvakSyAmaH | 2 | pazcAdagnerdRSadamazmAnaM
+02131 pratiSThApyottarapurastAdudakumbhaM samanvArabdhAyAM hutvA tiSThanpratya-
+02132 GmukhaH prAGmukhyA AsInAyA gRbhNAmi te saubhagatvAya hasta-
+02133 mityaGguSThameva gRhlIyAdyadi kAmayIta pumAMsa eva me putrA
+02134 jAyeranniti | 3 | aGgulIreva strIkAmaH | 4 | romAnte hastaM sAGguSTha-
+[Page099+ 23]
+02135 mubhayakAmaH | 5 | pradakSiNamagnimudakumbhaM ca triH pariNayaM japati
+02136 <lg><l>amo 'hamasmi sA tvaM sA tvamasyamo 'ham |</l>
+02137 <l>dyaurahaM pRthivI tvaM sAmAhamRktvam ||</l></lg>
+02138 <lg><l>tAvehi vivahAvahai prajAM prajanayAvahai |</l>
+02139 <l>saMpriyau rociSNU sumanasyamAnau jIveva zaradaH zatam ||</l></lg>
+02140 iti | 6 | pariNIya pariNIyAzmAnamArohayati
+02141 <lg><l>imamazmAnamArohAzmeva tvaM sthirA bhava |</l>
+02142 <l>sahasva pRtanAyato 'bhitiSTha pRtanyataH ||</l></lg>
+02143 iti | 7 | vadhvan~jalA upastIrya bhrAtA bhrAtRsthAno vA dvirlA-
+02144 jAnAvapati | 8 | trirjAmadagnyAnAm | 9 | pratyabhighArya haviH | 10 |
+02145 avattaM ca | 11 | eSo 'vadAnadharmaH | 12 |
+02146 <lg><l>aryamaNaM nu devaM kanyA agnimayakSata |</l>
+02147 <l>sa imAM devo aryamA preto mun~cAtu nAmutaH svAhA ||</l></lg>
+02148 <lg><l>varuNaM nu devaM kanyA agnimayakSata |</l>
+02149 <l>sa imAM devo varuNaH preto mun~cAtu nAmutaH svAhA ||</l></lg>
+02150 <lg><l>pUSaNaM nu devaM kanyA agnimayakSata |</l>
+02151 <l>sa imAM devaH pUSA preto mun~cAtu nAmutaH svAhA ||</l></lg>
+02152 ityavicchindatyan~jaliM sruceva juhuyAt | 13 | apariNIya zUrpa-
+02153 puTenAbhyAtmaM tUSNIM caturtham | 14 | opyopya haike lAjAnpariNa-
+02154 yanti tathottame AhutI na saMnipatataH | 15 | athAsyai zikhe vi-
+02155 mun~cati yadi kRte bhavata UrNAstuke kezapakSayorbaddhe bhavataH | 16 |
+02156 pra tvA mun~cAmi varuNasya pAzAditi | 17 | uttarAmuttarayA | 18 |
+02157 athainAmaparAjitAyAM dizi sapta padAnyabhyutkrAmayati
+[Page100+ 22]
+02158 iSa ekapadI Urje dvipadI
+02159 rAyaspoSAya tripadI mAyobhavyAya catuSpadI
+02160 prajAbhyaH pan~capadI RtubhyaH SaTpadI
+02161 <lg><l>sakhA saptapadI bhava sA mAmanuvratA bhava |</l>
+02162 <l>putrAnvindAvahai bahUMste santu jaradaSTayaH ||</l></lg>
+02163 iti | 19 | ubhayoH saMnidhAya zirasI udakumbhenAvasicya | 20 |
+02164 brAhmaNyAzca vRddhAyA jIvapatyA jIvaprajAyA agAra etAM rA-
+02165 trIM vaset | 21 | dhruvamarundhatIM sapta RSIniti dRSTvA vAcaM vi-
+02166 sRjeta jIvapatnI prajAM vindeyeti | 22 | || 7 ||</p>
+02167 <p>prayANa upapadyamAne pUSA tveto nayatu hastagRhyeti yAnamA-
+02168 rohayet | 1 | azmanvatI rIyate saM rabhadhvamityardharcena nAvamAro-
+02169 hayet | 2 | uttareNotkramayet | 3 | jIvaM rudantIti rudatyAm | 4 |
+02170 vivAhAgnimagrato 'jasraM nayanti | 5 | kalyANeSu dezavRkSa-
+02171 catuSpatheSu mA vidanparipanthina iti japet | 6 | vAse vAse
+02172 sumaGgalIriyaM vadhUritIkSakAnIkSeta | 7 | iha priyaM prajayA te
+02173 samRdhyatAmiti gRhaM pravezayet | 8 | vivAhAgnimupasamAdhAya
+02174 pazcAdasyAnaDuhaM carmAstIrya prAggrIvamuttaraloma tasminnupavi-
+02175 STAyAM samanvArabdhAyAmA naH prajAM janayatu prajApatiriti ca-
+02176 tasRbhiH pratyRcaM hutvA saman~jantu vizve devA iti dadhnaH prAzya
+02177 pratiprayacchedAjyazeSeNa vAnakti hRdaye | 9 | ata UrdhvamakSArA-
+02178 lavaNAzinau brahmacAriNAvalaMkurvANAvadhaHzAyinau syAtAM
+02179 trirAtraM dvAdazarAtram | 10 | saMvatsaraM vaika RSirjAyata iti | 11 |
+[Page101+ 21]
+02180 caritavrataH sUryAvide vadhUvastraM dadyAt | 12 | annaM brAhmaNebhyaH | 13 |
+02181 atha svastyayanaM vAcayIta | 14 | || 8 ||</p>
+02182 <head>{#LXXV. AÇVALAYANA'S GRIHYASUTRA IV. 1--6.#}</head>
+02183 <p>AhitAgniM cedupatapetprAcyAmudIcyAmaparAjitAyAM vA di-
+02184 zyudavasyet | 1 | grAmakAmA agnaya ityudAharanti | 2 | AzaMsanta
+02185 enaM grAmamAjigamiSanto 'gadaM kuryuriti ha vijn~Ayate | 3 | a-
+02186 gadaH somena pazuneSTyeSTvAvasyet | 4 | aniSTvA vA | 5 | saMsthite
+02187 bhUmibhAgaM khAnayeddakSiNapUrvasyAM dizi dakSiNAparasyAM vA | 6 |
+02188 dakSiNApravaNaM prAgdakSiNApravaNaM vA | 7 | pratyagdakSiNApravaNa-
+02189 mityeke | 8 | yAvAnudbAhukaH puruSastAvadAyAmam | 9 | vyAmamAtraM
+02190 tiryak | 10 | vitastyavAk | 11 | abhita AkAzaM zmazAnam | 12 |
+02191 bahulauSadhikam | 13 | kaNTakikSIriNastviti yathoktaM purastAt
+02192 | 14 | yatra sarvata ApaH prasyanderannetadAdahanasya lakSaNaM zmazA-
+02193 nasya | 15 | kezazmazrulomanakhAni vApayantItyuktaM purastAt | 16 |
+02194 vigulphaM barhirAjyaM ca | 17 | dadhanyatra sarpirAnayanti | 18 | eta-
+02195 tpitryaM pRSadAjyam | 19 | || 1 ||</p>
+02196 <p>athaitAM dizamagnInnayanti yajn~apAtrANi ca | 1 | anvan~caM pre-
+02197 tamayujo 'mithunAH pravayasaH | 2 | pIThacakreNa goyuktenetyeke | 3 |
+02198 anustaraNIm | 4 | gAm | 5 | ajAM vaikavarNAm | 6 | kRSNAmeke
+02199 | 7 | savye bAhau baddhvAnusaMkAlayanti | 8 | anvan~co 'mAtyA a-
+02200 dhonivItAH pracRttazikhA jyeSThaprathamAH kaniSThajaghanyAH | 9 | prA-
+02201 pyaivaM bhUmibhAgaM kartodakena zamIzAkhayA triH prasavyamAyatanaM
+[Page102+ 23]
+02202 parivrajanprokSatyapeta vIta vi ca sarpatAta iti | 10 | dakSiNapUrva
+02203 uddhatAnta AhavanIyaM nidadhAti | 11 | uttarapazcime gArhapatyam
+02204 | 12 | dakSiNapazcime dakSiNam | 13 | athainamantarvedIdhmacitiM ci-
+02205 noti yo jAnAti | 14 | tasminbarhirAstIrya kRSNAjinaM co-
+02206 ttaraloma tasminpretaM saMvezayantyuttareNa gArhapatyaM hRtvAhavanIyama-
+02207 bhizirasam | 15 | uttarataH patnIm | 16 | dhanuzca kSatriyAya | 17 |
+02208 tAmutthApayeddevaraH patisthAnIyo 'ntevAsI jaraddAso vodIrSva
+02209 nAryabhi jIvalokamiti | 18 | kartA vRSale japet | 19 | dhanurha-
+02210 stAdAdadAno mRtasyeti dhanuH | 20 | uktaM vRSale | 21 | adhijyaM
+02211 kRtvA saMcitimacitvA saMzIryAnupraharet | 22 | || 2 ||</p>
+02212 <p>athaitAni pAtrANi yojayet | 1 | dakSiNe haste juhUm | 2 | sa-
+02213 vya upabhRtam | 3 | dakSiNe pArzve sphyaM savye 'gnihotrahavaNIm
+02214 | 4 | urasi dhruvAM zirasi kapAlAni datsu grAvNaH | 5 | nAsi-
+02215 kayoH sruvau | 6 | bhittvA caikam | 7 | karNayoH prAzitraharaNe | 8 |
+02216 bhittvA caikam | 9 | udare pAtrIm | 10 | samavattadhAnaM ca cama-
+02217 sam | 11 | upasthe zamyAm | 12 | araNI UrvoH | 13 | ulUkhala-
+02218 musale jaGghayoH | 14 | pAdayoH zUrpe | 15 | chittvA caikam | 16 |
+02219 Asecanavanti pRSadAjyasya pUrayanti | 17 | amA putro dRSadu-
+02220 pale kurvIta | 18 | lauhAyasaM ca kaulAlam | 19 | anustaraNyA
+02221 vapAmutkhidya ziromukhaM pracchAdayedagnervarma pari gobhirvyayasveti
+02222 | 20 | vRkkA uddhRtya pANyorAdadhyAdati drava sArameyau zvAnAviti
+02223 dakSiNe dakSiNaM savye savyam | 21 | hRdaye hRdayam | 22 | piNDyau
+02224 caike | 23 | vRkkApacAra ityeke | 24 | sarvAM yathAGgaM vinikSipya ca-
+[Page103+ 22]
+02225 rmaNA pracchAdyemamagne camasaM mA vi jihvara iti praNItApraNaya-
+02226 namanumantrayate | 25 | savyaM jAnvAcya dakSiNAgnAvAjyAhutIrjuhu-
+02227 yAdagnaye svAhA kAmAya svAhA lokAya svAhAnumataye svA-
+02228 heti | 26 | pan~camImurasi pretasyAsmAdvai tvamajAyathA ayaM tvada-
+02229 dhi jAyatAmasau svargAya lokAya svAheti | 27 | || 3 ||</p>
+02230 <p>preSyati yugapadagnInprajvAlayateti | 1 | AhavanIyazcetpUrvaM prA-
+02231 pnuyAtsvargaloka enaM prApaditi vidyAdrAtsyatyasAvamutraivamaya-
+02232 masminniti putraH | 2 | gArhapatyazcetpUrvaM prApnuyAdantarikSaloka
+02233 enaM prApaditi vidyAdrAtsyatyasAvamutraivamayamasminniti putraH
+02234 | 3 | dakSiNAgnizcetpUrvaM prApnuyAnmanuSyaloka enaM prApaditi vi-
+02235 dyAdrAtsyatyasAvamutraivamayamasminniti putraH | 4 | yugapatprAptau pa-
+02236 rAmRddhiM vadanti | 5 | taM dahyamAnamanumantrayate prehi prehi pathibhiH
+02237 pUrvyebhiriti samAnam | 6 | sa evaMvidA dahyamAnaH sahaiva dhUmena
+02238 svargaM lokametIti ha vijn~Ayate | 7 | uttarapurastAdAhavanIyasya
+02239 jAnumAtraM gartaM khAtvAvakAM zIpAlamityavadhApayettato ha vA
+02240 eSa niSkramya sahaiva dhUmena svargaM lokametIti ha vijn~Ayate | 8 |
+02241 ime jIvA vi mRtairAvavRtranniti savyAvRto vrajantyanavekSamANAH
+02242 | 9 | yatrodakamavahadbhavati tatprApya sakRdunmajjyaikAn~jalimutsRjya
+02243 tasya gotraM nAma ca gRhItvottIryAnyAni vAsAMsi paridhAya sakR-
+02244 denAnyApIDyodagdazAni visRjyAsata A nakSatradarzanAt | 10 |
+02245 Adityasya vA dRzyamAne pravizeyuH | 11 | kaniSThaprathamA jyeSThajagha-
+02246 nyAH | 12 | prApyAgAramazmAnamagniM gomayamakSatAMstilAnapa u-
+[Page104+ 22]
+02247 paspRzanti | 13 | naitasyAM rAtryAmannaM paceran | 14 | krItotpannena
+02248 vA varteran | 15 | trirAtramakSArAlavaNAzinaH syuH | 16 | dvAda-
+02249 zarAtraM vA mahAguruSu dAnAdhyayane varjayeran | 17 | dazAhaM sapi-
+02250 NDeSu | 18 | gurau cAsapiNDe | 19 | aprattAsu ca strISu | 20 | tri-
+02251 rAtramitareSvAcAryeSu | 21 | jn~Atau cAsapiNDe | 22 | prattAsu ca
+02252 strISu | 23 | adantajAte | 24 | aparijAte ca | 25 | ekAhaM sabra-
+02253 hmacAriNi | 26 | samAnagrAmIye ca zrotriye | 27 | || 4 ||</p>
+02254 <p>saMcayanamUrdhvaM dazamyAH kRSNapakSasyAyujAsvekanakSatre | 1 | a-
+02255 lakSaNe kumbhe pumAMsamalakSaNAyAM striyam | 2 | ayujo 'mi-
+02256 thunAH pravayasaH | 3 | kSIrodakena zamIzAkhayA triH prasavyaM pari-
+02257 vrajanprokSati zItike zItikAvatIti | 4 | aGguSThopakaniSThi-
+02258 kAbhyAmekaikamasthyasaMhrAdayanto 'vadadhyuH | 5 | pAdau pUrvaM zira u-
+02259 ttaram | 6 | susaMcitaM saMcitya pavanena saMpUya yatra sarvata Apo
+02260 nAbhisyanderannanyA varSAbhyastatra garte 'vadadhyurupa sarpa mAtaraM bhU-
+02261 mimetAmiti | 7 | uttarayA pAMsUnavakiret | 8 | avakIryotta-
+02262 rAm | 9 | utte stabhnAmIti kapAlenApidhAyAthAnavekSaM pratyA-
+02263 vrajyApa upaspRzya zrAddhamasmai dadyuH | 10 | || 5 ||</p>
+02264 <p>guruNAbhimRtA anyato vApakSIyamANA amAvAsyAyAM
+02265 zAntikarma kurvIran | 1 | purodayAdagniM sahabhasmAnaM sahAyatanaM da-
+02266 kSiNA hareyuH kravyAdamagniM pra hiNomi dUramityardharcena | 2 | taM ca-
+02267 tuSpathe nyupya yatra vA triH prasavyaM pariyanti savyaiH pANibhiH
+02268 savyAnUrUnAghnAnAH | 3 | athAnavekSaM pratyAvrajyApa upaspRzya keza-
+[Page105+ 22]
+02269 zmazrulomanakhAni vApayitvopakalpayIrannavAnmaNikAnkumbhA-
+02270 nAcamanIyAMzca zamIsumanomAlinaH zamImayamidhmaM zamIma-
+02271 yyAvaraNI paridhIMzcAnaDuhaM gomayaM carma ca navanItamazmAnaM ca
+02272 yAvatyo yuvatayastAvanti kuzapin~jUlAni | 4 | agnivelAyA-
+02273 magniM janayedihaivAyamitaro jAtavedA ityardharcena | 5 | taM dIpa-
+02274 yamAnA Asata A zAntarAtrAdAyuSmatAM kathAH kIrtayanto
+02275 mAGgalyAnItihAsapurANAnItyAkhyApayamAnAH | 6 | uparateSu
+02276 zabdeSu saMpraviSTeSu vA gRhaM nivezanaM vA dakSiNAddvArapakSAtprakra-
+02277 myAvicchinnAmudakadhArAM harettantuM tanvanrajaso bhAnumanvihI-
+02278 tyottarasmAt | 7 | athAgnimupasamAdhAya pazcAdasyAnaDuhaM carmA-
+02279 stIrya prAggrIvamuttaraloma tasminnamAtyAnArohayedA rohatA-
+02280 yurjarasaM vRNAnA iti | 8 | imaM jIvebhyaH paridhiM dadhAmIti
+02281 paridhiM paridadhyAt | 9 | antarmRtyuM dadhatAM parvatenetyuttarato
+02282 'zmAnamagneH kRtvA paraM mRtyo anu parehi panthAmiti catasRbhiH
+02283 pratyRcaM hutvA yathAhAnyanupUrvaM bhavantItyamAtyAnIkSeta | 10 | yuvata-
+02284 yaH pRthakpANibhyAM darbhataruNakairnavanItenAGguSThopakaniSThikA-
+02285 bhyAmakSiNI Ajya parAcyo visRjeyuH | 11 | imA nArIravidhavAH
+02286 supatnIrityan~jAnA IkSeta | 12 | azmanvatI rIyate saM rabhadhvami-
+02287 tyazmAnaM kartA prathamo 'bhimRzet | 13 | athAparAjitAyAM di-
+02288 zyavasthAyAgninAnaDuhena gomayena cAvicchinnayA codakadhAra-
+02289 yApo hi SThA mayobhuva iti tRcena parIme gAmaneSateti pari-
+02290 krAmatsu japet | 14 | piGgalo 'naDvAnpariNeyaH syAdityudAharanti
+[Page106+ 5]
+02291 | 15 | athopavizanti yatrAbhiraMsyamAnA bhavantyahatena vAsasA
+02292 pracchAdya | 16 | Asate 'svapanta odayAt | 17 | udita Adi-
+02293 tye sauryANi svastyayanAni ca japitvAnnaM saMskRtyApa naH zo-
+02294 zucadaghamiti pratyRcaM hutvA brAhmaNAnbhojayitvA svastyayanaM vA-
+02295 cayIta | 18 | gauH kaMso 'hataM vAsazca dakSiNA | 19 | || 6 ||</p>
