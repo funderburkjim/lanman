@@ -467,7 +467,7 @@
 00446 <l><s>aloBa iti mArgo 'yaM DarmasyAzwaviDaH smftaH ..</s></l></lg>
 00447 <lg><l><s>tatra pUrvaScaturvargo damBArTamapi sevyate .</s></l>
 00448 <l><s>uttaraSca caturvargo nAmahAtmasu vidyate ..</s></l></lg>
-00449 <s>mama cEtAvAlMM loBaviraho yena svahastagatamapi suvarRakaNkaRaM</s>
+00449 <s>mama cEtAvAl~ loBaviraho yena svahastagatamapi suvarRakaNkaRaM</s>
 00450 <s>yasmE kasmE ciddAtumicCAmi . taTApi vyAGro mAnuzaM KAdatIti</s>
 00451 <s>lokapravAdo durnivAraH . yataH .</s>
 00452 <lg><l><s>gatAnugatiko lokaH kuwwanImupadeSinIm .</s></l>
@@ -1582,7 +1582,7 @@
 01513 <lg><l><s>a\gnimI/Le pu\rohi/taM ya\jYasya/ de\vamf\tvija/m .</s></l>
 01514 <l><s>hotA/raM ratna\DAta/mam .. 1 ..</s></l></lg>
 01515 <lg><l><s>a\gniH pUrve/Bi\rfzi/Bi\rIqyo\ nUta/nEru\ta .</s></l>
-01516 <l><s>sa de\vAMM eha va/kzati .. 2 ..</s></l></lg>
+01516 <l><s>sa de\vA~ eha va/kzati .. 2 ..</s></l></lg>
 01517 <lg><l><s>a\gninA/ ra\yima/Snava\tpoza/me\va di\ve di/ve .</s></l>
 01518 <l><s>ya\SasaM/ vI\rava/ttamam .. 3 ..</s></l></lg>
 01519 <lg><l><s>agne\ yaM ya\jYama/Dva\raM vi\SvataH/ pari\BUrasi/ .</s></l>
@@ -1621,7 +1621,7 @@
 01551 <l><s>vf\trasya/ ni\RyaM vi ca/ra\ntyApo/ dI\rGaM tama\ ASa/ya\dindra/SatruH .. 10 ..</s></l></lg>
 01552 <lg><l><s>dA\sapa/tnI\rahi/gopA atizWa\nniru/dDA\ ApaH/ pa\Rine/va\ gAvaH/ .</s></l>
 [Page071+ 21]
-01553 <l><s>a\pAM bila\mapi/hitaM\ yadAsI/dvf\traM ja/Ga\nvAMM apa\ tadva/vAra .. 11 ..</s></l></lg>
+01553 <l><s>a\pAM bila\mapi/hitaM\ yadAsI/dvf\traM ja/Ga\nvA~ apa\ tadva/vAra .. 11 ..</s></l></lg>
 01554 <lg><l><s>aSvyo vAro/ aBava\stadi/ndra sf\ke yattvA/ pra\tyaha/nde\va ekaH/ .</s></l>
 01555 <l><s>aja/yo\ gA aja/yaH SUra\ soma\mavA/sfjaH\ sarta/ve sa\pta sinDU/n .. 12 ..</s></l></lg>
 01556 <lg><l><s>nAsmE/ vi\dyunna ta/nya\tuH si/zeDa\ na yAM miha\maki/radDrA\duniM/ ca .</s></l>
@@ -1635,13 +1635,13 @@
 01564 <l><s>df\Se viSvA/ya\ sUrya/m .. 1 ..</s></l></lg>
 01565 <lg><l><s>apa\ tye tA\yavo/ yaTA\ nakza/trA yantya\ktuBiH/ .</s></l>
 01566 <l><s>sUrA/ya vi\Svaca/kzase .. 2 ..</s></l></lg>
-01567 <lg><l><s>adf/Sramasya ke\tavo\ vi ra\Smayo\ janAMM\ anu/ .</s></l>
+01567 <lg><l><s>adf/Sramasya ke\tavo\ vi ra\Smayo\ janA\~ anu/ .</s></l>
 01568 <l><s>BrAja/nto a\gnayo/ yaTA .. 3 ..</s></l></lg>
 01569 <lg><l><s>ta\raRi/rvi\Svada/rSato jyoti\zkfda/si sUrya .</s></l>
 01570 <l><s>viSva\mA BA/si roca\nam .. 4 ..</s></l></lg>
 01571 <lg><l><s>pra\tyaNde\vAnAM\ viSaH/ pra\tyaNNude/zi\ mAnu/zAn .</s></l>
 01572 <l><s>pra\tyaNviSvaM\ sva/rdf\Se .. 5 ..</s></l></lg>
-01573 <lg><l><s>yenA/ pAvaka\ cakza/sA Bura\RyantaM\ janAMM\ anu/ .</s></l>
+01573 <lg><l><s>yenA/ pAvaka\ cakza/sA Bura\RyantaM\ janA\~ anu/ .</s></l>
 [Page072+ 21]
 01574 <l><s>tvaM va/ruRa\ paSya/si .. 6 ..</s></l></lg>
 01575 <lg><l><s>vi dyAme/zi\ raja/spf\TvahA\ mimA/no a\ktuBiH/ .</s></l>
@@ -1672,20 +1672,20 @@
 01599 <lg><l><s>kayA/ Su\BA sava/yasaH\ sanI/LAH samA\nyA ma\rutaH\ saM mi/mikzuH .</s></l>
 01600 <l><s>kayA/ ma\tI kuta\ etA/sa e\te 'rca/nti\ SuzmaM\ vfza/Ro vasU\yA .. 1 ..</s></l></lg>
 01601 <lg><l><s>kasya\ brahmA/Ri jujuzu\ryuvA/naH\ ko a/Dva\re ma\ruta\ A va/varta .</s></l>
-01602 <l><s>Sye\nAMM i/va\ Draja/to a\ntari/kze\ kena/ ma\hA mana/sA rIramAma .. 2 ..</s></l></lg>
+01602 <l><s>Sye\nA~ i/va\ Draja/to a\ntari/kze\ kena/ ma\hA mana/sA rIramAma .. 2 ..</s></l></lg>
 01603 <lg><l><s>kuta\stvami/ndra\ mAhi/naH\ sanneko/ yAsi satpate\ kiM ta/ i\tTA .</s></l>
 01604 <l><s>saM pf/cCase samarA\RaH Su/BA\nErvo\cestanno/ harivo\ yatte/ a\sme .. 3 ..</s></l></lg>
 01605 <lg><l><s>brahmA/Ri me ma\tayaH\ SaM su\tAsaH\ Suzma/ iyarti\ praBf/to me\ adriH/ .</s></l>
 01606 <l><s>A SA/sate\ prati/ haryantyu\kTemA ha/rI vahata\stA no\ acCa/ .. 4 ..</s></l></lg>
 01607 <lg><l><s>ato/ va\yama/nta\meBi/ryujA\nAH svakza/treBista\nva1H\/ SumBa/mAnAH .</s></l>
-01608 <l><s>maho/Bi\retAMM\ upa/ yujmahe\ nvindra/ sva\DAmanu\ hi no/ ba\BUTa/ .. 5 ..</s></l></lg>
+01608 <l><s>maho/Bi\retA\~ upa/ yujmahe\ nvindra/ sva\DAmanu\ hi no/ ba\BUTa/ .. 5 ..</s></l></lg>
 01609 <lg><l><s>kva1\/ syA vo/ marutaH sva\DAsI\dyanmAmekaM/ sa\maDa/ttAhi\hatye/ .</s></l>
 01610 <l><s>a\haM hyU1\/grasta/vi\zastuvi/zmA\nviSva/sya\ Satro\rana/maM vaDa\snEH .. 6 ..</s></l></lg>
 01611 <lg><l><s>BUri/ cakarTa\ yujye/Bira\sme sa/mA\neBi/rvfzaBa\ pOMsye/BiH .</s></l>
 01612 <l><s>BUrI/Ri\ hi kf\RavA/mA Savi\zWendra\ kratvA/ maruto\ yadvaSA/ma .. 7 ..</s></l></lg>
 01613 <lg><l><s>vaDIM/ vf\traM ma/ruta indri\yeRa\ svena\ BAme/na tavi\zo ba/BU\vAn .</s></l>
 01614 <l><s>a\hame\tA mana/ve vi\SvaSca/ndrAH su\gA a\paSca/kara\ vajra/bAhuH .. 8 ..</s></l></lg>
-01615 <lg><l><s>anu/tta\mA te/ maGava\nnaki\rnu na tvAvAMM/ asti de\vatA\ vidA/naH .</s></l>
+01615 <lg><l><s>anu/tta\mA te/ maGava\nnaki\rnu na tvAvA/~ asti de\vatA\ vidA/naH .</s></l>
 [Page074+ 20]
 01616 <l><s>na jAya/mAno\ naSa/te\ na jA\to yAni/ kari\zyA kf/Ru\hi pra/vfdDa .. 9 ..</s></l></lg>
 01617 <lg><l><s>eka/sya cinme vi\Bva1\/stvojo\ yA nu da/Df\zvAnkf\RavE/ manI\zA .</s></l>
@@ -1694,7 +1694,7 @@
 01620 <l><s>indrA/ya\ vfzRe\ suma/KAya\ mahyaM\ saKye\ saKA/yasta\nve/ ta\nUBiH/ .. 11 ..</s></l></lg>
 01621 <lg><l><s>e\vede\te prati/ mA\ roca/mAnA\ ane/dyaH\ Srava\ ezo\ daDA/nAH .</s></l>
 01622 <l><s>saM\cakzyA/ marutaSca\ndrava/rRA\ acCA/nta me Ca\dayA/TA ca nU\nam .. 12 ..</s></l></lg>
-01623 <lg><l><s>ko nvatra/ maruto mAmahe vaH\ pra yA/tana\ saKIMM\racCA/ saKAyaH .</s></l>
+01623 <lg><l><s>ko nvatra/ maruto mAmahe vaH\ pra yA/tana\ saKI\~racCA/ saKAyaH .</s></l>
 01624 <l><s>manmA/ni citrA apivA\taya/nta e\zAM BU/ta\ nave/dA ma f\tAnA/m .. 13 ..</s></l></lg>
 01625 <lg><l><s>A yaddu/va\syAddu\vase\ na kA\rura\smAYca\kre mA\nyasya/ me\DA .</s></l>
 01626 <l><s>o zu va/rtta maruto\ vipra\macCe\mA brahmA/Ri jari\tA vo/ arcat .. 14 ..</s></l></lg>
@@ -1722,7 +1722,7 @@
 01647 <lg><l><s>a\haM tA viSvA/ cakaraM\ naki/rmA\ dEvyaM\ saho/ varate\ apra/tItam .</s></l>
 01648 <l><s>yanmA\ somA/so ma\mada\nyadu\kToBe Ba/yete\ raja/sI apA\re .. 6 ..</s></l></lg>
 01649 <lg><l><s>vi\duzwe\ viSvA\ Buva/nAni\ tasya\ tA pra bra/vIzi\ varu/RAya veDaH .</s></l>
-01650 <l><s>tvaM vf\trARi/ SfRvize jaGa\nvAntvaM vf\tAMM a/riRA indra\ sinDU/n .. 7 ..</s></l></lg>
+01650 <l><s>tvaM vf\trARi/ SfRvize jaGa\nvAntvaM vf\tA~ a/riRA indra\ sinDU/n .. 7 ..</s></l></lg>
 01651 <section>XXXVIII. RIGVEDA IV. 52.</section>
 01652 <lg><l><s>prati\ zyA sU\narI\ janI/ vyu\cCantI\ pari\ svasuH/ .</s></l>
 01653 <l><s>di\vo a/darSi duhi\tA .. 1 ..</s></l></lg>
@@ -1855,7 +1855,7 @@
 01774 <lg><l><s>a\pAM Pene/na\ namu/ceH\ Sira/ i\ndroda/vartayaH .</s></l>
 01775 <l><s>viSvA\ yadaja/ya\ spfDaH/ .. 13 ..</s></l></lg>
 01776 <lg><l><s>mA\yABi/ru\tsisf/psata\ indra\ dyAmA\ruru/kzataH .</s></l>
-01777 <l><s>ava\ dasyUMM/raDUnuTAH .. 14 ..</s></l></lg>
+01777 <l><s>ava\ dasyU/~raDUnuTAH .. 14 ..</s></l></lg>
 01778 <lg><l><s>a\su\nvAmi/ndra saM\sadaM\ vizU/cIM\ vya/nASayaH .</s></l>
 01779 <l><s>so\ma\pA utta/ro\ Bava/n .. 15 ..</s></l></lg>
 [Page082+ 20]
@@ -1865,7 +1865,7 @@
 01783 <lg><l><s>triH za\zwistvA/ ma\ruto/ vAvfDA\nA u\srA i/va rA\Sayo/ ya\jYiyA/saH .</s></l>
 01784 <l><s>upa\ tvemaH/ kf\Di no/ BAga\DeyaM\ SuzmaM/ ta e\nA ha\vizA/ viDema .. 8 ..</s></l></lg>
 01785 <lg><l><s>ti\gmamAyu/DaM ma\rutA\manI/kaM\ kasta/ indra\ prati\ vajraM/ daDarza .</s></l>
-01786 <l><s>a\nA\yu\DAso\ asu/rA ade\vASca\kreRa\ tAMM apa/ vapa fjIzin ..</s></l></lg>
+01786 <l><s>a\nA\yu\DAso\ asu/rA ade\vASca\kreRa\ tA~ apa/ vapa fjIzin ..</s></l></lg>
 01787 <section>XLVIII. RIGVEDA VIII. 91.</section>
 01788 <lg><l><s>agne/ Gf\tasya/ DI\tiBi/stepA\no de/va So\cizA/ .</s></l>
 01789 <l><s>A de\vAnva/kzi\ yakzi/ ca .. 16 ..</s></l></lg>
@@ -1899,11 +1899,11 @@
 01816 <lg><l><s>ape/ta\ vI/ta\ vi ca/ sarpa\tAto\ 'smA e\taM pi\taro/ lo\kama/kran .</s></l>
 01817 <l><s>aho/Bira\dBira\ktuBi\rvya/ktaM ya\mo da/dAtyava\sAna/masmE .. 9 ..</s></l></lg>
 01818 <lg><l><s>ati/ drava sArame\yO SvAnO/ catura\kzO Sa\balO/ sA\DunA/ pa\TA .</s></l>
-01819 <l><s>aTA/ pi\tFnsu/vi\datrAMM\ upe/hi ya\mena\ ye sa/Da\mAdaM\ mada/nti .. 10 ..</s></l></lg>
+01819 <l><s>aTA/ pi\tFnsu/vi\datrA\~ upe/hi ya\mena\ ye sa/Da\mAdaM\ mada/nti .. 10 ..</s></l></lg>
 01820 <lg><l><s>yO te\ SvAnO/ yama rakzi\tArO/ catura\kzO pa/Ti\rakzI/ nf\cakza/sO .</s></l>
 [Page084+ 21]
 01821 <l><s>tAByA/menaM\ pari/ dehi rAjansva\sti cA/smA anamI\vaM ca/ Dehi .. 11 ..</s></l></lg>
-01822 <lg><l><s>u\rU\Ra\sAva/su\tfpA/ udumba\lO ya\masya/ dU\tO ca/rato\ janAMM\ anu/ .</s></l>
+01822 <lg><l><s>u\rU\Ra\sAva/su\tfpA/ udumba\lO ya\masya/ dU\tO ca/rato\ janA\~ anu/ .</s></l>
 01823 <l><s>tAva\smaByaM/ df\Saye\ sUryA/ya\ puna/rdAtA\masu/ma\dyeha Ba\dram .. 12 ..</s></l></lg>
 01824 <section>LI. RIGVEDA X. 16.</section>
 01825 <lg><l><s>mEna/magne\ vi da/ho\ mABi So/co\ mAsya\ tvacaM/ cikzipo\ mA SarI/ram .</s></l>
@@ -1917,7 +1917,7 @@
 01833 <lg><l><s>ava/ sfja\ puna/ragne pi\tfByo\ yasta\ Ahu/ta\Scara/ti sva\DABiH/ .</s></l>
 01834 <l><s>Ayu\rvasA/na\ upa/ vetu\ SezaH\ saM ga/cCatAM ta\nvA/ jAtavedaH .. 5 ..</s></l></lg>
 01835 <lg><l><s>yatte/ kf\zRaH Sa/ku\na A/tu\toda/ pipI\laH sa\rpa u\ta vA\ SvApa/daH .</s></l>
-01836 <l><s>a\gnizwadvi\SvAda/ga\daM kf/Rotu\ soma/Sca\ yo brA/hma\RAMM A/vi\veSa/ .. 6 ..</s></l></lg>
+01836 <l><s>a\gnizwadvi\SvAda/ga\daM kf/Rotu\ soma/Sca\ yo brA/hma\RA~ A/vi\veSa/ .. 6 ..</s></l></lg>
 01837 <lg><l><s>a\gnervarma\ pari\ goBi/rvyayasva\ saM prorRu/zva\ pIva/sA\ meda/sA ca .</s></l>
 01838 <l><s>nettvA/ Df\zRurhara/sA\ jarhf/zARo da\Dfgvi/Da\kzyanpa/rya\NKayA/te .. 7 ..</s></l></lg>
 01839 <lg><l><s>i\mama/gne cama\saM mA vi ji/hvaraH pri\yo de\vAnA/mu\ta so\myAnA/m .</s></l>
@@ -1944,7 +1944,7 @@
 01859 <l><s>sa tvE\teByaH\ pari/ dadatpi\tfByo\ 'gnirde\veByaH/ suvida\triye/ByaH .. 3 ..</s></l></lg>
 01860 <lg><l><s>Ayu/rvi\SvAyuH\ pari/ pAsati tvA pU\zA tvA/ pAtu\ prapa/Te pu\rastA/t .</s></l>
 01861 <l><s>yatrAsa/te su\kfto\ yatra\ te ya\yustatra/ tvA de\vaH sa/vi\tA da/DAtu .. 4 ..</s></l></lg>
-01862 <lg><l><s>pU\zemA ASA\ anu/ veda\ sarvAH\ so a\smAMM aBa/yatamena nezat .</s></l>
+01862 <lg><l><s>pU\zemA ASA\ anu/ veda\ sarvAH\ so a\smA~ aBa/yatamena nezat .</s></l>
 [Page086+ 21]
 01863 <l><s>sva\sti\dA AGf/RiH\ sarva/vI\ro 'pra/yucCanpu\ra e/tu prajA\nan .. 5 ..</s></l></lg>
 01864 <lg><l><s>prapa/Te pa\TAma/janizwa pU\zA prapa/Te di\vaH prapa/Te pfTi\vyAH .</s></l>
@@ -2067,44 +2067,44 @@
 01976 <lg><l><s>ye ci\tpUrva/ fta\sApa/ f\tAvA/na ftA\vfDaH/ .</s></l>
 01977 <l><s>pi\tFntapa/svato yama\ tAMSci/de\vApi/ gacCatAt .. 4 ..</s></l></lg>
 01978 <lg><l><s>sa\hasra/RITAH ka\vayo\ ye go/pA\yanti\ sUrya/m .</s></l>
-01979 <l><s>fzI\ntapa/svato yama tapo\jAMM api/ gacCatAt .. 5 ..</s></l></lg>
+01979 <l><s>fzI\ntapa/svato yama tapo\jA~ api/ gacCatAt .. 5 ..</s></l></lg>
 01980 <section>LXI. RIGVEDA X. 155.</section>
 01981 <lg><l><s>parI\me gAma/nezata\ parya\gnima/hfzata .</s></l>
-01982 <l><s>de\vezva/krata\ SravaH\ ka i\mAMM A da/Darzati .. 5 ..</s></l></lg>
+01982 <l><s>de\vezva/krata\ SravaH\ ka i\mA~ A da/Darzati .. 5 ..</s></l></lg>
 01983 <section>LXII. MAITRAYANI SANHITA II. 13. 23.</section>
 01984 <lg><l><s>hiraRyagarBaH/ sa/mavartatA/gre BUta/sya jAtaH/ pa/tire/ka AsIt .</s></l>
 [Page092+ 21]
 01985 <l><s>sa/ dADAra pfTivIM/ dyA/mute/mAM/ ka/smE devA/ya havi/zA viDema .. 1 ..</s></l></lg>
 01986 <lg><l><s>yaH/ prARato/ nimizata/Sca rA/jA pa/tirvi/Svasya ja/gato baBU/va .</s></l>
 01987 <l><s>I/Se yo/ asya/ dvipa/daSca/tuzpadaH ka/smE devA/ya havi/zA viDema .. 2 ..</s></l></lg>
-01988 <lg><l><s>ya/ ojodA/ baladA/ ya/sya vi/Sva upA/sate praSi/zaMM ya/sya devAH/ .</s></l>
-01989 <l><s>ya/sya CAyA/mf/taMM ya/sya mftyuH/ ka/smE devA/ya havi/zA viDema .. 3 ..</s></l></lg>
-01990 <lg><l><s>ya/syeme/ vi/Sve gira/yo mahitvA/ samudra/MM ya/sya rasa/yA sahA/huH/ .</s></l>
+01988 <lg><l><s>ya/ ojodA/ baladA/ ya/sya vi/Sva upA/sate praSi/za~ ya/sya devAH/ .</s></l>
+01989 <l><s>ya/sya CAyA/mf/ta~ ya/sya mftyuH/ ka/smE devA/ya havi/zA viDema .. 3 ..</s></l></lg>
+01990 <lg><l><s>ya/syeme/ vi/Sve gira/yo mahitvA/ samudra/~ ya/sya rasa/yA sahA/huH/ .</s></l>
 01991 <l><s>di/So ya/sya pradi/SaH pa/Yca devIH/ ka/smE devA/ya havi/zA viDema .. 4 ..</s></l></lg>
-01992 <lg><l><s>ye/na dyO/rugrA/ pfTivI/ ca dfQA/ ye/na svf staBitaMM/ ye/na nA/kaH .</s></l>
-01993 <l><s>yo/ anta/rikzaMM vimame/ va/rIyaH ka/smE devA/ya havi/zA viDema .. 5 ..</s></l></lg>
+01992 <lg><l><s>ye/na dyO/rugrA/ pfTivI/ ca dfQA/ ye/na svf staBita/~ ye/na nA/kaH .</s></l>
+01993 <l><s>yo/ anta/rikza~ vimame/ va/rIyaH ka/smE devA/ya havi/zA viDema .. 5 ..</s></l></lg>
 01994 <lg><l><s>ya/ ime/ dyA/vApfTivI/ tastaBAne/ a/DArayadro/dasI re/jamAne .</s></l>
 01995 <l><s>ya/sminna/Di vi/tataH sU/rA e/ti ka/smE devA/ya havi/zA viDema .. 6 ..</s></l></lg>
 01996 <lg><l><s>A/po ha ya/nmahatI/rvi/SvamA/yanga/rBaM da/DAnA jana/yantIragni/m .</s></l>
 01997 <l><s>ta/to devA/nAM ni/ravartatA/suH ka/smE devA/ya havi/zA viDema .. 7 ..</s></l></lg>
 01998 <section>LXIII. MAITRAYANI SANHITA I. 5. 12.</section>
-01999 <p><s>yamo/ vA/ amriyata . te/ devA/ yamyA/ yama/ma/pAbruvan . tAMM/</s>
+01999 <p><s>yamo/ vA/ amriyata . te/ devA/ yamyA/ yama/ma/pAbruvan . tA/~</s>
 02000 <s>ya/da/pfCantsA/bravIdadyA/mfte/ti . te{??} 'bruvanna/ vA/ iya/mima/mitTaM/</s>
-02001 <s>mfzyate rA/trIMM sfjAvahA i/ti . a/harvA/va/ ta/rhyA/sInna/ rA/triH . te/</s>
+02001 <s>mfzyate rA/trI~ sfjAvahA i/ti . a/harvA/va/ ta/rhyA/sInna/ rA/triH . te/</s>
 02002 <s>devA/ rA/trimasfjanta . ta/taH Sva/stanamaBavat . ta/taH sA/ ta/mamf-</s>
 02003 <s>zyata . ta/smAdAhurahorAtrA/Ri vA/vA/GaM/ marzayantI/ti .</s></p>
 02004 <section>LXIV. MAITRAYANI SANHITA I. 10. 13.</section>
-02005 <p><s>prajA/patervA/ eta/jjyezWaM/ tokaMM/ ya/tpa/rvatAH . te/ pakzi/Ra A-</s>
+02005 <p><s>prajA/patervA/ eta/jjyezWaM/ toka/~ ya/tpa/rvatAH . te/ pakzi/Ra A-</s>
 [Page093+ 21]
 02006 <s>san . te/ parApA/tamAsata ya/tra yatrA/kAmayanta . a/Ta vA/ iya/M</s>
-02007 <s>ta/rhi SiTirA/sIt . te/zAmi/ndraH pakzA/naCinat . tE/rimA/madfMM-</s>
-02008 <s>hat . ye/ pakzA/ A/saMMste/ jImU/tA aBavan . ta/smAdete/ sadadi/</s>
+02007 <s>ta/rhi SiTirA/sIt . te/zAmi/ndraH pakzA/naCinat . tE/rimA/madf~-</s>
+02008 <s>hat . ye/ pakzA/ A/sa~ste/ jImU/tA aBavan . ta/smAdete/ sadadi/</s>
 02009 <s>pa/rvatamu/pa plavante . yo/nirhye{??}zAmezaH/ .</s></p>
 02010 <section>LXV. MAITRAYANI SANHITA II. 1. 12.</section>
-02011 <p><s>EndrAbArhaspatyaMM/ havi/rni/rvapedyo/ rAzwrI/yo ne/va prastiNnuyA/t .</s>
-02012 <s>a/ditirvE prajA/kAmOdana/mapacat . so/YSizwamASnAt . taMM/ vA/</s>
-02013 <s>i/ndramanta/reva/ ga/rBaMM sa/ntamayasma/yena dA/mnA/pOmBat . so/ 'pobDo</s>
-02014 <s>'jAyata . ta/MM vA/ ete/na bf/haspa/tirayAjayadEndrAbArhaspatye/na .</s>
+02011 <p><s>EndrAbArhaspatya/~ havi/rni/rvapedyo/ rAzwrI/yo ne/va prastiNnuyA/t .</s>
+02012 <s>a/ditirvE prajA/kAmOdana/mapacat . so/YSizwamASnAt . ta/~ vA/</s>
+02013 <s>i/ndramanta/reva/ ga/rBa~ sa/ntamayasma/yena dA/mnA/pOmBat . so/ 'pobDo</s>
+02014 <s>'jAyata . ta/~ vA/ ete/na bf/haspa/tirayAjayadEndrAbArhaspatye/na .</s>
 02015 <s>ta/sya ta/ddA/ma svaya/meva/ vya{??}padyata . sa/ imA/ di/So va/jreRABipa-</s>
 02016 <s>ryA/vartata . yo/ rAzwrI/yo ne/va prastiNnuyA/tta/mete/na yAjayedEndrA-</s>
 02017 <s>bArhaspatye/na . pa/ritato hi/ vA/ eza/ pApma/nA . a/TEza/ na/ pra/</s>
