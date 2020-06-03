@@ -232,4 +232,10 @@
 <e> <s>INIT,SKT</s> <in>Z</in> <out>\u1cf2</out> <next>INIT</next></e>
 <e> <s>INIT,SKT</s> <in>V</in> <out>\u1cf2</out> <next>INIT</next></e>
 
+<!-- Jun 2, 2020.  udatta plus candrabindu.  /~ should be \u0951\u0901  but correct output
+     with current status of Devanagari rendering requires \u0901\u0951 -->
+<e n='125a'> <s>INIT,SKT</s> <in>/~</in> <out>\u0901\u0951</out>  <cl>accent</cl></e>
+<!-- similarly, anudatta plus candrabindu -->
+<e n='125a'> <s>INIT,SKT</s> <in>\~</in> <out>\u0901\u0952</out>  <cl>accent</cl></e>
+
 </fsm>
