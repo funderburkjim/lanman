@@ -63,3 +63,15 @@ Transcode the slp1 text to Devanagari.  This might facilitate comparison
 to the Devanagari of scans.
 
 python slp1_deva.py lsr2.txt lsr2_deva.txt
+
+There are problems in lsr2_deva.txt when viewed with text editors.
+Better solution is shown next.
+
+* lsr2_deva.html
+
+python slp1_deva_html.py lsr2.txt lsr2_deva.html
+
+The sanskrit2003.ttf font is used as a web font.  This html file 
+seems a good solution, being very close to the Lanman pdf.
+See https://github.com/funderburkjim/lanman/issues/5.
+
