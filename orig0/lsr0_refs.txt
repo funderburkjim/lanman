@@ -10203,7 +10203,7 @@
 12292 much, esteem, honor; {@--3.@} think fit {%or%}
 12293 right, 10^16^; {@--4.@} think upon, set the heart
 12294 on, 3^4^; {@--5.@} have in mind {%or%} view, 88^6^;
-12295 {%--caus., see%} {@m2a1naya;@} {%--desid.%} consider,
+12295 {%--caus., see%} {@ma1naya;@} {%--desid.%} consider,
 12296 examine, call in question. [cf. <gr></gr>,
 12297 ‘mind, {%i. e.%} fix the thoughts on, wish,
 12298 strive’ (see {@man 4@}); Lat. {%me-min-i,%} ‘keep
@@ -20790,7 +20790,7 @@
 22665 was let loose….’ {@--praccha1dya,@} see {@£1chad
 22666 + pra,@} and 227. --See {@£muc,@} and 1051^3^.</p>
 22667 <p>{@15.@} See {@buddhi2.@}</p>
-22668 <p>{@16.@} See {@£ear3. --16-18.@} The instr. is
+22668 <p>{@16.@} See {@£car3@}. {@--16-18.@} The instr. is
 22669 logical subject of the impers. pass. {@sthitam:@}
 22670 see {@sthita@} 2 end, and 999. --‘Having a-gray-
 22671 blanket-made body-cover (1293), i. e. having
@@ -21425,7 +21425,7 @@
 23288 <note n="332-3"><p>The popular calendar ({%loka-ka1la%}) of Kaçmi1r
 23289 is counted from a date corresponding to 3076 B. C.
 23290 The era is connected--in some real or fanciful way
-23291 --with Ursa Major ({%saptars2ayas%}--see {%r2s2%}i2), and so
+23291 --with Ursa Major ({%saptars2ayas%}--see {%r2s2i%}2), and so
 23292 is called the Saptarshi era. It is still in use. In giv-
 23293 ing a date, the hundreds and thousands are usually
 23294 omitted. See {%Report,%} pages 59-60.</p></note>
