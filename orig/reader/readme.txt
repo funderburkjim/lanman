@@ -17,7 +17,7 @@ This is changed to <section>X</section>
 Other lines have various xml-style markup (all possibilities not yet
 identified). However, it is believed that all the text-contents of these
 represent Devanagari text in the printed edition.
-The text content of these other elements is of the form
+The text content of these other elements is of the form, for some tag '<e>',
 <e>X</e> where X is HK transliteration of Devanagari.  
 For ease in further processing, we change this to <e><s>X</s></e>.
 (We know that there is no other use in lsr0_works of the '<s>' markup element.)
@@ -29,8 +29,8 @@ Such text is also put into '<s>..</s>' markup:
 00556 <s>anyacca | </s><lg><l><s>upakAriNi vizrabdhe zuddhamatau yaH samAcarati pApam |</s></l>
 
 
-* lsr2.txt
-python slp1.py lsr1.txt lsr2.txt
+* reader.txt
+python slp1.py lsr1.txt reader.txt
 
 
 Here, we change <s>X</s> to <s>Y</s> where Y is the slp1 transcoding 
@@ -58,20 +58,23 @@ Peculiarities of the HK encoding:
    There are no instances of a 'svarita' accent in lsr1.txt, AFAIK.
 
    
-* lsr2_deva.txt
+* reader_deva.txt
 Transcode the slp1 text to Devanagari.  This might facilitate comparison
 to the Devanagari of scans.
 
-python slp1_deva.py lsr2.txt lsr2_deva.txt
+python slp1_deva.py reader.txt reader_deva.txt
 
-There are problems in lsr2_deva.txt when viewed with text editors.
+There are problems in reader_deva.txt when viewed with text editors.
 Better solution is shown next.
 
-* lsr2_deva.html
+* reader_deva.html
 
-python slp1_deva_html.py lsr2.txt lsr2_deva.html
+python slp1_deva_html.py reader.txt reader_deva.html
 
 The sanskrit2003.ttf font is used as a web font.  This html file 
 seems a good solution, being very close to the Lanman pdf.
 See https://github.com/funderburkjim/lanman/issues/5.
 
+* ../reader.txt
+  This is a copy of reader.txt in the parent directory.
+ cp reader.txt ../reader.txt

@@ -36,13 +36,21 @@
 <e> <s>INIT</s> <in>lRR</in> <out>X</out></e> <!-- 20131115 -->
 <e> <s>INIT</s> <in>|</in> <out>.</out></e> <!-- 20131123 -->
 <!--<e> <s>INIT</s> <in>a0u</in> <out>au</out></e>  20110425 -->
-<e> <s>INIT</s> <in>†</in> <out>/</out></e>
-<e> <s>INIT</s> <in>_</in> <out>\</out></e>
 <!-- the standard hk for palatal nasal is 'J'.
   but lsr coding uses 'n~'
 <e> <s>INIT</s> <in>J</in> <out>Y</out></e>
 -->
 <e> <s>INIT</s> <in>n~</in> <out>Y</out></e>
+<!-- candraBindu. See issue #4 -->
 
+<e> <s>INIT</s> <in>MM</in> <out>~</out></e>
+<e> <s>INIT</s> <in>MM†</in> <out>/~</out></e>
+<e> <s>INIT</s> <in>MM_</in> <out>\~</out></e>
+
+<!-- similar adjust -->
+<e> <s>INIT</s> <in>M†</in> <out>/M</out></e>
+<e> <s>INIT</s> <in>M_</in> <out>\M</out></e>
+<e> <s>INIT</s> <in>†</in> <out>/</out></e>
+<e> <s>INIT</s> <in>_</in> <out>\</out></e>
 
 </fsm>
