@@ -1,0 +1,2401 @@
+[Page001+ 17]
+<section>I.</section>
+00101 <head><s>.. aTa nalopAKyAnam ..</s></head>
+00102 <head><s>bfhadaSva uvAca .</s></head>
+00103 <lg><l><s>AsId rAjA nalo nAma vIrasenasuto balI .</s></l>
+00104 <l><s>upapanno guREr izwE rUpavAn aSvakovidaH .. 1 ..</s></l></lg>
+00105 <lg><l><s>atizWan manujendrARAM mUrDni devapatir yaTA .</s></l>
+00106 <l><s>upary upari sarvezAm Aditya iva tejasA .. 2 ..</s></l></lg>
+00107 <lg><l><s>brahmaRyo vedavic CUro nizaDezu mahIpatiH .</s></l>
+00108 <l><s>akzapriyaH satyavAdI mahAn akzOhiRIpatiH .. 3 ..</s></l></lg>
+00109 <lg><l><s>Ipsito naranArIRAm udAraH saMyatendriyaH .</s></l>
+00110 <l><s>rakzitA DanvinAM SrezWaH sAkzAd iva manuH svayam .. 4 ..</s></l></lg>
+00111 <lg><l><s>taTEvAsId vidarBezu BImo BImaparAkramaH .</s></l>
+00112 <l><s>SUraH sarvaguREr yuktaH prajAkAmaH sa cAprajaH .. 5 ..</s></l></lg>
+00113 <lg><l><s>sa prajArTe paraM yatnam akarot susamAhitaH .</s></l>
+00114 <l><s>tam aByagacCad brahmarzir damano nAma BArata .. 6 ..</s></l></lg>
+00115 <lg><l><s>taM sa BImaH prajAkAmas tozayAmAsa Darmavit .</s></l>
+00116 <l><s>mahizyA saha rAjendra satkAreRa suvarcasam .. 7 ..</s></l></lg>
+00117 <lg><l><s>tasmE prasanno damanaH saBAryAya varaM dadO .</s></l>
+[Page002+ 23]
+00201 <l><s>kanyAratnaM kumArAMS ca trIn udArAn mahAyaSAH .. 8 ..</s></l></lg>
+00202 <lg><l><s>damayantIM damaM dAntaM damanaM ca suvarcasam .</s></l>
+00203 <l><s>upapannAn guREH sarvEr BImAn BImaparAkramAn .. 9 ..</s></l></lg>
+00204 <lg><l><s>damayantI tu rUpeRa tejasA yaSasA SriyA .</s></l>
+00205 <l><s>sOBAgyena ca lokezu yaSaH prApa sumaDyamA .. 10 ..</s></l></lg>
+00206 <lg><l><s>aTa tAM vayasi prApte dAsInAM samalaMkftam .</s></l>
+00207 <l><s>SataM SataM saKInAM ca paryupAsac CacIm iva .. 11 ..</s></l></lg>
+00208 <lg><l><s>tatra sma rAjate BEmI sarvABaraRaBUzitA .</s></l>
+00209 <l><s>saKImaDye 'navadyANgI vidyut sOdAmanI yaTA .. 12 ..</s></l></lg>
+00210 <lg><l><s>atIva rUpasaMpannA SrIr ivAyatalocanA .</s></l>
+00211 <l><s>na devezu na yakzezu tAdfg rUpavatI kva cit .. 13 ..</s></l></lg>
+00212 <lg><l><s>mAnuzezv api cAnyezu dfzwapUrvATa vA SrutA .</s></l>
+00213 <l><s>cittapramATinI bAlA devAnAm api sundarI .. 14 ..</s></l></lg>
+00214 <lg><l><s>nalaS ca naraSArdUlo lokezv apratimo Buvi .</s></l>
+00215 <l><s>kandarpa iva rUpeRa mUrtimAn aBavat svayam .. 15 ..</s></l></lg>
+00216 <lg><l><s>tasyAH samIpe tu nalaM praSaSaMsuH kutUhalAt .</s></l>
+00217 <l><s>nEzaDasya samIpe tu damayantIM punaH punaH .. 16 ..</s></l></lg>
+00218 <lg><l><s>tayor adfzwakAmo 'BUc CfRvatoH satataM guRAn .</s></l>
+00219 <l><s>anyonyaM prati kOnteya sa vyavarData hfcCayaH .. 17 ..</s></l></lg>
+00220 <lg><l><s>aSaknuvan nalaH kAmaM tadA DArayituM hfdA .</s></l>
+00221 <l><s>antaHpurasamIpasTe vana Aste raho gataH .. 18 ..</s></l></lg>
+00222 <lg><l><s>sa dadarSa tato haMsAY jAtarUpaparizkftAn .</s></l>
+00223 <l><s>vane vicaratAM tezAm ekaM jagrAha pakziRam .. 19 ..</s></l></lg>
+[Page003+ 23]
+00301 <lg><l><s>tato 'ntarikzago vAcaM vyAjahAra nalaM tadA .</s></l>
+00302 <l><s>hantavyo 'smi na te rAjan karizyAmi tava priyam .. 20 ..</s></l></lg>
+00303 <lg><l><s>damayantIsakASe tvAM kaTayizyAmi nEzaDa .</s></l>
+00304 <l><s>yaTA tvad anyaM puruzaM na sA maMsyati karhi cit .. 21 ..</s></l></lg>
+00305 <lg><l><s>evam uktas tato haMsam utsasarja mahIpatiH .</s></l>
+00306 <l><s>te tu haMsAH samutpatya vidarBAn agamaMs tataH .. 22 ..</s></l></lg>
+00307 <lg><l><s>vidarBanagarIM gatvA damayantyAs tadAntike .</s></l>
+00308 <l><s>nipetus te garutmantaH sA dadarSa ca tAn gaRAn .. 23 ..</s></l></lg>
+00309 <lg><l><s>sA tAn adButarUpAn vE dfzwvA saKigaRAvftA .</s></l>
+00310 <l><s>hfzwA grahItuM KagamAMs tvaramARopacakrame .. 24 ..</s></l></lg>
+00311 <lg><l><s>aTa haMsA visasfpuH sarvataH pramadAvane .</s></l>
+00312 <l><s>ekEkaSas tadA kanyAs tAn haMsAn samupAdravan .. 25 ..</s></l></lg>
+00313 <lg><l><s>damayantI tu yaM haMsaM samupADAvad antike .</s></l>
+00314 <l><s>sa mAnuzIM giraM kftvA damayantIm aTAbravIt .. 26 ..</s></l></lg>
+00315 <lg><l><s>damayanti nalo nAma nizaDezu mahIpatiH .</s></l>
+00316 <l><s>aSvinoH sadfSo rUpe na samAs tasya mAnuzAH .. 27 ..</s></l></lg>
+00317 <lg><l><s>tasya vE yadi BAryA tvaM BaveTA varavarRini .</s></l>
+00318 <l><s>saPalaM te Bavej janma rUpaM cedaM sumaDyame .. 28 ..</s></l></lg>
+00319 <lg><l><s>vayaM hi devaganDarvamAnuzoragarAkzasAn .</s></l>
+00320 <l><s>dfzwavanto na cAsmABir dfzwapUrvas taTAviDaH .. 29 ..</s></l></lg>
+00321 <lg><l><s>tvaM cApi ratnaM nArIRAM narezu ca nalo varaH .</s></l>
+00322 <l><s>viSizwAyA viSizwena saMgamo guRavAn Bavet .. 30 ..</s></l></lg>
+00323 <lg><l><s>evam uktA tu haMsena damayantI viSAM pate .</s></l>
+[Page004+ 21]
+00401 <l><s>abravIt tatra taM haMsaM tvam apy evaM nale vad .. 31 ..</s></l></lg>
+00402 <lg><l><s>taTety uktvARqajaH kanyAM vidarBasya viSAM pate .</s></l>
+00403 <l><s>punar Agamya nizaDAn nale sarvaM nyavedayat .. 32 ..</s></l></lg>
+00404 <p><s>.. iti nalopAKyAne praTamaH sargaH .. 1 ..</s></p>
+00405 <head><s>bfhadaSva uvAca .</s></head>
+00406 <lg><l><s>damayantI tu tac CrutvA vaco haMsasya BArata .</s></l>
+00407 <l><s>tataH praBfti na svasTA nalaM prati baBUva sA .. 1 ..</s></l></lg>
+00408 <lg><l><s>tataS cintAparA dInA vivarRavadanA kfSA .</s></l>
+00409 <l><s>baBUva damayantI tu niHSvAsaparamA tadA .. 2 ..</s></l></lg>
+00410 <lg><l><s>UrDvadfzwir DyAnaparA baBUvonmattadarSanA .</s></l>
+00411 <l><s>pARquvarRA kzaRenATa hfcCayAvizwacetanA .. 3 ..</s></l></lg>
+00412 <lg><l><s>na SayyAsanaBogezu ratiM vindati karhi cit .</s></l>
+00413 <l><s>na naktaM na divA Sete hA heti rudatI punaH .. 4 ..</s></l></lg>
+00414 <lg><l><s>tato vidarBapataye damayantyAH saKIjanaH .</s></l>
+00415 <l><s>nyavedayat tAm asvasTAM damayantIM nareSvare .. 5 ..</s></l></lg>
+00416 <lg><l><s>tac CrutvA nfpatir BImo damayantIsaKIgaRAt .</s></l>
+00417 <l><s>cintayAmAsa tat kAryaM sumahat svAM sutAM prati .. 6 ..</s></l></lg>
+00418 <lg><l><s>sa samIkzya mahIpAlaH svAM sutAM prAptayOvanAm .</s></l>
+00419 <l><s>apaSyad AtmanA kAryaM damayantyAH svayaMvaram .. 7 ..</s></l></lg>
+00420 <lg><l><s>sa saMnimantrayAmAsa mahIpAlAn viSAM patiH .</s></l>
+00421 <l><s>anuBUyatAm ayaM vIrAH svayaMvara iti praBo .. 8 ..</s></l></lg>
+[Page005+ 22]
+00501 <lg><l><s>SrutvA tu pArTivAH sarve damayantyAH svayaMvaram .</s></l>
+00502 <l><s>aBijagmus tato BImaM rAjAno BImaSAsanAt .. 9 ..</s></l></lg>
+00503 <lg><l><s>hastyaSvaraTaGozeRa pUrayanto vasuMDarAm .</s></l>
+00504 <l><s>vicitramAlyABaraREr balEr dfSyEH svalaMkftEH .. 10 ..</s></l></lg>
+00505 <lg><l><s>tezAM BImo mahAbAhuH pArTivAnAM mahAtmanAm .</s></l>
+00506 <l><s>yaTArham akarot pUjAM te 'vasaMs tatra pUjitAH .. 11 ..</s></l></lg>
+00507 <lg><l><s>etasminn eva kAle tu surARAm fzisattamO .</s></l>
+00508 <l><s>awamAnO mahAtmAnAv indralokam ito gatO .. 12 ..</s></l></lg>
+00509 <lg><l><s>nAradaH parvataS cEva mahAprAjYO mahAvratO .</s></l>
+00510 <l><s>devarAjasya BavanaM viviSAte supUjitO .. 13 ..</s></l></lg>
+00511 <lg><l><s>tAv arcayitvA maGavA tataH kuSalam avyayam .</s></l>
+00512 <l><s>papracCAnAmayaM cApi tayoH sarvagataM viBuH .. 14 ..</s></l></lg>
+00513 <head><s>nArada uvAca .</s></head>
+00514 <lg><l><s>AvayoH kuSalaM deva sarvatra gatam ISvara .</s></l>
+00515 <l><s>loke ca maGavan kftsne nfpAH kuSalino viBo .. 15 ..</s></l></lg>
+00516 <head><s>bfhadaSva uvAca .</s></head>
+00517 <lg><l><s>nAradasya vacaH SrutvA papracCa valavftrahA .</s></l>
+00518 <l><s>DarmajYAH pfTivIpAlAs tyaktajIvitayoDinaH .. 16 ..</s></l></lg>
+00519 <lg><l><s>SastreRa niDanaM kAle ye gacCanty aparANmuKAH .</s></l>
+00520 <l><s>ayaM loko 'kzayas tezAM yaTEva mama kAmaDuk .. 17 ..</s></l></lg>
+00521 <lg><l><s>kva nu te kzatriyAH SUrA na hi paSyAmi tAn aham .</s></l>
+00522 <l><s>AgacCato mahIpAlAn dayitAn atiTIn mama .. 18 ..</s></l></lg>
+[Page006+ 23]
+00601 <lg><l><s>evam uktas tu SakreRa nAradaH pratyaBAzata .</s></l>
+00602 <l><s>SfRu me maGavan yena na dfSyante mahIkzitaH .. 19 ..</s></l></lg>
+00603 <lg><l><s>vidarBarAjYo duhitA damayantIti viSrutA .</s></l>
+00604 <l><s>rUpeRa samatikrAntA pfTivyAM sarvayozitaH .. 20 ..</s></l></lg>
+00605 <lg><l><s>tasyAH svayaMvaraH Sakra BavitA nacirAd iva .</s></l>
+00606 <l><s>tatra gacCanti rAjAno rAjaputrAS ca sarvaSaH .. 21 ..</s></l></lg>
+00607 <lg><l><s>tAM ratnaBUtAM lokasya prArTayanto mahIkzitaH .</s></l>
+00608 <l><s>kANkzanti sma viSezeRa valavftranizUdana .. 22 ..</s></l></lg>
+00609 <lg><l><s>etasmin kaTyamAne tu lokapAlAS ca sAgnikAH .</s></l>
+00610 <l><s>Ajagmur devarAjasya samIpam amarottamAH .. 23 ..</s></l></lg>
+00611 <lg><l><s>tatas te SuSruvuH sarve nAradasya vaco mahat .</s></l>
+00612 <l><s>SrutvEva cAbruvan hfzwA gacCAmo vayam apy uta .. 24 ..</s></l></lg>
+00613 <lg><l><s>tataH sarve mahArAja sagaRAH sahavAhanAH .</s></l>
+00614 <l><s>vidarBAn aBijagmus te yataH sarve mahIkzitaH .. 25 ..</s></l></lg>
+00615 <lg><l><s>nalo 'pi rAjA kOnteya SrutvA rAjYAM samAgamam .</s></l>
+00616 <l><s>aByagacCad adInAtmA damayantIm anuvrataH .. 26 ..</s></l></lg>
+00617 <lg><l><s>aTa devAH paTi nalaM dadfSur BUtale sTitam .</s></l>
+00618 <l><s>sAkzAd iva sTitaM mUrtyA manmaTaM rUpasaMpadA .. 27 ..</s></l></lg>
+00619 <lg><l><s>taM dfzwvA lokapAlAs te BrAjamAnaM yaTA ravim .</s></l>
+00620 <l><s>tasTur vigatasaMkalpA vismitA rUpasaMpadA .. 28 ..</s></l></lg>
+00621 <lg><l><s>tato 'ntarikze vizwaBya vimAnAni divOkasaH .</s></l>
+00622 <l><s>abruvan nEzaDaM rAjann avatIrya naBastalAt .. 29 ..</s></l></lg>
+00623 <lg><l><s>Bo Bo nEzaDa rAjendra nala satyavrato BavAn .</s></l>
+[Page007+ 21]
+00701 <l><s>asmAkaM kuru sAhAyyaM dUto Bava narottama .. 30 ..</s></l></lg>
+00702 <p><s>.. iti nalopAKyAne dvitIyaH sargaH .. 2 ..</s></p>
+00703 <head><s>bfhadaSva uvAca .</s></head>
+00704 <lg><l><s>teByaH pratijYAya nalaH karizya iti BArata .</s></l>
+00705 <l><s>aTEtAn paripapracCa kftAYjalir upasTitaH .. 1 ..</s></l></lg>
+00706 <lg><l><s>ke vE BavantaH kaS cAsO yasyAhaM dUta IpsitaH .</s></l>
+00707 <l><s>kiM ca tad vo mayA kAryaM kaTayaDvaM yaTAtaTam .. 2 ..</s></l></lg>
+00708 <lg><l><s>evam ukte nEzaDena maGavAn aByaBAzata .</s></l>
+00709 <l><s>amarAn vE niboDAsmAn damayantyarTam AgatAn .. 3 ..</s></l></lg>
+00710 <lg><l><s>aham indro 'yam agniS ca taTEvAyam apAM patiH .</s></l>
+00711 <l><s>SarIrAntakaro nFRAM yamo 'yam api pArTiva .. 4 ..</s></l></lg>
+00712 <lg><l><s>tvaM vE samAgatAn asmAn damayantyE nivedaya .</s></l>
+00713 <l><s>lokapAlA mahendrAdyAH samAyAnti didfkzavaH .. 5 ..</s></l></lg>
+00714 <lg><l><s>prAptum icCanti devAs tvAM Sakro 'gnir varuRo yamaH .</s></l>
+00715 <l><s>tezAm anyatamaM devaM patitve varayasva ha .. 6 ..</s></l></lg>
+00716 <lg><l><s>evam uktaH sa SakreRa nalaH prAYjalir abravIt .</s></l>
+00717 <l><s>ekArTaM samupetaM mAM na prezayitum arhaTa .. 7 ..</s></l></lg>
+00718 <lg><l><s>kaTaM nu jAtasaMkalpaH striyam utsahate pumAn .</s></l>
+00719 <l><s>parArTam IdfSaM vaktuM tat kzamantu maheSvarAH .. 8 ..</s></l></lg>
+00720 <head><s>devA UcuH .</s></head>
+00721 <lg><l><s>karizya iti saMSrutya pUrvam asmAsu nEzaDa .</s></l>
+[Page008+ 23]
+00801 <l><s>na karizyasi kasmAt tvaM vraja nEzaDa mAciram .. 9 ..</s></l></lg>
+00802 <head><s>bfhadaSva uvAca .</s></head>
+00803 <lg><l><s>evam uktaH sa devEs tEr nEzaDaH punar abravIt .</s></l>
+00804 <l><s>surakzitAni veSmAni pravezwuM kaTam utsahe .. 10 ..</s></l></lg>
+00805 <lg><l><s>pravekzyasIti taM SakraH punar evAByaBAzata .</s></l>
+00806 <l><s>jagAma sa taTety uktvA damayantyA niveSanam .. 11 ..</s></l></lg>
+00807 <lg><l><s>dadarSa tatra vEdarBIM saKIgaRasamAvftAm .</s></l>
+00808 <l><s>dedIpyamAnAM vapuzA SriyA ca varavarRinIm .. 12 ..</s></l></lg>
+00809 <lg><l><s>atIva sukumArANgIM tanumaDyAM sulocanAm .</s></l>
+00810 <l><s>AkzipantIm iva praBAM SaSinaH svena tejasA .. 13 ..</s></l></lg>
+00811 <lg><l><s>tasya dfzwvEva vavfDe kAmas tAM cAruhAsinIm .</s></l>
+00812 <l><s>satyaM cikIrzamARas tu DArayAmAsa hfcCayam .. 14 ..</s></l></lg>
+00813 <lg><l><s>tatas tA nEzaDaM dfzwvA saMBrAntAH paramANganAH .</s></l>
+00814 <l><s>AsaneByaH samutpetus tejasA tasya DarzitAH .. 15 ..</s></l></lg>
+00815 <lg><l><s>praSaSaMsuS ca suprItA nalaM tA vismayAnvitAH .</s></l>
+00816 <l><s>na cEnam aByaBAzanta manoBis tv aByapUjayan .. 16 ..</s></l></lg>
+00817 <lg><l><s>aho rUpam aho kAntir aho DEryaM mahAtmanaH .</s></l>
+00818 <l><s>ko 'yaM devo 'Ta vA yakzo ganDarvo vA Bavizyati .. 17 ..</s></l></lg>
+00819 <lg><l><s>na tAs taM Saknuvanti sma vyAhartum api kiM cana .</s></l>
+00820 <l><s>tejasA DarzitAs tasya lajjAvatyo varANganAH .. 18 ..</s></l></lg>
+00821 <lg><l><s>aTEnaM smayamAnaM tu smitapUrvABiBAziRI .</s></l>
+00822 <l><s>damayantI nalaM vIram aByaBAzata vismitA .. 19 ..</s></l></lg>
+00823 <lg><l><s>kas tvaM sarvAnavadyANga mama hfcCayavarDana .</s></l>
+[Page009+ 20]
+00901 <l><s>prApto 'sy amaravad vIra jYAtum icCAmi te 'naGa .. 20 ..</s></l></lg>
+00902 <lg><l><s>kaTam AgamanaM ceha kaTaM cAsi na lakzitaH .</s></l>
+00903 <l><s>surakzitaM hi me veSma rAjA cEvograSAsanaH .. 21 ..</s></l></lg>
+00904 <lg><l><s>evam uktas tu vEdarByA nalas tAM pratyuvAca ha .</s></l>
+00905 <l><s>nalaM mAM vidDi kalyARi devadUtam ihAgatam .. 22 ..</s></l></lg>
+00906 <lg><l><s>devAs tvAM prAptum icCanti Sakro 'gnir varuRo yamaH .</s></l>
+00907 <l><s>tezAm anyatamaM devaM patiM varaya SoBane .. 23 ..</s></l></lg>
+00908 <lg><l><s>tezAm eva praBAvena pravizwo 'ham alakzitaH .</s></l>
+00909 <l><s>praviSantaM na mAM kaS cid apaSyan nApy avArayat .. 24 ..</s></l></lg>
+00910 <lg><l><s>etadarTam ahaM Badre prezitaH surasattamEH .</s></l>
+00911 <l><s>etac CrutvA SuBe budDiM prakuruzva yaTecCasi .. 25 ..</s></l></lg>
+00912 <p><s>.. iti nalopAKyAne tftIyaH sargaH .. 3 ..</s></p>
+00913 <head><s>bfhadaSva uvAca .</s></head>
+00914 <lg><l><s>sA namaskftya deveByaH prahasya nalamabravIt .</s></l>
+00915 <l><s>praRayasva yaTASradDaM rAjankiM karavARi te .. 1 ..</s></l></lg>
+00916 <lg><l><s>ahaM cEva hi yaccAnyanmamAsti vasu kiM cana .</s></l>
+00917 <l><s>tatsarvaM tava viSrabDaM kuru praRayamISvara .. 2 ..</s></l></lg>
+00918 <lg><l><s>haMsAnAM vacanaM yattu tanmAM dahati pArTiva .</s></l>
+00919 <l><s>tvatkfte hi mayA vIra rAjAnaH saMnipAtitAH .. 3 ..</s></l></lg>
+00920 <lg><l><s>yadi tvaM BajamAnAM mAM pratyAKyAsyasi mAnada .</s></l>
+[Page010+ 23]
+01001 <l><s>vizamagniM jalaM rajjumAsTAsye tava kAraRAt .. 4 ..</s></l></lg>
+01002 <lg><l><s>evamuktastu vEdarByA nalastAM pratyuvAca ha .</s></l>
+01003 <l><s>tizWatsu lokapAlezu kaTaM mAnuzamicCasi .. 5 ..</s></l></lg>
+01004 <lg><l><s>yezAmahaM lokakftAmISvarARAM mahAtmanAm .</s></l>
+01005 <l><s>na pAdarajasA tulyo manaste tezu vartatAm .. 6 ..</s></l></lg>
+01006 <lg><l><s>vipriyaM hyAcaranmartyo devAnAM mftyumfcCati .</s></l>
+01007 <l><s>trAhi mAmanavadyANgi varayasva surottamAn .. 7 ..</s></l></lg>
+01008 <lg><l><s>virajAMsi ca vAsAMsi divyAScitrAH srajastaTA .</s></l>
+01009 <l><s>BUzaRAni ca muKyAni devAnprApya tu BuNkza vE .. 8 ..</s></l></lg>
+01010 <lg><l><s>ya imAM pfTivIM kftsnAM saMkzipya grasate punaH .</s></l>
+01011 <l><s>hutASamISaM devAnAM kA taM na varayetpatim .. 9 ..</s></l></lg>
+01012 <lg><l><s>yasya daRqaBayAtsarve BUtagrAmAH samAgatAH .</s></l>
+01013 <l><s>DarmamevAnuruDyanti kA taM na varayetpatim .. 10 ..</s></l></lg>
+01014 <lg><l><s>DarmAtmAnaM mahAtmAnaM dEtyadAnavamardanam .</s></l>
+01015 <l><s>mahendraM sarvadevAnAM kA taM na varayetpatim .. 11 ..</s></l></lg>
+01016 <lg><l><s>kriyatAmaviSaNkena manasA yadi manyase .</s></l>
+01017 <l><s>varaRaM lokapAlAnAM suhfdvAkyamidaM SfRu .. 12 ..</s></l></lg>
+01018 <lg><l><s>nEzaDenEvamuktA sA damayantI vaco 'bravIt .</s></l>
+01019 <l><s>samAplutAByAM netrAByAM SokajenATa vAriRA .. 13 ..</s></l></lg>
+01020 <lg><l><s>deveByo 'haM namaskftya sarveByaH pfTivIpate .</s></l>
+01021 <l><s>vfRe tvAmeva BartAraM satyametadbravImi te .. 14 ..</s></l></lg>
+01022 <lg><l><s>tAmuvAca tato rAjA vepamAnAM kftAYjalim .</s></l>
+01023 <l><s>dOtyenAgatya kalyARi kaTaM svArTamihotsahe .. 15 ..</s></l></lg>
+[Page011+ 23]
+01101 <lg><l><s>kaTaM hyahaM pratiSrutya devatAnAM viSezataH .</s></l>
+01102 <l><s>parArTe yatnamAraBya kaTaM svArTamihotsahe .. 16 ..</s></l></lg>
+01103 <lg><l><s>eza Darmo yadi svArTo mamApi BavitA tataH .</s></l>
+01104 <l><s>evaM svArTaM karizyAmi taTA Badre viDIyatAm .. 17 ..</s></l></lg>
+01105 <lg><l><s>tato bAzpAkulAM vAcaM damayantI SucismitA .</s></l>
+01106 <l><s>pratyAharantI SanakErnalaM rAjAnamabravIt .. 18 ..</s></l></lg>
+01107 <lg><l><s>upAyo 'yaM mayA dfzwo nirapAyo nareSvara .</s></l>
+01108 <l><s>yena dozo na BavitA tava rAjankaTaM cana .. 19 ..</s></l></lg>
+01109 <lg><l><s>tvaM cEva hi naraSrezWa devAScendrapurogamAH .</s></l>
+01110 <l><s>AyAntu sahitAH sarve mama yatra svayaMvaraH .. 20 ..</s></l></lg>
+01111 <lg><l><s>tato 'haM lokapAlAnAM saMniDO tvAM nareSvara .</s></l>
+01112 <l><s>varayizye naravyAGra nEvaM dozo Bavizyati .. 21 ..</s></l></lg>
+01113 <lg><l><s>evamuktastu vEdarByA nalo rAjA viSAM pate .</s></l>
+01114 <l><s>AjagAma punastatra yatra devAH samAgatAH .. 22 ..</s></l></lg>
+01115 <lg><l><s>tamapaSyaMstaTAyAntaM lokapAlA maheSvarAH .</s></l>
+01116 <l><s>dfzwvA cEnaM tato 'pfcCanvfttAntaM sarvameva tam .. 23 ..</s></l></lg>
+01117 <lg><l><s>kacciddfzwA tvayA rAjandamayantI SucismitA .</s></l>
+01118 <l><s>kimabravIcca naH sarvAnvada BUmipate 'naGa .. 24 ..</s></l></lg>
+01119 <head><s>nala uvAca .</s></head>
+01120 <lg><l><s>BavadBirahamAdizwo damayantyA niveSanam .</s></l>
+01121 <l><s>pravizwaH sumahAkakzaM daRqiBiH sTavirErvftam .. 25 ..</s></l></lg>
+01122 <lg><l><s>praviSantaM ca mAM tatra na kaSciddfzwavAnnaraH .</s></l>
+01123 <l><s>fte tAM pArTivasutAM BavatAmeva tejasA .. 26 ..</s></l></lg>
+[Page012+ 21]
+01201 <lg><l><s>saKyaScAsyA mayA dfzwAstaBiScApyupalakzitaH .</s></l>
+01202 <l><s>vismitAScABavansarvA dfzwvA mAM vibuDeSvarAH .. 27 ..</s></l></lg>
+01203 <lg><l><s>varRyamAnezu ca mayA Bavatsu rucirAnanA .</s></l>
+01204 <l><s>mAmeva gatasaMkalpA vfRIte sA surottamAH .. 28 ..</s></l></lg>
+01205 <lg><l><s>abravIccEva mAM bAlA AyAntu sahitAH surAH .</s></l>
+01206 <l><s>tvayA saha naravyAGra mama yatra svayaMvaraH .. 29 ..</s></l></lg>
+01207 <lg><l><s>tezAmahaM saMniDO tvAM varayizyAmi nEzaDa .</s></l>
+01208 <l><s>evaM tava mahAbAho dozo na Baviteti ha .. 30 ..</s></l></lg>
+01209 <lg><l><s>etAvadeva vibuDA yaTAvfttamudAhftam .</s></l>
+01210 <l><s>mayA Seze pramARaM tu BavantastridaSeSvarAH .. 31 ..</s></l></lg>
+01211 <p><s>.. iti nalopAKyAne caturTaH sargaH .. 4 ..</s></p>
+01212 <head><s>bfhadaSva uvAca .</s></head>
+01213 <lg><l><s>aTa kAle SuBe prApte tiTO puRye kzaRe taTA .</s></l>
+01214 <l><s>AjuhAva mahIpAlAnBImo rAjA svayaMvare .. 1 ..</s></l></lg>
+01215 <lg><l><s>tacCrutvA pfTivIpAlAH sarve hfcCayapIqitAH .</s></l>
+01216 <l><s>tvaritAH samupAjagmurdamayantImaBIpsavaH .. 2 ..</s></l></lg>
+01217 <lg><l><s>kanakastamBaruciraM toraRena virAjitam .</s></l>
+01218 <l><s>viviSuste nfpA raNgaM mahAsiMhA ivAcalam .. 3 ..</s></l></lg>
+01219 <lg><l><s>tatrAsanezu viviDezvAsInAH pfTivIkzitaH .</s></l>
+01220 <l><s>suraBisragDarAH sarve pramfzwamaRikuRqalAH .. 4 ..</s></l></lg>
+01221 <lg><l><s>tatra sma pInA dfSyante bAhavaH pariGopamAH .</s></l>
+[Page013+ 23]
+01301 <l><s>AkAravantaH suSlakzRAH paYcaSIrzA ivoragAH .. 5 ..</s></l></lg>
+01302 <lg><l><s>sukeSAntAni cArURi sunAsAkziBruvARi ca .</s></l>
+01303 <l><s>muKAni rAjYAM SoBante nakzatrARi yaTA divi .. 6 ..</s></l></lg>
+01304 <lg><l><s>damayantI tato raNgaM praviveSa SuBAnanA .</s></l>
+01305 <l><s>muzRantI praBayA rAjYAM cakzUMzi ca manAMsi ca .. 7 ..</s></l></lg>
+01306 <lg><l><s>tasyA gAtrezu patitA tezAM dfzwirmahAtmanAm .</s></l>
+01307 <l><s>tatra tatrEva saktABUnna cacAla ca paSyatAm .. 8 ..</s></l></lg>
+01308 <lg><l><s>tataH saMkIrtyamAnezu rAjYAM nAmasu BArata .</s></l>
+01309 <l><s>dadarSa BEmI puruzAtpaYca tulyAkftInaTa .. 9 ..</s></l></lg>
+01310 <lg><l><s>tAnsamIkzya tataH sarvAnnirviSezAkftInsTitAn .</s></l>
+01311 <l><s>saMdehAdaTa vEdarBI nAByajAnAnnalaM nfpam .. 10 ..</s></l></lg>
+01312 <lg><l><s>yaM yaM hi dadfSe tezAM taM taM mene nalaM nfpam .</s></l>
+01313 <l><s>sA cintayantI budDyATa tarkayAmAsa BAvinI .. 11 ..</s></l></lg>
+01314 <lg><l><s>kaTaM hi devAYjAnIyAM kaTaM vidyAM nalaM nfpam .. 12 ..</s></l></lg>
+01315 <lg><l><s>evaM saMcintayantI sA vEdarBI BfSaduHKitA .</s></l>
+01316 <l><s>SrutAni devaliNgAni tarkayAmAsa BArata .. 13 ..</s></l></lg>
+01317 <lg><l><s>devAnAM yAni liNgAni sTavireByaH SrutAni me .</s></l>
+01318 <l><s>tAnIha tizWatAM BUmAvekasyApi na lakzaye .. 14 ..</s></l></lg>
+01319 <lg><l><s>sA viniScitya bahuDA vicArya ca punaH punaH .</s></l>
+01320 <l><s>SaraRaM prati devAnAM prAptakAlamamanyata .. 15 ..</s></l></lg>
+01321 <lg><l><s>vAcA ca manasA cEva namaskAraM prayujya sA .</s></l>
+01322 <l><s>deveByaH prAYjalirBUtvA vepamAnedamabravIt .. 16 ..</s></l></lg>
+01323 <lg><l><s>haMsAnAM vacanaM SrutvA yaTA me nEzaDo vftaH .</s></l>
+[Page014+ 23]
+01401 <l><s>patitve tena satyena devAstaM pradiSantu me .. 17 ..</s></l></lg>
+01402 <lg><l><s>vacasA manasA cEva yaTA nABicarAmyaham .</s></l>
+01403 <l><s>tena satyena vibuDAstameva pradiSantu me .. 18 ..</s></l></lg>
+01404 <lg><l><s>yaTA devEH sa me BartA vihito nizaDADipaH .</s></l>
+01405 <l><s>tena satyena me devAstameva pradiSantu me .. 19 ..</s></l></lg>
+01406 <lg><l><s>yaTedaM vratamArabDaM nalasyArADane mayA .</s></l>
+01407 <l><s>tena satyena me devAstameva pradiSantu me .. 20 ..</s></l></lg>
+01408 <lg><l><s>svaM cEva rUpaM kurvantu lokapAlA maheSvarAH .</s></l>
+01409 <l><s>yaTAhamaBijAnIyAM puRyaSlokaM narADipam .. 21 ..</s></l></lg>
+01410 <lg><l><s>niSamya damayantyAstatkaruRaM paridevitam .</s></l>
+01411 <l><s>yaToktaM cakrire devAH sAmarTyaM liNgaDAraRe .. 22 ..</s></l></lg>
+01412 <lg><l><s>sApaSyadvibuDAnsarvAnasvedAnstabDalocanAn .</s></l>
+01413 <l><s>hfzitasragrajohInAnsTitAnaspfSataH kzitim .. 23 ..</s></l></lg>
+01414 <lg><l><s>CAyAdvitIyo mlAnasragrajaHsvedasamanvitaH .</s></l>
+01415 <l><s>BUmizWo nEzaDaScEva nimezeRa ca sUcitaH .. 24 ..</s></l></lg>
+01416 <lg><l><s>sA samIkzya tu tAndevAtpuRyaSlokaM ca BArata .</s></l>
+01417 <l><s>nEzaDaM varayAmAsa BEmI DarmeRa pARqava .. 25 ..</s></l></lg>
+01418 <lg><l><s>vilajjamAnA vastrAnte jagrAhAyatalocanA .</s></l>
+01419 <l><s>skanDadeSe 'sfjattasya srajaM paramaSoBanAm .. 26 ..</s></l></lg>
+01420 <lg><l><s>varayAmAsa cEvEnaM patitve varavarRinI .</s></l>
+01421 <l><s>tato hA heti sahasA muktaH Sabdo narADipEH .. 27 ..</s></l></lg>
+01422 <lg><l><s>devErmaharziBistatra sADu sADviti BArata .</s></l>
+01423 <l><s>vismitErIritaH SabdaH praSaMsadBirnalaM nfpam .. 28 ..</s></l></lg>
+[Page015+ 23]
+01501 <lg><l><s>damayantIM tu kOravya vIrasenasuto nfpaH .</s></l>
+01502 <l><s>ASvAsayadvarArohAM prahfzwenAntarAtmanA .. 29 ..</s></l></lg>
+01503 <lg><l><s>yattvaM Bajasi kalyARi pumAMsaM devasaMniDO .</s></l>
+01504 <l><s>tasmAnmAM vidDi BartAramevaM te vacane ratam .. 30 ..</s></l></lg>
+01505 <lg><l><s>yAvacca me Darizyanti prARA dehe Sucismite .</s></l>
+01506 <l><s>tAvattvayi BavizyAmi satyametadbravImi te .. 31 ..</s></l></lg>
+01507 <lg><l><s>damayantIM taTA vAgBiraBinandya kftAYjaliH .</s></l>
+01508 <l><s>… … … .. 32 ..</s></l></lg>
+01509 <lg><l><s>tO parasparataH prItO dfzwvA tvagnipurogamAn .</s></l>
+01510 <l><s>tAneva SaraRaM devAYjagmaturmanasA tadA .. 33 ..</s></l></lg>
+01511 <lg><l><s>vfte tu nEzaDe BEmyA lokapAlA mahOjasaH .</s></l>
+01512 <l><s>prahfzwamanasaH sarve nalAyAzwO varAndaduH .. 34 ..</s></l></lg>
+01513 <lg><l><s>pratyakzadarSanaM yajYe gatiM cAnuttamAM SuBAm .</s></l>
+01514 <l><s>nEzaDAya dadO SakraH prIyamARaH SacIpatiH .. 35 ..</s></l></lg>
+01515 <lg><l><s>agnirAtmaBavaM prAdAdyatra vAYCati nEzaDaH .</s></l>
+01516 <l><s>lokAnAtmapraBAMScEva dadO tasmE hutASanaH .. 36 ..</s></l></lg>
+01517 <lg><l><s>yamastvannarasaM prAdAdDarme ca paramAM sTitim .</s></l>
+01518 <l><s>apAM patirapAM BAvaM yatra vAYCati nEzaDaH .. 37 ..</s></l></lg>
+01519 <lg><l><s>srajaScottamaganDAQyAH sarve ca miTunaM daduH .</s></l>
+01520 <l><s>varAnevaM pradAyAsya devAste tridivaM gatAH .. 38 ..</s></l></lg>
+01521 <lg><l><s>pArTivAScAnuBUyAsya vivAhaM vismayAnvitAH .</s></l>
+01522 <l><s>damayantyASca muditAH pratijagmuryaTAgatam .. 39 ..</s></l></lg>
+01523 <lg><l><s>gatezu pArTivendrezu BImaH prIto mahAmanAH .</s></l>
+[Page016+ 20]
+01601 <l><s>vivAhaM kArayAmAsa damayantyA nalasya ca .. 40 ..</s></l></lg>
+01602 <lg><l><s>uzya tatra yaTAkAmaM nEzaDo dvipadAM varaH .</s></l>
+01603 <l><s>BImena samanujYAto jagAma nagaraM svakam .. 41 ..</s></l></lg>
+01604 <lg><l><s>atIva mudito rAjA BrAjamAnoM 'SumAniva .</s></l>
+01605 <l><s>araYjayatprajA vIro DarmeRa paripAlayan .. 42 ..</s></l></lg>
+01606 <lg><l><s>Ije cApyaSvameDena yayAtiriva nAhuzaH .</s></l>
+01607 <l><s>anyESca bahuBirDImAnkratuBiScAptadakziREH .. 43 ..</s></l></lg>
+01608 <lg><l><s>punaSca ramaRIyezu vanezUpavanezu ca .</s></l>
+01609 <l><s>damayantyA saha nalo vijahArAmaropamaH .. 44 ..</s></l></lg>
+01610 <lg><l><s>janayAmAsa ca nalo damayantyAM mahAmanAH .</s></l>
+01611 <l><s>indrasenaM sutaM cApi indrasenAM ca kanyakAm .. 45 ..</s></l></lg>
+01612 <lg><l><s>evaM sa yajamAnaSca viharaMSca narADipaH .</s></l>
+01613 <l><s>rarakza vasusaMpUrRAM vasuDAM vasuDADipaH .. 46 ..</s></l></lg>
+01614 <p><s>.. iti nalopAKyAne paYcamaH sargaH .. 5 ..</s></p>
+01615 <head><s>.. aTa hitopadeSaH ..</s></head>
+<section>II.</section>
+01616 <lg><l><s>Sruto hitopadeSo 'yaM pAwavaM saMskftoktizu .</s></l>
+01617 <l><s>vAcAM sarvatra vEcitryaM nItividyAM dadAti ca ..</s></l></lg>
+01618 <lg><l><s>ajarAmaravatprAjYo vidyAmarTaM ca cintayet .</s></l>
+01619 <l><s>gfhIta iva keSezu mftyunA DarmamAcaret ..</s></l></lg>
+[Page017+ 22]
+01701 <lg><l><s>sarvadravyezu vidyEva dravyamAhuranuttamam .</s></l>
+01702 <l><s>ahAryatvAdanarDyatvAdakzayatvAcca sarvadA ..</s></l></lg>
+01703 <lg><l><s>vidyA SastraM ca SAstraM ca dve vidye pratipattaye .</s></l>
+01704 <l><s>AdyA hAsyAya vfdDatve dvitIyAdriyate sadA ..</s></l></lg>
+01705 <lg><l><s>yannave BAjane lagnaH saMskAro nAnyaTA Bavet .</s></l>
+01706 <l><s>kaTACalena bAlAnAM nItistadiha kaTyate ..</s></l></lg>
+01707 <lg><l><s>mitralABaH suhfdBedo vigrahaH saMDireva ca .</s></l>
+01708 <l><s>paYcatantrAttaTAnyasmAdgranTAdAkfzya liKyate ..</s></l></lg>
+01709 <p><s>asti BAgIraTItIre pAwaliputranAmaDeyaM nagaram . tatra sa-</s>
+01710 <s>rvasvAmiguRopetaH sudarSano nAma narapatirAsIt . sa BUpatire-</s>
+01711 <s>kadA kenApi paWyamAnaM SlokadvayaM SuSrAva .</s>
+01712 <lg><l><s>anekasaMSayocCedi parokzArTasya darSakam .</s></l>
+01713 <l><s>sarvasya locanaM SAstraM yasya nAstyanDa eva saH ..</s></l></lg>
+01714 <lg><l><s>yOvanaM DanasaMpattiH praButvamavivekatA .</s></l>
+01715 <l><s>ekEkamapyanarTAya kiM punastu catuzwayam ..</s></l></lg>
+01716 <s>ityAkarRyAtmanaH putrARAmanaDigataSAstrARAM nityamunmArgagA-</s>
+01717 <s>minAM SAstrAnanuzWAnenodvignamanAH sa rAjA cintayAmAsa .</s>
+01718 <lg><l><s>ko 'rTaH putreRa jAtena yo na vidvAnna DArmikaH .</s></l>
+01719 <l><s>kARena cakzuzA kiM vA cakzuHpIqEva kevalam ..</s></l></lg>
+01720 <lg><l><s>ajAtamftamUrKARAM varamAdyO na cAntimaH .</s></l>
+01721 <l><s>sakfdduHKakarAvAdyAvantimastu pade pade ..</s></l></lg>
+01722 <s>kiM ca . </s><lg><l><s>sa jAto yena jAtena yAti vaMSaH samunnatim .</s></l>
+[Page018+ 23]
+01801 <l><s>parivartini saMsAre mftaH ko vA na jAyate ..</s></l></lg>
+01802 <s>aparaM ca . </s><lg><l><s>varameko guRI putro na ca mUrKaSatErapi .</s></l>
+01803 <l><s>ekaScandrastamo hanti na ca tArAgaRErapi ..</s></l></lg>
+01804 <lg><l><s>yasya tasya prasUto 'pi guRavAnpUjyate naraH .</s></l>
+01805 <l><s>DanurvaMSaviSudDo 'pi nirguRaH kiM karizyati ..</s></l></lg>
+01806 <lg><l><s>hA hA putraka nADIta sugatEtAsu rAtrizu .</s></l>
+01807 <l><s>tena tvaM viduzAM maDye paNke gOriva sIdasi ..</s></l></lg>
+01808 <s>tatkaTamidAnImete mama putrA guRavantaH kriyantAm . yacco-</s>
+01809 <s>cyate . </s><lg><l><s>yadaBAvi na tadBAvi BAvi cenna tadanyaTA .</s></l>
+01810 <l><s>iti cintAvizaGno 'yamagadaH kiM na pIyate ..</s></l></lg>
+01811 <s>etatkAryAkzamARAM kezAM cidAlasyavacanam .</s>
+01812 <lg><l><s>na dEvamiti saMcintya tyajedudyogamAtmanaH .</s></l>
+01813 <l><s>anudyogena kastElaM tileByaH prAptumarhati ..</s></l></lg>
+01814 <s>anyacca . </s><lg><l><s>udyoginaM puruzasiMhamupEti lakzmIr</s></l>
+01815 <l><s>dEvena deyamiti kApuruzA vadanti .</s></l>
+01816 <l><s>dEvaM nihatya kuru pOruzamAtmaSaktyA</s></l>
+01817 <l><s>yatne kfte yadi na siDyati ko 'tra dozaH ..</s></l></lg>
+01818 <lg><l><s>yaTA hyekena cakreRa raTasya na gatirBavet .</s></l>
+01819 <l><s>evaM puruzakAreRa vinA dEvaM na siDyati ..</s></l></lg>
+01820 <s>taTA ca . </s><lg><l><s>pUrvajanmakftaM karma taddEvamiti kaTyate .</s></l>
+01821 <l><s>tasmAtpuruzakAreRa yatnaM kuryAdatandritaH ..</s></l></lg>
+01822 <lg><l><s>udyamena hi siDyanti kAryARi na manoraTEH .</s></l>
+01823 <l><s>na hi suptasya siMhasya praviSanti muKe mfgAH ..</s></l></lg>
+[Page019+ 23]
+01901 <lg><l><s>mUrKo 'pi SoBate tAvatsaBAyAM vastravezwitaH .</s></l>
+01902 <l><s>tAvacca SoBate mUrKo yAvatkiM cinna BAzate ..</s></l></lg>
+01903 <s>etaccintayitvA sa rAjA paRqitasaBAM kAritavAn . rAjovAca .</s>
+01904 <s>Bo BoH paRqitAH . SrUyatAm . asti kaScidevaMBUto vidvAnyo</s>
+01905 <s>mama putrARAM nityamunmArgagAminAmanaDigataSAstrARAmi-</s>
+01906 <s>dAnIM nItiSAstropadeSena punarjanma kArayituM samarTaH .</s>
+01907 <s>yataH . </s><lg><l><s>kAcaH kAYcanasaMsargAdDatte mArakatIM dyutim .</s></l>
+01908 <l><s>taTA satsaMniDAnena mUrKo yAti pravIRatAm ..</s></l></lg>
+01909 <s>uktaM ca . </s><lg><l><s>hIyate hi matistAta hInEH saha samAgamAt .</s></l>
+01910 <l><s>samESca samatAmeti viSizwESca viSizwatAm ..</s></l></lg>
+01911 <s>atrAntare vizRuSarmanAmA mahApaRqitaH sakalanItiSAstratattva-</s>
+01912 <s>jYo bfhaspatirivAbravIt . devAmahAkulasaMBUtA ete rAjaputrAH .</s>
+01913 <s>tanmayA nItiM grAhayituM Sakyante .</s>
+01914 <s>yataH . </s><lg><l><s>nAdravye nihitA kA citkriyA PalavatI Bavet .</s></l>
+01915 <l><s>na vyApAraSatenApi SukavatpAWyate bakaH ..</s></l></lg>
+01916 <s>anyacca . </s><lg><l><s>asmiMstu nirguRaM gotre nApatyamupajAyate .</s></l>
+01917 <l><s>Akare padmarAgARAM janma kAcamaReH kutaH ..</s></l></lg>
+01918 <s>ato 'haM zaRmAsAByantare tava putrAnnItiSAstrABijYAnkari-</s>
+01919 <s>zyAmi . rAjA savinayaM punaruvAca .</s>
+01920 <lg><l><s>kIwo 'pi sumanaHsaNgAdArohati satAM SiraH .</s></l>
+01921 <l><s>aSmApi yAti devatvaM mahadBiH supratizWitaH ..</s></l></lg>
+01922 <s>tadetezAmasmatputrARAM nItiSAstropadeSAya BavantaH pramARam .</s>
+01923 <s>ityuktvA tasya vizRuSarmaRo bahumAnapuraHsaraM putrAnsamarpita-</s>
+[Page020+ 21]
+02001 <s>vAn . aTa prAsAdapfzWe suKopavizwAnAM rAjaputrARAM purastA-</s>
+02002 <s>tprastAvakrameRa sa paRqito 'bravIt .</s>
+02003 <lg><l><s>kAvyaSAstravinodena kAlo gacCati DImatAm .</s></l>
+02004 <l><s>vyasanena tu mUrKARAM nidrayA kalahena vA ..</s></l></lg>
+02005 <s>tadBavatAM vinodAya kAkakUrmAdInAM vicitrAM kaTAM kaTayAmi .</s>
+02006 <s>rAjaputrEruktam . Arya . kaTyatAm . vizRuSarmovAca . SfRuta</s>
+02007 <s>yUyam . saMprati mitralABaH prastUyate .</s></p>
+<section>III.</section>
+02008 <p><s>ahamekadA dakziRAraRye carannapaSyam . eko vfdDavyAGraH snA-</s>
+02009 <s>taH kuSahastaH sarastIre brUte . Bo BoH pAnTAH . idaM suvarRakaNka-</s>
+02010 <s>RaM gfhyatAm . tadvacanamAkarRya BayAtko 'pi tatpArSvaM na Baja-</s>
+02011 <s>te . tato loBAkfzwena kena citpAnTenAlocitam . BAgyenE-</s>
+02012 <s>tatsaMBavati . kiM tvasminnAtmasaMdehe pravfttirna viDeyA . yataH .</s>
+02013 <lg><l><s>anizwAdizwalABe 'pi na gatirjAyate SuBA .</s></l>
+02014 <l><s>yatrAsti vizasaMsargo 'mftaM tadapi mftyave ..</s></l></lg>
+02015 <s>kiM tu sarvatrArTArjane pravfttiH saMdeha eva . taTA coktam .</s>
+02016 <lg><l><s>na saMSayamanAruhya naro BadrARi paSyati .</s></l>
+02017 <l><s>saMSayaM punarAruhya yadi jIvati paSyati ..</s></l></lg>
+02018 <s>tannirUpayAmi tAvat . prakASaM brUte . kutra tava kaNkaRam .</s>
+02019 <s>vyAGro hastaM prasArya darSayati . pAnTo 'vadat . kaTaM mArAtmake</s>
+02020 <s>tvayi viSvAsaH . vyAGra uvAca . SfRu re pAnTa . prAgeva yO-</s>
+[Page021+ 23]
+02101 <s>vanadaSAyAmatidurvftta Asam . anekagobrAhmaRamanuzyavaDAnme</s>
+02102 <s>putrA anekaSo mftA dArASca . sAMprataM nirvaMSo 'smi . tataH ke-</s>
+02103 <s>nApi DArmikeRAhamupadizwaH . dAnaDarmamAcaratu BavAniti . ta-</s>
+02104 <s>dupadeSAdidAnImahaM snAnaSIlo dAtA vfdDo galitanaKadanto</s>
+02105 <s>dayAvAMSca kaTaM na viSvAsaBUmiH . uktaM ca .</s>
+02106 <lg><l><s>ijyADyayanadAnAni tapaH satyaM kzamA damaH .</s></l>
+02107 <l><s>aloBa iti mArgo 'yaM DarmasyAzwaviDaH smftaH ..</s></l></lg>
+02108 <lg><l><s>tatra pUrvaScaturvargo damBArTamapi sevyate .</s></l>
+02109 <l><s>uttaraSca caturvargo nAmahAtmasu vidyate ..</s></l></lg>
+02110 <s>mama cEtAvAl~ loBaviraho yena svahastagatamapi suvarRakaNkaRaM</s>
+02111 <s>yasmE kasmE ciddAtumicCAmi . taTApi vyAGro mAnuzaM KAdatIti</s>
+02112 <s>lokapravAdo durnivAraH . yataH .</s>
+02113 <lg><l><s>gatAnugatiko lokaH kuwwanImupadeSinIm .</s></l>
+02114 <l><s>pramARayati no Darme yaTA goGnamapi dvijam ..</s></l></lg>
+02115 <s>mayA ca DarmaSAstrARyaDItAni . SfRu .</s>
+02116 <lg><l><s>marusTalyAM yaTA vfzwiH kzuDArte BojanaM taTA .</s></l>
+02117 <l><s>daridre dIyate dAnaM saPalaM pARqunandana ..</s></l></lg>
+02118 <lg><l><s>prARA yaTAtmano 'BIzwA BUtAnAmapi te taTA .</s></l>
+02119 <l><s>AtmOpamyena sarvatra dayAM kurvanti sADavaH ..</s></l></lg>
+02120 <s>aparaM ca . </s><lg><l><s>pratyAKyAne ca dAne ca suKaduHKe priyApriye .</s></l>
+02121 <l><s>AtmOpamyena puruzaH pramARamaDigacCati ..</s></l></lg>
+02122 <s>anyacca . </s><lg><l><s>mAtfvatparadArAMSca paradravyARi lozwavat .</s></l>
+02123 <l><s>AtmavatsarvaBUtAni yaH paSyati sa paSyati ..</s></l></lg>
+[Page022+ 23]
+02201 <s>tvaM ca durgataH . tena tattuByaM dAtuM sayatno 'ham . taTA coktam .</s>
+02202 <lg><l><s>daridrAnBara kOnteya mA prayacCeSvare Danam .</s></l>
+02203 <l><s>vyADitasyOzaDaM paTyaM nIrujastu kimOzaDEH ..</s></l></lg>
+02204 <s>anyacca . </s><lg><l><s>dAtavyamiti yaddAnaM dIyate 'nupakAriRe .</s></l>
+02205 <l><s>deSe kAle ca pAtre ca taddAnaM sAttvikaM smftam ..</s></l></lg>
+02206 <s>tadatra sarasi snAtvA suvarRakaNkaRamidaM pratigfhARa . tato jAta-</s>
+02207 <s>viSvAso yAvadasO saraH snAtuM pravizwastAvadeva mahApaNke nima-</s>
+02208 <s>gnaH palAyitumakzamaH . paNke patitaM dfzwvA vyAGro 'vadat . a-</s>
+02209 <s>haha . mahApaNke patito 'si . atastvAmutTApayAmi . ityuktvA</s>
+02210 <s>SanEH SanErupagamya tena vyAGreRa DftaH sa pAnTo 'cintayat .</s>
+02211 <lg><l><s>na DarmaSAstraM paWatIti kAraRaM</s></l>
+02212 <l><s>na cApi vedADyayanaM durAtmanaH .</s></l>
+02213 <l><s>svaBAva evAtra taTAtiricyate</s></l>
+02214 <l><s>yaTA prakftyA maDuraM gavAM payaH ..</s></l></lg>
+02215 <s>kiM ca . </s><lg><l><s>avaSendriyacittAnAM hastisnAnamiva kriyA .</s></l>
+02216 <l><s>durBagABaraRaprAyo jYAnaM BAraH kriyAM vinA ..</s></l></lg>
+02217 <s>tanna mayA BadraM kftaM yadatra mArAtmake viSvAsaH kftaH . taTA hyu-</s>
+02218 <s>ktam . </s><lg><l><s>naKinAM ca nadInAM ca SfNgiRAM SastrapARinAm .</s></l>
+02219 <l><s>viSvAso nEva kartavyaH strIzu rAjakulezu ca ..</s></l></lg>
+02220 <s>aparaM ca . </s><lg><l><s>sarvasya hi parIkzyante svaBAvA netare guRAH .</s></l>
+02221 <l><s>atItya hi guRAnsarvAnsvaBAvo mUrDni vartate ..</s></l></lg>
+02222 <s>anyacca . </s><lg><l><s>sa hi gagaRavihArI kalmazaDvaMsakArI</s></l>
+02223 <l><s>daSaSatakaraDArI jyotizAM maDyacArI .</s></l>
+[Page023+ 22]
+02301 <l><s>viDurapi viDiyogAdgrasyate rAhuRAsO</s></l>
+02302 <l><s>liKitamapi lalAwe proYCituM kaH samarTaH ..</s></l></lg>
+02303 <s>iti cintayanneva tenAsO vyAGreRa vyApAditaH KAditaSca .</s></p>
+<section>IV.</section>
+02304 <p><s>asti magaDadeSe campakavatI nAmAraRyAnI . tasyAM cirA-</s>
+02305 <s>nmahatA snehena mfgakAkO nivasataH . sa ca mfgaH svecCayA BrA-</s>
+02306 <s>myanpuzwANgaH kena citsfgAlenAvalokitaH . taM dfzwvA sfgAlo</s>
+02307 <s>'cintayat . AH . kaTametanmAMsaM sulalitaM BakzayAmi . Ba-</s>
+02308 <s>vatu . viSvAsaM tAvadutpAdayAmi . ityAlocyopasftyAbravIt .</s>
+02309 <s>mitra . kuSalaM te . mfgeRoktam . kastvam . jambuko brUte . kzu-</s>
+02310 <s>drabudDinAmA jambuko 'ham . atrAraRye mitrabanDuhIno mftava-</s>
+02311 <s>dekAkI nivasAmi . idAnIM BavantaM mitramAsAdya punaH saba-</s>
+02312 <s>nDurjIvalokaM pravizwo 'smi . aDunA mayA tavAnucareRa sarva-</s>
+02313 <s>TA Bavitavyam . mfgeRoktam . evamastu . tato 'staM gate sa-</s>
+02314 <s>vitari Bagavati marIcimAlini mfgasya vAsaBUmiM prati mf-</s>
+02315 <s>gajambukO gatO . tatra campakavfkzaSAKAyAM subudDinAmA kAko</s>
+02316 <s>mfgasya ciramitraM nivasati . tO dfzwvA kAko 'vadat . saKe</s>
+02317 <s>citrANga . ko 'yaM dvitIyaH . mfgo brUte . jambuko 'yamasma-</s>
+02318 <s>tsaKyamicCannAgataH . kAko brUte . mitra . akasmAdAgantunA</s>
+02319 <s>saha viSvAso nEva yuktaH . tanna BadramAcaritam . taTA coktam .</s>
+02320 <lg><l><s>ajYAtakulaSIlasya vAso deyo na kasya cit .</s></l>
+02321 <l><s>mArjArasya hi dozeRa hato gfDro jaradgavaH ..</s></l></lg>
+[Page024+ 23]
+02401 <s>ityAkarRya sa jambukaH sakopamAha . mfgasya praTamadarSanadine Ba-</s>
+02402 <s>vAnapyajYAtakulaSIla evAsIt . tadBavatA saha kaTamadya yA-</s>
+02403 <s>vadetasya snehAnuvfttiruttarottaraM varDate .</s>
+02404 <lg><l><s>yatra vidvajjano nAsti SlAGyastatrAlpaDIrapi .</s></l>
+02405 <l><s>nirastapAdape deSa eraRqo 'pi drumAyate ..</s></l></lg>
+02406 <s>anyaccA . </s><lg><l><s>ayaM nijaH paro veti gaRanA laGucetasAm .</s></l>
+02407 <l><s>udAracaritAnAM tu vasuDEva kuwumbakam ..</s></l></lg>
+02408 <s>yaTA cAyaM mfgo mama banDustaTA BavAnapi . mfgo 'bravIt .</s>
+02409 <s>kimanenottarottareRa . sarvErekatra viSramBAlApEH suKamanuBavadBiH</s>
+02410 <s>sTIyatAm . yataH .</s>
+02411 <lg><l><s>na kaScitkasya cinmitraM na kaScitkasya cidripuH .</s></l>
+02412 <l><s>vyavahAreRa mitrARi jAyante ripavastaTA ..</s></l></lg>
+02413 <s>kAkenoktam . evamastu . aTa prAtaH sarve yaTABimatadeSaM ga-</s>
+02414 <s>tAH . ekadA niBftaM sfgAlo brUte . saKe mfga . etasminneva va-</s>
+02415 <s>nEkadeSe sasyapUrRaM kzetramasti . tadahaM tvAM tatra nItvA darSayAmi .</s>
+02416 <s>taTA kfte sati mfgaH pratyahaM tatra gatvA sasyaM KAdati . aTa</s>
+02417 <s>kzetrapatinA taddfzwvA pASAstatra niyojitAH . anantaraM punarA-</s>
+02418 <s>gato mfgastatra caranpASErbadDo 'cintayat . ko mAmitaH kA-</s>
+02419 <s>lapASAdiva vyADapASAttrAtuM mitrAdanyaH samarTaH . atrAntare</s>
+02420 <s>jambukastatrAgatyopasTito 'cintayat . PalitaM tAvadasmAkaM</s>
+02421 <s>kapawaprabanDena . manoraTasidDirapi bAhulyAnme Bavizyati . e-</s>
+02422 <s>tasyotkftyamAnasya mAMsAsfganuliptAnyasTIni mayAvaSyaM prA-</s>
+02423 <s>ptavyAni . sa ca mfgastaM dfzwvollasito brUte . saKe . CindDi tA-</s>
+[Page025+ 23]
+02501 <s>vanmama banDanam . satvaraM trAyasva mAm . yataH .</s>
+02502 <lg><l><s>Apatsu mitraM jAnIyAdyudDe SUramfRe Sucim .</s></l>
+02503 <l><s>BAryAM kzIRezu vittezu vyasanezu ca bAnDavAn ..</s></l></lg>
+02504 <s>aparaM ca . </s><lg><l><s>utsave vyasane cEva durBikze SatrusaMkawe .</s></l>
+02505 <l><s>rAjadvAre SmaSAne ca yastizWati sa bAnDavaH ..</s></l></lg>
+02506 <s>jambukaH pASaM muhurmuhurvilokyAcintayat . dfQabanDanabadDo 'sti</s>
+02507 <s>tAvadayaM mfgaH . brUte ca . snAyunirmitAH pASAH . tadadya BawwA-</s>
+02508 <s>rakavAre kaTametAndantEH spfSAmi . mitra . yadi nAnyaTA manya-</s>
+02509 <s>se tadA praBAte yattvayocyate tanmayA kartavyam . ityuktvA tatsa-</s>
+02510 <s>mIpa AtmAnamAcCAdya sTitaH saH . anantaraM sa kAkaH pradoza-</s>
+02511 <s>kAle mfgamanAgatamavalokyetastato 'nvizya taTAviDaM dfzwvo-</s>
+02512 <s>vAca . saKe . kimetat . mfgeRoktam . avaDIritasuhfdvAkyasya</s>
+02513 <s>Palametat . taTA coktam .</s>
+02514 <lg><l><s>suhfdAM hitakAmAnAM yaH SfRoti na BAzitam .</s></l>
+02515 <l><s>vipatsaMnihitA tasya sa naraH SatrunandanaH ..</s></l></lg>
+02516 <s>kAko brUte . sa sfgAlaH kva . mfgeRoktam . manmAMsArTI tizWatya-</s>
+02517 <s>trEva . kAko brUte . mitra . uktameva mayA pUrvam .</s>
+02518 <lg><l><s>aparADo na me 'stIti nEtadviSvAsakAraRam .</s></l>
+02519 <l><s>vidyate hi nfSaMseByo BayaM guRavatAmapi ..</s></l></lg>
+02520 <lg><l><s>parokze kAryahantAraM pratyakze priyavAdinam .</s></l>
+02521 <l><s>varjayettAdfSaM mitraM vizakumBaM payomuKam ..</s></l></lg>
+02522 <s>dIrGaM niHSvasya . are vaYcaka . kiM tvayA pApakarmaRA kftam .</s>
+02523 <s>yataH .</s>
+[Page026+ 23]
+02601 <lg><l><s>saMlApitAnAM maDurErvacoBirmiTyopacArESca vaSIkftAnAm .</s></l>
+02602 <l><s>ASAvatAM SraddaDatAM ca loke kimarTinAM vaYcayitavyamasti ..</s></l></lg>
+02603 <s>anyacca . </s><lg><l><s>upakAriRi viSrabDe SudDamatO yaH samAcarati pApam .</s></l>
+02604 <l><s>taM janamasatyasaMDaM Bagavati vasuDe kaTaM vahasi ..</s></l></lg>
+02605 <lg><l><s>durjanena samaM saKyaM prItiM cApi na kArayet .</s></l>
+02606 <l><s>uzRo dahati cANgAraH SItaH kfzRAyate karam ..</s></l></lg>
+02607 <s>aTa vA sTitiriyaM durjanAnAm .</s>
+02608 <lg><l><s>prAkpAdayoH patati KAdati pfzWamAMsaM</s></l>
+02609 <l><s>karRe kalaM kimapi rOti SanErvicitram .</s></l>
+02610 <l><s>CidraM nirUpya sahasA praviSatyaSaNkaH</s></l>
+02611 <l><s>sarvaM Kalasya caritaM maSakaH karoti ..</s></l></lg>
+02612 <s>taTA ca . </s><lg><l><s>durjanaH priyavAdI ca nEtadviSvAsakAraRam .</s></l>
+02613 <l><s>maDu tizWati jihvAgre hfdaye tu halAhalam ..</s></l></lg>
+02614 <s>aTa praBAte sa kzetrapatirlaguqahastastaM pradeSamAgacCankAkenAva-</s>
+02615 <s>lokitaH . tamAlokya kAkenoktam . saKe mfga . tvamAtmAnaM</s>
+02616 <s>mftavatsaMdarSya vAtenodaraM pUrayitvA pAdAnstabDIkftya tizWa . ya-</s>
+02617 <s>dAhaM SabdaM karomi tadA tvaM satvaramutTAya palAyizyasi . mfga-</s>
+02618 <s>staTEva kAkavacanena sTitaH . tataH kzetrapatinA harzotPullalo-</s>
+02619 <s>canenAvalokitaH . taTAviDaM mfgamavalokyAsO AH svayaMmf-</s>
+02620 <s>to 'yamityuktvA mfgaM banDanAnmocayitvA pASAnsaMvarituM saya-</s>
+02621 <s>tno baBUva . tataH kiyaddUre 'ntarite kzetrapatO sa mfgaH kAkasya</s>
+02622 <s>SabdaM SrutvA sasaMBramaH samutTAya palAyitaH . tamuddiSya tena kze-</s>
+02623 <s>trapatinA prakopAtkziptalaguqena sfgAlo vyApAditaH . taTA</s>
+[Page027+ 22]
+02701 <s>coktam . </s><lg><l><s>triBirvarzEstriBirmAsEstriBiH pakzEstriBirdinEH .</s></l>
+02702 <l><s>atyugrapuRyapApAnAmihEva PalamaSnute ..</s></l></lg>
+02703 <s>ato 'haM bravImi .</s></p>
+02704 <lg><l><s>BakzyaBakzakayoH prItirvipattereva kAraRam .</s></l>
+02705 <l><s>sfgAlAtpASabadDo 'sO mfgaH kAkena rakzitaH ..</s></l></lg>
+<section>V.</section>
+02706 <p><s>asti BAgIraTItIre gfDrakUwanAmni parvate mahAnparkawIvfkzaH .</s>
+02707 <s>tasya koware dEvadurvipAkAdgalitanayano jaradgavo nAma gfDraH pra-</s>
+02708 <s>tivasati . aTa kfpayA tajjIvanAya tadvfkzavAsinaH pakziRaH</s>
+02709 <s>svAhArAtkiM citkiM ciddadati . tenAsO jIvati . aTa kadA</s>
+02710 <s>ciddIrGakarRanAmA mArjAraH pakziSAvakAnBakzayituM tatrAgataH .</s>
+02711 <s>tatastamAyAntaM dfzwvA pakziSAvakErBayArtEH kolAhalaH kftaH .</s>
+02712 <s>tacCrutvA jaradgavenoktam . ko 'yamAyAti . dIrGakarRo gfDrama-</s>
+02713 <s>valokya saBayamAha . hA hato 'smi . aDunAtisaMniDAnena</s>
+02714 <s>palAyanamapyaSakyam . tadyaTA BavitavyaM taTA Bavatu . etatsamI-</s>
+02715 <s>pamupagacCAmi . ityAlocyopasftyAbravIt . Arya . tvAmaBi-</s>
+02716 <s>vande . gfDro 'vadat . kastvam . so 'bravIt . mArjAro 'ham .</s>
+02717 <s>gfDro brUte . taddUramapasara . no cedDantavyo 'si mayA . mArjA-</s>
+02718 <s>ro 'vadat . SrUyatAM tAvadasmadvacanam . tato yadyahaM vaDyastadA</s>
+02719 <s>hantavyaH . yataH .</s>
+02720 <lg><l><s>jAtimAtreRa kaScitkiM vaDyate pUjyate kva cit .</s></l>
+02721 <l><s>vyavahAraM parijYAya vaDyaH pUjyo 'Ta vA Bavet ..</s></l></lg>
+[Page028+ 23]
+02801 <s>gfDro brUte . brUhi . kIdfgvyApAravAn . so 'vadat . ahamatra</s>
+02802 <s>gaNgAtIre nityasnAyI nirAmizASI brahmacaryeRa cAndrAyaRavra-</s>
+02803 <s>tamAcaraMstizWAmi . yuzmAMSca DarmajYAnaratAnviSvAsaBUmayaH pa-</s>
+02804 <s>kziRaH sarve sarvadA mamAgre stuvanti . ato BavadByo vidyAva-</s>
+02805 <s>yovfdDeByo DarmaM SrotumihAgataH . BavantaScEtAdfSA DarmajYA ya-</s>
+02806 <s>nmAmatiTiM hantumudyatAH . gfhasTasya DarmaScEza samudIritaH .</s>
+02807 <lg><l><s>arAvapyucitaM kAryamAtiTyaM gfhamAgate .</s></l>
+02808 <l><s>CettumapyAgate CAyAM nopasaMharate drumaH ..</s></l></lg>
+02809 <s>kiM ca . yadyannaM nAsti tadA prItivacasApyatiTiH pUjyaH . yataH .</s>
+02810 <lg><l><s>tfRAni BUmirudakaM vAkcaturTI ca sUnftA .</s></l>
+02811 <l><s>etAnyapi satAM gehe nocCidyante kadA cana ..</s></l></lg>
+02812 <s>anyacca . </s><lg><l><s>bAlo vA yadi vA vfdDo yuvA vA gfhamAgataH .</s></l>
+02813 <l><s>tasya pUjA viDAtavyA sarvatrAByAgato guruH ..</s></l></lg>
+02814 <s>anyacca . </s><lg><l><s>nirguRezvapi sattvezu dayAM kurvanti sADavaH .</s></l>
+02815 <l><s>na hi saMharate jyotsnAM candraScARqAlaveSmani ..</s></l></lg>
+02816 <s>anyacca . </s><lg><l><s>atiTiryasya BagnASo gfhAtpratinivartate .</s></l>
+02817 <l><s>sa dattvA duzkftaM tasmE puRyamAdAya gacCati ..</s></l></lg>
+02818 <s>anyacca . </s><lg><l><s>uttamasyApi varRasya nIco 'pi gfhamAgataH .</s></l>
+02819 <l><s>pUjanIyo yaTAyogyaM sarvadevamayo 'tiTiH ..</s></l></lg>
+02820 <s>gfDro 'vadat . mArjArA hi mAMsarucayo Bavanti pakziSAvakA-</s>
+02821 <s>ScAtra nivasanti . tenEvaM bravImi . mArjAro 'pyevaM SrutvA BU-</s>
+02822 <s>miM spfzwvA karRO spfSati brUte ca . mayA DarmaSAstraM SrutvA vI-</s>
+02823 <s>tarAgeRedaM duzkaraM vrataM cAndrAyaRamaDyavasAyitam . yataH para-</s>
+[Page029+ 22]
+02901 <s>sparaM vivadamAnAnAmapi DarmaSAstrARAmahiMsA paramo Darma i-</s>
+02902 <s>tyatrEkamatyam . yataH .</s>
+02903 <lg><l><s>sarvahiMsAnivfttASca narAH sarvaMsahASca ye .</s></l>
+02904 <l><s>sarvasyASrayaBUtASca te narAH svargagAmiRaH ..</s></l></lg>
+02905 <s>anyacca . </s><lg><l><s>eka eva suhfdDarmo niDane 'pyanuyAti yaH .</s></l>
+02906 <l><s>SarIreRa samaM nASaM sarvamanyadDi gacCati ..</s></l></lg>
+02907 <s>kiM ca . </s><lg><l><s>yo 'tti yasya yadA mAMsamuBayoH paSyatAntaram .</s></l>
+02908 <l><s>ekasya kzaRikI prItiranyaH prARErvimucyate ..</s></l></lg>
+02909 <s>api ca . </s><lg><l><s>martavyamiti yadduHKaM puruzasyopajAyate .</s></l>
+02910 <l><s>SakyastenAnumAnena paro 'pi parirakzitum ..</s></l></lg><s> SfRu</s>
+02911 <s>punaH . </s><lg><l><s>svacCandavanajAtena SAkenApi prapUryate .</s></l>
+02912 <l><s>asya dagDodarasyArTe kaH kuryAtpAtakaM mahat ..</s></l></lg>
+02913 <s>evaM viSvAsya sa mArjArastarukoware sTitaH . tato dinezu ga-</s>
+02914 <s>cCatsu pakziSAvakAnAkramya kowaramAnIya pratyahaM KAdati . aTa</s>
+02915 <s>yezAmapatyAni KAditAni tEH SokArtErvilapadBiritastato ji-</s>
+02916 <s>jYAsA samArabDA . tatparijYAya mArjAraH kowarAnniHsftya palA-</s>
+02917 <s>yitaH . paScAtpatatriBiritastato nirUpayadBistatra tarukoware SA-</s>
+02918 <s>vakAsTIni prAptAni . anantaraM cAnenEva SAvakAH KAditA</s>
+02919 <s>iti niScitya militvA tEH pakziBiH sa gfDro vyApAditaH .</s>
+02920 <s>ato 'haM bravImi .</s></p>
+02921 <lg><l><s>ajYAtakulaSIlasya vAso deyo na kasya cit .</s></l>
+02922 <l><s>mArjArasya hi dozeRa hato gfDro jaradgavaH ..</s></l></lg>
+[Page030+ 23]
+<section>VI.</section>
+03001 <p><s>asti vArARasyAM karpUrapawo nAma rajakaH . sa cEkadA ni-</s>
+03002 <s>rBaraM prasuptaH . tadanantaraM dravyARi hartuM tadgfhaM cOraH pravizwaH . ta-</s>
+03003 <s>sya prANgaRe gardaBo badDastizWati kukkuraScopavizwaH . taM cOrama-</s>
+03004 <s>valokya gardaBaH SvAnamAha . tava tAvadayaM vyApAraH . tatkimi-</s>
+03005 <s>ti tvamuccEH SabdaM kftvA svAminaM na jAgarayasi . kukkuro brUte .</s>
+03006 <s>mAma . niyogasyAsya carcA kiM tvayA kartavyA . tvameva jAnAsi</s>
+03007 <s>yaTAhametasyAharniSaM gfharakzAM karomi . yato 'yaM cirAnnirvf-</s>
+03008 <s>to mamopayogaM na jAnAti tenADunA mamAhAradAne 'pi</s>
+03009 <s>mandAdaraH . vinA viDuradarSanaM svAmino 'nujIvizu mandA-</s>
+03010 <s>darA Bavanti . gardaBo brUte . SfRu re barbara .</s>
+03011 <lg><l><s>yAcate kAryakAle yaH sa kiMBftyaH sa kiMsuhft .</s></l></lg><s> kukku-</s>
+03012 <s>ro brUte . </s><lg><l><s>BftyAnsaMBAvayedyastu kAryakAle sa kiMpraBuH ..</s></l></lg>
+03013 <s>kiM ca . </s><lg><l><s>ASritAnAM BftO svAmisevAyAM Darmasevane .</s></l>
+03014 <l><s>putrasyotpAdane cEva na santi pratihastakAH ..</s></l></lg>
+03015 <s>tato gardaBaH sakopamAha . AH . pApIyAMstvaM yaH svAmikAryo-</s>
+03016 <s>pekzAM karozi . Bavatu . yaTA svAmI jAgarti taTA mayA kartavyam .</s>
+03017 <s>yataH . </s><lg><l><s>pfzWataH sevayedarkaM jaWareRa hutASanam .</s></l>
+03018 <l><s>svAminaM sarvaBAvena paralokamamAyayA ..</s></l></lg>
+03019 <s>ityuktvA sa atIva cItkAraM kftavAn . tataH sa rajakastena cI-</s>
+03020 <s>tkAreRa prabudDo nidrAvimardakopAdutTAya gardaBaM laguqena tAqa-</s>
+03021 <s>yAmAsa . ato 'haM bravImi .</s></p>
+03022 <lg><l><s>parADikAracarcAM yaH kuryAtsvAmihitecCayA .</s></l>
+[Page031+ 21]
+03101 <l><s>sa vizIdati cItkArAttAqito gardaBo yaTA ..</s></l></lg>
+<section>VII.</section>
+03102 <p><s>astyuttarApaTe 'rbudaSiKaranAmni parvate mahAvikramo nAma</s>
+03103 <s>siMhaH . tasya parvatakandaramaDiSayAnasya kesarAgraM mUzikaH kaSci-</s>
+03104 <s>cCinatti . sa siMhaH kesarAgraM lUnaM budDvA kupito vivarAntargataM</s>
+03105 <s>mUzikamalaBamAno 'cintayat . kiM viDeyamatra . Bavatu . evaM</s>
+03106 <s>SrUyate . </s><lg><l><s>kzudraSatrurBavedyastu vikramAnna sa namyate .</s></l>
+03107 <l><s>taM nihantuM puraskAryaH sadfSastasya sEnikaH ..</s></l></lg>
+03108 <s>ityAlocya tena grAmaM gatvA daDikarRanAmA biqAlo mAMsA-</s>
+03109 <s>dyAhAreRa saMtozya prayatnAdAnIya svakandare DftaH . tatastadBayA-</s>
+03110 <s>nmUziko bahirna niHsarati . tenAsO siMho 'kzatakesaraH suKaM</s>
+03111 <s>svapiti . mUzikaSabdaM yadA yadA SfRoti tadA tadA saviSezaM</s>
+03112 <s>taM biqAlaM mAMsAhAradAnena saMvarDayati . aTEkadA sa mUzikaH</s>
+03113 <s>kzuDA pIqito bahiH saMcaraMstena mArjAreRa prApto vyApAditaH</s>
+03114 <s>KAditaSca . anantaraM sa siMho yadA kadA cidapi mUzikaSabdaM</s>
+03115 <s>na SuSrAva tadopayogABAvAttasya biqAlasyAhAradAne mandA-</s>
+03116 <s>daro baBUva . ato 'haM bravImi .</s></p>
+03117 <lg><l><s>nirapekzo na kartavyo BftyEH svAmI kadA cana .</s></l>
+03118 <l><s>nirapekzaM praBuM kftvA BftyaH syAddaDikarRavat ..</s></l></lg>
+<section>VIII. IX.</section>
+03119 <p><s>kasmiMScittarO vAyasadaMpatI nivasataH . tayoScApatyAni ta-</s>
+[Page032+ 23]
+03201 <s>rukowarAvasTitakfzRasarpeRa KAditAni . tataH punargarBavatI vA-</s>
+03202 <s>yasI brUte . svAmin . tyajyatAmayaM taruH . atra yAvatkfzRasa-</s>
+03203 <s>rpastAvadAvayoH saMtatiH kadA cidapi na Bavizyati . yataH .</s>
+03204 <lg><l><s>duzwA BAryA SaWaM mitraM BftyaScottaradAyakaH .</s></l>
+03205 <l><s>sasarpe ca gfhe vAso mftyureva na saMSayaH ..</s></l></lg>
+03206 <s>vAyaso brUte . priye . na Betavyam . vAraM vAraM mayEtasya mahA-</s>
+03207 <s>parADaH soQaH . idAnIM punarna kzantavyaH . vAyasyAha . kaTamanena</s>
+03208 <s>balavatA kfzRasarpeRa sArDaM BavAnvigrahItuM samarTaH . vAyaso brU-</s>
+03209 <s>te . alamanayA cintayA . yataH .</s>
+03210 <lg><l><s>yasya budDirbalaM tasya nirbudDestu kuto balam .</s></l>
+03211 <l><s>vane siMho balonmattaH SaSakena nipAtitaH ..</s></l></lg>
+03212 <s>vAyasyAha . kaTametat . vAyasaH kaTayati . asti mandaranA-</s>
+03213 <s>mni parvate durdAnto nAma siMhaH . sa ca sarvadA paSUnAM vaDaM</s>
+03214 <s>vidaDAna evAste . tataH sarvEH paSuBirmelakaM kftvA sa siM-</s>
+03215 <s>ho vijYaptaH . deva . kimarTaM sarvapaSuvaDaH kriyate . vayameva</s>
+03216 <s>BavadAhArArTaM pratyahamekEkaM paSumupaQOkayAmaH . siMhenoktam .</s>
+03217 <s>yadyetadaBimataM BavatAM tarhi Bavatu . tataH praBfti pratyahamekEkaM</s>
+03218 <s>paSumupakalpitaM BakzayannAste . aTa kadA citkasyApi vf-</s>
+03219 <s>dDaSaSakasya vAsaraH prAptaH . tataH so 'cintayat .</s>
+03220 <lg><l><s>trAsahetorvinItistu kriyate jIvitASayA .</s></l>
+03221 <l><s>paYcatvaM cedgamizyAmi kiM siMhAnunayena me ..</s></l></lg>
+03222 <s>tanmandaM mandamupagacCAmi . tataH siMho 'pi kzuDA pIqitaH</s>
+03223 <s>kopAttamuvAca . kutastvaM vilambyAgato 'si . SaSako 'bra-</s>
+[Page033+ 21]
+03301 <s>vIt . nAhamaparAdDaH . paTi siMhAntareRa balAdDftastasyAgre</s>
+03302 <s>punarAgamanAya SapaTaM kftvA svAminaM nivedayitumatrAgato</s>
+03303 <s>'smi . siMhaH sakopamAha . satvaraM gatvA mAM darSaya . kvAsO</s>
+03304 <s>durAtmA tizWati . tataH SaSakastaM gfhItvA gamBIrakUpasamIpaM</s>
+03305 <s>gataH . atrAgatya paSyatu svAmItyuktvA tasminkUpajale ta-</s>
+03306 <s>syEva pratibimbaM darSitavAn . tato 'sO darpADmAtastasyo-</s>
+03307 <s>paryAtmAnaM nikzipya paYcatvaM gataH . ato 'haM bravImi . yasya</s>
+03308 <s>budDirbalaM tasyetyAdi .</s>
+03309 <s>vAyasI brUte . SrutaM mayA . kartavyatAM brUhi . vAyaso 'vadat .</s>
+03310 <s>priye . Asanne sarasi rAjaputraH satatamAgatya snAti . tasminpra-</s>
+03311 <s>stare tadaNgAdavatAritaM kanakasUtraM caYcvA DftvAnIyAsminkoware</s>
+03312 <s>Darizyasi . aTa kanakasUtrAnusaraRapravfttE rAjapuruzEH koware ni-</s>
+03313 <s>rUpyamARe kfzRasarpo drazwavyo vyApAdayitavyaSca . aTa kadA ci-</s>
+03314 <s>tsnAtuM pravizwe rAjaputre vAyasyA tadanuzWitam . taTAnuzWite tadvf-</s>
+03315 <s>ttam . ato 'haM bravImi .</s></p>
+03316 <lg><l><s>upAyena hi tatkuryAdyanna SakyaM parAkramEH .</s></l>
+03317 <l><s>kAkyA kanakasUtreRa kfzRasarpo nipAtitaH ..</s></l></lg>
+<section>X.</section>
+03318 <p><s>asti narmadAtIre parvatopatyakAyAM viSAlaH SAlmalItaruH .</s>
+03319 <s>tatra nirmitanIqakroqe pakziRaH suKena varzAsvapi nivasanti .</s>
+03320 <s>aTa nIlapawEriva jalaDarapawalErAvfte naBastale DArAsArErmahatI</s>
+[Page034+ 21]
+03401 <s>vfzwirbaBUva . tato vAnarAMstarutale 'vasTitAYCItArtAnkampa-</s>
+03402 <s>mAnAnavalokya pakziBiruktam . Bo Bo vAnarAH . SrUyatAm .</s>
+03403 <lg><l><s>asmABirnirmitA nIqAScaYcumAtrAhftEstfREH .</s></l>
+03404 <l><s>hastapAdAdisaMyuktA yUyaM kimavasIdaTa ..</s></l></lg>
+03405 <s>tacCrutvA vAnarErjAtAmarzErAlocitam . aho . nirvAtanIqaga-</s>
+03406 <s>rBAvasTitAH suKinaH pakziRo 'smAnnindanti . tadBavatu . tAva-</s>
+03407 <s>dvfzwerupaSamaH . anantaraM SAnte pAnIyavarze tErvAnarErvfkzamAruhya</s>
+03408 <s>sarve nIqA BagnAH . tezAM pakziRAmaRqAni cADaH patitAni .</s>
+03409 <s>ato 'haM bravImi .</s></p>
+03410 <lg><l><s>vidvAnevopadezwavyo nAvidvAMstu kadA cana .</s></l>
+03411 <l><s>vAnarAnupadiSyAjYAnsTAnaBraMSaM yayuH KagAH ..</s></l></lg>
+<section>XI.</section>
+03412 <p><s>asti hastinApure karpUravilAso nAma rajakaH . tasya garda-</s>
+03413 <s>Bo 'tiBAravAhanAddurbalo mumUrzurivABavat . tatastena raja-</s>
+03414 <s>kenAsO vyAGracarmaRA pracCAdyAraRyasamIpe sasyakzetre mocitaH .</s>
+03415 <s>tato dUrAdavalokya vyAGrabudDyA kzetrapatayaH satvaraM palAyante . sa</s>
+03416 <s>ca suKena sasyaM carati . aTEkadA kenApi sasyarakzakeRa DUsara-</s>
+03417 <s>kambalakftatanutrARena DanuzkARqaM sajjIkftyAvanatakAyenEkAnte</s>
+03418 <s>sTitam . taM ca dUre dfzwvA gardaBaH puzwANgo gardaBIyamiti matvA</s>
+03419 <s>SabdaM kurvARastadaBimuKaM DAvitaH . tatastena sasyarakzakeRa garda-</s>
+03420 <s>Bo 'yamiti jYAtvA lIlayEva vyApAditaH . ato 'haM bravImi .</s></p>
+[Page035+ 22]
+03501 <lg><l><s>suciraM hi caranmOnaM SreyaH paSyatyabudDimAn .</s></l>
+03502 <l><s>dvIpicarmaparicCanno vAgdozAdgardaBo hataH ..</s></l></lg>
+<section>XII.</section>
+03503 <p><s>kadA cidvarzAsvapi vfzweraBAvAttfzArto gajayUTo yUTapatimA-</s>
+03504 <s>ha . nATa . ko 'pyupAyo 'smAkaM jIvanAya nAsti . astyatra</s>
+03505 <s>kzudrajantUnAM nimajjanasTAnam . vayaM ca nimajjanABAvAdanDA</s>
+03506 <s>iva kva yAmaH kiM vA kurmaH . tato hastirAjo nAtidUraM gatvA</s>
+03507 <s>nirmalaM hradaM darSitavAn . tatastattIrAvasTitAH SaSakA gajayU-</s>
+03508 <s>TapAdAhatiBirbahavaScUrRitAH . anantaraM SilImuKo nAma Sa-</s>
+03509 <s>SakaH sarvAnAhUya cintayAmAsa . anena gajayUTena pipAsA-</s>
+03510 <s>kulitena pratyahamevAtrAgantavyam . ato vinaNkzyatyasmatkulam .</s>
+03511 <s>aTa vijayo nAma vfdDaSaSako 'vadat . mA vizIdata . pratI-</s>
+03512 <s>kAro mayA kartavyaH . iti pratijYAya calitaH . gacCatA ca</s>
+03513 <s>tenAlocitam . kaTaM mayA gajayUTapanikawe gatvA vaktavyam .</s>
+03514 <s>yataH . </s><lg><l><s>spfSannapi gajo hanti jiGrannapi BujaMgamaH .</s></l>
+03515 <l><s>hasannapi nfpo hanti mAnayannapi durjanaH ..</s></l></lg>
+03516 <s>ato 'haM parvataSiKaramAruhya yUTanATamaBivAdayAmi . taTA-</s>
+03517 <s>nuzWite sati yUTanATa uvAca . kastvam . kutaH samAyAtaH . sa</s>
+03518 <s>brUte . dUto 'haM BagavatA candreRa prezitaH . yUTapatirAha . kA-</s>
+03519 <s>ryamucyatAm . vijayo vadati . SfRu gajendra .</s>
+03520 <lg><l><s>udyatezvapi Sastrezu dUto vadati nAnyaTA .</s></l>
+03521 <l><s>sadEvAvaDyaBAvena yaTArTasya hi vAcakaH ..</s></l></lg>
+[Page036+ 22]
+03601 <s>tadahaM tadAjYayA bravImi . SfRu . yadete SaSakAScandrasarorakzakA-</s>
+03602 <s>stvayA niHsAritAstanna yuktaM kftam . yato rakzakAste SaSakA</s>
+03603 <s>madIyA ata eva loke me SaSANka iti prasidDiH . evamuktava-</s>
+03604 <s>ti dUte sa yUTapatirBayAdidamAha . idamajYAnataH kftam . punarna</s>
+03605 <s>gamizyAmi . dUta uvAca . tadatra sarasi BagavantaM candramasaM prako-</s>
+03606 <s>pAtkampamAnaM praRamya prasAdya ca gacCa . tatastena rAtrO nItvA tatra</s>
+03607 <s>jale caYcalaM candrapratibimbaM darSayitvA sa yUTapatiH praRAmaM kA-</s>
+03608 <s>ritaH . deva . ajYAnAdevAnenAparADaH kftastatkzamyatAmityuktvA</s>
+03609 <s>tena SaSakena sa yUTapatiH prasTApitaH . ato 'haM bravImi .</s></p>
+03610 <lg><l><s>vyapadeSena mahatAM sidDiH saMjAyate parA .</s></l>
+03611 <l><s>SaSino vyapadeSena vasanti SaSakAH suKam ..</s></l></lg>
+<section>XIII.</section>
+03612 <p><s>asti sfgAlaH kaScitsvecCayA nagaropAnte BramannIlasaMDA-</s>
+03613 <s>naBARqe nipatitaH . paScAttata utTAtumasamarTaH prAtarAtmAnaM mf-</s>
+03614 <s>tavatsaMdarSya sTitaH . aTa nIlIBARqasvAminAsAvutTApya dUre</s>
+03615 <s>nItvA parityaktaH . tato 'sO vanaM gatvAtmAnaM nIlavarRamavalo-</s>
+03616 <s>kyAcintayat . ahamidAnImuttamavarRaH . tadAtmanaH kimutkarzaM</s>
+03617 <s>na sADayAmi . ityAlocya sfgAlAnAhUya tenoktam . ahaM Ba-</s>
+03618 <s>gavatyA vanadevatayA svahastenAraRyarAjye sarvOzaDirasenABizi-</s>
+03619 <s>ktaH . paSyata mama varRam . tadadyAraByAsmadAjYayAsminnaraRye</s>
+03620 <s>vyavahAraH kAryaH . sfgAlASca taM viSizwavarRamavalokya sAzwA-</s>
+03621 <s>NgapAtaM praRamyocuH . yaTAjYApayati devaH . tato 'nena krameRa</s>
+[Page037+ 22]
+03701 <s>sarvezvaraRyavAsizvADipatyaM tasya baBUva . tatastena siMhavyAGrA-</s>
+03702 <s>dInuttamaparijanAnprApya sfgAlAnavalokya lajjamAnenAvajYayA</s>
+03703 <s>dUrIkftAH svajYAtayaH . tato vizaRRAnsfgAlAnavalokya vfdDasf-</s>
+03704 <s>gAlena kena citpratijYAtam . mA vizIdata . evaM cedanenAnI-</s>
+03705 <s>tijYena vayaM marmajYAH pariBUtAH tadyaTAyaM naSyati tanmayA</s>
+03706 <s>viDeyam . yato 'mI vyAGrAdayo varRamAtravipralabDAH sfgA-</s>
+03707 <s>lamajYAtvA rAjAnamamuM manyante tadyaTAyaM paricIyate taTA</s>
+03708 <s>kuruta . tatra cEvamanuzWeyaM yaTA vadAmi . yadA sarve saMDyAsamaye</s>
+03709 <s>tatsaMniDAne mahArAvamekadA karizyaTa tatastaM SabdamAkarRya sva-</s>
+03710 <s>BAvAttenApi SabdaH kartavyaH . yataH .</s>
+03711 <lg><l><s>yaH svaBAvo hi yasya syAttasyAsO duratikramaH .</s></l>
+03712 <l><s>SvA yadi kriyate BogI tatkiM nASnAtyupAnaham ..</s></l></lg>
+03713 <s>tataH SabdAdvijYAya vyAGreRa hantavyaH . taTAnuzWite sati tadvf-</s>
+03714 <s>ttam . taTA coktam .</s>
+03715 <lg><l><s>CidraM marma ca vIryaM ca vijAnAti nijo ripuH .</s></l>
+03716 <l><s>dahatyantargataScEva SruzkavfkzamivAnalaH ..</s></l></lg>
+03717 <s>ato 'haM bravImi .</s></p>
+03718 <lg><l><s>AtmapakzaM parityajya parapakze ca yo rataH .</s></l>
+03719 <l><s>sa parErhanyate mUQo nIlavarRasfgAlavat ..</s></l></lg>
+<section>XIV. XV. XVI.</section>
+03720 <p><s>asti magaDadeSe PullotpalABiDAnaM saraH . tatra cirAtsaMka-</s>
+03721 <s>wavikawanAmAnO haMsO nivasataH . tayormitraM kambugrIvanAmA</s>
+[Page038+ 23]
+03801 <s>kUrmaH prativasati . aTEkadA DIvarErAgatya tatroktaM yadadyAsmA-</s>
+03802 <s>BiratrozitvA prAtaH kUrmamatsyAdayo vyApAdayitavyAH . tadAka-</s>
+03803 <s>rRya kUrmo haMsAvAha . suhfdO . Sruto 'yaM DIvarAlApaH . aDunA</s>
+03804 <s>kiM mayA kartavyam . haMsAvAhatuH . jYAyatAM tAvat . paScAdya-</s>
+03805 <s>ducitaM tatkartavyam . kUrmo brUte . mEvaM yato dfzwavyatikaro 'ha-</s>
+03806 <s>matra . taTA coktam .</s>
+03807 <lg><l><s>anAgataviDAtA ca pratyutpannamatiSca yaH .</s></l>
+03808 <l><s>dvAvetO suKameDete yadBavizyo vinaSyati ..</s></l></lg>
+03809 <s>tAvAhatuH . kaTametat . kUrmaH kaTayati . purEtasminneva sara-</s>
+03810 <s>syevaMviDezveva DIvarezUpasTitezu matsyatrayeRAlocitam .</s>
+03811 <s>tatrAnAgataviDAtA nAmEko matsyaH . tenoktam . ahaM tAva-</s>
+03812 <s>jjalASayAntaraM gacCAmi . ityuktvA sa hradAntaraM gataH . a-</s>
+03813 <s>pareRa pratyutpannamatinAmnA matsyenABihitam . BAvinyarTe pra-</s>
+03814 <s>mARABAvAtkutra mayA gantavyam . tadutpanne kArye yaTAkArya-</s>
+03815 <s>manuzWeyam . tato yadBavizyeRoktam .</s>
+03816 <lg><l><s>yadaBAvi na tadBAvi BAvi cenna tadanyaTA .</s></l>
+03817 <l><s>iti cintAvizaGno 'yamagadaH kiM na pIyate ..</s></l></lg>
+03818 <s>tataH prAtarjAlena badDaH pratyutpannamatirmftavadAtmAnaM saMdarSya</s>
+03819 <s>sTitaH . tato jAlAdapasAritaH sTalAdutplutya gamBIraM nIraM</s>
+03820 <s>pravizwaH . yadBavizyaSca DIvarEH prApto vyApAditaH . ato 'haM</s>
+03821 <s>bravImi . anAgataviDAtetyAdi .</s>
+03822 <s>tadyaTAhamanyahradaM prApnomi tadadya viDIyatAm . haMsAvAhatuH .</s>
+03823 <s>jalASayAntare prApte tava kuSalam . sTale gacCataste ko vi-</s>
+[Page039+ 23]
+03901 <s>DiH . kUrmo brUte . yaTAhaM BavadByAM sahAkASavartmanA yAmi sa</s>
+03902 <s>upAyo viDIyatAm . haMsO brUtaH . kaTamupAyaH saMBavati . ka-</s>
+03903 <s>cCapo vadati . yuvAByAM caYcuDftaM kAzWamekaM mayA muKenAvala-</s>
+03904 <s>mbitavyam . ato BavatoH pakzabalena mayApi suKaM gantavyam .</s>
+03905 <s>haMsO brUtaH . saMBavatyeza upAyaH . kiM tu .</s>
+03906 <lg><l><s>upAyaM cintayetprAjYastaTApAyaM ca cintayet .</s></l>
+03907 <l><s>paSyato bakamUrKasya nakulErBakzitA bakAH ..</s></l></lg>
+03908 <s>kUrmaH pfcCati . kaTametat . tO kaTayataH . astyuttarApaTe</s>
+03909 <s>gfDrakUwo nAma parvataH . tatrEva revAtIre nyagroDapAdape bakA</s>
+03910 <s>nivasanti . tasya vawasyADastAdvivare sarpastizWati . sa ca</s>
+03911 <s>bakAnAM bAlApatyAni KAdati . tataH SokArtAnAM bakAnAM</s>
+03912 <s>pralApaM SrutvA kena cidvfdDabakenoktam . BoH . evaM kuruta</s>
+03913 <s>yUyam . matsyAnAnIya nakulavivarAdAraBya sarpavivaraM yA-</s>
+03914 <s>vatpaNktikrameREkEkaSo matsyAnDatta . tatastadAhAravartmanA naku-</s>
+03915 <s>lErAgatya sarpo drazwavyaH svaBAvadvezAdvyApAdayitavyaSca . taTA-</s>
+03916 <s>nuzWite sati tadvfttam . aTa nakulErvfkzopari pakziSAvakA-</s>
+03917 <s>nAM rAvaH SrutaH . paScAttErvfkzamAruhya SAvakAH sarva eva KA-</s>
+03918 <s>ditAH . ata AvAM brUvaH . upAyaM cintayedityAdi .</s>
+03919 <s>AvAByAM nIyamAnaM tvAM dfzwvA lokEH kiM cidvaktavyameva . ta-</s>
+03920 <s>dAkarRya yadi tvamuttaraM dadAsi tadA tava maraRaM Bavizyati . ta-</s>
+03921 <s>tsarvaTAtrEva sTIyatAm . kUrmo vadati . kimahamajYaH . na ki-</s>
+03922 <s>mapi mayA vaktavyam . tata evamanuzWite satyAkASe nIyamAnaM</s>
+03923 <s>taM kUrmamAlokya sarve gorakzakAH paScAdDAvanti vadanti ca .</s>
+[Page040+ 22]
+04001 <s>aho mahadAScaryam . pakziByAM kUrmaH samuhyate . tatra kaScidAha . ya-</s>
+04002 <s>dyayaM kUrmaH patati tadAtrEva paktvA KAditavyaH . ko 'pi nigadati .</s>
+04003 <s>gfhaM netavyaH . kaScidvadati . sarasaH samIpe paktvA BakzitavyaH .</s>
+04004 <s>tatparuzavacanamAkarRya sa kUrmaH kroDAdvismftasaMskAro 'vadat .</s>
+04005 <s>yuzmABirBasma Bakzitavyam . iti vadanneva kAzWAtpatito gora-</s>
+04006 <s>kzakErvyApAditaH . ato 'haM bravImi .</s></p>
+04007 <lg><l><s>suhfdAM hitakAmAnAM na karotIha yo vacaH .</s></l>
+04008 <l><s>sa kUrma iva durbudDiH kAzWAdBrazwo vinaSyati ..</s></l></lg>
+<section>XVII.</section>
+04009 <p><s>asti gOtamAraRye mahAtapA nAma muniH . tenASramasaMni-</s>
+04010 <s>DAne mUzikaSAvakaH kAkamuKAdBrazwo dfzwaH . tato dayAlunA</s>
+04011 <s>tena muninA nIvArakaREH sa saMvarDitaH . taM ca mUzikaM KAdi-</s>
+04012 <s>tumanuDAvanbiqAlo muninA dfzwaH . paScAttapaHpraBAvAttena muni-</s>
+04013 <s>nA mUziko balizWo biqAlaH kftaH . sa biqAlaH kukkurAdbiBeti .</s>
+04014 <s>tato 'sO kukkuraH kftaH . kukkurasya vyAGrAnmahadBayam . tadanantaraM sa</s>
+04015 <s>vyAGraH kftaH . aTa vyAGramapi taM mUzikanirviSezaM paSyati mu-</s>
+04016 <s>niH . ataH sarve tatrasTA janAstaM vyAGraM dfzwvA vadanti . anena</s>
+04017 <s>muninA mUziko 'yaM vyAGratAM nItaH . etacCrutvA sa vyAGraH sa-</s>
+04018 <s>vyaTo 'cintayat . yAvadanena muninA jIvitavyaM tAvadidaM mama</s>
+04019 <s>svarUpAKyAnamakIrtikaraM na palAyizyate . iti samAlocya mu-</s>
+04020 <s>niM hantuM samudyataH . tato muninA tasya cikIrzitaM jYAtvA pu-</s>
+04021 <s>narmUziko BavetyuktvA mUzika eva kftaH . ato 'haM bravImi .</s></p>
+[Page041+ 22]
+04101 <lg><l><s>nIcaH SlAGyapadaM prApya svAminaM loptumicCati .</s></l>
+04102 <l><s>mUziko vyAGratAM prApya muniM hantuM gato yaTA ..</s></l></lg>
+<section>XVIII.</section>
+04103 <p><s>asti mAlavavizaye padmagarBABiDAnaM saraH . tatrEko vfdDa-</s>
+04104 <s>bakaH sAmarTyahInastaTodvignamivAtmAnaM darSayitvA sTitaH . sa</s>
+04105 <s>ca kena citkulIreRa dUrAdeva pfzwaH . kimiti BavAnAhArapari-</s>
+04106 <s>tyAgena tizWati . bakenoktam . matsyA mama jIvanahetavaH .</s>
+04107 <s>te cAtrAvaSyameva kEvartErvyApAdayitavyA iti nagaropAnte paryA-</s>
+04108 <s>locanA mayAkarRitA . tadito vartanABAvAdasmanmaraRamupasTi-</s>
+04109 <s>tam . iti jYAtvAhamAhAre 'pi mandAdaraH kftaH . tacCrutvA sa-</s>
+04110 <s>rvErmatsyErAlocitam . iha samaye tAvadupakAraka evAyamupala-</s>
+04111 <s>kzyate 'smAkam . tadayameva yaTAkartavyaM pfcCyatAm . taTA</s>
+04112 <s>coktam .</s>
+04113 <lg><l><s>upakartrAriRA saMDirna mitreRApakAriRA .</s></l>
+04114 <l><s>upakArApakArO hi lakzyaM lakzaRametayoH ..</s></l></lg>
+04115 <s>matsyA UcuH . Bo baka . asmAkaM kutra rakzaRopAyaH . bako brU-</s>
+04116 <s>te . asti rakzaRaheturjalASayAntaram . tatrAhamekEkaSo yuzmAnna-</s>
+04117 <s>yAmi . matsyErapi BayAduktam . evamastu . tato 'sO duzwabaka-</s>
+04118 <s>stAnmatsyAnekEkAnnItvA kasmiMSciddeSe KAditvA punarAgatya va-</s>
+04119 <s>dati . te mayA jalASayAntare sTApitAH . anantaraM kulIrasta-</s>
+04120 <s>muvAca . Bo baka . mAmapi tatra naya . tato bako 'pyapUrvaku-</s>
+04121 <s>lIramAMsArTI sAdaraM taM nItvA sTale DftavAn . kulIro 'pi</s>
+[Page042+ 22]
+04201 <s>matsyakaNkAlAkIrRAM BUmiM dfzwvAcintayat . hA hato 'smi ma-</s>
+04202 <s>ndaBAgyaH . Bavatu . idAnIM samayocitaM vyavaharAmi . yataH .</s>
+04203 <lg><l><s>tAvadBayAttu BetavyaM yAvadBayamanAgatam .</s></l>
+04204 <l><s>AgataM tu BayaM dfzwvA prahartavyamaBItavat ..</s></l></lg>
+04205 <s>aparaM ca . </s><lg><l><s>ayudDe hi yadA paSyenna kiM cidDitamAtmanaH .</s></l>
+04206 <l><s>yuDyamAnastadA prAjYo mriyate ripuRA saha ..</s></l></lg>
+04207 <s>ityAlocya sa kulIrastasya bakasya grIvAM cicCeda . sa bakaH</s>
+04208 <s>paYcatvaM gataH . ato 'haM bravImi .</s></p>
+04209 <lg><l><s>BakzayitvA bahUnmatsyAnuttamADamamaDyamAn .</s></l>
+04210 <l><s>atilOlyAdbakaH kaScinmftaH karkawakagrahAt ..</s></l></lg>
+<section>XIX.</section>
+04211 <p><s>asti devIkowwanagare devaSarmA nAma brAhmaRaH . tena vizu-</s>
+04212 <s>vatsaMkrAntO saktupUrRaSarAvaH prAptaH . tatastamAdAyAsO BA-</s>
+04213 <s>RqapUrRakumBakAramaRqapikEkadeSe SayyAnikziptadehaH sanrAtrAva-</s>
+04214 <s>cintayat . yadyahamimaM saktuSarAvaM vikrIya daSa kapardakAnprA-</s>
+04215 <s>pnomi tadA tEriha samaye SarAvAMstato GawAdInupakrIya vikrI-</s>
+04216 <s>yAnekaDA vfdDErDanEH punaH punaH pUgavastrAdikamupakrIya lakzasaM-</s>
+04217 <s>KyAni DanAnyutpAdya vivAhacatuzwayaM karomi . tatastAsu patnIzu</s>
+04218 <s>yADikarUpavatI tasyAmaDikAnurAgaM karomi . anantaraM jAte-</s>
+04219 <s>rzyAstatsapatnyo yadA dvaMdvaM kurvanti tadA kopAkulo 'haM tAH</s>
+04220 <s>patnIrlaguqenetTaM tAqayAmi . ityaBiDAyotTAya tena laguqaH</s>
+04221 <s>kziptaH . ataH saktuSarAvaScUrRito BARqAni ca bahUni BagnA-</s>
+[Page043+ 21]
+04301 <s>ni . tato BARqaBaNgaSabdenAgatakumBakAreRa taddfzwvA sa brAhma-</s>
+04302 <s>Rastiraskfto maRqapikAgarBAdbahizkftaH . ato 'haM bravImi .</s></p>
+04303 <lg><l><s>anAgatavatIM cintAM kftvA yastu prahfzyati .</s></l>
+04304 <l><s>sa tiraskAramApnoti BagnaBARqo dvijo yaTA ..</s></l></lg>
+<section>XX.</section>
+04305 <p><s>asti gOtamAraRye prastutayajYaH kaScidbrAhmaRaH . sa ca ya-</s>
+04306 <s>jYArTaM grAmAntarAcCAgamupakrIya skanDe kftvA gacCanDUrtatrayeRA-</s>
+04307 <s>valokitaH . tataste DUrtA yadyeza cCAgaH kenApyupAyena prApya</s>
+04308 <s>KAdyate tadA matiprakarzo BavatItyAlocya prAntare vfkzatrayatale</s>
+04309 <s>brAhmaRasya vartmanyupaviSya sTitAH . tatrEkena DUrtena sa brAhmaRo</s>
+04310 <s>gacCannaBihitaH . Bo brAhmaRa . kimiti tvayA kukkuraH ska-</s>
+04311 <s>nDenohyate . brAhmaRo brUte . nAyaM SvA . yajYacCAgo 'yaM . ana-</s>
+04312 <s>ntaraM punardvitIyena kroSamAtrAvasTitena tadevoktam . tadAkarRya</s>
+04313 <s>brAhmaRastaM CAgaM BUmO niDAya muhurmuhurnirIkzya punaH skanDe kf-</s>
+04314 <s>tvA dolAyamAnamatiScalitaH . tadanantaraM punargacCansa brAhmaRa-</s>
+04315 <s>stftIyena DUrtenoktaH . Bo brAhmaRa . kimiti kukkuraM skanDena</s>
+04316 <s>BavAnvahati . tadAkarRya niScitamevAyaM kukkura iti matvA</s>
+04317 <s>CAgaM tyaktvA snAtvA svagfhaM yayO . sa cCAgo tErDUrtErnItvA Ba-</s>
+04318 <s>kzitaH . ato 'haM bravImi .</s></p>
+04319 <lg><l><s>AtmOpamyena yo vetti durjanaM satyavAdinam .</s></l>
+04320 <l><s>sa taTA vaYcyate DUrtErbrAhmaRaSCAgato yaTA ..</s></l></lg>
+[Page044+ 21]
+<section>XXI.</section>
+04401 <p><s>astyujjayinyAM mAWaro nAma brAhmaRaH . tasya brAhmaRI bA-</s>
+04402 <s>lApatyasya rakzArTaM brAhmaRamavasTApya snAtuM gatA . aTa brAhma-</s>
+04403 <s>Rasya kfte rAjYaH SrAdDaM dAtumAhvAnamAgatam . tacCrutvA brAhmaRaH</s>
+04404 <s>sahajadAridryAdacintayat . yadi satvaraM na gacCAmi tadAnyaH ka-</s>
+04405 <s>ScicCrAdDaM grahIzyati . uktaM ca .</s>
+04406 <lg><l><s>AdAnasya pradAnasya kartavyasya ca karmaRaH .</s></l>
+04407 <l><s>kzipramakriyamARasya kAlaH pibati tadrasam ..</s></l></lg>
+04408 <s>kiM tu bAlakasyAtra rakzako nAsti . tatkiM karomi . yAtu .</s>
+04409 <s>cirakAlapAlitamimaM putranirviSezaM nakulaM bAlakarakzArTama-</s>
+04410 <s>vasTApya gacCAmi . taTA kftvA sa tatra gataH . tatastena naku-</s>
+04411 <s>lena bAlakasamIpamAgacCatA kfzRasarpo dfzwo vyApAditaSca .</s>
+04412 <s>aTAsO nakulo brAhmaRamAyAntamavalokya raktaviliptamuKa-</s>
+04413 <s>pAdaH satvaramupAgamya tasya caraRayorluloWa . tato 'sO brAhma-</s>
+04414 <s>RastaM taTAviDaM dfzwvA mama putro 'nena Bakzita ityavaDArya vyA-</s>
+04415 <s>pAditavAn . anantaraM yAvadasAvupasftya paSyati brAhmaRastA-</s>
+04416 <s>vadbAlakaH susTaH sarpaSca vyApAditastizWati . tatastamupakAra-</s>
+04417 <s>kameva nakulaM nirUpya viBAvitakftyaH saMtaptacetAH sa paraM vi-</s>
+04418 <s>zAdamagamat . ato 'haM bravImi .</s></p>
+04419 <lg><l><s>yo 'rTatattvamavijYAya kroDasyEva vaSaM gataH .</s></l>
+04420 <l><s>sa taTA tapyate mUQo brAhmaRo nakulAdyaTA ..</s></l></lg>
+[Page045+ 20]
+04501 <head><s>.. aTa kaTAsaritsAgaraH ..</s></head>
+<section>XXII.</section>
+04502 <lg><l><s>atrAntare sa rAjApi putrakaH satyasaMgaraH .</s></l>
+04503 <l><s>viveSa vinDyakAntAraM viraktaH svezu banDuzu ..</s></l></lg>
+04504 <lg><l><s>BramannavApa tatrAsO bAhuyudDEkatatparO .</s></l>
+04505 <l><s>puruzO dvO tatastO sa pfzwavAnkO yuvAmiti ..</s></l></lg>
+04506 <lg><l><s>mayAsurasutAvAvAM tadIyaM cAsti nO Danam .</s></l>
+04507 <l><s>idaM BAjanamezA ca yazwirete ca pAduke ..</s></l></lg>
+04508 <lg><l><s>tannimittena yudDaM nO yo balI sa harediti .</s></l>
+04509 <l><s>etattadvacanaM SrutvA hasanprovAca putrakaH ..</s></l></lg>
+04510 <lg><l><s>kiyadetadDanaM puMsastatastO samavocatAm .</s></l>
+04511 <l><s>pAduke pariDAyEte KecaratvamavApyate ..</s></l></lg>
+04512 <lg><l><s>yazwyA yalliKyate kiM citsatyaM saMpadyate hi tat .</s></l>
+04513 <l><s>BAjane yo ya AhAraScintyate sa sa tizWati ..</s></l></lg>
+04514 <lg><l><s>tacCrutvA putrako 'vAdItkiM yudDenAstvayaM paRaH .</s></l>
+04515 <l><s>DAvanbalADiko yaH syAtsa evEtadDarediti ..</s></l></lg>
+04516 <lg><l><s>evamastviti tO mUQO DAvitO so 'pi pAduke .</s></l>
+04517 <l><s>aDyAsyodapatadvyoma gfhItvA yazwiBAjane ..</s></l></lg>
+04518 <lg><l><s>aTa dUraM kzaRAdgatvA dadarSa nagarIM SuBAm .</s></l>
+04519 <l><s>AkarzikAKyAM tasyAM ca naBaso 'vatatAra saH ..</s></l></lg>
+[Page046+ 23]
+<section>XXIII.</section>
+04601 <lg><l><s>arTEH saMcayavAnarTAnprApnoti kiyadadButam .</s></l>
+04602 <l><s>mayA punarvinEvArTaM lakzmIrAsAditA purA ..</s></l></lg>
+04603 <lg><l><s>garBasTasyEva me pUrvaM pitA paYcatvamAgataH .</s></l>
+04604 <l><s>manmAtuSca tadA pApErgotrajEH sakalaM hftam ..</s></l></lg>
+04605 <lg><l><s>tataH sA tadBayAdgatvA rakzantI garBamAtmanaH .</s></l>
+04606 <l><s>tasTO kumAradattasya pitfmitrasya veSmani ..</s></l></lg>
+04607 <lg><l><s>tatra tasyASca jAto 'haM sADvyA vfttinibanDanam .</s></l>
+04608 <l><s>tataScAvarDayatsA mAM kfcCrakarmARi kurvatI ..</s></l></lg>
+04609 <lg><l><s>upADyAyamaTAByarTya tayA kiM cana dInayA .</s></l>
+04610 <l><s>krameRa SikzitaScAhaM lipiM gaRitameva ca ..</s></l></lg>
+04611 <lg><l><s>vaRikputro 'si tatputra vARijyaM kuru sAMpratam .</s></l>
+04612 <l><s>viSAKilAKyo deSe 'sminvaRikcAsti mahADanaH ..</s></l></lg>
+04613 <lg><l><s>daridrARAM kulInAnAM BARqamUlyaM dadAti saH .</s></l>
+04614 <l><s>gacCa yAcasva taM mUlyamiti mAtAbravIcca mAm ..</s></l></lg>
+04615 <lg><l><s>tato 'hamagamaM tasya sakASaM so 'pi tatkzaRam .</s></l>
+04616 <l><s>ityavocatkruDA kaM cidvaRikputraM viSAKilaH ..</s></l></lg>
+04617 <lg><l><s>mUzako dfSyate yo 'yaM gataprARo 'tra BUtale .</s></l>
+04618 <l><s>etenApi hi paRyena kuSalo Danamarjayet ..</s></l></lg>
+04619 <lg><l><s>dattAstava punaH pApa dInArA bahavo mayA .</s></l>
+04620 <l><s>dUre tizWatu tadvfdDistvayA te 'pi na rakzitAH ..</s></l></lg>
+04621 <lg><l><s>tacCrutvA sahasEvAhaM tamavocaM viSAKilam .</s></l>
+04622 <l><s>gfhIto 'yaM mayA tvatto BARqamUlyAya mUzakaH ..</s></l></lg>
+[Page047+ 22]
+04701 <lg><l><s>ityuktvA mUzakaM haste gfhItvA saMpuwe ca tam .</s></l>
+04702 <l><s>liKitvAsya gato 'BUvamahaM so 'pyahasadvaRik ..</s></l></lg>
+04703 <lg><l><s>caRakAYjaliyugmena mUlyena sa ca mUzakaH .</s></l>
+04704 <l><s>mArjArasya kfte dattaH kasya cidvaRijo mayA ..</s></l></lg>
+04705 <lg><l><s>kftvA tAMScaRakAnpizwAngfhItvA jalakumBikAm .</s></l>
+04706 <l><s>atizWaM catvare gatvA CAyAyAM nagarAdbahiH ..</s></l></lg>
+04707 <lg><l><s>tatra SrAntAgatAyAmBaH SItalaM caRakAMSca tAn .</s></l>
+04708 <l><s>kAzWaBArikasaMGAya sapraSrayamadAmaham ..</s></l></lg>
+04709 <lg><l><s>ekEkaH kAzWikaH prItyA kAzWe dve dve dadO mama .</s></l>
+04710 <l><s>vikrItavAnahaM tAni nItvA kAzWAni cApaRe ..</s></l></lg>
+04711 <lg><l><s>tataH stokena mUlyena krItvA tAMScaRakAMstataH .</s></l>
+04712 <l><s>taTEva kAzWikeByo 'hamanyedyuH kAzWamAharam ..</s></l></lg>
+04713 <lg><l><s>evaM pratidinaM kftvA prApya mUlyaM kramAnmayA .</s></l>
+04714 <l><s>kAzWikeByo 'KilaM dAru krItaM teByo dinatrayam ..</s></l></lg>
+04715 <lg><l><s>akasmAdaTa saMjAte kAzWacCede 'tivfzwiBiH .</s></l>
+04716 <l><s>mayA taddAru vikrItaM paRAnAM bahuBiH SatEH ..</s></l></lg>
+04717 <lg><l><s>tenEva vipaRIM kftvA Danena nijakOSalAt .</s></l>
+04718 <l><s>kurvanvARijyaM kramaSaH saMpanno 'smi mahADanaH ..</s></l></lg>
+04719 <lg><l><s>sOvarRo mUzakaH kftvA mayA tasmE samarpitaH .</s></l>
+04720 <l><s>viSAKilAya so 'pi svAM kanyAM mahyamadAttataH ..</s></l></lg>
+04721 <lg><l><s>ata eva ca loke 'haM prasidDo mUzakAKyayA .</s></l>
+04722 <l><s>evaM lakzmIriyaM prAptA nirDanena satA mayA ..</s></l></lg>
+[Page048+ 22]
+<section>XXIV.</section>
+04801 <lg><l><s>taTA ca pUrvaM rAjABUttapasvI karuRAparaH .</s></l>
+04802 <l><s>dAtA DIraH SibirnAma sarvasattvABayapradaH ..</s></l></lg>
+04803 <lg><l><s>taM vaYcayitumindro 'Ta kftvA SyenavapuH svayam .</s></l>
+04804 <l><s>mAyAkapotavapuzaM Darmamanvapataddrutam ..</s></l></lg>
+04805 <lg><l><s>kapotaH sa BayAdgatvA SiberaNkamaSiSriyat .</s></l>
+04806 <l><s>manuzyavAcA Syeno 'Ta sa taM rAjAnamabravIt ..</s></l></lg>
+04807 <lg><l><s>rAjanBakzyamidaM muYca kapotaM kzuDitasya me .</s></l>
+04808 <l><s>anyaTA mAM mftaM vidDi kaste Darmastato Bavet ..</s></l></lg>
+04809 <lg><l><s>tataH SibiruvAcEnameza me SaraRAgataH .</s></l>
+04810 <l><s>atyAjyastaddadAmyanyanmAMsametatsamaM tava ..</s></l></lg>
+04811 <lg><l><s>Syeno jagAda yadyevamAtmamAMsaM prayacCa me .</s></l>
+04812 <l><s>taTeti tatprahfzwaH sansa rAjA pratyapadyata ..</s></l></lg>
+04813 <lg><l><s>yaTA yaTA ca mAMsaM svamutkftyAropayannfpaH .</s></l>
+04814 <l><s>taTA taTA tulAyAM sa kapoto 'ByaDiko 'Bavat ..</s></l></lg>
+04815 <lg><l><s>tataH SarIraM sakalaM tulAM rAjADyaropayat .</s></l>
+04816 <l><s>sADu sADu samaM tvetaddivyA vAgudaBUttataH ..</s></l></lg>
+04817 <lg><l><s>indraDarmO tatastyaktvA rUpaM SyenakapotayoH .</s></l>
+04818 <l><s>tuzwAvakzatadehaM taM rAjAnaM cakratuH Sibim ..</s></l>
+04819 <l><s>dattvA cAsmE varAnanyAMstAvantarDAnamIyatuH ..</s></l></lg>
+<section>XXV.</section>
+04820 <lg><l><s>purABUdgOtamo nAma trikAlajYo mahAmuniH .</s></l>
+[Page049+ 22]
+04901 <l><s>ahalyeti ca tasyAsIdBAryA rUpajitApsarAH ..</s></l></lg>
+04902 <lg><l><s>ekadA rUpalubDastAmindraH prArTitavAnrahaH .</s></l>
+04903 <l><s>praBURAM hi viBUtyanDA DAvatyavizaye matiH ..</s></l></lg>
+04904 <lg><l><s>sAnumene ca taM mUQA vfzasyantI SacIpatim .</s></l>
+04905 <l><s>tacca praBAvato budDvA tatrAgAdgOtamo muniH ..</s></l></lg>
+04906 <lg><l><s>mArjArarUpaM cakre ca BayAdindro 'pi tatkzaRam .</s></l>
+04907 <l><s>kaH sTito 'treti so 'pfcCadahalyAmaTa gOtamaH ..</s></l></lg>
+04908 <lg><l><s>eso Wi+o Ku majjA+o ityapaBrazwavakrayA .</s></l>
+04909 <l><s>girA satyAnuroDinyA sA taM pratyabravItpatim ..</s></l></lg>
+04910 <lg><l><s>satyaM tvajjAra ityuktvA vihasansa tato muniH .</s></l>
+04911 <l><s>satyAnuroDakxptAntaM SApaM tasyAmapAtayat ..</s></l></lg>
+04912 <lg><l><s>pApaSIle SilABAvaM BUrikAlamavApnuhi .</s></l>
+04913 <l><s>A vanAntarasaMcArirAGavAlokanAditi ..</s></l></lg>
+04914 <lg><l><s>dattaSApo yaTAkAmaM tapase sa muniryayO .</s></l>
+04915 <l><s>ahalyApi SilABAvaM dAruRaM pratyapadyata ..</s></l></lg>
+<section>XXVI.</section>
+04916 <lg><l><s>tataH kadA cidaDyAsta vasantasamayotsave .</s></l>
+04917 <l><s>devIkftaM tadudyAnaM sa rAjA sAtavAhanaH ..</s></l></lg>
+04918 <lg><l><s>viharansa ciraM tatra mahendra iva nandane .</s></l>
+04919 <l><s>vApIjale 'vatIrRo 'BUtkrIqituM kAminIsaKaH ..</s></l></lg>
+04920 <lg><l><s>asiYcattatra dayitAH sahelaM karavAriBiH .</s></l>
+04921 <l><s>asicyata sa tABiSca vaSABiriva vAraRaH ..</s></l></lg>
+[Page050+ 23]
+05001 <lg><l><s>aTEkA tasya mahizI rAjYaH stanaBarAlasA .</s></l>
+05002 <l><s>SirIzasukumArANgI krIqantI SramamaByagAt ..</s></l></lg>
+05003 <lg><l><s>sA jalEraBiziYcantaM rAjAnamasahA satI .</s></l>
+05004 <l><s>abravInmodakErdeva paritAqaya mAmiti ..</s></l></lg>
+05005 <lg><l><s>tacCrutvA modakAnrAjA drutamAnAyayattadA .</s></l>
+05006 <l><s>tato vihasya sA rAjYI punarevamaBAzata ..</s></l></lg>
+05007 <lg><l><s>rAjannavasaraH ko 'tra modakAnAM jalAntare .</s></l>
+05008 <l><s>udakEH siYca mA tvaM mAmityuktaM hi mayA tava ..</s></l></lg>
+05009 <lg><l><s>saMDimAtraM na jAnAsi mASabdodakaSabdayoH .</s></l>
+05010 <l><s>na ca prakaraRaM vetsi mUrKastvaM kaTamIdfSaH ..</s></l></lg>
+05011 <lg><l><s>ityuktaH sa tayA rAjYyA SabdaSAstravidA nfpaH .</s></l>
+05012 <l><s>parivAre hasatyantarlajjAkrAnto JawityaBUt ..</s></l></lg>
+05013 <lg><l><s>parityaktajalakrIqo vItadarpaSca tatkzaRam .</s></l>
+05014 <l><s>jAtAvamAno nirlakzyaH prAviSannijamandiram ..</s></l></lg>
+05015 <lg><l><s>tataScintAparo muhyannAhArAdiparANmuKaH .</s></l>
+05016 <l><s>citrasTa iva pfzwo 'pi nEva kiM cidaBAzata ..</s></l></lg>
+05017 <lg><l><s>pARqityaM SaraRaM vA me mftyurveti vicintayan .</s></l>
+05018 <l><s>SayanIyaparinyastagAtraH saMtApavAnaBUt ..</s></l></lg>
+05019 <lg><l><s>akasmAdaTa rAjYastAM dfzwvAvasTAM taTAviDAm .</s></l>
+05020 <l><s>kimetaditi saMBrAntaH sarvaH parijano 'Bavat ..</s></l></lg>
+05021 <lg><l><s>tato 'haM SarvavarmA ca jYAtavantO krameRa tAm .</s></l>
+05022 <l><s>atrAntare ca sa prAyaH paryahIyata vAsaraH ..</s></l>
+05023 <l><s>prAtarAvAmagacCAva vAsaveSma mahIpateH ..</s></l></lg>
+[Page051+ 23]
+05101 <lg><l><s>tatra sarvasya rudDe 'pi praveSe kaTamapyaham .</s></l>
+05102 <l><s>prAviSaM mama paScAcca SarvavarmA laGukramam ..</s></l></lg>
+05103 <lg><l><s>upaviSyATa nikawe vijYaptaH sa mayA nfpaH .</s></l>
+05104 <l><s>akAraRaM kaTaM deva vartase vimanA iti ..</s></l></lg>
+05105 <lg><l><s>tacCrutvApi taTEvAsItsa tUzRIM sAtavAhanaH .</s></l>
+05106 <l><s>SarvavarmA tataScedamadButaM vAkyamabravIt ..</s></l></lg>
+05107 <lg><l><s>SrutimantaM mAM kurviti prAguktaM deva me tvayA .</s></l>
+05108 <l><s>tenAhaM kftavAnadya svapnamARavakaM niSi ..</s></l></lg>
+05109 <lg><l><s>svapne tato mayA dfzwaM naBasaScyutamambujam .</s></l>
+05110 <l><s>tacca divyena kenApi kumAreRa vikAsitam ..</s></l></lg>
+05111 <lg><l><s>tataSca nirgatA tasmAddivyA strI DavalAmbarA .</s></l>
+05112 <l><s>tava deva muKaM sA ca pravizwA samanantaram ..</s></l></lg>
+05113 <lg><l><s>iyaddfzwvA prabudDo 'smi sA ca manye sarasvatI .</s></l>
+05114 <l><s>devasya vadane sAkzAtsaMpravizwA na saMSayaH ..</s></l></lg>
+05115 <lg><l><s>evaM niveditasvapne SarvavarmaRi tatkzaRam .</s></l>
+05116 <l><s>mAmastamOnaH sAkUtamavadatsAtavAhanaH ..</s></l></lg>
+05117 <lg><l><s>SikzyamARaH prayatnena kAlena kiyatA pumAn .</s></l>
+05118 <l><s>aDigacCati pARqityametanme kaTyatAM tvayA ..</s></l></lg>
+05119 <lg><l><s>mama tena vinA hyezA lakzmIrna pratiBAsate .</s></l>
+05120 <l><s>viBavEH kiM nu mUrKasya kAzWasyABaraREriva ..</s></l></lg>
+05121 <lg><l><s>tato 'hamavadaM rAjanvarzErdvAdaSaBiH sadA .</s></l>
+05122 <l><s>jYAyate sarvavidyAnAM muKaM vyAkaraRaM narEH ..</s></l></lg>
+05123 <lg><l><s>ahaM tu SikzayAmi tvAM varzazawkena tadviBo .</s></l>
+[Page052+ 23]
+05201 <l><s>SrutvEtatsahasA serzyaM SarvavarmA kilAvadat ..</s></l></lg>
+05202 <lg><l><s>suKocito janaH kleSaM kaTaM kuryAdiyacciram .</s></l>
+05203 <l><s>tadahaM mAsazawkena deva tvAM SikzayAmi tat ..</s></l></lg>
+05204 <lg><l><s>SrutvEvEtadasaMBAvyaM tamavocamahaM ruzA .</s></l>
+05205 <l><s>zaqBirmAsEstvayA devaH SikzitaScettato mayA ..</s></l></lg>
+05206 <lg><l><s>saMskftaM prAkftaM tadvaddeSaBAzA ca sarvadA .</s></l>
+05207 <l><s>BAzAtrayamidaM tyaktaM yanmanuzyezu saMBavet ..</s></l></lg>
+05208 <lg><l><s>SarvavarmA tato 'vAdInna cedevaM karomyaham .</s></l>
+05209 <l><s>dvAdaSAbdAnvahAmyeza SirasA tava pAduke ..</s></l></lg>
+05210 <lg><l><s>ityuktvA nirgate tasminnahamapyagamaM gfham .</s></l>
+05211 <l><s>rAjApyuBayataH sidDiM matvA Sasto baBUva saH ..</s></l></lg>
+05212 <lg><l><s>SarvavarmA ca vIhastaH pratijYAM tAM sudustarAm .</s></l>
+05213 <l><s>paSyansAnuSayaH sarvaM svaBAryAyE SaSaMsa tat ..</s></l></lg>
+05214 <lg><l><s>sApi taM duHKitAvocatsaMkawe 'smiMstava praBo .</s></l>
+05215 <l><s>vinA svAmikumAreRa gatiranyA na dfSyate ..</s></l></lg>
+05216 <lg><l><s>taTeti niScayaM kftvA paScime prahare niSi .</s></l>
+05217 <l><s>SarvavarmA nirAhArastatrEva prasTito 'Bavat ..</s></l></lg>
+05218 <lg><l><s>so 'pi vAtEkaBakzaH sankftamOnaH suniScayaH .</s></l>
+05219 <l><s>prApa svAmikumArasya SarvavarmAntikaM kramAt ..</s></l></lg>
+05220 <lg><l><s>SarIranirapekzeRa tapasA tatra tozitaH .</s></l>
+05221 <l><s>prasAdamakarottasya kArttikeyo yaTepsitam ..</s></l></lg>
+05222 <lg><l><s>Agatya SarvavarmATa kumAravarasidDimAn .</s></l>
+05223 <l><s>cintitopasTitA rAjYe sarvA vidyAH pradattavAn ..</s></l></lg>
+[Page053+ 21]
+05301 <lg><l><s>prAdurAsaMSca tAstasya sAtavAhanaBUpateH .</s></l>
+05302 <l><s>tatkzaRaM kiM na kuryAdDi prasAdaH pArameSvaraH ..</s></l></lg>
+<section>XXVII.</section>
+05303 <lg><l><s>evaM guRAQyavacasA sATa saptakaTAmayI .</s></l>
+05304 <l><s>svaBAzayA kaTA divyA kaTitA kARaBUtinA ..</s></l></lg>
+05305 <lg><l><s>taTEva ca guRAQyena pESAcyA BAzayA tayA .</s></l>
+05306 <l><s>nibadDA saptaBirvarzErgranTalakzARi sapta sA ..</s></l></lg>
+05307 <lg><l><s>mEtAM vidyADarA hArzuriti tAmAtmaSoRitEH .</s></l>
+05308 <l><s>awavyAM mazyaBAvAcca lileKa sa mahAkaviH ..</s></l></lg>
+05309 <lg><l><s>taTA ca SrItumAyAtEH sidDavidyADarAdiBiH .</s></l>
+05310 <l><s>nirantaramaBUttatra savitAnamivAmbaram ..</s></l></lg>
+05311 <lg><l><s>guRAQyena nibadDAM ca tAM dfzwvEva mahAkaTAm .</s></l>
+05312 <l><s>jagAma muktaSApaH sankARaBUtirnijAM gatim ..</s></l></lg>
+05313 <lg><l><s>piSAcA ye 'pi tatrAsannanye tatsahacAriRaH .</s></l>
+05314 <l><s>te 'pi prApurdivaM sarve divyAmAkarRya tAM kaTAm ..</s></l></lg>
+05315 <lg><l><s>pratizWAM prApaRIyEzA pfTivyAM me bfhatkaTA .</s></l>
+05316 <l><s>ayamarTo 'pi me devyA SApAntoktAvudIritaH ..</s></l></lg>
+05317 <lg><l><s>tatkaTaM prApayAmyenAM kasmE tAvatsamarpaye .</s></l>
+05318 <l><s>ityevAcintayattatra sa guRAQyo mahAkaviH ..</s></l></lg>
+05319 <lg><l><s>aTEko guRadevAKyo nandidevABiDaH paraH .</s></l>
+05320 <l><s>tamUcaturupADyAyaM SizyAvanugatAvuBO ..</s></l></lg>
+[Page054+ 23]
+05401 <lg><l><s>tatkAvyasyArpaRasTAnamekaH SrIsAtavAhanaH .</s></l>
+05402 <l><s>rasiko hi vahetkAvyaM puzpAmodamivAnilaH ..</s></l></lg>
+05403 <lg><l><s>evamastviti tO SizyAvantikaM tasya BUpateH .</s></l>
+05404 <l><s>prAhiRotpustakaM dattvA guRAQyo guRaSAlinO ..</s></l></lg>
+05405 <lg><l><s>svayaM ca gatvA tatrEva pratizWAne purAdvahiH .</s></l>
+05406 <l><s>kftasaMketa udyAne tasTO devIvinirmite ..</s></l></lg>
+05407 <lg><l><s>tacCizyAByAM ca gatvA tatsAtavAhanaBUpateH .</s></l>
+05408 <l><s>guRAQyakftirezeti darSitaM kAvyapustakam ..</s></l></lg>
+05409 <lg><l><s>piSAcaBAzAM tAM SrutvA tO ca dfzwvA tadAkftI .</s></l>
+05410 <l><s>vidyAmadena sAsUyaM sa rAjEvamaBAzata ..</s></l></lg>
+05411 <lg><l><s>pramARaM sapta lakzARi pESAcaM nIrasaM vacaH .</s></l>
+05412 <l><s>SoRitenAkzaranyAso DikpiSAcakaTAmimAm ..</s></l></lg>
+05413 <lg><l><s>tataH pustakamAdAya gatvA tAByAM yaTAgatam .</s></l>
+05414 <l><s>SizyAByAM tadguRAQyAya yaTAvfttamakaTyata ..</s></l></lg>
+05415 <lg><l><s>guRAQyo 'pi tadAkarRya sadyaH KedavaSo 'Bavat .</s></l>
+05416 <l><s>tattvajYena kftAvajYaH ko nAmAntarna tapyate ..</s></l></lg>
+05417 <lg><l><s>saSizyaSca tato gatvA nAtidUraM Siloccayam .</s></l>
+05418 <l><s>viviktaramyaBUBAgamagnikuRqaM vyaDAtpuraH ..</s></l></lg>
+05419 <lg><l><s>tatrAgnO pattramekEkaM SizyAByAM sASru vIkzitaH .</s></l>
+05420 <l><s>vAcayitvA sa cikzepa SrAvayanmfgapakziRaH ..</s></l></lg>
+05421 <lg><l><s>naravAhanadattasya caritaM SizyayoH kfte .</s></l>
+05422 <l><s>granTalakzaM kaTAmekAM varjayitvA tadIpsitAm ..</s></l></lg>
+05423 <lg><l><s>tasmiMSca tAM kaTAM divyAM paWatyapi dahatyapi .</s></l>
+[Page055+ 23]
+05501 <l><s>parityaktatfRAhArAH SfRvantaH sASrulocanAH ..</s></l></lg>
+05502 <lg><l><s>AsannaByetya tatrEva niScalA badDamaRqalAH .</s></l>
+05503 <l><s>niKilAH Kalu sAraNgavarAhamahizAdayaH ..</s></l></lg>
+05504 <lg><l><s>atrAntare sa rAjABUdasvasTaH sAtavAhanaH .</s></l>
+05505 <l><s>dozaM cAsyAvadanvEdyAH SuzkamAMsopaBogajam ..</s></l></lg>
+05506 <lg><l><s>AkziptAstannimittaM ca sUpakArA baBAzire .</s></l>
+05507 <l><s>asmAkamIdfSaM mAMsaM dadate lubDakA iti ..</s></l></lg>
+05508 <lg><l><s>pfzwASca lubDakA UcurnAtidUre girAvitaH .</s></l>
+05509 <l><s>paWitvA pattramekEkaM ko 'pyagnO kzipati dvijaH ..</s></l></lg>
+05510 <lg><l><s>tatsametya nirAhArAH SfRvanti prARino 'KilAH .</s></l>
+05511 <l><s>nAnyato yAnti tenEzAM SuzkaM mAMsamidaM kzuDA ..</s></l></lg>
+05512 <lg><l><s>iti vyADavacaH SrutvA kftvA tAneva cAgrataH .</s></l>
+05513 <l><s>svayaM sa kOtukAdrAjA guRAQyasyAntikaM yayO ..</s></l></lg>
+05514 <lg><l><s>dadarSa taM samAkIrRaM jawABirvanavAsataH .</s></l>
+05515 <l><s>praSAntaSezaSApAgniDUmikABirivABitaH ..</s></l></lg>
+05516 <lg><l><s>aTEnaM pratyaBijYAya sabAzpamfgamaDyagam .</s></l>
+05517 <l><s>namaskftya ca papracCa taM vfttAntaM mahIpatiH ..</s></l></lg>
+05518 <lg><l><s>so 'pi svaM puzpadantasya rAjYe SApAdicezwitam .</s></l>
+05519 <l><s>jYAnI kaTAvatAraM tamAcaKyO BUtaBAzayA ..</s></l></lg>
+05520 <lg><l><s>tato gaRAvatAraM taM matvA pAdAnato nfpaH .</s></l>
+05521 <l><s>yayAce tAM kaTAM tasmAddivyAM haramuKodgatAm ..</s></l></lg>
+05522 <lg><l><s>aTovAca sa taM BUpaM guRAQyaH sAtavAhanam .</s></l>
+05523 <l><s>rAjanzaqgranTalakzARi mayA dagDAni zawkaTAH ..</s></l></lg>
+[Page056+ 21]
+05601 <lg><l><s>lakzamekamidaM tvasti kaTEkA sEva gfhyatAm .</s></l>
+05602 <l><s>macCizyO tava cAtrEtO vyAKyAtArO BavizyataH ..</s></l></lg>
+05603 <lg><l><s>ityuktvA nfpamAmantrya tyaktvA yogena tAM tanum .</s></l>
+05604 <l><s>guRAQyaH SApanirmuktaH prApa divyaM nijaM padam ..</s></l></lg>
+05605 <lg><l><s>aTa tAM guRAQyadattAmAdAya kaTAM bfhatkaTAM nAmnA .</s></l>
+05606 <l><s>nfpatiragAnnijanagaraM naravAhanadattacaritamayIm ..</s></l></lg>
+05607 <lg><l><s>guRadevanandidevO tatra ca tO tatkaTAkaveH SizyO .</s></l>
+05608 <l><s>kzitikanakavastravAhanaBavanaDanEH saMviBeje saH ..</s></l></lg>
+05609 <lg><l><s>tAByAM saha ca kaTAM tAmASvAsya sa sAtavAhanastasyAH .</s></l>
+05610 <l><s>tadBAzayAvatAraM vaktuM cakre kaTApIWam ..</s></l></lg>
+05611 <lg><l><s>sA ca citrarasanirBarA kaTA vismftAmarakaTA kutUhalAt .</s></l>
+05612 <l><s>tadviDAya nagare nirantarAM KyAtimatra Buvanatraye gatA ..</s></l></lg>
+05613 <p><s>.. iti kaTAsaritsAgare 'zwamastaraNgaH ..</s></p>
+<section>XXVIII.</section>
+05614 <head><s>.. aTa mAnavaDarmaSAstram ..</s></head>
+05615 <lg><l><s>AsIdidaM tamoBUtamaprajYAtamalakzaRam .</s></l>
+05616 <l><s>apratarkyamavijYeyaM prasuptamiva sarvataH .. 5 .. .. aDyA0 1 ..</s></l></lg>
+05617 <lg><l><s>tataH svayaMBUrBagavAnavyakto vyaYjayannidam .</s></l>
+05618 <l><s>mahABUtAdi vfttOjAH prAdurAsIttamonudaH .. 6 ..</s></l></lg>
+05619 <lg><l><s>yo 'sAvatIndriyagrAhyaH sUkzmo 'vyaktaH sanAtanaH .</s></l>
+05620 <l><s>sarvaBUtamayo 'cintyaH sa eva svayamudbaBO .. 7 ..</s></l></lg>
+[Page057+ 23]
+05701 <lg><l><s>so 'BiDyAya SarIrAtsvAtsisfkzurviviDAH prajAH .</s></l>
+05702 <l><s>apa eva sasarjAdO tAsu bIjamavAsfjat .. 8 ..</s></l></lg>
+05703 <lg><l><s>tadaRqamaBavadDEmaM sahasrAMSusamapraBam .</s></l>
+05704 <l><s>tasmiYjajYe svayaM brahmA sarvalokapitAmahaH .. 9 ..</s></l></lg>
+05705 <lg><l><s>Apo nArA iti proktA Apo vE narasUnavaH .</s></l>
+05706 <l><s>tA yadasyAyanaM pUrvaM tena nArAyaRaH smftaH .. 10 ..</s></l></lg>
+05707 <lg><l><s>yattatkAraRamavyaktaM nityaM sadasadAtmakam .</s></l>
+05708 <l><s>tadvisfzwaH sa puruzo loke brahmeti kIrtyate .. 11 ..</s></l></lg>
+05709 <lg><l><s>tasminnaRqe sa BagavAnuzitvA parivatsaram .</s></l>
+05710 <l><s>svayamevAtmano DyAnAttadaRqamakaroddviDA .. 12 ..</s></l></lg>
+05711 <lg><l><s>tAByAM sa SakalAByAM ca divaM BUmiM ca nirmame .</s></l>
+05712 <l><s>maDye vyoma diSaScAzwAvapAM sTAnaM ca SASvatam .. 13 ..</s></l></lg>
+05713 <lg><l><s>agnivAyuraviByastu trayaM brahma sanAtanam .</s></l>
+05714 <l><s>dudoha yajYasidDyarTamfgyajuHsAmalakzaRam .. 23 ..</s></l></lg>
+05715 <lg><l><s>lokAnAM tu vivfdDyarTaM muKabAhUrupAdataH .</s></l>
+05716 <l><s>brAhmaRaM kzatriyaM vESyaM SUdraM ca niravartayat .. 31 ..</s></l></lg>
+05717 <lg><l><s>ahorAtre viBajate sUryo mAnuzadEvike .</s></l>
+05718 <l><s>rAtriH svapnAya BUtAnAM cezwAyE karmaRAmahaH .. 65 ..</s></l></lg>
+05719 <lg><l><s>pitrye rAtryahanI mAsaH praviBAgastu pakzayoH .</s></l>
+05720 <l><s>karmacezwAsvahaH kfzRaH SuklaH svapnAya SarvarI .. 66 ..</s></l></lg>
+05721 <lg><l><s>dEve rAtryahanI varzaM praviBAgastayoH punaH .</s></l>
+05722 <l><s>ahastatrodagayanaM rAtriH syAddakziRAyanam .. 67 ..</s></l></lg>
+05723 <lg><l><s>brAhmasya tu kzapAhasya yatpramARaM samAsataH .</s></l>
+[Page058+ 23]
+05801 <l><s>ekEkaSo yugAnAM tu kramaSastanniboData .. 68 ..</s></l></lg>
+05802 <lg><l><s>catvAryAhuH sahasrARi varzARAM tu kftaM yugam .</s></l>
+05803 <l><s>tasya tAvacCatI saMDyA saMDyAMSaSca taTAviDaH .. 69 ..</s></l></lg>
+05804 <lg><l><s>itarezu sasaMDyezu sasaMDyAMSezu ca trizu .</s></l>
+05805 <l><s>ekApAyena vartante sahasrARi SatAni ca .. 70 ..</s></l></lg>
+05806 <lg><l><s>yadetatparisaMKyAtamAdAveva caturyugam .</s></l>
+05807 <l><s>etaddvAdaSasAhasraM devAnAM yugamucyate .. 71 ..</s></l></lg>
+05808 <lg><l><s>dEvikAnAM yugAnAM tu sahasraM parisaMKyayA .</s></l>
+05809 <l><s>brAhmamekamaharjYeyaM tAvatI rAtrireva ca .. 72 ..</s></l></lg>
+05810 <lg><l><s>BUtAnAM prARinaH SrezWAH prARinAM budDijIvinaH .</s></l>
+05811 <l><s>budDimatsu narAH SrezWA narezu brAhmaRAH smftAH .. 96 ..</s></l></lg>
+05812 <lg><l><s>brAhmaRezu ca vidvAMso vidvatsu kftabudDayaH .</s></l>
+05813 <l><s>kftabudDizu kartAraH kartfzu brahmavedinaH .. 97 ..</s></l></lg>
+05814 <lg><l><s>vedo 'Kilo DarmamUlaM smftiSIle ca tadvidAm .</s></l>
+05815 <l><s>AcAraScEva sADUnAmAtmanastuzwireva ca .. 6 .. .. aDyA0 2 ..</s></l></lg>
+05816 <lg><l><s>SrutismftyuditaM DarmamanutizWanhi mAnavaH .</s></l>
+05817 <l><s>iha kIrtimavApnoti pretya cAnuttamaM suKam .. 9 ..</s></l></lg>
+05818 <lg><l><s>Srutistu vedo vijYeyo DarmaSAstraM tu vE smftiH .</s></l>
+05819 <l><s>te sarvArTezvamImAMsye tAByAM Darmo hi nirbaBO .. 10 ..</s></l></lg>
+05820 <lg><l><s>yo 'vamanyeta te mUle hetuSAstrASrayAddvijaH .</s></l>
+05821 <l><s>sa sADuBirbahizkAryo nAstiko vedanindakaH .. 11 ..</s></l></lg>
+05822 <lg><l><s>vedaH smftiH sadAcAraH svasya ca priyamAtmanaH .</s></l>
+05823 <l><s>etaccaturviDaM prAhuH sAkzAdDarmasya lakzaRam .. 12 ..</s></l></lg>
+[Page059+ 23]
+05901 <lg><l><s>vEdikEH karmaBiH puRyErnizekAdirdvijanmanAm .</s></l>
+05902 <l><s>kAryaH SarIrasaMskAraH pAvanaH pretya ceha ca .. 26 ..</s></l></lg>
+05903 <lg><l><s>gArBErhomErjAtakarmacOqamOYjInibanDanEH .</s></l>
+05904 <l><s>bEjikaM gArBikaM cEno dvijAnAmapamfjyate .. 27 ..</s></l></lg>
+05905 <lg><l><s>svADyAyena vratErhomEstrEvidyenejyayA sutEH .</s></l>
+05906 <l><s>mahAyajYESca yajYESca brAhmIyaM kriyate tanuH .. 28 ..</s></l></lg>
+05907 <lg><l><s>prANnABivarDanAtpuMso jAtakarma viDIyate .</s></l>
+05908 <l><s>mantravatprASanaM cAsya hiraRyamaDusarpizAm .. 29 ..</s></l></lg>
+05909 <lg><l><s>nAmaDeyaM daSamyAM tu dvAdaSyAM vAsya kArayet .</s></l>
+05910 <l><s>puRye tiTO muhUrte vA nakzatre vA guRAnvite .. 30 ..</s></l></lg>
+05911 <lg><l><s>maNgalyaM brAhmaRasya syAtkzatriyasya balAnvitam .</s></l>
+05912 <l><s>vESyasya DanasaMyuktaM SUdrasya tu jugupsitam .. 31 ..</s></l></lg>
+05913 <lg><l><s>SarmavadbrAhmaRasya syAdrAjYo rakzAsamanvitam .</s></l>
+05914 <l><s>vESyasya puzwisaMyuktaM SUdrasya prEzyasaMyutam .. 32 ..</s></l></lg>
+05915 <lg><l><s>strIRAM suKodyamakrUraM vispazwArTaM manoharam .</s></l>
+05916 <l><s>maNgalyaM dIrGavarRAntamASIrvAdABiDAnavat .. 33 ..</s></l></lg>
+05917 <lg><l><s>caturTe mAsi kartavyaM SiSornizkramaRaM gfhAt .</s></l>
+05918 <l><s>zazWe 'nnaprASanaM mAsi yadvezwaM maNgalaM kule .. 34 ..</s></l></lg>
+05919 <lg><l><s>cUqAkarma dvijAtInAM sarvezAmeva DarmataH .</s></l>
+05920 <l><s>praTame 'bde tftIye vA kartavyaM SruticodanAt .. 35 ..</s></l></lg>
+05921 <lg><l><s>garBAzwame 'bde kurvIta brAhmaRasyopanAyanam .</s></l>
+05922 <l><s>garBAdekAdaSe rAjYo garBAttu dvAdaSe viSaH .. 36 ..</s></l></lg>
+05923 <lg><l><s>pratigfhyepsitaM daRqamupasTAya ca BAskaram .</s></l>
+[Page060+ 23]
+06001 <l><s>pradakziRaM parItyAgniM caredBEkzaM yaTAviDi .. 48 ..</s></l></lg>
+06002 <lg><l><s>BavatpUrvaM caredBEkzamupanIto dvijottamaH .</s></l>
+06003 <l><s>BavanmaDyaM tu rAjanyo vESyastu Bavaduttaram .. 49 ..</s></l></lg>
+06004 <lg><l><s>vyatyastapARinA kAryamupasaMgrahaRaM guroH .</s></l>
+06005 <l><s>savyena savyaH sprazwavyo dakziRena ca dakziRaH .. 72 ..</s></l></lg>
+06006 <lg><l><s>aDyezyamARaM tu gururnityakAlamatandritaH .</s></l>
+06007 <l><s>aDIzva Bo iti brUyAdvirAmo 'stviti cAramet .. 73 ..</s></l></lg>
+06008 <lg><l><s>brahmaRaH praRavaM kuryAdAdAvante ca sarvadA .</s></l>
+06009 <l><s>sravatyanoMkftaM pUrvaM parastAcca viSIryate .. 74 ..</s></l></lg>
+06010 <lg><l><s>akAraM cApyukAraM ca makAraM ca prajApatiH .</s></l>
+06011 <l><s>vedatrayAnniraduhadBUrBuvaH svaritIti ca .. 76 ..</s></l></lg>
+06012 <lg><l><s>triBya eva tu vedeByaH pAdaM pAdamadUduhat .</s></l>
+06013 <l><s>tadityfco 'syAH sAvitryAH paramezWI prajApatiH .. 77 ..</s></l></lg>
+06014 <lg><l><s>etadakzarametAM ca japanvyAhftipUrvikAm .</s></l>
+06015 <l><s>saMDyayorvedavidvipro vedapuRyena yujyate .. 78 ..</s></l></lg>
+06016 <lg><l><s>UrDvaM prARA hyutkrAmanti yUnaH sTavira Ayati .</s></l>
+06017 <l><s>pratyutTAnABivAdAByAM punastAnpratipadyate .. 120 ..</s></l></lg>
+06018 <lg><l><s>aBivAdanaSIlasya nityaM vfdDopasevinaH .</s></l>
+06019 <l><s>catvAri tasya varDante AyurvidyA yaSo balam .. 121 ..</s></l></lg>
+06020 <lg><l><s>aBivAdAtparaM vipro jyAyAMsamaBivAdayan .</s></l>
+06021 <l><s>asO nAmAhamasmIti svaM nAma parikIrtayet .. 122 ..</s></l></lg>
+06022 <lg><l><s>nAmaDeyasya ye ke cidaBivAdaM na jAnate .</s></l>
+06023 <l><s>tAnprAjYo 'hamiti brUyAtstriyaH sarvAstaTEva ca .. 123 ..</s></l></lg>
+[Page061+ 23]
+06101 <lg><l><s>BoHSabdaM kIrtayedante svasya nAmno 'BivAdane .</s></l>
+06102 <l><s>nAmnAM svarUpaBAvo hi BoBAva fziBiH smftaH .. 124 ..</s></l></lg>
+06103 <lg><l><s>AyuzmAnBava sOmyeti vAcyo vipro 'BivAdane .</s></l>
+06104 <l><s>akAraScAsya nAmno 'nte vAcyaH pUrvAkzaraH plutaH .. 125 ..</s></l></lg>
+06105 <lg><l><s>yo na vettyaBivAdasya vipraH pratyaBivAdanam .</s></l>
+06106 <l><s>nABivAdyaH sa viduzA yaTA SUdrastaTEva saH .. 126 ..</s></l></lg>
+06107 <lg><l><s>brAhmaRaM kuSalaM pfcCetkzatrabanDumanAmayam .</s></l>
+06108 <l><s>vESyaM kzemaM samAgamya SUdramArogyameva ca .. 127 ..</s></l></lg>
+06109 <lg><l><s>avAcyo dIkzito nAmnA yavIyAnapi yo Bavet .</s></l>
+06110 <l><s>BoBavatpUrvakaM tvenamaBiBAzeta Darmavit .. 128 ..</s></l></lg>
+06111 <lg><l><s>parapatnI tu yA strI syAdasaMbanDA ca yonitaH .</s></l>
+06112 <l><s>tAM brUyAdBavatItyevaM suBage BaginIti ca .. 129 ..</s></l></lg>
+06113 <lg><l><s>mAtulAMSca pitfvyAMSca SvaSurAnftvijo gurUn .</s></l>
+06114 <l><s>asAvahamiti brUyAtpratyutTAya yavIyasaH .. 130 ..</s></l></lg>
+06115 <lg><l><s>brAhmasya janmanaH kartA svaDarmasya ca SAsitA .</s></l>
+06116 <l><s>bAlo 'pi vipro vfdDasya pitA Bavati DarmataH .. 150 ..</s></l></lg>
+06117 <lg><l><s>aDyApayAmAsa pitFYCiSurANgirasaH kaviH .</s></l>
+06118 <l><s>putrakA iti hovAca jYAnena parigfhya tAn .. 151 ..</s></l></lg>
+06119 <lg><l><s>te tamarTamapfcCanta devAnAgatamanyavaH .</s></l>
+06120 <l><s>devAScEtAnsametyocurnyAyyaM vaH SiSuruktavAn .. 152 ..</s></l></lg>
+06121 <lg><l><s>ajYo Bavati vE bAlaH pitA Bavati mantradaH .</s></l>
+06122 <l><s>ajYaM hi bAlamityAhuH pitetyeva tu mantradam .. 153 ..</s></l></lg>
+06123 <lg><l><s>zawitraMSadAbdikaM caryaM gurO trEvedikaM vratam .</s></l>
+[Page062+ 23]
+06201 <l><s>tadarDikaM pAdikaM vA grahaRAntikameva vA .. 1 .. .. aDyA0 3 ..</s></l></lg>
+06202 <lg><l><s>vedAnaDItya vedO vA vedaM vApi yaTAkramam .</s></l>
+06203 <l><s>aviplutabrahmacaryo gfhasTASramamAvaset .. 2 ..</s></l></lg>
+06204 <lg><l><s>taM pratItaM svaDarmeRa brahmadAyaharaM pituH .</s></l>
+06205 <l><s>sragviRaM talpa AsInamarhayetpraTamaM gavA .. 3 ..</s></l></lg>
+06206 <lg><l><s>guruRAnumataH snAtvA samAvftto yaTAviDi .</s></l>
+06207 <l><s>udvaheta dvijo BAryAM savarRAM lakzaRAnvitAm .. 4 ..</s></l></lg>
+06208 <lg><l><s>sarvAnparityajedarTAnsvADyAyasya viroDinaH .</s></l>
+06209 <l><s>yaTA taTADyApayaMstu sA hyasya kftakftyatA .. 17 .. aDyA0 4 ..</s></l></lg>
+06210 <lg><l><s>kxptakeSanaKaSmaSrurdAntaH SuklAmbaraH SuciH .</s></l>
+06211 <l><s>svADyAye cEva yuktaH syAnnityamAtmahitezu ca .. 35 ..</s></l></lg>
+06212 <lg><l><s>vERavIM DArayedyazwiM sodakaM ca kamaRqalum .</s></l>
+06213 <l><s>yajYopavItaM vedaM ca SuBe rOkme ca kuRqale .. 36 ..</s></l></lg>
+06214 <lg><l><s>nekzetodyantamAdityaM nAstaM yAntaM kadA cana .</s></l>
+06215 <l><s>nopasfzwaM na vArisTaM na maDyaM naBaso gatam .. 37 ..</s></l></lg>
+06216 <lg><l><s>na laNGayedvatsatantIM na praDAvecca varzati .</s></l>
+06217 <l><s>na codake nirIkzeta svaM rUpamiti DAraRA .. 38 ..</s></l></lg>
+06218 <lg><l><s>mfdaM gAM dEvataM vipraM GftaM maDu catuzpaTam .</s></l>
+06219 <l><s>pradakziRAni kurvIta prajYAtAMSca vanaspatIn .. 39 ..</s></l></lg>
+06220 <lg><l><s>vAyvagnivipramAdityamapaH paSyaMstaTEva gAH .</s></l>
+06221 <l><s>na kadA cana kurvIta viRmUtrasya visarjanam .. 48 ..</s></l></lg>
+06222 <lg><l><s>mUtroccArasamutsargaM divA kuryAdudaNmuKaH .</s></l>
+06223 <l><s>dakziRABimuKo rAtrO saMDyayoSca yaTA divA .. 50 ..</s></l></lg>
+[Page063+ 23]
+06301 <lg><l><s>na vArayedgAM DayantIM na cAcakzIta kasya cit .</s></l>
+06302 <l><s>na divIndrAyuDaM dfzwvA kasya ciddarSayedbuDaH .. 59 ..</s></l></lg>
+06303 <lg><l><s>sAmaDvanAvfgyajuzI nADIyIta kadA cana .</s></l>
+06304 <l><s>vedasyADItya vApyantamAraRyakamaDItya ca .. 123 ..</s></l></lg>
+06305 <lg><l><s>fgvedo devadEvatyo yajurvedastu mAnuzaH .</s></l>
+06306 <l><s>sAmavedaH smftaH pitryastasmAttasyASucirDvaniH .. 124 ..</s></l></lg>
+06307 <lg><l><s>nADarmaScarito loke sadyaH Palati gOriva .</s></l>
+06308 <l><s>SanErAvartamAnastu karturmUlAni kfntati .. 172 ..</s></l></lg>
+06309 <lg><l><s>yadi nAtmani putrezu na cetputrezu naptfzu .</s></l>
+06310 <l><s>na tveva tu kfto 'DarmaH karturBavati nizPalaH .. 173 ..</s></l></lg>
+06311 <lg><l><s>DarmaM SanEH saMcinuyAdvalmIkamiva puttikAH .</s></l>
+06312 <l><s>paralokasahAyArTaM sarvaBUtAnyapIqayan .. 238 ..</s></l></lg>
+06313 <lg><l><s>nAmutra hi sahAyArTaM pitA mAtA ca tizWataH .</s></l>
+06314 <l><s>na putradAraM na jYAtirDarmastizWati kevalaH .. 239 ..</s></l></lg>
+06315 <lg><l><s>ekaH prajAyate jantureka eva pralIyate .</s></l>
+06316 <l><s>eko 'nuBuNkte sukftameka eva ca duzkftam .. 240 ..</s></l></lg>
+06317 <lg><l><s>mftaM SarIramutsfjya kAzWalozwasamaM kzitO .</s></l>
+06318 <l><s>vimuKA bAnDavA yAnti DarmastamanugacCati .. 241 ..</s></l></lg>
+06319 <lg><l><s>tasmAdDarmaM sahAyArTaM nityaM saMcinuyAcCanEH .</s></l>
+06320 <l><s>DarmeRa hi sahAyena tamastarati dustaram .. 242 ..</s></l></lg>
+06321 <lg><l><s>prARasyAnnamidaM sarvaM prajApatirakalpayat .</s></l>
+06322 <l><s>sTAvaraM jaNgamaM cEva sarvaM prARasya Bojanam .. 28 .. aDyA0 5 ..</s></l></lg>
+06323 <lg><l><s>carARAmannamacarA daMzwriRAmapyadaMzwriRaH .</s></l>
+[Page064+ 23]
+06401 <l><s>ahastASca sahastAnAM SUrARAM cEva BIravaH .. 29 ..</s></l></lg>
+06402 <lg><l><s>kuryAdGftapaSuM saNge kuryAtpizwapaSuM taTA .</s></l>
+06403 <l><s>na tveva tu vfTA hantuM paSumicCetkadA cana .. 37 ..</s></l></lg>
+06404 <lg><l><s>yAvanti paSuromARi tAvatkftvo ha mAraRam .</s></l>
+06405 <l><s>vfTApaSuGnaH prApnoti pretya janmani janmani .. 38 ..</s></l></lg>
+06406 <lg><l><s>mAM sa BakzayitAmutra yasya mAMsamihAdmyaham .</s></l>
+06407 <l><s>etanmAMsasya mAMsatvaM pravadanti manIziRaH .. 55 ..</s></l></lg>
+06408 <lg><l><s>nAsti strIRAM pfTagyajYo na vrataM nApyupozitam .</s></l>
+06409 <l><s>patiM SuSrUzate yena tena svarge mahIyate .. 155 ..</s></l></lg>
+06410 <lg><l><s>pARigrAhasya sADvI strI jIvato vA mftasya vA .</s></l>
+06411 <l><s>patilokamaBIpsantI nAcaretkiM cidapriyam .. 156 ..</s></l></lg>
+06412 <lg><l><s>kAmaM tu kzapayeddehaM puzpamUlaPalEH SuBEH .</s></l>
+06413 <l><s>na tu nAmApi gfhlIyAtpatyO prete parasya tu .. 157 ..</s></l></lg>
+06414 <lg><l><s>AsItA maraRAtkzAntA niyatA brahmacAriRI .</s></l>
+06415 <l><s>yo Darma ekapatnInAM kANkzantI tamanuttamam .. 158 ..</s></l></lg>
+06416 <lg><l><s>evaM gfhASrame sTitvA viDivatsnAtako dvijaH .</s></l>
+06417 <l><s>vane vasettu niyato yaTAvadvijitendriyaH .. 1 .. .. aDyA0 6 ..</s></l></lg>
+06418 <lg><l><s>vasIta carma cIraM vA sAyaM snAyAtprage taTA .</s></l>
+06419 <l><s>jawASca biBfyAnnityaM SmaSrulomanaKAni ca .. 6 ..</s></l></lg>
+06420 <lg><l><s>grIzme paYcatapAstu syAdvarzAsvaBrAvakASikaH .</s></l>
+06421 <l><s>ArdravAsAstu hemante kramaSo varDayaMstapaH .. 23 ..</s></l></lg>
+06422 <lg><l><s>vanezu tu vihftyEvaM tftIyaM BAgamAyuzaH .</s></l>
+06423 <l><s>caturTamAyuzo BAgaM tyaktvA saNgAnparivrajet .. 33 ..</s></l></lg>
+[Page065+ 23]
+06501 <lg><l><s>ASramAdASramaM gatvA hutahomo jitendriyaH .</s></l>
+06502 <l><s>BikzAbalipariSrAntaH pravrajanpretya varDate .. 34 ..</s></l></lg>
+06503 <lg><l><s>brahmacArI gfhasTaSca vAnaprasTo yatistaTA .</s></l>
+06504 <l><s>ete gfhasTapraBavAScatvAraH pfTagASramAH .. 87 ..</s></l></lg>
+06505 <lg><l><s>ekEkaM hrAsayetpiRqaM kfzRe Sukle ca varDayet .</s></l>
+06506 <l><s>upaspfSaMstrizavaRametaccAndrAyaRaM smftam .. 216 .. aDyA0 11 ..</s></l></lg>
+06507 <lg><l><s>etameva viDiM kftsnamAcaredyavamaDyame .</s></l>
+06508 <l><s>SuklapakzAdi niyataScaraMScAndrAyaRaM vratam .. 217 ..</s></l></lg>
+06509 <lg><l><s>SuBASuBaPalaM karma manovAgdehasaMBavam .</s></l>
+06510 <l><s>karmajA gatayo nFRAmuttamADamamaDyamAH .. 3 .. .. aDyA0 12 ..</s></l></lg>
+06511 <lg><l><s>tasyeha triviDasyApi tryaDizWAnasya dehinaH .</s></l>
+06512 <l><s>daSalakzaRayuktasya mano vidyAtpravartakam .. 4 ..</s></l></lg>
+06513 <lg><l><s>paradravyezvaBiDyAnaM manasAnizwacintanam .</s></l>
+06514 <l><s>vitaTABiniveSaSca triviDaM karma mAnasam .. 5 ..</s></l></lg>
+06515 <lg><l><s>pAruzyamanftaM cEva pESunyaM cApi sarvaSaH .</s></l>
+06516 <l><s>asaMbadDapralApaSca vANmayaM syAccaturviDam .. 6 ..</s></l></lg>
+06517 <lg><l><s>adattAnAmupAdAnaM hiMsA cEvAviDAnataH .</s></l>
+06518 <l><s>paradAropasevA ca SArIraM triviDaM smftam .. 7 ..</s></l></lg>
+06519 <lg><l><s>mAnasaM manasEvAyamupaBuNkte SuBASuBam .</s></l>
+06520 <l><s>vAcA vAcA kftaM karma kAyenEva ca kAyikam .. 8 ..</s></l></lg>
+06521 <lg><l><s>SarIrajEH karmadozEryAti sTAvaratAM naraH .</s></l>
+06522 <l><s>vAcikEH pakzimfgatAM mAnasErantyajAtitAm .. 9 ..</s></l></lg>
+06523 <lg><l><s>yadyAcarati DarmaM sa prAyaSo 'DarmamalpaSaH .</s></l>
+[Page066+ 23]
+06601 <l><s>tEreva cAvfto BUtEH svarge suKamupASnute .. 20 ..</s></l></lg>
+06602 <lg><l><s>yadi tu prAyaSo 'DarmaM sevate DarmamalpaSaH .</s></l>
+06603 <l><s>tErBUtEH sa parityakto yAmIH prApnoti yAtanAH .. 21 ..</s></l></lg>
+06604 <lg><l><s>yAmIstA yAtanAH prApya sa jIvo vItakalmazaH .</s></l>
+06605 <l><s>tAnyeva paYca BUtAni punaraByeti BAgaSaH .. 22 ..</s></l></lg>
+06606 <lg><l><s>etA dfzwvAsya jIvasya gatIH svenEva cetasA .</s></l>
+06607 <l><s>Darmato 'DarmataScEva Darme daDyAtsadA manaH .. 23 ..</s></l></lg>
+06608 <lg><l><s>sattvaM rajastamaScEva trInvidyAdAtmano guRAn .</s></l>
+06609 <l><s>yErvyApyemAnsTito BAvAnmahAnsarvAnaSezataH .. 24 ..</s></l></lg>
+06610 <lg><l><s>yatkarma kftvA kurvaMSca karizyaMScEva lajjate .</s></l>
+06611 <l><s>tajjYeyaM viduzA sarvaM tAmasaM guRalakzaRam .. 35 ..</s></l></lg>
+06612 <lg><l><s>yenAsminkarmaRA loke KyAtimicCati puzkalAm .</s></l>
+06613 <l><s>na ca SocatyasaMpattO tadvijYeyaM tu rAjasam .. 36 ..</s></l></lg>
+06614 <lg><l><s>yatsarveRecCati jYAtaM yanna lajjati cAcaran .</s></l>
+06615 <l><s>yena tuzyati cAtmAsya tatsattvaguRalakzaRam .. 37 ..</s></l></lg>
+06616 <lg><l><s>tamaso lakzaRaM kAmo rajasastvarTa ucyate .</s></l>
+06617 <l><s>sattvasya lakzaRaM DarmaH SrEzWyamezAM yaTAkramam .. 38 ..</s></l></lg>
+06618 <lg><l><s>yena yAMstu guRenEzAM saMsArAnpratipadyate .</s></l>
+06619 <l><s>tAnsamAsena vakzyAmi sarvasyAsya yaTAkramam .. 39 ..</s></l></lg>
+06620 <lg><l><s>devatvaM sAttvikA yAnti manuzyatvaM ca rAjasAH .</s></l>
+06621 <l><s>tiryaktvaM tAmasA nityamityezA triviDA gatiH .. 40 ..</s></l></lg>
+06622 <lg><l><s>triviDA triviDEzAM tu vijYeyA gORikI gatiH ..</s></l>
+06623 <l><s>aDamA maDyamAgryA ca karmavidyAviSezataH .. 41 ..</s></l></lg>
+[Page067+ 23]
+06701 <lg><l><s>sTAvarAH kfmikIwASca matsyAH sarpAH sakacCapAH .</s></l>
+06702 <l><s>paSavaSca mfgAScEva jaGanyA tAmasI gatiH .. 42 ..</s></l></lg>
+06703 <lg><l><s>hastinaSca turaMgASca SUdrA mlecCASca garhitAH .</s></l>
+06704 <l><s>siMhA vyAGrA varAhASca maDyamA tAmasI gatiH .. 43 ..</s></l></lg>
+06705 <lg><l><s>cAraRASca suparRASca puruzAScEva dAmBikAH .</s></l>
+06706 <l><s>rakzAMsi ca piSAcASca tAmasIzUttamA gatiH .. 44 ..</s></l></lg>
+06707 <lg><l><s>JallA mallA nawAScEva puruzAH SastravfttayaH .</s></l>
+06708 <l><s>dyUtapAnaprasaktASca jaGanyA rAjasI gatiH .. 45 ..</s></l></lg>
+06709 <lg><l><s>rAjAnaH kzatriyAScEva rAjYAM cEva purohitAH .</s></l>
+06710 <l><s>vAdayudDapraDAnASca maDyamA rAjasI gatiH .. 46 ..</s></l></lg>
+06711 <lg><l><s>ganDarvA guhyakA yakzA vibuDAnucarASca ye .</s></l>
+06712 <l><s>taTEvApsarasaH sarvA rAjasIzUttamA gatiH .. 47 ..</s></l></lg>
+06713 <lg><l><s>tApasA yatayo viprA ye ca vEmAnikA gaRAH .</s></l>
+06714 <l><s>nakzatrARi ca dEtyASca praTamA sAttvikI gatiH .. 48 ..</s></l></lg>
+06715 <lg><l><s>yajvAna fzayo devA vedA jyotIMzi vatsarAH .</s></l>
+06716 <l><s>pitaraScEva sADyASca dvitIyA sAttvikI gatiH .. 49 ..</s></l></lg>
+06717 <lg><l><s>brahmA viSvasfjo Darmo mahAnavyakta eva ca .</s></l>
+06718 <l><s>uttamAM sAttvikImetAM gatimAhurmanIziRaH .. 50 ..</s></l></lg>
+06719 <lg><l><s>SvasUkaraKarozwrARAM go'jAvimfgapakziRAm .</s></l>
+06720 <l><s>caRqAlapulkasAnAM ca brahmahA yonimfcCati .. 55 ..</s></l></lg>
+06721 <lg><l><s>hiMsrA Bavanti kravyAdAH kfmayo 'BakzyaBakziRaH .</s></l>
+06722 <l><s>parasparAdinaH stenAH pretA 'ntyastrInizeviRaH .. 59 ..</s></l></lg>
+06723 <lg><l><s>DAnyaM hftvA BavatyAKuH kAMsyaM haMso jalaM plavaH .</s></l>
+[Page068+ 20]
+06801 <l><s>maDu daMSaH payaH kAko rasaM SvA nakulo Gftam .. 62 ..</s></l></lg>
+06802 <lg><l><s>CucCundariH SuBAnganDAnpattraSAkaM tu barhiRaH .</s></l>
+06803 <l><s>SvAvitkftAnnaM viviDamakftAnnaM tu SalyakaH .. 65 ..</s></l></lg>
+06804 <lg><l><s>striyo 'pyetena kalyena hftvA dozamavApnuyuH .</s></l>
+06805 <l><s>etezAmeva jantUnAM BAryAtvamupayAnti tAH .. 69 ..</s></l></lg>
+06806 <lg><l><s>vedAByAsastapo jYAnamindriyARAM ca saMyamaH .</s></l>
+06807 <l><s>ahiMsA gurusevA ca niHSreyasakaraM param .. 83 ..</s></l></lg>
+06808 <lg><l><s>pravfttaM karma saMsevya devAnAmeti sAmyatAm .</s></l>
+06809 <l><s>nivfttaM sevamAnastu BUtAnyatyeti paYca vE .. 90 ..</s></l></lg>
+06810 <lg><l><s>yA vedabAhyAH smftayo yASca kASca kudfzwayaH .</s></l>
+06811 <l><s>sarvAstA nizPalAH pretya tamonizWA hi tAH smftAH .. 95 ..</s></l></lg>
+06812 <lg><l><s>utpadyante cyavante ca yAnyato 'nyAni kAni cit .</s></l>
+06813 <l><s>tAnyarvAkkAlikatayA nizPalAnyanftAni ca .. 96 ..</s></l></lg>
+06814 <lg><l><s>ajYeByo granTinaH SrezWA granTiByo DAriRo varAH .</s></l>
+06815 <l><s>DAriByo jYAninaH SrezWA jYAniByo vyavasAyinaH .. 103 ..</s></l></lg>
+<section>XXIX. XXX.</section>
+06816 <lg><l><s>ekonA viMSatirnAryaH krIqAM kartuM vane gatAH .</s></l>
+06817 <l><s>viMSatirgfhamAyAtAH Sezo vyAGreRa BakzitaH ..</s></l></lg>
+06818 <lg><l><s>samAdiSatpitA putraM liKa leKaM mamAjYayA .</s></l>
+06819 <l><s>na tena liKito leKaH piturAjYA na KaRqitA ..</s></l></lg>
+[Page069+ 19]
+<section>XXXI. RIGVEDA I. 1.</section>
+06901 <lg><l><s>a\gnimI/Le pu\rohi/taM ya\jYasya/ de\vamf\tvija/m .</s></l>
+06902 <l><s>hotA/raM ratna\DAta/mam .. 1 ..</s></l></lg>
+06903 <lg><l><s>a\gniH pUrve/Bi\rfzi/Bi\rIqyo\ nUta/nEru\ta .</s></l>
+06904 <l><s>sa de\vA~ eha va/kzati .. 2 ..</s></l></lg>
+06905 <lg><l><s>a\gninA/ ra\yima/Snava\tpoza/me\va di\ve di/ve .</s></l>
+06906 <l><s>ya\Sasa/M vI\rava/ttamam .. 3 ..</s></l></lg>
+06907 <lg><l><s>agne\ yaM ya\jYama/Dva\raM vi\SvataH/ pari\BUrasi/ .</s></l>
+06908 <l><s>sa idde\vezu/ gacCati .. 4 ..</s></l></lg>
+06909 <lg><l><s>a\gnirhotA/ ka\vikra/tuH sa\tyaSci\traSra/vastamaH .</s></l>
+06910 <l><s>de\vo de\veBi\rA ga/mat .. 5 ..</s></l></lg>
+06911 <lg><l><s>yada\Nga dA\Suze\ tvamagne/ Ba\draM ka/ri\zyasi/ .</s></l>
+06912 <l><s>tavettatsa\tyama/NgiraH .. 6 ..</s></l></lg>
+06913 <lg><l><s>upa/ tvAgne di\ve di/ve\ dozA/vastarDi\yA va\yam .</s></l>
+06914 <l><s>namo\ Bara/nta\ ema/si .. 7 ..</s></l></lg>
+06915 <lg><l><s>rAja/ntamaDva\rARA/M go\pAmf\tasya\ dIdi/vim .</s></l>
+06916 <l><s>varDa/mAna\M sve dame/ .. 8 ..</s></l></lg>
+06917 <lg><l><s>sa naH/ pi\teva/ sU\nave 'gne/ sUpAya\no Ba/va .</s></l>
+06918 <l><s>saca/svA naH sva\staye/ .. 9 ..</s></l></lg>
+[Page070+ 22]
+<section>XXXII. RIGVEDA I. 32.</section>
+07001 <lg><l><s>indra/sya\ nu vI\ryA/Ri\ pra vo/ca\M yAni/ ca\kAra/ praTa\mAni/ va\jrI .</s></l>
+07002 <l><s>aha\nnahi\manva\pasta/tarda\ pra va\kzaRA/ aBina\tparva/tAnAm .. 1 ..</s></l></lg>
+07003 <lg><l><s>aha\nnahi\M parva/te SiSriyA\RaM tvazwA/smE\ vajra/M sva\rya/M tatakza .</s></l>
+07004 <l><s>vA\SrA i/va De\navaH\ syanda/mAnA\ aYjaH/ samu\dramava/ jagmu\rApaH/ .. 2 ..</s></l></lg>
+07005 <lg><l><s>vf\zA\yamA/Ro 'vfRIta\ soma\M trika/drukezvapibatsu\tasya/ .</s></l>
+07006 <l><s>A sAya/kaM ma\GavA/datta\ vajra\maha/nnenaM praTama\jAmahI/nAm .. 3 ..</s></l></lg>
+07007 <lg><l><s>yadi\ndrAha/npraTama\jAmahI/nA\mAnmA\yinA\mami/nAH\ prota mA\yAH .</s></l>
+07008 <l><s>AtsUrya/M ja\naya\ndyAmu\zAsa/M tA\dItnA\ Satru\M na kilA/ vivitse .. 4 ..</s></l></lg>
+07009 <lg><l><s>aha/nvf\traM vf/tra\tara\M vya/Msa\mindro\ vajre/Ra maha\tA va\Dena/ .</s></l>
+07010 <l><s>skanDA/MsIva\ kuli/SenA\ vivf\kRAhiH/ Sayata upa\pfkpf/Ti\vyAH .. 5 ..</s></l></lg>
+07011 <lg><l><s>a\yo\dDeva/ du\rmada\ A hi ju\hve ma/hAvI\raM tu/vibA\Damf/jI\zam .</s></l>
+07012 <l><s>nAtA/rIdasya\ samf/tiM va\DAnA\M saM ru\jAnAH/ pipiza\ indra/SatruH .. 6 ..</s></l></lg>
+07013 <lg><l><s>a\pAda/ha\sto a/pftanya\dindra\mAsya\ vajra\maDi\ sAnO/ jaGAna .</s></l>
+07014 <l><s>vfzRo\ vaDriH/ prati\mAna\M buBU/zanpuru\trA vf\tro a/Saya\dvya/staH .. 7 ..</s></l></lg>
+07015 <lg><l><s>na\daM na Bi\nnama/mu\yA SayA/na\M mano\ ruhA/RA\ ati/ ya\ntyApaH/ .</s></l>
+07016 <l><s>yASci/dvf\tro ma/hi\nA pa\ryati/zWa\ttAsA\mahiH/ patsutaH\SIrba/BUva .. 8 ..</s></l></lg>
+07017 <lg><l><s>nI\cAva/yA aBavadvf\trapu\trendro/ asyA\ ava\ vaDa/rjaBAra .</s></l>
+07018 <l><s>utta/rA\ sUraDa/raH pu\tra A/sI\ddAnuH/ Saye sa\hava/tsA\ na De\nuH .. 9 ..</s></l></lg>
+07019 <lg><l><s>ati/zWantInAmaniveSa\nAnA\M kAzWA/nA\M maDye\ nihi/ta\M SarI/ram .</s></l>
+07020 <l><s>vf\trasya/ ni\RyaM vi ca/ra\ntyApo/ dI\rGaM tama\ ASa/ya\dindra/SatruH .. 10 ..</s></l></lg>
+07021 <lg><l><s>dA\sapa/tnI\rahi/gopA atizWa\nniru/dDA\ ApaH/ pa\Rine/va\ gAvaH/ .</s></l>
+[Page071+ 21]
+07101 <l><s>a\pAM bila\mapi/hita\M yadAsI/dvf\traM ja/Ga\nvA~ apa\ tadva/vAra .. 11 ..</s></l></lg>
+07102 <lg><l><s>aSvyo vAro/ aBava\stadi/ndra sf\ke yattvA/ pra\tyaha/nde\va ekaH/ .</s></l>
+07103 <l><s>aja/yo\ gA aja/yaH SUra\ soma\mavA/sfjaH\ sarta/ve sa\pta sinDU/n .. 12 ..</s></l></lg>
+07104 <lg><l><s>nAsmE/ vi\dyunna ta/nya\tuH si/zeDa\ na yAM miha\maki/radDrA\duni/M ca .</s></l>
+07105 <l><s>indra/Sca\ yadyu/yu\DAte\ ahi/Sco\tApa\rIByo/ ma\GavA\ vi ji/gye .. 13 ..</s></l></lg>
+07106 <lg><l><s>ahe/ryA\tAra\M kama/paSya indra hf\di yatte/ ja\Gnuzo\ BIraga/cCat .</s></l>
+07107 <l><s>nava/ ca\ yanna/va\tiM ca\ srava/ntIH Sye\no na BI\to ata/ro\ rajA/Msi .. 14 ..</s></l></lg>
+07108 <lg><l><s>indro/ yA\to 'va/sitasya\ rAjA\ Sama/sya ca Sf\NgiRo\ vajra/bAhuH .</s></l>
+07109 <l><s>sedu\ rAjA/ kzayati carzaRI\nAma\rAnna ne\miH pari\tA ba/BUva .. 15 ..</s></l></lg>
+<section>XXXIII. RIGVEDA I. 50.</section>
+07110 <lg><l><s>udu\ tyaM jA\tave/dasaM de\vaM va/hanti ke\tavaH/ .</s></l>
+07111 <l><s>df\Se viSvA/ya\ sUrya/m .. 1 ..</s></l></lg>
+07112 <lg><l><s>apa\ tye tA\yavo/ yaTA\ nakza/trA yantya\ktuBiH/ .</s></l>
+07113 <l><s>sUrA/ya vi\Svaca/kzase .. 2 ..</s></l></lg>
+07114 <lg><l><s>adf/Sramasya ke\tavo\ vi ra\Smayo\ janA\~ anu/ .</s></l>
+07115 <l><s>BrAja/nto a\gnayo/ yaTA .. 3 ..</s></l></lg>
+07116 <lg><l><s>ta\raRi/rvi\Svada/rSato jyoti\zkfda/si sUrya .</s></l>
+07117 <l><s>viSva\mA BA/si roca\nam .. 4 ..</s></l></lg>
+07118 <lg><l><s>pra\tyaNde\vAnA\M viSaH/ pra\tyaNNude/zi\ mAnu/zAn .</s></l>
+07119 <l><s>pra\tyaNviSva\M sva/rdf\Se .. 5 ..</s></l></lg>
+07120 <lg><l><s>yenA/ pAvaka\ cakza/sA Bura\Ryanta\M janA\~ anu/ .</s></l>
+[Page072+ 21]
+07201 <l><s>tvaM va/ruRa\ paSya/si .. 6 ..</s></l></lg>
+07202 <lg><l><s>vi dyAme/zi\ raja/spf\TvahA\ mimA/no a\ktuBiH/ .</s></l>
+07203 <l><s>paSya\YjanmA/ni sUrya .. 7 ..</s></l></lg>
+07204 <lg><l><s>sa\pta tvA/ ha\rito\ raTe\ vaha/nti deva sUrya .</s></l>
+07205 <l><s>So\cizke/SaM vicakzaRa .. 8 ..</s></l></lg>
+07206 <lg><l><s>ayu/kta sa\pta Su\nDyuvaH\ sUro\ raTa/sya na\ptyaH/ .</s></l>
+07207 <l><s>tABi/ryAti\ svayu/ktiBiH .. 9 ..</s></l></lg>
+<section>XXXIV. RIGVEDA I. 97.</section>
+07208 <lg><l><s>apa/ naH\ SoSu/cada\Gamagne/ SuSu\gDyA ra\yim .</s></l>
+07209 <l><s>apa/ naH\ SoSu/cada\Gam .. 1 ..</s></l></lg>
+07210 <lg><l><s>su\kze\tri\yA su/gAtu\yA va/sU\yA ca/ yajAmahe .</s></l>
+07211 <l><s>apa/ naH\ SoSu/cada\Gam .. 2 ..</s></l></lg>
+07212 <lg><l><s>pra yadBandi/zWa ezA\M prAsmAkA/saSca sU\rayaH/ .</s></l>
+07213 <l><s>apa/ naH\ SoSu/cada\Gam .. 3 ..</s></l></lg>
+07214 <lg><l><s>pra yatte/ agne sU\rayo\ jAye/mahi\ pra te/ va\yam .</s></l>
+07215 <l><s>apa/ naH\ SoSu/cada\Gam .. 4 ..</s></l></lg>
+07216 <lg><l><s>pra yada\gneH saha/svato vi\Svato\ yanti/ BA\navaH/ .</s></l>
+07217 <l><s>apa/ naH\ SoSu/cada\Gam .. 5 ..</s></l></lg>
+07218 <lg><l><s>tvaM hi vi/SvatomuKa vi\SvataH/ pari\BUrasi/ .</s></l>
+07219 <l><s>apa/ naH\ SoSu/cada\Gam .. 6 ..</s></l></lg>
+07220 <lg><l><s>dvizo/ no viSvatomu\KAti/ nA\veva/ pAraya .</s></l>
+[Page073+ 21]
+07301 <l><s>apa/ naH\ SoSu/cada\Gam .. 7 ..</s></l></lg>
+07302 <lg><l><s>sa naH\ sinDu/miva nA\vayAti/ parzA sva\staye/ .</s></l>
+07303 <l><s>apa/ naH\ SoSu/cada\Gam .. 8 ..</s></l></lg>
+<section>XXXV. RIGVEDA I. 165.</section>
+07304 <lg><l><s>kayA/ Su\BA sava/yasaH\ sanI/LAH samA\nyA ma\rutaH\ saM mi/mikzuH .</s></l>
+07305 <l><s>kayA/ ma\tI kuta\ etA/sa e\te 'rca/nti\ Suzma\M vfza/Ro vasU\yA .. 1 ..</s></l></lg>
+07306 <lg><l><s>kasya\ brahmA/Ri jujuzu\ryuvA/naH\ ko a/Dva\re ma\ruta\ A va/varta .</s></l>
+07307 <l><s>Sye\nA~ i/va\ Draja/to a\ntari/kze\ kena/ ma\hA mana/sA rIramAma .. 2 ..</s></l></lg>
+07308 <lg><l><s>kuta\stvami/ndra\ mAhi/naH\ sanneko/ yAsi satpate\ kiM ta/ i\tTA .</s></l>
+07309 <l><s>saM pf/cCase samarA\RaH Su/BA\nErvo\cestanno/ harivo\ yatte/ a\sme .. 3 ..</s></l></lg>
+07310 <lg><l><s>brahmA/Ri me ma\tayaH\ SaM su\tAsaH\ Suzma/ iyarti\ praBf/to me\ adriH/ .</s></l>
+07311 <l><s>A SA/sate\ prati/ haryantyu\kTemA ha/rI vahata\stA no\ acCa/ .. 4 ..</s></l></lg>
+07312 <lg><l><s>ato/ va\yama/nta\meBi/ryujA\nAH svakza/treBista\nva1H\/ SumBa/mAnAH .</s></l>
+07313 <l><s>maho/Bi\retA\~ upa/ yujmahe\ nvindra/ sva\DAmanu\ hi no/ ba\BUTa/ .. 5 ..</s></l></lg>
+07314 <lg><l><s>kva1\/ syA vo/ marutaH sva\DAsI\dyanmAmeka/M sa\maDa/ttAhi\hatye/ .</s></l>
+07315 <l><s>a\haM hyU1\/grasta/vi\zastuvi/zmA\nviSva/sya\ Satro\rana/maM vaDa\snEH .. 6 ..</s></l></lg>
+07316 <lg><l><s>BUri/ cakarTa\ yujye/Bira\sme sa/mA\neBi/rvfzaBa\ pOMsye/BiH .</s></l>
+07317 <l><s>BUrI/Ri\ hi kf\RavA/mA Savi\zWendra\ kratvA/ maruto\ yadvaSA/ma .. 7 ..</s></l></lg>
+07318 <lg><l><s>vaDI/M vf\traM ma/ruta indri\yeRa\ svena\ BAme/na tavi\zo ba/BU\vAn .</s></l>
+07319 <l><s>a\hame\tA mana/ve vi\SvaSca/ndrAH su\gA a\paSca/kara\ vajra/bAhuH .. 8 ..</s></l></lg>
+07320 <lg><l><s>anu/tta\mA te/ maGava\nnaki\rnu na tvAvA/~ asti de\vatA\ vidA/naH .</s></l>
+[Page074+ 20]
+07401 <l><s>na jAya/mAno\ naSa/te\ na jA\to yAni/ kari\zyA kf/Ru\hi pra/vfdDa .. 9 ..</s></l></lg>
+07402 <lg><l><s>eka/sya cinme vi\Bva1\/stvojo\ yA nu da/Df\zvAnkf\RavE/ manI\zA .</s></l>
+07403 <l><s>a\haM hyU1\/gro ma/ruto\ vidA/no\ yAni\ cyava\mindra\ idI/Sa ezAm .. 10 . .</s></l></lg>
+07404 <lg><l><s>ama/ndanmA maruta\ stomo\ atra\ yanme/ naraH\ Srutya\M brahma/ ca\kra .</s></l>
+07405 <l><s>indrA/ya\ vfzRe\ suma/KAya\ mahya\M saKye\ saKA/yasta\nve/ ta\nUBiH/ .. 11 ..</s></l></lg>
+07406 <lg><l><s>e\vede\te prati/ mA\ roca/mAnA\ ane/dyaH\ Srava\ ezo\ daDA/nAH .</s></l>
+07407 <l><s>sa\McakzyA/ marutaSca\ndrava/rRA\ acCA/nta me Ca\dayA/TA ca nU\nam .. 12 ..</s></l></lg>
+07408 <lg><l><s>ko nvatra/ maruto mAmahe vaH\ pra yA/tana\ saKI\~racCA/ saKAyaH .</s></l>
+07409 <l><s>manmA/ni citrA apivA\taya/nta e\zAM BU/ta\ nave/dA ma f\tAnA/m .. 13 ..</s></l></lg>
+07410 <lg><l><s>A yaddu/va\syAddu\vase\ na kA\rura\smAYca\kre mA\nyasya/ me\DA .</s></l>
+07411 <l><s>o zu va/rtta maruto\ vipra\macCe\mA brahmA/Ri jari\tA vo/ arcat .. 14 ..</s></l></lg>
+07412 <lg><l><s>e\za va\ stomo/ maruta i\yaM gIrmA/ndA\ryasya/ mA\nyasya/ kA\roH .</s></l>
+07413 <l><s>ezA yA/sIzwa ta\nve/ va\yAM vi\dyAme\zaM vf\jana/M jI\radA/num .. 15 ..</s></l></lg>
+<section>XXXVI. RIGVEDA III. 62.</section>
+07414 <lg><l><s>tatsa/vi\turvare/Rya\M Bargo/ de\vasya/ DImahi .</s></l>
+07415 <l><s>Diyo\ yo naH/ praco\dayA/t .. 10 ..</s></l></lg>
+07416 <lg><l><s>de\vasya/ savi\turva\yaM vA/ja\yantaH\ pura/MDyA .</s></l>
+07417 <l><s>Baga/sya rA\timI/mahe .. 11 ..</s></l></lg>
+07418 <lg><l><s>de\vaM naraH/ savi\tAra\M viprA/ ya\jYEH su/vf\ktiBiH/ .</s></l>
+07419 <l><s>na\ma\syanti/ Di\yezi\tAH .. 12 ..</s></l></lg>
+[Page075+ 21]
+<section>XXXVII. RIGVEDA IV. 42.</section>
+07501 <lg><l><s>mama/ dvi\tA rA\zwraM kza\triya/sya vi\SvAyo\rviSve/ a\mftA\ yaTA/ naH .</s></l>
+07502 <l><s>kratu/M sacante\ varu/Rasya de\vA rAjA/mi kf\zweru/pa\masya/ va\vreH .. 1 ..</s></l></lg>
+07503 <lg><l><s>a\haM rAjA\ varu/Ro\ mahya\M tAnya/su\MryA/Ri praTa\mA DA/rayanta .</s></l>
+07504 <l><s>kratu/M sacante\ varu/Rasya de\vA rAjA/mi kf\zweru/pa\masya/ va\vreH .. 2 ..</s></l></lg>
+07505 <lg><l><s>a\hamindro\ varu/Ra\ste ma/hi\tvorvI ga/BI\re raja/sI su\meke/ .</s></l>
+07506 <l><s>tvazwe/va\ viSvA\ Buva/nAni vi\dvAnsamE/raya\M roda/sI DA\raya/M ca .. 3 ..</s></l></lg>
+07507 <lg><l><s>a\hama\po a/pinvamu\kzamA/RA DA\raya\M diva\M sada/na f\tasya/ .</s></l>
+07508 <l><s>f\tena/ pu\tro adi/terf\tAvo\ta tri\DAtu/ praTaya\dvi BUma/ .. 4 ..</s></l></lg>
+07509 <lg><l><s>mAM naraH\ svaSvA/ vA\jaya/nto\ mAM vf\tAH sa\mara/Re havante .</s></l>
+07510 <l><s>kf\RomyA\jiM ma\GavA\hamindra\ iya/rmi re\Ruma\BiBU/tyojAH .. 5 ..</s></l></lg>
+07511 <lg><l><s>a\haM tA viSvA/ cakara\M naki/rmA\ dEvya\M saho/ varate\ apra/tItam .</s></l>
+07512 <l><s>yanmA\ somA/so ma\mada\nyadu\kToBe Ba/yete\ raja/sI apA\re .. 6 ..</s></l></lg>
+07513 <lg><l><s>vi\duzwe\ viSvA\ Buva/nAni\ tasya\ tA pra bra/vIzi\ varu/RAya veDaH .</s></l>
+07514 <l><s>tvaM vf\trARi/ SfRvize jaGa\nvAntvaM vf\tA~ a/riRA indra\ sinDU/n .. 7 ..</s></l></lg>
+<section>XXXVIII. RIGVEDA IV. 52.</section>
+07515 <lg><l><s>prati\ zyA sU\narI\ janI/ vyu\cCantI\ pari\ svasuH/ .</s></l>
+07516 <l><s>di\vo a/darSi duhi\tA .. 1 ..</s></l></lg>
+07517 <lg><l><s>aSve/va ci\trAru/zI mA\tA gavA/mf\tAva/rI .</s></l>
+07518 <l><s>saKA/BUda\Svino/ru\zAH .. 2 ..</s></l></lg>
+07519 <lg><l><s>u\ta saKA/sya\Svino/ru\ta mA\tA gavA/masi .</s></l>
+[Page076+ 20]
+07601 <l><s>u\tozo\ vasva/ ISize .. 3 ..</s></l></lg>
+07602 <lg><l><s>yA\va\yaddve/zasaM tvA ciki\tvitsU/nftAvari .</s></l>
+07603 <l><s>prati\ stomE/raButsmahi .. 4 ..</s></l></lg>
+07604 <lg><l><s>prati/ Ba\drA a/dfkzata\ gavA\M sargA\ na ra\SmayaH/ .</s></l>
+07605 <l><s>ozA a/prA u\ru jrayaH/ .. 5 ..</s></l></lg>
+07606 <lg><l><s>A\pa\pruzI/ viBAvari\ vyA/va\rjyoti/zA\ tamaH/ .</s></l>
+07607 <l><s>uzo\ anu/ sva\DAma/va .. 6 ..</s></l></lg>
+07608 <lg><l><s>A dyAM ta/nozi ra\SmiBi\rAntari/kzamu\ru pri\yam .</s></l>
+07609 <l><s>uzaH/ Su\kreRa/ So\cizA/ .. 7 ..</s></l></lg>
+<section>XXXIX. RIGVEDA V. 24.</section>
+07610 <lg><l><s>agne\ tvaM no\ anta/ma u\ta trA\tA Si\vo Ba/vA varU\TyaH/ .. 1 ..</s></l></lg>
+07611 <lg><l><s>vasu/ra\gnirvasu/SravA\ acCA/ nakzi dyu\matta/maM ra\yiM dAH/ .. 2 ..</s></l></lg>
+07612 <lg><l><s>sa no/ boDi Sru\DI hava/muru\zyA Ro/ aGAya\taH sa/masmAt .. 3 ..</s></l></lg>
+07613 <lg><l><s>taM tvA/ SocizWa dIdivaH su\mnAya/ nU\namI/mahe\ saKi/ByaH .. 4 ..</s></l></lg>
+<section>XL. RIGVEDA V. 40.</section>
+07614 <lg><l><s>sva/rBAno\raDa\ yadi/ndra mA\yA a\vo di\vo varta/mAnA a\vAha/n .</s></l>
+07615 <l><s>gU\|aM sUrya\M tama\sApa/vratena tu\rIye/Ra\ brahma/RAvinda\datriH/ .. 6 ..</s></l></lg>
+07616 <lg><l><s>mA mAmi\maM tava\ santa/matra ira\syA dru\gDo Bi\yasA\ ni gA/rIt .</s></l>
+07617 <l><s>tvaM mi\tro a/si sa\tyarA/DA\stO me\hAva/ta\M varu/RaSca\ rAjA/ .. 7 ..</s></l></lg>
+07618 <lg><l><s>grAvRo/ bra\hmA yu/yujA\naH sa/pa\ryankI\riRA/ de\vAnnama/sopa\Sikza/n ..</s></l>
+[Page077+ 20]
+07701 <l><s>atriH\ sUrya/sya di\vi cakzu\rADA\tsva/rBAno\rapa/ mA\yA a/Gukzat .. 8 ..</s></l></lg>
+<section>XLI. RIGVEDA VII. 55.</section>
+07702 <lg><l><s>a\mI\va\hA vA/stozpate\ viSvA/ rU\pARyA/vi\San .</s></l>
+07703 <l><s>saKA/ su\Seva/ eDi naH .. 1 ..</s></l></lg>
+07704 <lg><l><s>yada/rjuna sArameya da\taH pi/SaNga\ yacCa/se .</s></l>
+07705 <l><s>vI/va BrAjanta f\zwaya\ upa\ srakve/zu\ bapsa/to\ ni zu sva/pa .. 2 ..</s></l></lg>
+07706 <lg><l><s>ste\naM rA/ya sArameya\ taska/raM vA punaHsara .</s></l>
+07707 <l><s>sto\tFnindra/sya rAyasi\ kima\smAndu/cCunAyase\ ni zu sva/pa .. 3 ..</s></l></lg>
+07708 <lg><l><s>tvaM sU/ka\rasya/ dardfhi\ tava/ dardartu sUka\raH .</s></l>
+07709 <l><s>sto\tFnindra/sya rAyasi\ kima\smAndu/cCunAyase\ ni zu sva/pa .. 4 ..</s></l></lg>
+07710 <lg><l><s>sastu/ mA\tA sastu/ pi\tA sastu\ SvA sastu/ vi\SpatiH/ .</s></l>
+07711 <l><s>sa\santu\ sarve/ jYA\tayaH\ sastva\yama\Bito\ janaH/ .. 5 ..</s></l></lg>
+07712 <lg><l><s>ya Aste\ yaSca\ cara/ti\ yaSca\ paSya/ti no\ janaH/ .</s></l>
+07713 <l><s>tezA\M saM ha/nmo a\kzARi\ yaTe\daM ha\rmyaM taTA/ .. 6 ..</s></l></lg>
+07714 <lg><l><s>sa\hasra/SfNgo vfza\Bo yaH sa/mu\drAdu\dAca/rat .</s></l>
+07715 <l><s>tenA/ saha\sye/nA va\yaM ni janA/nsvApayAmasi .. 7 ..</s></l></lg>
+07716 <lg><l><s>pro\zWe\Sa\yA va/hyeSa\yA nArI\ryAsta/lpa\SIva/rIH .</s></l>
+07717 <l><s>striyo\ yAH puRya/ganDA\stAH sarvAH/ svApayAmasi .. 8 ..</s></l></lg>
+<section>XLII. RIGVEDA VII. 56.</section>
+07718 <lg><l><s>ka I\M vya/ktA\ naraH\ sanI/LA ru\drasya\ maryA\ aDA\ svaSvAH/ .. 1 ..</s></l></lg>
+[Page078+ 21]
+07801 <lg><l><s>naki\rhye/zAM ja\nUMzi\ veda\ te a\Nga vi/dre mi\To ja\nitra/m .. 2 ..</s></l></lg>
+07802 <lg><l><s>a\Bi sva\pUBi/rmi\To va/panta\ vAta/svanasaH Sye\nA a/spfDran .. 3 ..</s></l></lg>
+07803 <lg><l><s>e\tAni\ DIro/ ni\RyA ci/keta\ pfSni\ryadUDo/ ma\hI ja\BAra/ .. 4 ..</s></l></lg>
+07804 <lg><l><s>sA viwsuvIrA/ ma\rudBi/rastu sa\nAtsaha/ntI\ puzya/ntI nf\mRam .. 5 ..</s></l></lg>
+07805 <lg><l><s>yAma\M yezWAH/ Su\BA SoBi/zWAH Sri\yA saMmi/SlA\ ojo/Biru\grAH .. 6 ..</s></l></lg>
+07806 <lg><l><s>u\graM va\ oja/ sTi\rA SavA\MsyaDA/ ma\rudBi/rga\Rastuvi/zmAn .. 7 ..</s></l></lg>
+07807 <lg><l><s>Su\Bro vaH\ SuzmaH\ kruDmI\ manA/Msi\ Duni\rmuni/riva\ SarDa/sya Df\zRoH ..</s></l></lg>
+07808 <lg><l><s>sane/mya\smadyu\yota/ di\dyuM mA vo/ durma\tiri\ha praRa/NnaH .. 9 ..</s></l></lg>
+07809 <lg><l><s>pri\yA vo\ nAma/ huve tu\rARA\mA yattf\panma/ruto vAvaSA\nAH .. 10 ..</s></l></lg>
+<section>XLIII. RIGVEDA VII. 86.</section>
+07810 <lg><l><s>DIrA\ tva/sya mahi\nA ja\nUMzi\ vi yasta\stamBa\ roda/sI cidu\rvI .</s></l>
+07811 <l><s>pra nAka/mf\zvaM nu/nude bf\hanta/M dvi\tA nakza/traM pa\praTa/cca\ BUma/ .. 1 ..</s></l></lg>
+07812 <lg><l><s>u\ta svayA/ ta\nvA\3\/ saM va/de\ tatka\dA nva1\/ntarvaru/Re BuvAni .</s></l>
+07813 <l><s>kiM me/ ha\vyamahf/RAno juzeta ka\dA mf/LI\kaM su\manA/ a\Bi Kya/m .. 2 ..</s></l></lg>
+07814 <lg><l><s>pf\cCe tadeno/ varuRa di\dfkzUpo/ emi ciki\tuzo/ vi\pfcCa/m .</s></l>
+07815 <l><s>sa\mA\naminme/ ka\vaya/ScidAhura\yaM ha\ tuBya\M varu/Ro hfRIte .. 3 ..</s></l></lg>
+07816 <lg><l><s>kimAga/ Asa varuRa\ jyezWa\M yatsto\tAra\M jiGA/Msasi\ saKA/yam .</s></l>
+07817 <l><s>pra tanme/ voco dULaBa svaDA\vo 'va/ tvAne\nA nama/sA tu\ra i/yAm .. 4 ..</s></l></lg>
+07818 <lg><l><s>ava/ dru\gDAni\ pitryA/ sfjA\ no 'va\ yA va\yaM ca/kf\mA ta\nUBiH/ .</s></l>
+07819 <l><s>ava/ rAjanpaSu\tfpa\M na tA\yuM sf\jA va\tsaM na dAmno\ vasi/zWam .. 5 ..</s></l></lg>
+07820 <lg><l><s>na sa svo dakzo/ varuRa\ DrutiH\ sA surA/ ma\nyurvi\BIda/ko\ aci/ttiH .</s></l>
+[Page079+ 20]
+07901 <l><s>asti\ jyAyA\nkanI/yasa upA\re svapna/Sca\nedanf/tasya prayo\tA .. 6 ..</s></l></lg>
+07902 <lg><l><s>ara/M dA\so na mI\|uze/ karARya\haM de\vAya\ BUrRa\ye 'nA/gAH .</s></l>
+07903 <l><s>ace/tayada\cito/ de\vo a\ryo gftsa/M rA\ye ka\vita/ro junAti .. 7 ..</s></l></lg>
+07904 <lg><l><s>a\yaM su tuBya/M varuRa svaDAvo hf\di stoma\ upa/SritaScidastu .</s></l>
+07905 <l><s>SaM naH\ kzeme\ Samu\ yoge/ no astu yU\yaM pA/ta sva\stiBiH\ sadA/ naH ..</s></l></lg>
+<section>XLIV. RIGVEDA VII. 88.</section>
+07906 <lg><l><s>pra Su\nDyuva\M varu/RAya\ prezWA/M ma\tiM va/sizWa mI\|uze/ Barasva .</s></l>
+07907 <l><s>ya I/ma\rvAYca\M kara/te\ yaja/traM sa\hasrA/maGa\M vfza/RaM bf\hanta/m .. 1 ..</s></l></lg>
+07908 <lg><l><s>aDA\ nva/sya sa\MdfSa/M jaga\nvAna\gneranI/ka\M varu/Rasya maMsi .</s></l>
+07909 <l><s>sva1\/ryadaSma/nnaDi\pA u\ anDo\ 'Bi mA\ vapu/rdf\Saye/ ninIyAt .. 2 ..</s></l></lg>
+07910 <lg><l><s>A yadruhAva\ varu/RaSca\ nAva\M pra yatsa/mu\dramI\rayA/va\ maDya/m .</s></l>
+07911 <l><s>aDi\ yada\pAM snuBi\ScarA/va\ pra pre\NKa I/NKayAvahE Su\Be kam .. 3 ..</s></l></lg>
+07912 <lg><l><s>vasi/zWaM ha\ varu/Ro nA\vyADA\dfzi/M cakAra\ svapA\ maho/BiH .</s></l>
+07913 <l><s>sto\tAra\M vipraH/ sudina\tve ahnA\M yAnnu dyAva/sta\tana\nyAdu\zAsaH/ .. 4 ..</s></l></lg>
+07914 <lg><l><s>kva1\/ tyAni/ nO sa\KyA ba/BUvuH\ sacA/vahe\ yada/vf\kaM pu\rA ci/t .</s></l>
+07915 <l><s>bf\hanta\M mAna/M varuRa svaDAvaH sa\hasra/dvAraM jagamA gf\haM te/ .. 5 ..</s></l></lg>
+07916 <lg><l><s>ya A\pirnityo/ varuRa pri\yaH santvAmAgA/Msi kf\Rava\tsaKA/ te .</s></l>
+07917 <l><s>mA ta\ ena/svanto yakzinBujema ya\nDi zmA\ vipra/ stuva\te varU/Tam .. 6 ..</s></l></lg>
+07918 <lg><l><s>Dru\vAsu/ tvA\su kzi\tizu/ kzi\yanto\ vya1\/smatpASa\M varu/Ro mumocat .</s></l>
+07919 <l><s>avo/ vanvA\nA adi/teru\pasTA/dyU\yaM pA/ta sva\stiBiH\ sadA/ naH .. 7 ..</s></l></lg>
+[Page080+ 21]
+<section>XLV. RIGVEDA VII. 89.</section>
+08001 <lg><l><s>mo zu va/ruRa mf\nmaya/M gf\haM rA/janna\haM ga/mam .</s></l>
+08002 <l><s>mf\LA su/kzatra mf\Laya/ .. 1 ..</s></l></lg>
+08003 <lg><l><s>yademi/ prasPu\ranni/va\ dfti\rna DmA\to a/drivaH .</s></l>
+08004 <l><s>mf\LA su/kzatra mf\Laya/ .. 2 ..</s></l></lg>
+08005 <lg><l><s>kratvaH/ samaha dI\natA/ pratI\paM ja/gamA Suce .</s></l>
+08006 <l><s>mf\LA su/kzatra mf\Laya/ .. 3 ..</s></l></lg>
+08007 <lg><l><s>a\pAM maDye/ tasTi\vAMsa\M tfzRA/vidajjari\tAra/m .</s></l>
+08008 <l><s>mf\LA su/kzatra mf\Laya/ .. 4 ..</s></l></lg>
+08009 <lg><l><s>yatkiM ce\daM va/ruRa\ dEvye\ jane/ 'Bidro\haM ma/nu\zyA\3\/ScarA/masi .</s></l>
+08010 <l><s>aci/ttI\ yattava\ DarmA/ yuyopi\ma mA na\stasmA\dena/so deva rIrizaH ..</s></l></lg>
+<section>XLVI. RIGVEDA VIII. 14.</section>
+08011 <lg><l><s>yadi/ndrA\haM yaTA\ tvamISI/ya\ vasva\ eka\ it .</s></l>
+08012 <l><s>sto\tA me\ goza/KA syAt .. 1 ..</s></l></lg>
+08013 <lg><l><s>Sikze/yamasmE\ ditse/ya\M SacI/pate manI\ziRe/ .</s></l>
+08014 <l><s>yada\haM gopa/tiH\ syAm .. 2 ..</s></l></lg>
+08015 <lg><l><s>De\nuzwa/ indra sU\nftA\ yaja/mAnAya sunva\te .</s></l>
+08016 <l><s>gAmaSva/M pi\pyuzI/ duhe .. 3 ..</s></l></lg>
+08017 <lg><l><s>na te/ va\rtAsti\ rADa/sa\ indra/ de\vo na martyaH/ .</s></l>
+08018 <l><s>yadditsa/si stu\to ma\Gam .. 4 ..</s></l></lg>
+08019 <lg><l><s>ya\jYa indra/mavarDaya\dyadBUmi\M vyava/rtayat .</s></l>
+[Page081+ 21]
+08101 <l><s>ca\krA\Ra o/pa\SaM di\vi .. 5 ..</s></l></lg>
+08102 <lg><l><s>vA\vf\DA\nasya/ te va\yaM viSvA\ DanA/ni ji\gyuzaH/ .</s></l>
+08103 <l><s>U\timi\ndrA vf/RImahe .. 6 ..</s></l></lg>
+08104 <lg><l><s>vya1\/ntari/kzamatira\nmade\ soma/sya roca\nA .</s></l>
+08105 <l><s>indro\ yadaBi/nadva\lam .. 7 ..</s></l></lg>
+08106 <lg><l><s>udgA A/ja\daNgi/roBya A\vizkf\RvanguhA/ sa\tIH .</s></l>
+08107 <l><s>a\rvAYca/M nunude va\lam .. 8 ..</s></l></lg>
+08108 <lg><l><s>indre/Ra roca\nA di\vo df\|Ani/ dfMhi\tAni/ ca .</s></l>
+08109 <l><s>sTi\rARi\ na pa/rA\Rude/ .. 9 ..</s></l></lg>
+08110 <lg><l><s>a\pAmU\rmirmada/nniva\ stoma/ indrAjirAyate .</s></l>
+08111 <l><s>vi te\ madA/ arAjizuH .. 10 ..</s></l></lg>
+08112 <lg><l><s>tvaM hi sto/ma\varDa/na\ indrAsyu/kTa\varDa/naH .</s></l>
+08113 <l><s>sto\tF\RAmu\ta Ba/dra\kft .. 11 ..</s></l></lg>
+08114 <lg><l><s>indra\mitke\SinA\ harI/ soma\peyA/ya vakzataH .</s></l>
+08115 <l><s>upa/ ya\jYaM su\rADa/sam .. 12 ..</s></l></lg>
+08116 <lg><l><s>a\pAM Pene/na\ namu/ceH\ Sira/ i\ndroda/vartayaH .</s></l>
+08117 <l><s>viSvA\ yadaja/ya\ spfDaH/ .. 13 ..</s></l></lg>
+08118 <lg><l><s>mA\yABi/ru\tsisf/psata\ indra\ dyAmA\ruru/kzataH .</s></l>
+08119 <l><s>ava\ dasyU/~raDUnuTAH .. 14 ..</s></l></lg>
+08120 <lg><l><s>a\su\nvAmi/ndra sa\Msada\M vizU/cI\M vya/nASayaH .</s></l>
+08121 <l><s>so\ma\pA utta/ro\ Bava/n .. 15 ..</s></l></lg>
+[Page082+ 20]
+<section>XLVII. RIGVEDA VIII. 85.</section>
+08201 <lg><l><s>vf\trasya/ tvA Sva\saTA\dIza/mARA\ viSve/ de\vA a/jahu\rye saKA/yaH .</s></l>
+08202 <l><s>ma\rudBi/rindra sa\KyaM te/ a\stvaTe\mA viSvAH\ pfta/nA jayAsi .. 7 ..</s></l></lg>
+08203 <lg><l><s>triH za\zwistvA/ ma\ruto/ vAvfDA\nA u\srA i/va rA\Sayo/ ya\jYiyA/saH .</s></l>
+08204 <l><s>upa\ tvemaH/ kf\Di no/ BAga\Deya\M Suzma/M ta e\nA ha\vizA/ viDema .. 8 ..</s></l></lg>
+08205 <lg><l><s>ti\gmamAyu/DaM ma\rutA\manI/ka\M kasta/ indra\ prati\ vajra/M daDarza .</s></l>
+08206 <l><s>a\nA\yu\DAso\ asu/rA ade\vASca\kreRa\ tA~ apa/ vapa fjIzin ..</s></l></lg>
+<section>XLVIII. RIGVEDA VIII. 91.</section>
+08207 <lg><l><s>agne/ Gf\tasya/ DI\tiBi/stepA\no de/va So\cizA/ .</s></l>
+08208 <l><s>A de\vAnva/kzi\ yakzi/ ca .. 16 ..</s></l></lg>
+08209 <lg><l><s>taM tvA/jananta mA\taraH/ ka\viM de\vAso/ aNgiraH .</s></l>
+08210 <l><s>ha\vya\vAha\mama/rtyam .. 17 ..</s></l></lg>
+08211 <lg><l><s>prace/tasaM tvA ka\ve 'gne/ dU\taM vare/Ryam .</s></l>
+08212 <l><s>ha\vya\vAha\M ni ze/dire .. 18 ..</s></l></lg>
+08213 <lg><l><s>na\hi me\ astyaGnyA\ na svaDi/ti\rvana/nvati .</s></l>
+08214 <l><s>aTE/tA\dfgBa/rAmi te .. 19 ..</s></l></lg>
+08215 <lg><l><s>yada/gne\ kAni\ kAni/ ci\dA te\ dArU/Ri da\Dmasi/ .</s></l>
+08216 <l><s>tA ju/zasva yavizWya .. 20 ..</s></l></lg>
+08217 <lg><l><s>a\gniminDA/no\ mana/sA\ Diya/M saceta\ martyaH/ .</s></l>
+08218 <l><s>a\gnimI/De vi\vasva/BiH .. 22 ..</s></l></lg>
+[Page083+ 21]
+<section>XLIX. RIGVEDA X. 9.</section>
+08301 <lg><l><s>Apo\ hi zWA ma/yo\Buva\stA na/ U\rje da/DAtana .</s></l>
+08302 <l><s>ma\he raRA/ya\ cakza/se .. 1 ..</s></l></lg>
+08303 <lg><l><s>yo vaH/ Si\vata/mo\ rasa\stasya/ BAjayate\ha naH/ .</s></l>
+08304 <l><s>u\Sa\tIri/va mA\taraH/ .. 2 ..</s></l></lg>
+08305 <lg><l><s>tasmA\ ara/M gamAma vo\ yasya\ kzayA/ya\ jinva/Ta .</s></l>
+08306 <l><s>Apo/ ja\naya/TA ca naH .. 3 ..</s></l></lg>
+<section>L. RIGVEDA X. 14.</section>
+08307 <lg><l><s>pa\re\yi\vAMsa/M pra\vato/ ma\hIranu/ ba\huByaH\ panTA/manupaspaSA\nam .</s></l>
+08308 <l><s>vE\va\sva\taM sa\Mgama/na\M janA/nAM ya\maM rAjA/naM ha\vizA/ duvasya .. 1 ..</s></l></lg>
+08309 <lg><l><s>ya\mo no/ gA\tuM pra/Ta\mo vi/veda\ nEzA gavyU/ti\rapa/Barta\vA u/ .</s></l>
+08310 <l><s>yatrA/ naH\ pUrve/ pi\taraH/ pare\yure\nA ja/jYA\nAH pa\TyA\3\/ anu\ svAH .. 2 ..</s></l></lg>
+08311 <lg><l><s>prehi\ prehi/ pa\TiBiH/ pU\rvyeBi\ryatrA/ naH\ pUrve/ pi\taraH/ pare\yuH .</s></l>
+08312 <l><s>u\BA rAjA/nA sva\DayA\ mada/ntA ya\maM pa/SyAsi\ varu/RaM ca de\vam .. 7 ..</s></l></lg>
+08313 <lg><l><s>saM ga/cCasva pi\tfBiH\ saM ya\mene/zwApU\rtena/ para\me vyo/man .</s></l>
+08314 <l><s>hi\tvAyA/va\dyaM puna\rasta\mehi\ saM ga/cCasva ta\nvA/ su\varcAH/ .. 8 ..</s></l></lg>
+08315 <lg><l><s>ape/ta\ vI/ta\ vi ca/ sarpa\tAto\ 'smA e\taM pi\taro/ lo\kama/kran .</s></l>
+08316 <l><s>aho/Bira\dBira\ktuBi\rvya/ktaM ya\mo da/dAtyava\sAna/masmE .. 9 ..</s></l></lg>
+08317 <lg><l><s>ati/ drava sArame\yO SvAnO/ catura\kzO Sa\balO/ sA\DunA/ pa\TA .</s></l>
+08318 <l><s>aTA/ pi\tFnsu/vi\datrA\~ upe/hi ya\mena\ ye sa/Da\mAda\M mada/nti .. 10 ..</s></l></lg>
+08319 <lg><l><s>yO te\ SvAnO/ yama rakzi\tArO/ catura\kzO pa/Ti\rakzI/ nf\cakza/sO .</s></l>
+[Page084+ 21]
+08401 <l><s>tAByA/mena\M pari/ dehi rAjansva\sti cA/smA anamI\vaM ca/ Dehi .. 11 ..</s></l></lg>
+08402 <lg><l><s>u\rU\Ra\sAva/su\tfpA/ udumba\lO ya\masya/ dU\tO ca/rato\ janA\~ anu/ .</s></l>
+08403 <l><s>tAva\smaBya/M df\Saye\ sUryA/ya\ puna/rdAtA\masu/ma\dyeha Ba\dram .. 12 ..</s></l></lg>
+<section>LI. RIGVEDA X. 16.</section>
+08404 <lg><l><s>mEna/magne\ vi da/ho\ mABi So/co\ mAsya\ tvaca/M cikzipo\ mA SarI/ram .</s></l>
+08405 <l><s>ya\dA Sf\taM kf\Ravo/ jAtave\do 'Te/mena\M pra hi/RutAtpi\tfByaH/ .. 1 ..</s></l></lg>
+08406 <lg><l><s>Sf\taM ya\dA kara/si jAtave\do 'Te/mena\M pari/ dattAtpi\tfByaH/ .</s></l>
+08407 <l><s>ya\dA gacCA\tyasu/nItime\tAmaTA/ de\vAnA/M vaSa\nIrBa/vAti .. 2 ..</s></l></lg>
+08408 <lg><l><s>sUrya\M cakzu/rgacCatu\ vAta/mA\tmA dyAM ca/ gacCa pfTi\vIM ca\ Darma/RA .</s></l>
+08409 <l><s>a\po vA/ gacCa\ yadi\ tatra/ te hi\tamoza/DIzu\ prati/ tizWA\ SarI/rEH .. 3 ..</s></l></lg>
+08410 <lg><l><s>a\jo BA\gastapa/sA\ taM ta/pasva\ taM te/ So\cista/patu\ taM te/ a\rciH .</s></l>
+08411 <l><s>yAste/ Si\vAsta\nvo/ jAtaveda\stABi/rvahEnaM su\kftA/mu lo\kam .. 4 ..</s></l></lg>
+08412 <lg><l><s>ava/ sfja\ puna/ragne pi\tfByo\ yasta\ Ahu/ta\Scara/ti sva\DABiH/ .</s></l>
+08413 <l><s>Ayu\rvasA/na\ upa/ vetu\ SezaH\ saM ga/cCatAM ta\nvA/ jAtavedaH .. 5 ..</s></l></lg>
+08414 <lg><l><s>yatte/ kf\zRaH Sa/ku\na A/tu\toda/ pipI\laH sa\rpa u\ta vA\ SvApa/daH .</s></l>
+08415 <l><s>a\gnizwadvi\SvAda/ga\daM kf/Rotu\ soma/Sca\ yo brA/hma\RA~ A/vi\veSa/ .. 6 ..</s></l></lg>
+08416 <lg><l><s>a\gnervarma\ pari\ goBi/rvyayasva\ saM prorRu/zva\ pIva/sA\ meda/sA ca .</s></l>
+08417 <l><s>nettvA/ Df\zRurhara/sA\ jarhf/zARo da\Dfgvi/Da\kzyanpa/rya\NKayA/te .. 7 ..</s></l></lg>
+08418 <lg><l><s>i\mama/gne cama\saM mA vi ji/hvaraH pri\yo de\vAnA/mu\ta so\myAnA/m .</s></l>
+08419 <l><s>e\za yaSca/ma\so de/va\pAna\stasmi/nde\vA a\mftA/ mAdayante .. 8 ..</s></l></lg>
+08420 <lg><l><s>kra\vyAda/ma\gniM pra hi/Romi dU\raM ya\marA/jYo gacCatu ripravA\haH .</s></l>
+[Page085+ 21]
+08501 <l><s>i\hEvAyamita/ro jA\tave/dA de\veByo/ ha\vyaM va/hatu prajA\nan .. 9 ..</s></l></lg>
+08502 <lg><l><s>yo a\gniH kra\vyAtpra/vi\veSa/ vo gf\hami\maM paSya\nnita/raM jA\tave/dasam .</s></l>
+08503 <l><s>taM ha/rAmi pitfya\jYAya/ de\vaM sa Ga\rmami/nvAtpara\me sa\DasTe/ .. 10 ..</s></l></lg>
+08504 <lg><l><s>yo a\gniH kra/vya\vAha/naH pi\tFnyakza/dftA\vfDaH/ .</s></l>
+08505 <l><s>predu/ ha\vyAni/ vocati de\veBya/Sca pi\tfBya\ A .. 11 ..</s></l></lg>
+08506 <lg><l><s>u\Santa/stvA\ ni DI/mahyu\SantaH\ sami/DImahi .</s></l>
+08507 <l><s>u\Sannu/Sa\ta A va/ha pi\tFnha\vize\ atta/ve .. 12 ..</s></l></lg>
+08508 <lg><l><s>yaM tvama/gne sa\mada/ha\stamu\ nirvA/payA\ punaH/ .</s></l>
+08509 <l><s>ki\yAmbvatra/ rohatu pAkadU\rvA vya/lkaSA .. 13 ..</s></l></lg>
+08510 <lg><l><s>SIti/ke\ SIti/kAvati\ hlAdi/ke\ hlAdi/kAvati .</s></l>
+08511 <l><s>ma\RqU\kyA\3\/ su saM ga/ma i\maM sva1\/gniM ha/rzaya .. 14 ..</s></l></lg>
+<section>LII. RIGVEDA X. 17.</section>
+08512 <lg><l><s>tvazwA/ duhi\tre va/ha\tuM kf/Ro\tItI\daM viSva\M Buva/na\M same/ti .</s></l>
+08513 <l><s>ya\masya/ mA\tA pa/ryu\hyamA/nA ma\ho jA\yA viva/svato nanASaM .. 1 ..</s></l></lg>
+08514 <lg><l><s>apA/gUhanna\mftA\M martye/ByaH kf\tvI sava/rRAmadadu\rviva/svate .</s></l>
+08515 <l><s>u\tASvinA/vaBara\dyattadAsI\daja/hAdu\ dvA mi/Tu\nA sa/ra\RyUH .. 2 ..</s></l></lg>
+08516 <lg><l><s>pU\zA tve\taScyA/vayatu\ pra vi\dvAnana/zwapaSu\rBuva/nasya go\pAH .</s></l>
+08517 <l><s>sa tvE\teByaH\ pari/ dadatpi\tfByo\ 'gnirde\veByaH/ suvida\triye/ByaH .. 3 ..</s></l></lg>
+08518 <lg><l><s>Ayu/rvi\SvAyuH\ pari/ pAsati tvA pU\zA tvA/ pAtu\ prapa/Te pu\rastA/t .</s></l>
+08519 <l><s>yatrAsa/te su\kfto\ yatra\ te ya\yustatra/ tvA de\vaH sa/vi\tA da/DAtu .. 4 ..</s></l></lg>
+08520 <lg><l><s>pU\zemA ASA\ anu/ veda\ sarvAH\ so a\smA~ aBa/yatamena nezat .</s></l>
+[Page086+ 21]
+08601 <l><s>sva\sti\dA AGf/RiH\ sarva/vI\ro 'pra/yucCanpu\ra e/tu prajA\nan .. 5 ..</s></l></lg>
+08602 <lg><l><s>prapa/Te pa\TAma/janizwa pU\zA prapa/Te di\vaH prapa/Te pfTi\vyAH .</s></l>
+08603 <l><s>u\Be a\Bi pri\yata/me sa\DasTe\ A ca\ parA/ ca carati prajA\nan .. 6 ..</s></l></lg>
+<section>LIII. RIGVEDA X. 18.</section>
+08604 <lg><l><s>para/M mftyo\ anu\ pare/hi\ panTA\M yaste\ sva ita/ro deva\yAnA/t .</s></l>
+08605 <l><s>cakzu/zmate SfRva\te te/ bravImi\ mA naH/ pra\jAM rI/rizo\ mota vI\rAn .. 1 ..</s></l></lg>
+08606 <lg><l><s>mf\tyoH pa\daM yo\paya/nto\ yadEta\ drAGI/ya\ AyuH/ prata\raM daDA/nAH .</s></l>
+08607 <l><s>A\pyAya/mAnAH pra\jayA\ Dane/na Su\dDAH pU\tA Ba/vata yajYiyAsaH .. 2 ..</s></l></lg>
+08608 <lg><l><s>i\me jI\vA vi mf\tErAva/vftra\nnaBU/dBa\drA de\vahU/tirno a\dya .</s></l>
+08609 <l><s>prAYco/ agAma nf\taye\ hasA/ya\ drAGI/ya\ AyuH/ prata\raM daDA/nAH .. 3 ..</s></l></lg>
+08610 <lg><l><s>i\maM jI\veByaH/ pari\DiM da/DAmi\ mEzA\M nu gA\dapa/ro\ arTa/me\tam .</s></l>
+08611 <l><s>Sa\taM jI/vantu Sa\radaH/ purU\cIra\ntarmf\tyuM da/DatA\M parva/tena .. 4 ..</s></l></lg>
+08612 <lg><l><s>yaTAhA/nyanupU\rvaM Bava/nti\ yaTa/ f\tava/ f\tuBi\ryanti/ sA\Du .</s></l>
+08613 <l><s>yaTA\ na pUrva\mapa/ro\ jahA/tye\vA DA/ta\rAyU/Mzi kalpayEzAm .. 5 ..</s></l></lg>
+08614 <lg><l><s>A ro/ha\tAyu/rja\rasa/M vfRA\nA a/nupU\rvaM yata/mAnA\ yati\ zWa .</s></l>
+08615 <l><s>i\ha tvazwA/ su\jani/mA sa\jozA/ dI\rGamAyuH/ karati jI\vase/ vaH .. 6 ..</s></l></lg>
+08616 <lg><l><s>i\mA nArI/raviDa\vAH su\patnI\rAYja/nena sa\rpizA\ saM vi/Santu .</s></l>
+08617 <l><s>a\na\Sravo/ 'namI\vAH su\ratnA\ A ro/hantu\ jana/yo\ yoni\magre/ .. 7 ..</s></l></lg>
+08618 <lg><l><s>udI/rzva nArya\Bi jI/valo\kaM ga\tAsu/me\tamupa/ Seza\ ehi/ .</s></l>
+08619 <l><s>ha\sta\grA\Basya/ diDi\zostave\daM patyu/rjani\tvama\Bi saM ba/BUTa .. 8 ..</s></l></lg>
+08620 <lg><l><s>Danu\rhastA/dA\dadA/no mf\tasyA\sme kza\trAya\ varca/se\ balA/ya .</s></l>
+[Page087+ 21]
+08701 <l><s>atrE\va tvami\ha va\yaM su\vIrA\ viSvA\ spfDo/ a\BimA/tIrjayema .. 9 ..</s></l></lg>
+08702 <lg><l><s>upa/ sarpa mA\tara\M BUmi/me\tAmu/ru\vyaca/saM pfTi\vIM su\SevA/m .</s></l>
+08703 <l><s>UrRa/mradA yuva\tirdakzi/RAvata e\zA tvA/ pAtu\ nirf/teru\pasTA/t .. 10 ..</s></l></lg>
+08704 <lg><l><s>ucCva/Ycasva pfTivi\ mA ni bA/DaTAH sUpAya\nAsmE/ Bava sUpavaYca\nA .</s></l>
+08705 <l><s>mA\tA pu\traM yaTA/ si\cABye/naM BUma UrRuhi .. 11 ..</s></l></lg>
+08706 <lg><l><s>u\cCvaYca/mAnA pfTi\vI su ti/zWatu sa\hasra\M mita\ upa\ hi Sraya/ntAm .</s></l>
+08707 <l><s>te gf\hAso/ Gfta\Scuto/ Bavantu vi\SvAhA/smE Sara\RAH sa\ntvatra/ .. 12 ..</s></l></lg>
+08708 <lg><l><s>utte/ staBnAmi pfTi\vIM tvatparI\maM lo\gaM ni\daDa\nmo a\haM ri/zam .</s></l>
+08709 <l><s>e\tAM sTURA/M pi\taro/ DArayantu\ te 'trA/ ya\maH sAda/nA te minotu ..</s></l></lg>
+08710 <lg><l><s>pra\tI\cIne\ mAmaha\nIzvAH/ pa\rRami\vA da/DuH .</s></l>
+08711 <l><s>pra\tIcI/M jagraBA\ vAca\maSva/M raSa\nayA/ yaTA .. 14 ..</s></l></lg>
+<section>LIV. RIGVEDA X. 33.</section>
+08712 <lg><l><s>ku\ru\Srava/RamAvfRi\ rAjA/na\M trAsa/dasyavam .</s></l>
+08713 <l><s>maMhi/zWaM vA\GatA\mfziH/ .. 4 ..</s></l></lg>
+08714 <lg><l><s>yasya/ mA ha\rito\ raTe/ ti\sro vaha/nti sADu\yA .</s></l>
+08715 <l><s>stavE/ sa\hasra/dakziRe .. 5 ..</s></l></lg>
+08716 <lg><l><s>yasya\ prasvA/daso\ gira/ upa\maSra/vasaH pi\tuH .</s></l>
+08717 <l><s>kzetra\M na ra\RvamU\cuze/ .. 6 ..</s></l></lg>
+08718 <lg><l><s>aDi/ putropamaSravo\ napA/nmitrAtiTerihi .</s></l>
+08719 <l><s>pi\tuzwe/ asmi vandi\tA .. 7 ..</s></l></lg>
+08720 <lg><l><s>yadISI/yA\mftA/nAmu\ta vA\ martyA/nAm .</s></l>
+[Page088+ 19]
+08801 <l><s>jIve\dinma\GavA\ mama/ .. 8 ..</s></l></lg>
+08802 <lg><l><s>na de\vAnA\mati/ vra\taM Sa\tAtmA/ ca\na jI/vati .</s></l>
+08803 <l><s>taTA/ yu\jA vi vA/vfte .. 9 ..</s></l></lg>
+<section>LV. RIGVEDA X. 40. 10.</section>
+08804 <lg><l><s>jI\vaM ru/danti\ vi ma/yante aDva\re dI\rGAmanu\ prasi/tiM dIDiyu\rnaraH/ .</s></l>
+08805 <l><s>vA\maM pi\tfByo\ ya i\daM sa/meri\re mayaH\ pati/Byo\ jana/yaH pari\zvaje/ .. 1 ..</s></l></lg>
+<section>LVI. RIGVEDA X. 52.</section>
+08806 <lg><l><s>viSve/ devAH SA\stana/ mA\ yaTe\ha hotA/ vf\to ma\navE\ yanni\zadya/ .</s></l>
+08807 <l><s>pra me/ brUta BAga\Deya\M yaTA/ vo\ yena/ pa\TA ha\vyamA vo\ vahA/ni .. 1 ..</s></l></lg>
+08808 <lg><l><s>a\haM hotA\ nya/sIda\M yajI/yA\nviSve/ de\vA ma\ruto/ mA junanti .</s></l>
+08809 <l><s>aha/raharaSvi\nADva/ryavaM vAM bra\hmA sa\midBa/vati\ sAhu/tirvAm .. 2 ..</s></l></lg>
+08810 <lg><l><s>a\yaM yo hotA\ kiru\ sa ya\masya\ kamapyU/he\ yatsa/ma\Yjanti/ de\vAH .</s></l>
+08811 <l><s>aha/raharjAyate mA\si mA\syaTA/ de\vA da/Dire havya\vAha/m .. 3 ..</s></l></lg>
+08812 <lg><l><s>mAM de\vA da/Dire havya\vAha\mapa/mluktaM ba\hu kf\cCrA cara/ntam .</s></l>
+08813 <l><s>a\gnirvi\dvAnya\jYaM naH/ kalpayAti\ paYca/yAmaM tri\vfta/M sa\ptata/ntum .. 4 ..</s></l></lg>
+08814 <lg><l><s>A vo/ yakzyamfta\tvaM su\vIra\M yaTA/ vo devA\ vari/vaH\ karA/Ri .</s></l>
+08815 <l><s>A bA\hvorvajra\mindra/sya DeyA\maTe\mA viSvAH\ pfta/nA jayAti .. 5 ..</s></l></lg>
+08816 <lg><l><s>trIRi/ Sa\tA trI sa\hasrA/Rya\gniM tri\MSacca/ de\vA nava/ cAsaparyan .</s></l>
+08817 <l><s>Okza/nGf\tErastf/Ranba\rhira/smA\ AdidDotA/ra\M nya/sAdayanta .. 6 ..</s></l></lg>
+[Page089+ 21]
+<section>LVII. RIGVEDA X. 53.</section>
+08901 <lg><l><s>tantu/M ta\nvanraja/so BA\numanvi/hi\ jyoti/zmataH pa\To ra/kza Di\yA kf\tAn .</s></l>
+08902 <l><s>a\nu\lba\RaM va/yata\ jogu/vA\mapo\ manu/rBava ja\nayA\ dEvya\M jana/m .. 6 ..</s></l></lg>
+08903 <lg><l><s>aSma/nvatI rIyate\ saM ra/BaDva\mutti/zWata\ pra ta/ratA saKAyaH .</s></l>
+08904 <l><s>atrA/ jahAma\ ye asa\nnaSe/vAH Si\vAnva\yamutta/remA\Bi vAjA/n .. 8 ..</s></l></lg>
+<section>LVIII. RIGVEDA X. 85. 36, 24--26, 32--33, 27, 43--47.</section>
+08905 <lg><l><s>gf\BRAmi/ te sOBaga\tvAya\ hasta\M mayA\ patyA/ ja\rada/zwi\ryaTAsaH/ .</s></l>
+08906 <l><s>Bago/ arya\mA sa/vi\tA pura/MDi\rmahya/M tvAdu\rgArha/patyAya de\vAH .. 36 ..</s></l></lg>
+08907 <lg><l><s>pra tvA/ muYcAmi\ varu/Rasya\ pASA\dyena\ tvAba/DnAtsavi\tA su\SevaH/ .</s></l>
+08908 <l><s>f\tasya\ yonO/ sukf\tasya/ lo\ke 'ri/zwAM tvA sa\ha patyA/ daDAmi .. 24 ..</s></l></lg>
+08909 <lg><l><s>preto mu\YcAmi\ nAmutaH/ suba\dDAma\muta/skaram .</s></l>
+08910 <l><s>yaTe\yami/ndra mIQvaH supu\trA su\BagAsa/ti .. 25 ..</s></l></lg>
+08911 <lg><l><s>pU\zA tve\to na/yatu hasta\gfhyA\SvinA/ tvA\ pra va/hatA\M raTe/na .</s></l>
+08912 <l><s>gf\hAnga/cCa gf\hapa/tnI\ yaTAso/ va\SinI\ tvaM vi\daTa\mA va/dAsi .. 26 ..</s></l></lg>
+08913 <lg><l><s>mA vi/danparipa\nTino\ ya A\sIda/nti\ daMpa/tI .</s></l>
+08914 <l><s>su\geBi/rdu\rgamatI/tA\mapa/ drA\ntvarA/tayaH .. 32 ..</s></l></lg>
+08915 <lg><l><s>su\ma\Nga\lIri\yaM va\DUri\mAM sa\meta\ paSya/ta .</s></l>
+08916 <l><s>sOBA/gyamasyE da\ttvAyATAsta\M vi pare/tana .. 33 ..</s></l></lg>
+08917 <lg><l><s>i\ha pri\yaM pra\jayA/ te\ samf/DyatAma\smingf\he gArha/patyAya jAgfhi .</s></l>
+08918 <l><s>e\nA patyA/ ta\nvaM1\/ saM sf/ja\svADA\ jivrI/ vi\daTa\mA va/dATaH .. 27 ..</s></l></lg>
+08919 <lg><l><s>A naH/ pra\jAM ja/nayatu pra\jApa/tirAjara\sAya\ sama/naktvarya\mA .</s></l>
+[Page090+ 21]
+09001 <l><s>adu/rmaNgalIH patilo\kamA vi/Sa\ SaM no/ Bava dvi\pade\ SaM catu/zpade ..</s></l></lg>
+09002 <lg><l><s>aGo/racakzu\rapa/tiGnyeDi Si\vA pa\SuByaH/ su\manAH/ su\varcAH/ .</s></l>
+09003 <l><s>vI\ra\sUrde\vakA/mA syo\nA SaM no/ Bava dvi\pade\ SaM catu/zpade .. 44 ..</s></l></lg>
+09004 <lg><l><s>i\mAM tvami/ndra mIQvaH supu\trAM su\BagA/M kfRu .</s></l>
+09005 <l><s>daSA/syAM pu\trAnA De/hi\ pati/mekAda\SaM kf/Di .. 45 ..</s></l></lg>
+09006 <lg><l><s>sa\mrAjYI\ SvaSu/re Bava sa\mrAjYI/ Sva\SrvAM Ba/va .</s></l>
+09007 <l><s>nanA/ndari sa\mrAjYI/ Bava sa\mrAjYI\ aDi/ de\vfzu/ .. 46 ..</s></l></lg>
+09008 <lg><l><s>sama/Yjantu\ viSve/ de\vAH samApo\ hfda/yAni nO .</s></l>
+09009 <l><s>saM mA/ta\riSvA\ saM DA\tA samu\ dezwrI/ daDAtu nO .. 47 ..</s></l></lg>
+<section>LIX. RIGVEDA X. 137.</section>
+09010 <lg><l><s>u\ta de/vA\ ava/hita\M devA\ unna/yaTA\ punaH/ .</s></l>
+09011 <l><s>u\tAga/Sca\kruza/M devA\ devA/ jI\vaya/TA\ punaH/ .. 1 ..</s></l></lg>
+09012 <lg><l><s>dvAvi\mO vAtO/ vAta\ A sinDo\rA pa/rA\vataH/ .</s></l>
+09013 <l><s>dakza/M te a\nya A vA/tu\ parA\nyo vA/tu\ yadrapaH/ .. 2 ..</s></l></lg>
+09014 <lg><l><s>A vA/ta vAhi Beza\jaM vi vA/ta vAhi\ yadrapaH/ .</s></l>
+09015 <l><s>tvaM hi vi\SvaBe/zajo de\vAnA/M dU\ta Iya/se .. 3 ..</s></l></lg>
+09016 <lg><l><s>A tvA/gama\M SaMtA/tiBi\raTo/ ari\zwatA/tiBiH .</s></l>
+09017 <l><s>dakza/M te Ba\dramABA/rza\M parA\ yakzma/M suvAmi te .. 4 ..</s></l></lg>
+09018 <lg><l><s>trAya/ntAmi\ha de\vAstrAya/tAM ma\rutA/M ga\RaH .</s></l>
+09019 <l><s>trAya/ntA\M viSvA/ BU\tAni\ yaTA\yama/ra\pA asa/t .. 5 ..</s></l></lg>
+09020 <lg><l><s>Apa\ idvA u/ Beza\jIrApo/ amIva\cAta/nIH .</s></l>
+[Page091+ 19]
+09101 <l><s>ApaH\ sarva/sya Beza\jIstAste/ kfRvantu Beza\jam .. 6 ..</s></l></lg>
+09102 <lg><l><s>hastA/ByA\M daSa/SAKAByAM ji\hvA vA\caH pu/roga\vI .</s></l>
+09103 <l><s>a\nA\ma\yi\tnuByA/M tvA\ tAByA\M tvopa/ spfSAmasi .. 7 ..</s></l></lg>
+<section>LX. RIGVEDA X. 154.</section>
+09104 <lg><l><s>soma\ eke/ByaH pavate Gf\tameka\ upA/sate .</s></l>
+09105 <l><s>yeByo\ maDu/ pra\DAva/ti\ tAMSci/de\vApi/ gacCatAt .. 1 ..</s></l></lg>
+09106 <lg><l><s>tapa/sA\ ye a/nADf\zyAstapa/sA\ ye sva/rya\yuH .</s></l>
+09107 <l><s>tapo\ ye ca/kri\re maha\stAMSci/de\vApi/ gacCatAt .. 2 ..</s></l></lg>
+09108 <lg><l><s>ye yuDya/nte pra\Dane/zu\ SUrA/so\ ye ta/nU\tyajaH/ .</s></l>
+09109 <l><s>ye vA/ sa\hasra/dakziRA\stAMSci/de\vApi/ gacCatAt .. 3 ..</s></l></lg>
+09110 <lg><l><s>ye ci\tpUrva/ fta\sApa/ f\tAvA/na ftA\vfDaH/ .</s></l>
+09111 <l><s>pi\tFntapa/svato yama\ tAMSci/de\vApi/ gacCatAt .. 4 ..</s></l></lg>
+09112 <lg><l><s>sa\hasra/RITAH ka\vayo\ ye go/pA\yanti\ sUrya/m .</s></l>
+09113 <l><s>fzI\ntapa/svato yama tapo\jA~ api/ gacCatAt .. 5 ..</s></l></lg>
+<section>LXI. RIGVEDA X. 155.</section>
+09114 <lg><l><s>parI\me gAma/nezata\ parya\gnima/hfzata .</s></l>
+09115 <l><s>de\vezva/krata\ SravaH\ ka i\mA~ A da/Darzati .. 5 ..</s></l></lg>
+<section>LXII. MAITRAYANI SANHITA II. 13. 23.</section>
+09116 <lg><l><s>hiraRyagarBaH/ sa/mavartatA/gre BUta/sya jAtaH/ pa/tire/ka AsIt .</s></l>
+[Page092+ 21]
+09201 <l><s>sa/ dADAra pfTivI/M dyA/mute/mA/M ka/smE devA/ya havi/zA viDema .. 1 ..</s></l></lg>
+09202 <lg><l><s>yaH/ prARato/ nimizata/Sca rA/jA pa/tirvi/Svasya ja/gato baBU/va .</s></l>
+09203 <l><s>I/Se yo/ asya/ dvipa/daSca/tuzpadaH ka/smE devA/ya havi/zA viDema .. 2 ..</s></l></lg>
+09204 <lg><l><s>ya/ ojodA/ baladA/ ya/sya vi/Sva upA/sate praSi/za~ ya/sya devAH/ .</s></l>
+09205 <l><s>ya/sya CAyA/mf/ta~ ya/sya mftyuH/ ka/smE devA/ya havi/zA viDema .. 3 ..</s></l></lg>
+09206 <lg><l><s>ya/syeme/ vi/Sve gira/yo mahitvA/ samudra/~ ya/sya rasa/yA sahA/huH/ .</s></l>
+09207 <l><s>di/So ya/sya pradi/SaH pa/Yca devIH/ ka/smE devA/ya havi/zA viDema .. 4 ..</s></l></lg>
+09208 <lg><l><s>ye/na dyO/rugrA/ pfTivI/ ca dfQA/ ye/na svf staBita/~ ye/na nA/kaH .</s></l>
+09209 <l><s>yo/ anta/rikza~ vimame/ va/rIyaH ka/smE devA/ya havi/zA viDema .. 5 ..</s></l></lg>
+09210 <lg><l><s>ya/ ime/ dyA/vApfTivI/ tastaBAne/ a/DArayadro/dasI re/jamAne .</s></l>
+09211 <l><s>ya/sminna/Di vi/tataH sU/rA e/ti ka/smE devA/ya havi/zA viDema .. 6 ..</s></l></lg>
+09212 <lg><l><s>A/po ha ya/nmahatI/rvi/SvamA/yanga/rBaM da/DAnA jana/yantIragni/m .</s></l>
+09213 <l><s>ta/to devA/nAM ni/ravartatA/suH ka/smE devA/ya havi/zA viDema .. 7 ..</s></l></lg>
+<section>LXIII. MAITRAYANI SANHITA I. 5. 12.</section>
+09214 <p><s>yamo/ vA/ amriyata . te/ devA/ yamyA/ yama/ma/pAbruvan . tA/~</s>
+09215 <s>ya/da/pfCantsA/bravIdadyA/mfte/ti . te^ 'bruvanna/ vA/ iya/mima/mitTa/M</s>
+09216 <s>mfzyate rA/trI~ sfjAvahA i/ti . a/harvA/va/ ta/rhyA/sInna/ rA/triH . te/</s>
+09217 <s>devA/ rA/trimasfjanta . ta/taH Sva/stanamaBavat . ta/taH sA/ ta/mamf-</s>
+09218 <s>zyata . ta/smAdAhurahorAtrA/Ri vA/vA/Ga/M marzayantI/ti .</s></p>
+<section>LXIV. MAITRAYANI SANHITA I. 10. 13.</section>
+09219 <p><s>prajA/patervA/ eta/jjyezWa/M toka/~ ya/tpa/rvatAH . te/ pakzi/Ra A-</s>
+[Page093+ 21]
+09301 <s>san . te/ parApA/tamAsata ya/tra yatrA/kAmayanta . a/Ta vA/ iya/M</s>
+09302 <s>ta/rhi SiTirA/sIt . te/zAmi/ndraH pakzA/naCinat . tE/rimA/madf~-</s>
+09303 <s>hat . ye/ pakzA/ A/sa~ste/ jImU/tA aBavan . ta/smAdete/ sadadi/</s>
+09304 <s>pa/rvatamu/pa plavante . yo/nirhye^zAmezaH/ .</s></p>
+<section>LXV. MAITRAYANI SANHITA II. 1. 12.</section>
+09305 <p><s>EndrAbArhaspatya/~ havi/rni/rvapedyo/ rAzwrI/yo ne/va prastiNnuyA/t .</s>
+09306 <s>a/ditirvE prajA/kAmOdana/mapacat . so/YSizwamASnAt . ta/~ vA/</s>
+09307 <s>i/ndramanta/reva/ ga/rBa~ sa/ntamayasma/yena dA/mnA/pOmBat . so/ 'pobDo</s>
+09308 <s>'jAyata . ta/~ vA/ ete/na bf/haspa/tirayAjayadEndrAbArhaspatye/na .</s>
+09309 <s>ta/sya ta/ddA/ma svaya/meva/ vya^padyata . sa/ imA/ di/So va/jreRABipa-</s>
+09310 <s>ryA/vartata . yo/ rAzwrI/yo ne/va prastiNnuyA/tta/mete/na yAjayedEndrA-</s>
+09311 <s>bArhaspatye/na . pa/ritato hi/ vA/ eza/ pApma/nA . a/TEza/ na/ pra/</s>
+09312 <s>stiNnoti . bf/haspa/taye nirupya/tA i/ndrAya kriyate sarva/ta evE/naM</s>
+09313 <s>muYcati . va/jreRemA/ di/So 'BiparyA/vartate .</s></p>
+<section>LXVI. TAITTIRIYA SANHITA II. 6. 6.</section>
+09314 <p><s>agnestrayo jyAyAMso BrAtara Asan . te deveByo havyaM vaha-</s>
+09315 <s>ntaH prAmIyanta . so 'gnirabiBeditTaM vAva sya ArtimArizya-</s>
+09316 <s>tIti . sa nilAyata . so 'paH prAviSat . taM devatAH prEzamE-</s>
+09317 <s>cCan . taM matsyaH prAbravIt . tamaSapadDiyA DiyA tvA vaDyA-</s>
+09318 <s>suryo mA prAvoca iti . tasmAnmatsyaM DiyA DiyA Gnanti . Sa-</s>
+09319 <s>pto hi . tamanvavindan . tamabruvannupa na A vartasva havyaM no</s>
+[Page094+ 21]
+09401 <s>vaheti . so 'bravIdvaraM vfRE yadeva gfhItasyAhutasya bahiHpari-</s>
+09402 <s>Di skandAttanme BrAtfRAM BAgaDeyamasaditi . tasmAdyadgfhItasyA-</s>
+09403 <s>hutasya bahiHpariDi skandati tezAM tadBAgaDeyam .</s></p>
+<section>LXVII. AITAREYA BRAHMANA III. 20.</section>
+09404 <p><s>indro vE vftraM hanizyansarvA devatA abravIdanu mopa tizWaDva-</s>
+09405 <s>mupa mA hvayaDvamiti . taTeti . taM hanizyanta Adravan . so</s>
+09406 <s>'venmAM vE hanizyanta A dravanti hantemAnBIzayA iti . tA-</s>
+09407 <s>naBi prASvasIt . tasya SvasaTAdIzamARA viSve devA adravan .</s>
+09408 <s>maruto hEnaM nAjahuH prahara Bagavo jahi vIrayasvetyevEnametAM</s>
+09409 <s>vAcaM vadanta upAtizWanta . tadetadfziH paSyannaByanUvAca vftrasya</s>
+09410 <s>tvA SvasaTAditi . so 'vedime vE kila me sacivA ime mA-</s>
+09411 <s>kAmayanta hantemAnasminnukTa A BajA iti . tAnetasminnukTa</s>
+09412 <s>ABajat .</s></p>
+<section>LXVIII. AITAREYA BRAHMANA III. 21.</section>
+09413 <p><s>indro vE vftraM hatvA sarvA vijitIrvijityAbravItprajApati-</s>
+09414 <s>mahametadasAni yattvamahaM mahAnasAnIti . sa prajApatirabravI-</s>
+09415 <s>daTa ko 'hamiti . yadevEtadavoca ityabravIt . tato vE ko</s>
+09416 <s>nAma prajApatiraBavat . ko vE nAma prajApatiH . yanmahAni-</s>
+09417 <s>ndro 'Bavattanmahendrasya mahendratvam .</s></p>
+<section>LXIX. ÇATAPATHA BRAHMANA II. 2. 2.</section>
+09418 <p><s>dvayA vE devAH . devA ahEva devAH . aTa ye brAhmaRAH SuSruvAM-</s>
+[Page095+ 21]
+09501 <s>so 'nUcAnAste manuzyadevAH . tezAM dveDA viBakta eva yajYaH .</s>
+09502 <s>Ahutaya eva devAnAM dakziRA manuzyadevAnAM brAhmaRAnAM Su-</s>
+09503 <s>SruvuzAmanUcAnAnAm . AhutiBireva devAnprIRAti dakziRA-</s>
+09504 <s>BirmanuzyadevAnbrAhmaRAYCuSruvuzo 'nUcAnAn . ta enamuBaye</s>
+09505 <s>devAH prItAH suDAyAM daDati .. 6 ..</s></p>
+<section>LXX. ÇATAPATHA BRAHMANA II. 2. 2.</section>
+09506 <p><s>tasya vA etasyAgnyADeyasya satyamevopacAraH . sa yaH satyaM</s>
+09507 <s>vadati yaTAgniM samidDaM taM GftenABiziYcedevaM hEnaM sa uddIpayati</s>
+09508 <s>tasya BUyo BUya eva tejo Bavati SvaH SvaH SreyAnBavati . aTa yo</s>
+09509 <s>'nftaM vadati yaTAgniM samidDaM tamudakenABiziYcedevaM hEnaM sa jA-</s>
+09510 <s>sayati tasya kanIyaH kanIya eva tejo Bavati SvaH SvaH pApI-</s>
+09511 <s>yAnBavati . tasmAdu satyameva vadet .. 19 .. tadu hApyaruRamO-</s>
+09512 <s>paveSiM jYAtaya UcuH sTaviro vA asyagnI A Datsveti . sa</s>
+09513 <s>hovAca te mEtadbrUTa vAcaMyama evEDi na vA AhitAgninAnftaM</s>
+09514 <s>vaditavyaM na vadaYjAtu nAnftaM vadettAvatsatyamevopacAra iti .. 20 ..</s></p>
+<section>LXXI. ÇATAPATHA BRAHMANA X. 4. 3.</section>
+09515 <p><s>eza vE mftyuryatsaMvatsaraH . eza hi martyAnAmahorAtrAByAmA-</s>
+09516 <s>yuH kziRoti . aTa mriyante . tasmAdeza eva mftyuH . sa yo</s>
+09517 <s>hEtaM mftyuM saMvatsaraM veda na hAsyEza purA jaraso 'horAtrAByAmA-</s>
+09518 <s>yuH kziRoti . sarvaM hEvAyureti .. 1 .. eza u evAntakaH . eza</s>
+09519 <s>hi martyAnAmahorAtrAByAmAyuzo 'ntaM gacCati . aTa mriyante .</s>
+[Page096+ 23]
+09601 <s>tasmAdeza evAntakaH . sa yo hEtamantakaM mftyuM saMvatsaraM veda na</s>
+09602 <s>hAsyEza purA jaraso 'horAtrAByAmAyuzo 'ntaM gacCati . sarvaM</s>
+09603 <s>hEvAyureti .. 2 .. te devA etasmAdantakAnmftyoH saMvatsarAtprajA-</s>
+09604 <s>paterbiBayAM cakruryadvE no 'yamahorAtrAByAmAyuzo 'ntaM na ga-</s>
+09605 <s>cCediti .. 3 .. ta etAnyajYakratUMstenire 'gnihotraM darSapUrRamA-</s>
+09606 <s>sO cAturmAsyAni paSubanDaM sOmyamaDvaram . ta etEryajYakratuBi-</s>
+09607 <s>ryajamAnA nAmftatvamAnaSire .. 4 .. te hApyagniM cikyire . te</s>
+09608 <s>'parimitA eva pariSrita upa daDuraparimitA yajuzmatIrapari-</s>
+09609 <s>mitA lokaMpfRA yaTedamapyetarhyeka upadaDati . iti devA a-</s>
+09610 <s>kurvan . iti te ha nEvAmftatvamAnaSire .. 5 .. te 'rcantaH SrA-</s>
+09611 <s>myantaSceruramftatvamavarurutsamAnAH . tAnha prajApatiruvAca na</s>
+09612 <s>vE me sarvARi rUpARyupa DatTAti vEva recayaTa na vAByApayaTa</s>
+09613 <s>tasmAnnAmftA BavaTeti .. 6 .. te hocusteByo vE nastvameva ta-</s>
+09614 <s>dbrUhi yaTA te sarvARi rUpARyupadaDAmeti .. 7 .. sa hovAca</s>
+09615 <s>zazwiM ca trIRi ca SatAni pariSrita upa Datta zazwiM ca trIRi</s>
+09616 <s>ca SatAni yajuzmatIraDi zawtriMSatamaTa lokaMpfRA daSa ca sa-</s>
+09617 <s>hasrARyazwO ca SatAnyupa DattATa me sarvARi rUpARyupa DAsya-</s>
+09618 <s>TATAmftA BavizyaTeti . te ha taTA devA upa daDuH . tato de-</s>
+09619 <s>vA amftA AsuH .. 8 .. sa mftyurdevAnabravIditTameva sarve manu-</s>
+09620 <s>zyA amftA BavizyantyaTa ko mahyaM BAgo BavizyatIti . te ho-</s>
+09621 <s>curnAto 'paraH kaScana saha SarIreRAmfto 'sadyadEva tvametaM BAgaM</s>
+09622 <s>harAsA aTa vyAvftya SarIreRAmfto 'sadyo 'mfto 'sadvidyayA</s>
+09623 <s>vA karmaRA veti . yadvE tadabruvanvidyayA vA karmaRA vetyezA</s>
+[Page097+ 21]
+09701 <s>hEva sA vidyA yadagniretadu hEva tatkarma yadagniH .. 9 .. te ya e-</s>
+09702 <s>vametadvidurye vEtatkarma kurvate mftvA punaH saM Bavanti . te saMBa-</s>
+09703 <s>vanta evAmftatvamaBisaM Bavanti . aTa ya evaM na vidurye vEta-</s>
+09704 <s>tkarma na kurvate mftvA punaH saM Bavanti ta etasyEvAnnaM punaH pu-</s>
+09705 <s>narBavanti .. 10 ..</s></p>
+<section>LXXII. ÇATAPATHA BRAHMANA XII. 7. 3.</section>
+09706 <p><s>indrasyendriyamannasya rasaM somasya BakzaM surayAsuro namuciraha-</s>
+09707 <s>rat . so 'SvinO ca sarasvatIM copADAvacCepAno 'smi na-</s>
+09708 <s>mucaye na tvA divA na naktaM hanAni na daRqena na DanvanA na pf-</s>
+09709 <s>Tena na muzwinA na SuzkeRa nArdreRATa ma idamahArzIdidaM ma</s>
+09710 <s>A jihIrzaTeti . te 'bruvannastu no 'trApyaTA harAmeti . saha</s>
+09711 <s>na etadaTA haratetyabravIt . iti tAvaSvinO ca sarasvatI ca</s>
+09712 <s>apAM PenaM vajramasiYcanna Suzko nArdra iti . tenendro namuce-</s>
+09713 <s>rAsurasya vyuzwAyAM rAtrAvanudita Aditye na divA na naktami-</s>
+09714 <s>ti Sira udavAsayat . tasmAdetadfziRAByanUktamapAM Peneneti .</s></p>
+<section>LXXIII. NIRUKTA II. 16.</section>
+09715 <p><s>atizWantInAmaniviSamAnAnAmityasTAvarARAM kAzWAnAM</s>
+09716 <s>maDye nihitaM SarIraM meGaH . SarIraM SfRAteH SamnAtervA . vftrasya</s>
+09717 <s>niRyaM nirRAmaM vicaranti vijAnantyApa iti . dIrGaM drAGateH .</s>
+09718 <s>tamastanoteH . ASayadASeteH . indraSatrurindro 'sya SamayitA vA</s>
+09719 <s>SAtayitA vA tasmAdindraSatruH . tatko vftraH . meGa iti nEru-</s>
+[Page098+ 22]
+09801 <s>ktAH . tvAzwro 'sura ityEtihAsikAH . apAM ca jyotizaSca</s>
+09802 <s>miSrIBAvakarmaRo varzakarma jAyate . tatropamArTena yudDavarRA</s>
+09803 <s>Bavanti . ahivattu Kalu mantravarRA brAhmaRavAdASca . vivfdDyA</s>
+09804 <s>SarIrasya srotAMsi nivArayAM cakAra . tasminhate prasasyandira</s>
+09805 <s>ApaH . tadaBivAdinyezargBavati .</s></p>
+<section>LXXIV. AÇVALAYANA'S GRIHYASUTRA I. 5, 7, 8.</section>
+09806 <p><s>kulamagre parIkzeta ye mAtftaH pitftaSceti yaToktaM purastAt . 1 .</s>
+09807 <s>budDimate kanyAM prayacCet . 2 . budDirUpaSIlalakzaRasaMpannAmarogA-</s>
+09808 <s>mupayacCeta . 3 . durvijYeyAni lakzaRAnyazwO piRqAnkftva ftamagre</s>
+09809 <s>praTamaM jajYa fte satyaM pratizWitam . yadiyaM kumAryaBijAtA</s>
+09810 <s>tadiyamiha pratipadyatAm . yatsatyaM taddfSyatAmiti piRqAna-</s>
+09811 <s>Bimantrya kumArIM brUyAdezAmekaM gfhAReti . 4 . kzetrAcceduBayataH-</s>
+09812 <s>sasyAdgfhlIyAdannavatyasyAH prajA BavizyatIti vidyAdgozWAtpa-</s>
+09813 <s>SumatI vedipurIzAdbrahmavarcasvinyavidAsino hradAtsarvasaMpannA-</s>
+09814 <s>devanAtkitavI catuzpaTAddvipravrAjinIriRAdaDanyA SmaSAnA-</s>
+09815 <s>tpatiGnI . 5 . .. 5 ..</s></p>
+09816 <p><s>aTa KalUccAvacA janapadaDarmA grAmaDarmASca tAnvivAhe pra-</s>
+09817 <s>tIyAt . 1 . yattu samAnaM tadvakzyAmaH . 2 . paScAdagnerdfzadamaSmAnaM</s>
+09818 <s>pratizWApyottarapurastAdudakumBaM samanvArabDAyAM hutvA tizWanpratya-</s>
+09819 <s>NmuKaH prANmuKyA AsInAyA gfBRAmi te sOBagatvAya hasta-</s>
+09820 <s>mityaNguzWameva gfhlIyAdyadi kAmayIta pumAMsa eva me putrA</s>
+09821 <s>jAyeranniti . 3 . aNgulIreva strIkAmaH . 4 . romAnte hastaM sANguzWa-</s>
+[Page099+ 23]
+09901 <s>muBayakAmaH . 5 . pradakziRamagnimudakumBaM ca triH pariRayaM japati</s>
+09902 <lg><l><s>amo 'hamasmi sA tvaM sA tvamasyamo 'ham .</s></l>
+09903 <l><s>dyOrahaM pfTivI tvaM sAmAhamfktvam ..</s></l></lg>
+09904 <lg><l><s>tAvehi vivahAvahE prajAM prajanayAvahE .</s></l>
+09905 <l><s>saMpriyO rocizRU sumanasyamAnO jIveva SaradaH Satam ..</s></l></lg>
+09906 <s>iti . 6 . pariRIya pariRIyASmAnamArohayati</s>
+09907 <lg><l><s>imamaSmAnamArohASmeva tvaM sTirA Bava .</s></l>
+09908 <l><s>sahasva pftanAyato 'BitizWa pftanyataH ..</s></l></lg>
+09909 <s>iti . 7 . vaDvaYjalA upastIrya BrAtA BrAtfsTAno vA dvirlA-</s>
+09910 <s>jAnAvapati . 8 . trirjAmadagnyAnAm . 9 . pratyaBiGArya haviH . 10 .</s>
+09911 <s>avattaM ca . 11 . ezo 'vadAnaDarmaH . 12 .</s>
+09912 <lg><l><s>aryamaRaM nu devaM kanyA agnimayakzata .</s></l>
+09913 <l><s>sa imAM devo aryamA preto muYcAtu nAmutaH svAhA ..</s></l></lg>
+09914 <lg><l><s>varuRaM nu devaM kanyA agnimayakzata .</s></l>
+09915 <l><s>sa imAM devo varuRaH preto muYcAtu nAmutaH svAhA ..</s></l></lg>
+09916 <lg><l><s>pUzaRaM nu devaM kanyA agnimayakzata .</s></l>
+09917 <l><s>sa imAM devaH pUzA preto muYcAtu nAmutaH svAhA ..</s></l></lg>
+09918 <s>ityavicCindatyaYjaliM sruceva juhuyAt . 13 . apariRIya SUrpa-</s>
+09919 <s>puwenAByAtmaM tUzRIM caturTam . 14 . opyopya hEke lAjAnpariRa-</s>
+09920 <s>yanti taTottame AhutI na saMnipatataH . 15 . aTAsyE SiKe vi-</s>
+09921 <s>muYcati yadi kfte Bavata UrRAstuke keSapakzayorbadDe BavataH . 16 .</s>
+09922 <s>pra tvA muYcAmi varuRasya pASAditi . 17 . uttarAmuttarayA . 18 .</s>
+09923 <s>aTEnAmaparAjitAyAM diSi sapta padAnyaByutkrAmayati</s>
+[Page100+ 22]
+10001 <s>iza ekapadI Urje dvipadI</s>
+10002 <s>rAyaspozAya tripadI mAyoBavyAya catuzpadI</s>
+10003 <s>prajAByaH paYcapadI ftuByaH zawpadI</s>
+10004 <lg><l><s>saKA saptapadI Bava sA mAmanuvratA Bava .</s></l>
+10005 <l><s>putrAnvindAvahE bahUMste santu jaradazwayaH ..</s></l></lg>
+10006 <s>iti . 19 . uBayoH saMniDAya SirasI udakumBenAvasicya . 20 .</s>
+10007 <s>brAhmaRyASca vfdDAyA jIvapatyA jIvaprajAyA agAra etAM rA-</s>
+10008 <s>trIM vaset . 21 . DruvamarunDatIM sapta fzIniti dfzwvA vAcaM vi-</s>
+10009 <s>sfjeta jIvapatnI prajAM vindeyeti . 22 . .. 7 ..</s></p>
+10010 <p><s>prayARa upapadyamAne pUzA tveto nayatu hastagfhyeti yAnamA-</s>
+10011 <s>rohayet . 1 . aSmanvatI rIyate saM raBaDvamityarDarcena nAvamAro-</s>
+10012 <s>hayet . 2 . uttareRotkramayet . 3 . jIvaM rudantIti rudatyAm . 4 .</s>
+10013 <s>vivAhAgnimagrato 'jasraM nayanti . 5 . kalyARezu deSavfkza-</s>
+10014 <s>catuzpaTezu mA vidanparipanTina iti japet . 6 . vAse vAse</s>
+10015 <s>sumaNgalIriyaM vaDUritIkzakAnIkzeta . 7 . iha priyaM prajayA te</s>
+10016 <s>samfDyatAmiti gfhaM praveSayet . 8 . vivAhAgnimupasamADAya</s>
+10017 <s>paScAdasyAnaquhaM carmAstIrya prAggrIvamuttaraloma tasminnupavi-</s>
+10018 <s>zwAyAM samanvArabDAyAmA naH prajAM janayatu prajApatiriti ca-</s>
+10019 <s>tasfBiH pratyfcaM hutvA samaYjantu viSve devA iti daDnaH prASya</s>
+10020 <s>pratiprayacCedAjyaSezeRa vAnakti hfdaye . 9 . ata UrDvamakzArA-</s>
+10021 <s>lavaRASinO brahmacAriRAvalaMkurvARAvaDaHSAyinO syAtAM</s>
+10022 <s>trirAtraM dvAdaSarAtram . 10 . saMvatsaraM vEka fzirjAyata iti . 11 .</s>
+[Page101+ 21]
+10101 <s>caritavrataH sUryAvide vaDUvastraM dadyAt . 12 . annaM brAhmaReByaH . 13 .</s>
+10102 <s>aTa svastyayanaM vAcayIta . 14 . .. 8 ..</s></p>
+<section>LXXV. AÇVALAYANA'S GRIHYASUTRA IV. 1--6.</section>
+10103 <p><s>AhitAgniM cedupatapetprAcyAmudIcyAmaparAjitAyAM vA di-</s>
+10104 <s>Syudavasyet . 1 . grAmakAmA agnaya ityudAharanti . 2 . ASaMsanta</s>
+10105 <s>enaM grAmamAjigamizanto 'gadaM kuryuriti ha vijYAyate . 3 . a-</s>
+10106 <s>gadaH somena paSunezwyezwvAvasyet . 4 . anizwvA vA . 5 . saMsTite</s>
+10107 <s>BUmiBAgaM KAnayeddakziRapUrvasyAM diSi dakziRAparasyAM vA . 6 .</s>
+10108 <s>dakziRApravaRaM prAgdakziRApravaRaM vA . 7 . pratyagdakziRApravaRa-</s>
+10109 <s>mityeke . 8 . yAvAnudbAhukaH puruzastAvadAyAmam . 9 . vyAmamAtraM</s>
+10110 <s>tiryak . 10 . vitastyavAk . 11 . aBita AkASaM SmaSAnam . 12 .</s>
+10111 <s>bahulOzaDikam . 13 . kaRwakikzIriRastviti yaToktaM purastAt</s>
+10112 <s>. 14 . yatra sarvata ApaH prasyanderannetadAdahanasya lakzaRaM SmaSA-</s>
+10113 <s>nasya . 15 . keSaSmaSrulomanaKAni vApayantItyuktaM purastAt . 16 .</s>
+10114 <s>vigulPaM barhirAjyaM ca . 17 . daDanyatra sarpirAnayanti . 18 . eta-</s>
+10115 <s>tpitryaM pfzadAjyam . 19 . .. 1 ..</s></p>
+10116 <p><s>aTEtAM diSamagnInnayanti yajYapAtrARi ca . 1 . anvaYcaM pre-</s>
+10117 <s>tamayujo 'miTunAH pravayasaH . 2 . pIWacakreRa goyuktenetyeke . 3 .</s>
+10118 <s>anustaraRIm . 4 . gAm . 5 . ajAM vEkavarRAm . 6 . kfzRAmeke</s>
+10119 <s>. 7 . savye bAhO badDvAnusaMkAlayanti . 8 . anvaYco 'mAtyA a-</s>
+10120 <s>DonivItAH pracfttaSiKA jyezWapraTamAH kanizWajaGanyAH . 9 . prA-</s>
+10121 <s>pyEvaM BUmiBAgaM kartodakena SamISAKayA triH prasavyamAyatanaM</s>
+[Page102+ 23]
+10201 <s>parivrajanprokzatyapeta vIta vi ca sarpatAta iti . 10 . dakziRapUrva</s>
+10202 <s>udDatAnta AhavanIyaM nidaDAti . 11 . uttarapaScime gArhapatyam</s>
+10203 <s>. 12 . dakziRapaScime dakziRam . 13 . aTEnamantarvedIDmacitiM ci-</s>
+10204 <s>noti yo jAnAti . 14 . tasminbarhirAstIrya kfzRAjinaM co-</s>
+10205 <s>ttaraloma tasminpretaM saMveSayantyuttareRa gArhapatyaM hftvAhavanIyama-</s>
+10206 <s>BiSirasam . 15 . uttarataH patnIm . 16 . DanuSca kzatriyAya . 17 .</s>
+10207 <s>tAmutTApayeddevaraH patisTAnIyo 'ntevAsI jaraddAso vodIrzva</s>
+10208 <s>nAryaBi jIvalokamiti . 18 . kartA vfzale japet . 19 . Danurha-</s>
+10209 <s>stAdAdadAno mftasyeti DanuH . 20 . uktaM vfzale . 21 . aDijyaM</s>
+10210 <s>kftvA saMcitimacitvA saMSIryAnupraharet . 22 . .. 2 ..</s></p>
+10211 <p><s>aTEtAni pAtrARi yojayet . 1 . dakziRe haste juhUm . 2 . sa-</s>
+10212 <s>vya upaBftam . 3 . dakziRe pArSve sPyaM savye 'gnihotrahavaRIm</s>
+10213 <s>. 4 . urasi DruvAM Sirasi kapAlAni datsu grAvRaH . 5 . nAsi-</s>
+10214 <s>kayoH sruvO . 6 . BittvA cEkam . 7 . karRayoH prASitraharaRe . 8 .</s>
+10215 <s>BittvA cEkam . 9 . udare pAtrIm . 10 . samavattaDAnaM ca cama-</s>
+10216 <s>sam . 11 . upasTe SamyAm . 12 . araRI UrvoH . 13 . ulUKala-</s>
+10217 <s>musale jaNGayoH . 14 . pAdayoH SUrpe . 15 . CittvA cEkam . 16 .</s>
+10218 <s>Asecanavanti pfzadAjyasya pUrayanti . 17 . amA putro dfzadu-</s>
+10219 <s>pale kurvIta . 18 . lOhAyasaM ca kOlAlam . 19 . anustaraRyA</s>
+10220 <s>vapAmutKidya SiromuKaM pracCAdayedagnervarma pari goBirvyayasveti</s>
+10221 <s>. 20 . vfkkA udDftya pARyorAdaDyAdati drava sArameyO SvAnAviti</s>
+10222 <s>dakziRe dakziRaM savye savyam . 21 . hfdaye hfdayam . 22 . piRqyO</s>
+10223 <s>cEke . 23 . vfkkApacAra ityeke . 24 . sarvAM yaTANgaM vinikzipya ca-</s>
+[Page103+ 22]
+10301 <s>rmaRA pracCAdyemamagne camasaM mA vi jihvara iti praRItApraRaya-</s>
+10302 <s>namanumantrayate . 25 . savyaM jAnvAcya dakziRAgnAvAjyAhutIrjuhu-</s>
+10303 <s>yAdagnaye svAhA kAmAya svAhA lokAya svAhAnumataye svA-</s>
+10304 <s>heti . 26 . paYcamImurasi pretasyAsmAdvE tvamajAyaTA ayaM tvada-</s>
+10305 <s>Di jAyatAmasO svargAya lokAya svAheti . 27 . .. 3 ..</s></p>
+10306 <p><s>prezyati yugapadagnInprajvAlayateti . 1 . AhavanIyaScetpUrvaM prA-</s>
+10307 <s>pnuyAtsvargaloka enaM prApaditi vidyAdrAtsyatyasAvamutrEvamaya-</s>
+10308 <s>masminniti putraH . 2 . gArhapatyaScetpUrvaM prApnuyAdantarikzaloka</s>
+10309 <s>enaM prApaditi vidyAdrAtsyatyasAvamutrEvamayamasminniti putraH</s>
+10310 <s>. 3 . dakziRAgniScetpUrvaM prApnuyAnmanuzyaloka enaM prApaditi vi-</s>
+10311 <s>dyAdrAtsyatyasAvamutrEvamayamasminniti putraH . 4 . yugapatprAptO pa-</s>
+10312 <s>rAmfdDiM vadanti . 5 . taM dahyamAnamanumantrayate prehi prehi paTiBiH</s>
+10313 <s>pUrvyeBiriti samAnam . 6 . sa evaMvidA dahyamAnaH sahEva DUmena</s>
+10314 <s>svargaM lokametIti ha vijYAyate . 7 . uttarapurastAdAhavanIyasya</s>
+10315 <s>jAnumAtraM gartaM KAtvAvakAM SIpAlamityavaDApayettato ha vA</s>
+10316 <s>eza nizkramya sahEva DUmena svargaM lokametIti ha vijYAyate . 8 .</s>
+10317 <s>ime jIvA vi mftErAvavftranniti savyAvfto vrajantyanavekzamARAH</s>
+10318 <s>. 9 . yatrodakamavahadBavati tatprApya sakfdunmajjyEkAYjalimutsfjya</s>
+10319 <s>tasya gotraM nAma ca gfhItvottIryAnyAni vAsAMsi pariDAya sakf-</s>
+10320 <s>denAnyApIqyodagdaSAni visfjyAsata A nakzatradarSanAt . 10 .</s>
+10321 <s>Adityasya vA dfSyamAne praviSeyuH . 11 . kanizWapraTamA jyezWajaGa-</s>
+10322 <s>nyAH . 12 . prApyAgAramaSmAnamagniM gomayamakzatAMstilAnapa u-</s>
+[Page104+ 22]
+10401 <s>paspfSanti . 13 . nEtasyAM rAtryAmannaM paceran . 14 . krItotpannena</s>
+10402 <s>vA varteran . 15 . trirAtramakzArAlavaRASinaH syuH . 16 . dvAda-</s>
+10403 <s>SarAtraM vA mahAguruzu dAnADyayane varjayeran . 17 . daSAhaM sapi-</s>
+10404 <s>Rqezu . 18 . gurO cAsapiRqe . 19 . aprattAsu ca strIzu . 20 . tri-</s>
+10405 <s>rAtramitarezvAcAryezu . 21 . jYAtO cAsapiRqe . 22 . prattAsu ca</s>
+10406 <s>strIzu . 23 . adantajAte . 24 . aparijAte ca . 25 . ekAhaM sabra-</s>
+10407 <s>hmacAriRi . 26 . samAnagrAmIye ca Srotriye . 27 . .. 4 ..</s></p>
+10408 <p><s>saMcayanamUrDvaM daSamyAH kfzRapakzasyAyujAsvekanakzatre . 1 . a-</s>
+10409 <s>lakzaRe kumBe pumAMsamalakzaRAyAM striyam . 2 . ayujo 'mi-</s>
+10410 <s>TunAH pravayasaH . 3 . kzIrodakena SamISAKayA triH prasavyaM pari-</s>
+10411 <s>vrajanprokzati SItike SItikAvatIti . 4 . aNguzWopakanizWi-</s>
+10412 <s>kAByAmekEkamasTyasaMhrAdayanto 'vadaDyuH . 5 . pAdO pUrvaM Sira u-</s>
+10413 <s>ttaram . 6 . susaMcitaM saMcitya pavanena saMpUya yatra sarvata Apo</s>
+10414 <s>nABisyanderannanyA varzAByastatra garte 'vadaDyurupa sarpa mAtaraM BU-</s>
+10415 <s>mimetAmiti . 7 . uttarayA pAMsUnavakiret . 8 . avakIryotta-</s>
+10416 <s>rAm . 9 . utte staBnAmIti kapAlenApiDAyATAnavekzaM pratyA-</s>
+10417 <s>vrajyApa upaspfSya SrAdDamasmE dadyuH . 10 . .. 5 ..</s></p>
+10418 <p><s>guruRABimftA anyato vApakzIyamARA amAvAsyAyAM</s>
+10419 <s>SAntikarma kurvIran . 1 . purodayAdagniM sahaBasmAnaM sahAyatanaM da-</s>
+10420 <s>kziRA hareyuH kravyAdamagniM pra hiRomi dUramityarDarcena . 2 . taM ca-</s>
+10421 <s>tuzpaTe nyupya yatra vA triH prasavyaM pariyanti savyEH pARiBiH</s>
+10422 <s>savyAnUrUnAGnAnAH . 3 . aTAnavekzaM pratyAvrajyApa upaspfSya keSa-</s>
+[Page105+ 22]
+10501 <s>SmaSrulomanaKAni vApayitvopakalpayIrannavAnmaRikAnkumBA-</s>
+10502 <s>nAcamanIyAMSca SamIsumanomAlinaH SamImayamiDmaM SamIma-</s>
+10503 <s>yyAvaraRI pariDIMScAnaquhaM gomayaM carma ca navanItamaSmAnaM ca</s>
+10504 <s>yAvatyo yuvatayastAvanti kuSapiYjUlAni . 4 . agnivelAyA-</s>
+10505 <s>magniM janayedihEvAyamitaro jAtavedA ityarDarcena . 5 . taM dIpa-</s>
+10506 <s>yamAnA Asata A SAntarAtrAdAyuzmatAM kaTAH kIrtayanto</s>
+10507 <s>mANgalyAnItihAsapurARAnItyAKyApayamAnAH . 6 . uparatezu</s>
+10508 <s>Sabdezu saMpravizwezu vA gfhaM niveSanaM vA dakziRAddvArapakzAtprakra-</s>
+10509 <s>myAvicCinnAmudakaDArAM harettantuM tanvanrajaso BAnumanvihI-</s>
+10510 <s>tyottarasmAt . 7 . aTAgnimupasamADAya paScAdasyAnaquhaM carmA-</s>
+10511 <s>stIrya prAggrIvamuttaraloma tasminnamAtyAnArohayedA rohatA-</s>
+10512 <s>yurjarasaM vfRAnA iti . 8 . imaM jIveByaH pariDiM daDAmIti</s>
+10513 <s>pariDiM paridaDyAt . 9 . antarmftyuM daDatAM parvatenetyuttarato</s>
+10514 <s>'SmAnamagneH kftvA paraM mftyo anu parehi panTAmiti catasfBiH</s>
+10515 <s>pratyfcaM hutvA yaTAhAnyanupUrvaM BavantItyamAtyAnIkzeta . 10 . yuvata-</s>
+10516 <s>yaH pfTakpARiByAM darBataruRakErnavanItenANguzWopakanizWikA-</s>
+10517 <s>ByAmakziRI Ajya parAcyo visfjeyuH . 11 . imA nArIraviDavAH</s>
+10518 <s>supatnIrityaYjAnA Ikzeta . 12 . aSmanvatI rIyate saM raBaDvami-</s>
+10519 <s>tyaSmAnaM kartA praTamo 'BimfSet . 13 . aTAparAjitAyAM di-</s>
+10520 <s>SyavasTAyAgninAnaquhena gomayena cAvicCinnayA codakaDAra-</s>
+10521 <s>yApo hi zWA mayoBuva iti tfcena parIme gAmanezateti pari-</s>
+10522 <s>krAmatsu japet . 14 . piNgalo 'naqvAnpariReyaH syAdityudAharanti</s>
+[Page106+ 5]
+10601 <s>. 15 . aTopaviSanti yatrABiraMsyamAnA Bavantyahatena vAsasA</s>
+10602 <s>pracCAdya . 16 . Asate 'svapanta odayAt . 17 . udita Adi-</s>
+10603 <s>tye sOryARi svastyayanAni ca japitvAnnaM saMskftyApa naH So-</s>
+10604 <s>SucadaGamiti pratyfcaM hutvA brAhmaRAnBojayitvA svastyayanaM vA-</s>
+10605 <s>cayIta . 18 . gOH kaMso 'hataM vAsaSca dakziRA . 19 . .. 6 ..</s></p>
