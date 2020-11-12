@@ -116,5 +116,14 @@
 <!-- typo at line 22522 <p>{@9.@}... -->
 <e> <s>INIT</s> <in>•</in> <out></out> </e> 
 
+<!-- diphthongs
+ Āi -> Ai ,  āi -> ai 
+ Āu -> Au ,  āu -> au
+
+-->
+<e> <s>INIT</s> <in>A1i</in> <out>Ai</out> </e>
+<e> <s>INIT</s> <in>A1u</in> <out>Au</out> </e>
+<e> <s>INIT</s> <in>a1i</in> <out>ai</out> </e>
+<e> <s>INIT</s> <in>a1u</in> <out>au</out> </e>
 
 </fsm>

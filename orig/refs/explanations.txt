@@ -1,0 +1,178 @@
+[Page289+ 38]
+19977 <head>EXPLANATIONS AND ABBREVIATIONS.</head>
+19978 <head>CITATIONS.</head>
+19979 <p>All numbers below 107 refer to the text of this Reader, which is cited by page and
+19980 line; thus, 79^2^ means page 79, line 2. When still more precise reference is needed, the
+19981 first half of a line is designated by ^a^ and the second by ^b^.</p>
+19982 <p>All numbers above 107 refer to the sections of Whitney's Grammar. Observe,
+19983 however, that reference is occasionally made to grammar-sections preceding § 107, and
+19984 that the word “Whitney” is then prefixed to the number to show that the Grammar is
+19985 meant. The grammar-sections sometimes have subdivisions unmarked by letters or
+19986 numbers. In referring to these, a small superior number is used, and designates the
+19987 (typographical) paragraph as counted from the last lettered or numbered subsection.
+19988 Thus 330^6^ refers to the paragraph beginning “Pl.: nom.-voc. masc.”; 371^12^ begins with
+19989 “From {@stṛ́@} come”; 1222^3^, with “The accent of derivatives”; 1222c 2^2^, with “In the
+19990 Brāhmaṇas.”</p>
+19991 <head>SIGNS.</head>
+19992 <p>The root-sign (√) is prefixed to roots and quasi-roots to catch the eye or as an
+19993 abbreviation. It is also set before denominative verb-stems, although these are of
+19994 course in no sense roots.</p>
+19995 <p>The plus-sign (+) is set before prepositions with which verbs appear in composition
+19996 and before certain other elements used as prefixes.</p>
+19997 <p>A star (*) signifies that the word or stem or root to which it is prefixed does not
+19998 actually occur in that form.</p>
+19999 <p>A half-parenthesis on its side (_) is used to show that two vowels, which, for
+20000 the sake of clearness, are printed with hiatus in violation of the rules of euphonic
+20001 combination, should be combined according to those rules.</p>
+20002 <p>A hyphen is sometimes used to avoid the repetition of an element of a compound;
+20003 thus in the article {@loka,@} p. 235, {@para-@} stands for {@para-loka.@}</p>
+20004 <p>In Greek words, the old palatal spirant yod is represented by {%j,%} pronounced of course
+20005 as English {%y.%} A very few Slavic and Lithuanian words occur, in which the actual or
+20006 original nasalization of a vowel is denoted by an inverted comma, thus, {%e{??}, a{??}.%} Anglo-Saxon
+20007 {%æ%} has the sound of {%a%} in {%man.%}</p>
+20008 <head>ABBREVIATIONS.</head>
+20009 <p>It is hoped that most of these, if not all, will be found self-explaining. To preclude
+20010 any misunderstanding, however, a complete list of the abbreviations is given below, p. 293.</p>
+20011 <p>But certain abbreviations and words are used in an arbitrary way and require
+20012 more explanation than is given in the list.</p>
+20013 <p>When both the letters, {%m.%} and {%n.,%} follow a stem, they mean that it shows both
+20014 masculine and neuter case-forms.</p>
+[Page290+ 48]
+20015 <p>An “etc.” following a reference that stands after a certain definition signifies that
+20016 the word is of common occurrence in that meaning.</p>
+20017 <p>The abbreviation [do.] is used to avoid repetition of identical items in the square
+20018 brackets at the end of articled; for examples, see the three words following {@abhivāda,@}
+20019 p. 119.</p>
+20020 <p>The etymological cognates are usually introduced by the conventional “cf.”; this
+20021 implies that the words which the reader is bidden to “compare” are akin. The fact
+20022 that two related words are compared implies as a rule only that they are radically akin,
+20023 and not that their formative suffixes are identical. Thus with {@anta@} is compared English
+20024 {%end,%} although this corresponds strictly only to the Sanskrit secondary derivative {@antya.@}
+20025 So {@asthan,@} <gr></gr>, and {%os%} are radically identical, though not of entirely parallel formation.</p>
+20026 <p>On the other hand, where it is desired to call attention, not to radically kindred
+20027 words, but to words analogous only in metaphor or in transfer of meaning, the brief
+20028 phrase, “for mg, cf.,” is used; and this is to be understood as standing for the phrase,
+20029 “for a parallelism in the development of meaning, compare,” or, “for an analogous
+20030 instance of transition of meaning, compare.”</p>
+20031 <p>Specially important references to the Grammar are marked by the word “see”:
+20032 thus under {@nārāyaṇá@} (p. 181), special attention is called to § 1219, which shows that
+20033 this word is a simple patronymic of {@nára,@} and is not what the text (at 57^6^) says it is, a
+20034 compound of {@nārá + áyana.@}</p>
+20035 <head>GENERAL ARRANGEMENT OF THE VOCABULARY.</head>
+20036 <p>The order of the articles is strictly and solely alphabetical (see below). Respecting
+20037 words whose alphabetic place changes with their inflection, the following remarks may be
+20038 made for beginners.</p>
+20039 <p>All nouns, whether they be substantives or adjectives, are given under the stem. In
+20040 order to know the stem, a preliminary study of the more important paradigms and rules
+20041 of euphonic combination is necessary. Thus the nom. sing. {@rājā@} must be looked for
+20042 under {@rājan,@} and the acc. sing. {@nāma@} under {@nāman@} (Whitney, 424); but {@nalo,@} as standing
+20043 for {@nala-s@} (175a, 330), must be looked for under {@nala.@} The stems in {@ṛ@} or {@ar@} are entered
+20044 in the form {@ṛ.@} The stems of the perf. act. ppl. and of the primary comparatives are
+20045 given as ending in {@vāṅs@} and {@yāṅs.@} The stems in at or {@ant@} are given in the fuller form,
+20046 ant, and similarly those in {@mant@} and {@vant;@} and the feminines of these and of the in-stems
+20047 are not given, since they are always made in {@antī@} or {@atī, matī, vatī, inī.@}</p>
+20048 <p>All verb-forms must be sought under the root. Thus {@āsīt@} will be defined only under
+20049 the root 1 as (636), and not in the alphabetic place which the augment gives it, under
+20050 long {@ā.@} Likewise prepositional compounds of verbs will be found under the roots (see
+20051 1076), and not in the alphabetic place under the preposition. The beginner is advised
+20052 to make himself thoroughly familiar with the list of prepositions (1077) at the outset.</p>
+20053 <p>Of the verbal adjectives and nouns (Whitney, chapter xiii., p. 307 ff.), only the
+20054 gerundives (in {@ya, tavya,@} and {@anīya@}) have been given regularly in alphabetic place.
+20055 The participles in {@ta@} and {@na@} are usually given under the roots; but in some cases, where
+20056 they have assumed a distinctly adjectival or substantival coloring or have an incon-
+20057 veniently large variety of meanings and uses, they are treated at length in alphabetic
+20058 place; such, for example, are {@ṛta, kṛta, gata, jāta, nivṛtta, bhūta, sthita, hita,@} etc.
+20059 Gerunds with {@a-@} or {@su-@} (e. g. {@a-citvā@}) are of course treated in alphabetic place.</p>
+20060 <p>Such adverbs as are merely case-forms of substantive or adjective stems, are
+20061 generally to be sought for under those stems. Those from pronominal stems (e. g. {@kim,
+20062 tad, yad@}) receive separate treatment.</p>
+[Page291+ 47]
+20063 <p>The pronouns of the first and second person would require a dozen different arti-
+20064 cles apiece if all their forms were given alphabetically. The same is true to a greather
+20065 or less extent of the other pronouns. The student should therefore learn, as early as
+20066 possible, the forms given at 491, 495, 499b, 501 (especially {@ayam: asau@} is less important),
+20067 504, and 509. The uses of {@sa-s,@} etc., {@eṣa-s,@} etc., and {@ayam,@} etc., are given under {@ta, etad,@}
+20068 and {@idam@} respectively.</p>
+20069 <p>As for compounds, they are given with completeness for the Vedic selections, and
+20070 with great freedom for the remaining texts, especially for the Nala. The meaning of
+20071 such as are lacking can be easily learned by looking out their component parts.</p>
+20072 <head>THE ALPHABETIC ORDER.</head>
+20073 <p>The order of the letters is given by Whitney at § 5 (compare § 7); but several
+20074 matters which are frequent occasions of stumbling, may be noticed here.</p>
+20075 <p>The {%visarga%} has the first place after the vowels. Thus {@antaḥ-pura@} (for {@antar
+20076 + pura@}) stands next after {@anta,@} p. 116, and not after {@antardhāna.@} But the {%visarga%}
+20077 which is regarded as equivalent to a sibilant and exchangeable with it (Whitney, 7^2^),
+20078 stands in the alphabetic place of the sibilant. Thus the {%visarga%} of {@adhaḥ-śāyin,@} as
+20079 equivalent to {@ś@} (172), brings this word just before {@adhas@} (p. 115, top), and not between
+20080 {@adha@} and {@adhanya.@}</p>
+20081 <p>The sign {@ṅ,@} as representing “the {%anusvāra%} of more independent origin” (Whitney,
+20082 73^3^), has its place before all the mutes etc. (Whitney, 5). Thus in {@aṅś-a,@} the {@ṅ@} repre-
+20083 sents a nasalization of the radical vowel, and the word comes immediately after a. So
+20084 {@haṅsa@} comes just after {@ha,@} p. 284; {@daṅś@} and {@daṅṣṭrin,@} at the beginning of the letter {@d.@}</p>
+20085 <p>The sign {@ṃ,@} as representing an assimilated {@m,@} is differently placed, according to its
+20086 phonetic value. On the one hand, if {@ṃ,@} as product of a {@m@} assimilated to a semivowel,
+20087 sibilant, or {@h@} (see 213c, d), represent a nasal semivowel or {%anusvāra,%} then its place is like
+20088 that of {@ṅ.@} Thus {@saṃyatendriya@} follows {@sa,@} and {@saṃhita@} comes just before {@sakacchapa@}
+20089 (p. 263), and {@puṃs@} before {@puṭa@} (p. 191).</p>
+20090 <p>On the other hand, if, for instance, as product of a {@m@} assimilated to a guttural, the
+20091 sign {@ṃ@} represent guttural {@ñ,@} then its place is that of {@ñ;@} and a similar rule applies
+20092 to all the other cases under 213b. Thus {@saṃkaṭa@} and {@saṃkalpa@} follow {@sagara,@} and
+20093 {@saṃgama@} follows {@sañga,@} p. 264; so {@saṃcaya@} (whose {@ṃ = ñ@}) follows {@sajya;@} and {@saṃtati@}
+20094 (whose {@ṃ = n@}) follows {@sant,@} p. 266.</p>
+20095 <p>Vedic {@ḻ@} is placed after {@ḍ,@} and {@ḻh@} after {@ḍh.@}</p>
+20096 <head>THE CONTENTS OF THE SEPARATE ARTICLES.</head>
+20097 <p>Homonyms, unless differentiated by accent, are distinguished by a prefixed number
+20098 (cf. {@añga, vayas@}); similarly homonymous roots (cf. {@kṛ@}).</p>
+20099 <p>References to the Grammar in square brackets {%immediately after%} a declinable stem
+20100 refer to some peculiarity of declension. Occasionally, typical cases of stems are given.
+20101 Thus under {@dṛ́ś@} are given the nom. and acc. sing. and instr. dual; from these, the other
+20102 cases ({@dṛk-ṣu, dṛś-ā,@} etc., {@dṛg-bhis,@} etc.) are easily known.</p>
+20103 <p>Each root is followed by a synopsis of its conjugational forms, so far as they actually
+20104 occur in the literature. The finite forms are given in the third person singular of the
+20105 indicative, and in the order in which they are treated in the Grammar, namely, present,
+20106 perfect, aorist, and future; then follow the past participle, the infinitive, and the two
+20107 gerunds (e. g. {@āptá, ā́ptum; āptvā́, -ā́pya:@} observe the alternation of the accents); then
+20108 follow in order the third sing. present indicative of the passive, intensive, desiderative,
+20109 and causative, so far as they seemed of importance for the users of this Reader.</p>
+[Page292+ 41]
+20110 <p>Meanings which are synonymous or nearly so, are separated by commas; those
+20111 which differ considerably from each other, are separated by semicolons or by full-faced
+20112 dashes and figures ({@--1.,@} etc.). The colon is often used to show that several meanings
+20113 which follow it and are separated by semicolons are co-ordinate with each other. Thus
+20114 on p. 268, under {@samīpa --2b.,@} the meanings “before,” “near,” “hard by,” and “by” are
+20115 co-ordinate, and are equivalent to “in the presence {%or%} neighborhood of”; cf. {@suvarcas.@}</p>
+20116 <p>The arrangement for matter in heavy brackets at the end of articles is: in the case
+20117 of primary derivatives, first, the root from which the word comes, with reference, if
+20118 necessary, to the section giving the suffix of derivation; second, cognate words from
+20119 allied languages; and third, words showing a development of meaning analogous to that
+20120 shown by the Sanskrit word or illustrative of it. If the derivation of a simple word is
+20121 not given, it is because it is unknown or too uncertain to be worth mentioning. In the
+20122 case of secondary derivatives, the primary is given, with a reference to the section showing
+20123 its treatment. The analysis of compounds is often indicated by a hyphen; but if one
+20124 member ends and the next begins with a vowel or diphthong, the latter member is given
+20125 in square brackets at the end of the article; cf. {@nalopākhyāna.@}</p>
+20126 <p>Where words of different languages are given together, separated only by commas,
+20127 the definition given after the last applies to them all; or, if no definition is given, the
+20128 English word in italies at the end is both a cognate and a definition of all at the same
+20129 time; for examples, see {@ákṣa@} (‘axle’), {@aṣṭa, ūrṇa.@}</p>
+20130 <p>The references to the Grammar may seem too numerous; but they are really a
+20131 device for avoiding the frequent repetition of explanations which would otherwise have
+20132 to be given in full. It would take half a dozen lines to explain the etymology of
+20133 {@manmatha,@} for instance; but the references to 1148. 4 and 1002b make this needless;
+20134 cf. the references under {@daridra, śiśu, sunva.@}</p>
+20135 <p>It often happens that the statement in the section referred to does not directly cover
+20136 the point aimed at in citing it; but a moment's thought will show what is meant. Thus
+20137 under {@saṃkrānti,@} the two references to be compared mean that the derivative suffix is
+20138 ti, and that before it the root-vowel suffers the same peculiar change that is seen in the
+20139 past participle. Under {@saṃyatendriya@} reference is made to 1298, which states that
+20140 possessive descriptives “are very much more common than [simple] descriptives of the
+20141 same form.” The real point of the reference is plainly, not to bring out this fact, but to
+20142 show the beginner in what category of compounds this word belongs. So 1290 states
+20143 that “other compounds with adverbial prior members are quite irregularly accented”;
+20144 but the section is cited, e. g., under {@sadha-māda,@} to indicate that this is a descriptive
+20145 compound (see the heading of the preceding right-hand page, 441) in which the first
+20146 member is an adverbial element with the function (cf. 1289) of an adjective. Many roots
+20147 form verb-stems in {@aya,@} but without causative signification; this is briefly indicated by
+20148 the reference 1041^2^. In the case of secondary derivatives in {@vant, mant, tā,@} and {@tva,@} a
+20149 simple reference to one of the sections treating of these endings (1233, 1235, 1237, 1239)
+20150 is put instead of a repetition of the primitive.</p>

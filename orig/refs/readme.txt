@@ -145,12 +145,14 @@ m3 -> ṃ
 * lsr1_refs.txt
 python as_iast.py ../../orig0/lsr0_refs.txt as_romanuni2 lsr1_refs.txt
 
+NOTE: also diphthongs  added to as_romanuni2
+
 * check 'as' codes after conversion
 python check_as.py lsr1_refs.txt as_romanuni2.xml check_as_after.txt temp_as_romanuni2.xml
 * check_ea_after   Extended ASCII inventory after conversion
 python check_ea.py lsr1_refs.txt check_ea_after.txt
 
-Differe
+
 There are 37 cases in check_as_after.txt.
 Most of these cases are like:
 21925 ca ucyate,@} explained under {@ya2.@}</p>
@@ -161,7 +163,7 @@ the 2nd sense of 'ya'
 maybe 1aks2a4 -> 1 aks2a4  line 2334
 line 19638  c1 -> C1
 line 19650  c2 -> C2
-m3 ṁ 379. Should change to m2 (standard anusvara)
+m3 ṁ 379. Should change to m2 (standard anusvara) NOTE: This change made
 
 * dict.txt, explanation.txt, abbreviation.txt, notes.txt
 Separate lsr1_refs.txt into these subsections.
