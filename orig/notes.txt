@@ -217,9 +217,9 @@
 20523 under the preposition--read p. 290, para-
 20524 graph 8. For the form {@panna,@} see 957d:
 20525 lit., it has only an indefinite past sense, not
-20526 a passive sense, see 952^2^. {@--guṇāir,@} u. f.
-20527 {@guṇāis,@} 174: declension, 330. {@--iṣṭāi,@} u. f.
-20528 {@iṣṭāis,@} which becomes {@iṣṭāir@} (174 again)
+20526 a passive sense, see 952^2^. {@--guṇair,@} u. f.
+20527 {@guṇais,@} 174: declension, 330. {@--iṣṭai,@} u. f.
+20528 {@iṣṭais,@} which becomes {@iṣṭair@} (174 again)
 20529 before the following sonant initial; and
 20530 since this is {@r,@} the final {@r@} is dropped--see
 20531 179: {@iṣ-ṭá@} is ppl. of {@√1iṣ,@} 953: the {@t@} of {@ta@}
@@ -332,12 +332,12 @@
 20636 {@--sākṣād,@} u. f. {@sākṣāt,@} 159. {@--manu-ḥ,@} 341.
 20637 --Render ‘as it were, Manu himself, in vis-
 20638 ible presence.’</p>
-20639 <p>{@11. tathāivāsīd,@} u. f. {@tathā eva āsīt,@}
+20639 <p>{@11. tathaivāsīd,@} u. f. {@tathā eva āsīt,@}
 20640 127, 126, 159: see {@tathā,@} mg 3. {@--bhīmá-
 20641 parākrama,@} possessive form of the deserip-
 20642 tive cpd {@bhīma-parākramá:@} see references
 20643 in vocab.</p>
-20644 <p>{@12. sarva-guṇāir,@} u. f. {@sarva-guṇāis,@} 174,
+20644 <p>{@12. sarva-guṇair,@} u. f. {@sarva-guṇais,@} 174,
 20645 cf. 1^4a^N.: for mg, see {@sarva@} 2b: a de-
 20646 scriptive cpd, 1279. {@--yuktaḥ,@} u. f. {@yukta-s@}
 20647 (170d), ppl. (953, 219 and 217) of {@√yuj:@}
@@ -367,9 +367,9 @@
 20670 a life of devotion; the {@devarṣi,@} or sage who
 20671 was also a demigod, as Nārada; and the
 20672 {@brahmarṣi,@} or priestly sage.</p>
-20673 <p>{@--Bhārata,@} like {@rājendra, kāunteya,
+20673 <p>{@--Bhārata,@} like {@rājendra, kaunteya,
 20674 viśām pate, prabho, mahārāja, rājan,
-20675 pāṇḍava, kāuravya,@} etc., is an interjected
+20675 pāṇḍava, kauravya,@} etc., is an interjected
 20676 vocative, addressed by Brihadaśwa, the nar-
 20677 rator, to Yudhishthira, see p. 298, § 10.</p>
 20678 <p>{@15. sa,@} see p. 291, paragraph 1, and
@@ -384,16 +384,16 @@
 20687 Bhīma, desiring children (and) knowing his
 20688 duty, gratified him ({@tam,@} Damana), the glo-
 20689 rious, with hospitality.’</p>
-20690 <p>{@17. tasmāi,@} 495. {@--pra-sanno, √sad +
+20690 <p>{@17. tasmai,@} 495. {@--pra-sanno, √sad +
 20691 pra,@} cf. {@upa-panno,@} 1^4^N. {@--sabhāryāya,@}
-20692 dat. s. m. with {@tasmāi,@} ‘to him having an
+20692 dat. s. m. with {@tasmai,@} ‘to him having an
 20693 accompanying wife, i. e. to him and his wife’:
 20694 observe that {@bhāryā@} shortens its final {@ā@} in
-20695 composition, 334^2^. {@--dadāu, √dā,@} ‘give,’
+20695 composition, 334^2^. {@--dadau, √dā,@} ‘give,’
 20696 800c.</p>
 20697 <head>NOTES TO PAGE {@2.@}</head>
-20698 <p>{@1. kumārāṅś ca,@} u. f. {@kumārān ca@} (208),
-20699 or rather, {@kumārāṅs ca@} (170c); for the so-
+20698 <p>{@1. kumārāṃś ca,@} u. f. {@kumārān ca@} (208),
+20699 or rather, {@kumārāṃs ca@} (170c); for the so-
 20700 called “inserted sibilant” is in the acc. pl. a
 20701 historic survival, the original ending having
 20702 been {@ns. --trīn,@} 482c. {@--mahā-yaśās@} (418)
@@ -425,12 +425,12 @@
 20727 {@sarvābharaṇa,@} is itself a cpd, like {@sarva-
 20728 guṇa,@} see 1^12^N.</p>
 20729 <p>{@9. sakhī-madhye,@} see {@madhya@} 1. {@--ana-
-20730 vadyāñgī,@} initial elided, 135: the cpd is the
+20730 vadyāṅgī,@} initial elided, 135: the cpd is the
 20731 possessive form of a descriptive, 1297-8.
 20732 {@--vidyut,@} 391. The Hindu epos often likens
 20733 maiden beauty to the brilliantly flashing
 20734 lightning of the rain-cloud.</p>
-20735 <p>{@10. rūpa-sampannā@} goes with {@bhāimī.@}
+20735 <p>{@10. rūpa-sampannā@} goes with {@bhaimī.@}
 20736 --U. f. {@śrī-s@} (174) {@iva āyata-locanā,@} ‘like
 20737 long-eyed Śrī.’</p>
 20738 <p>{@11.@} U. f. {@tādṛk,@} nom. s. f. {@--rūpavatī,@}
@@ -459,17 +459,17 @@
 20761 {@--abhavat,@} 742. --‘In beauty he was like
 20762 K. himself incarnate {%or%} having bodily form’
 20763 --w. pregnant mg, since K. is said to be
-20764 ‘bodiless,’ {@an-añga.@}</p>
+20764 ‘bodiless,’ {@an-aṅga.@}</p>
 [Page303-b+ 48]
-20765 <p>{@16.@} U. f. {@tasyās,@} 495. {@--pra-śaśaṅsuḥ,@} 3d
-20766 pl. perf. (800a) of {@√śaṅs + pra,@} p. 254: sub-
+20765 <p>{@16.@} U. f. {@tasyās,@} 495. {@--pra-śaśaṃsuḥ,@} 3d
+20766 pl. perf. (800a) of {@√śaṃs + pra,@} p. 254: sub-
 20767 ject indef., ‘they’ or ‘messengers.’</p>
 20768 <p>{@17. punaḥ punaḥ,@} u. f. {@punar punar,@} 178.</p>
 20769 <p>{@18. tayor,@} 495. {@--‘bhūc chṛṇvatoḥ,’@} u. f.
 20770 {@abhūt śṛṇvatos,@} see 1^7a^N.: {@abhūt,@} 829: {@śṛ-
 20771 ṇv-at-os,@} loc. du., 447, of pres. ppl., 705, of
 20772 {@√śru,@} 710.</p>
-20773 <p>{@19. anyonyam,@} see vocab. {@--kāunteya,@}
+20773 <p>{@19. anyonyam,@} see vocab. {@--kaunteya,@}
 20774 see 1^14^N. end. {@--vy-avardhata, √vṛdh + vi,@}
 20775 742.</p>
 20776 <p>{@20. a-śak-nuv-an,@} negatived pres. ppl.,
@@ -483,7 +483,7 @@
 20784 wood near the harem, having gone secretly.’</p>
 20785 <p>{@22. dadarśa,@} 3d s. perf. {@√dṛś,@} strong
 20786 stem {@dadarś,@} weak {@dadṛś,@} 792, 793c, 800.
-20787 {@--haṅsāñ,@} 202^2^. {@--pariṣkṛtān,@} ppl. of {@√1kṛ
+20787 {@--haṃsāñ,@} 202^2^. {@--pariṣkṛtān,@} ppl. of {@√1kṛ
 20788 + pari,@} 1087d, 180. --‘Gold-adorned’ = ‘of
 20789 golden plumage’.</p>
 20790 <p>{@23. vi-caratām,@} gen. pl. of pres. ppl. of
@@ -502,7 +502,7 @@
 20803 {@tathā@} as correl. of {@yathā na,@} ‘ut non’,
 20804 next line.</p>
 20805 <p>{@4.@} See {@yathā@} 6. {@--tvad,@} 491, abl. w.
-20806 {@anya,@} 292b. {@--maṅsyati,@} 933, {@√man,@} mg 4.</p>
+20806 {@anya,@} 292b. {@--maṃsyati,@} 933, {@√man,@} mg 4.</p>
 20807 <p>{@5. ut-sa-sarj-a, √sṛj + ud,@} 800.</p>
 20808 <p>{@6. te@} must be from {@ta,@} 495, since the en-
 20809 clitic te (491) could not stand at beg. of
@@ -512,7 +512,7 @@
 [Page304-a+ 49]
 20813 (read 989), gets its mg: ‘with a flying,’ i. e.
 20814 ‘flying’ or ‘having flown.’ {@--vidarbhān,@}
-20815 274a. {@--agamaṅs,@} u. f. {@agaman,@} 208, aor. of
+20815 274a. {@--agamaṃs,@} u. f. {@agaman,@} 208, aor. of
 20816 {@√gam,@} 846.
 20817 <p>{@7. ga-tvā,@} gerund again, 991: the root,
 20818 gam, shows the same form as in the ppl.
@@ -527,13 +527,13 @@
 20827 <p>{@10. hṛṣ-ṭā,@} ppl. of {@√hṛṣ,@} 197. {@--grahī-
 20828 tum,@} inf., 968, 972^3^: used here with verb of
 20829 motion ({@√kram@}--see 981^8^), Latin, ‘subst
-20830 captum’. {@--khagamāṅs,@} u. f. {@-ān,@} 208; but
+20830 captum’. {@--khagamāṃs,@} u. f. {@-ān,@} 208; but
 20831 the {@s@} is here a true historic survival, cf. 2^1^N.
 20832 --U. f. {@tvaramāṇā upa-,@} 127: {@√tvar,@} 741:
 20833 {@upa-ca-kram-e, √kram + upa,@} 590b, 800a, 3d
 20834 s. mid.</p>
 20835 <p>{@11.@} See {@√sṛp + vi,@} and 800.</p>
-20836 <p>{@12. ekāikaśas@} refers to both subject and
+20836 <p>{@12. ekaikaśas@} refers to both subject and
 20837 object--‘singulae (puellae) singulos (an-
 20838 seres).’ {@--sam-upa_adravan, √dru,@} 742.</p>
 20839 <p>{@13. sam-upa_adhāvat, √dhāv,@} 742. {@--
@@ -669,7 +669,7 @@
 20966 {@--pūrayantas (√1pṛ),@} agrees w. subject of
 20967 preceding clause.</p>
 20968 <p>{@4.@} Divide, {@vicitramālya + ābharaṇa,@} as
-20969 descriptive, 1280b. {@--balāis,@} 279. --‘(They
+20969 descriptive, 1280b. {@--balais,@} 279. --‘(They
 20970 came)…with troops, splendid (and) well
 20971 adorned with variegated-garland-ornaments.’</p>
 20972 <p>{@5. teṣām@} (495) {@pārth-,@} objective gen. w.
@@ -680,14 +680,14 @@
 20977 under {@etad.@} --‘The two best of the Rishis
 20978 (1264) of the gods’: the verb is in line 10.</p>
 20979 <p>{@8.@} See {@√aṭ@} and 741. --U. f. {@mahātmān-
-20980 āu,@} 134. {@--gatāu,@} 954d.</p>
+20980 au,@} 134. {@--gatau,@} 954d.</p>
 20981 <p>{@9.@} U. f. {@ca eva,@} 127, see {@eva,@} end. {@--mahā@}-
 20982 stands in adverbial relation to {@-prājña@}
 20983 (‘greatly, i. e. very, wise’), since the whole
 20984 is a descriptive {%adjective%} cpd--see 1279.</p>
 20985 <p>{@10.@} Third pers. dual, perf. mid., {@√viś,@}
 20986 800a. --See {@sú@} 2, inseparable prefix.</p>
-20987 <p>{@11-12.@} U. f. {@tāu,@} 495. {@--are-,@} gerund from
+20987 <p>{@11-12.@} U. f. {@tau,@} 495. {@--are-,@} gerund from
 20988 caus. stem of {@√ṛc,@} 1051^7^. {@--papraccha,@} 590,
 20989 794c. --U. f. {@anāmayam ca api. -- -gata@}
 20990 (like {@-bhūta,@} see 6^7^N., and 1273c) is a mere
@@ -735,7 +735,7 @@
 21031 <p>{@7.@} See {@bhūta@} 2, and reference, 1273c,
 21032 and cf. 5^12^N. --Pres. ppl. of denom. stem
 21033 {@arthaya + pra,@} 1068.</p>
-21034 <p>{@8. kāñkṣanti@} governs {@tām.@}</p>
+21034 <p>{@8. kāṅkṣanti@} governs {@tām.@}</p>
 21035 <p>{@9.@} ‘While this (499b) is being told’
 21036 (pres. ppl. pass. of {@kathaya,@} 1068, cf. 1052a),
 21037 loc. absolute, 303b. --Study references un-
@@ -748,7 +748,7 @@
 21044 {@hṛṣṭās. --gacchāmas:@} for tense, 777a.</p>
 21045 <p>{@13. mahārāja,@} see 1^14^N. end.</p>
 21046 <p>{@14. yatas,@} supply {@āsan,@} ‘were.’</p>
-21047 <p>{@15. kāunteya,@} see 1^14^N. end.</p>
+21047 <p>{@15. kaunteya,@} see 1^14^N. end.</p>
 21048 <p>{@17. path-i,@} loc. s., 433. {@--dadṛśus,@} 2^22^N.
 21049 {@--sthitam,@} superfluous, see {@sthita@} 2.</p>
 21050 <p>{@18.@} ‘In reality almost, the god of love,
@@ -776,7 +776,7 @@
 21071 asmān,@} and {@vas, tvam, tvām,@} 491.</p>
 21072 <p>Note frequent omission (2^12^N.) of copula:
 21073 u. f. {@ke bhavantas@} ({@santi,@} 514) ? {@kas ca
-21074 asāu (asti), yasya aham īpsitas (asmi)
+21074 asau (asti), yasya aham īpsitas (asmi)
 21075 dūtas ? kim ca (asti) tad vas mayā kār-
 21076 yam@} (‘mihi faciendum’) ? {@--yasya dūtas,@}
 21077 ‘as messenger {%to%} whom.’ {@--kath-,@} 1068,
@@ -822,7 +822,7 @@
 21116 <p>{@5.@} U. f. {@pra-vekṣyasi@} ({@√viś,@} fut., 932, 218)
 21117 {@iti…eva abhy-.@}</p>
 21118 <p>{@6. √gam.@} --See {@iti,@} mg 2.</p>
-21119 <p>{@7.@} Third word is {@vāidarbhīm.@} --See
+21119 <p>{@7.@} Third word is {@vaidarbhīm.@} --See
 21120 {@√1vṛ + sam-ā.@}</p>
 21121 <p>{@8. √dīp,@} intens. 1000, 1002a, 1016. {@--
 21122 vapuṣ-ā,@} 414.</p>
@@ -904,7 +904,7 @@
 21197 what she may enjoy if she chooses a god.</p>
 [Page308-a+ 48]
 21198 <p>{@9. devān prāpya, √āp,@} 992, ‘by obtaining
-21199 gods (in wedlock).’ {@--bhuñkṣva, √2bhuj,@}
+21199 gods (in wedlock).’ {@--bhuṅkṣva, √2bhuj,@}
 21200 689.</p>
 21201 <p>{@10.@} U. f. {@yas:@} its antecedent is tam.
 21202 {@--imām,@} 501. {@--√kṣip,@} 992. --See {@punar@} 3.</p>
@@ -988,7 +988,7 @@
 21279 is quinquepartite. Cf. 3^19^N.</p>
 21280 <p>{@5. √muṣ,@} 724: fem. irreg., 449c^3^: ‘be-
 21281 guiling’--cf. <gr></gr>. {@--prabhayā,@}
-21282 364. {@--cakṣūṅṣi,@} 414 end.</p>
+21282 364. {@--cakṣūṃṣi,@} 414 end.</p>
 21283 <p>{@6-7.@} U. f. {@teṣām dṛṣṭis,…patitā,…
 21284 saktā (√sañj) abhūt@} (829)--caesura: {@na ca
 21285 (dṛṣṭis teṣām) paśyatām cacāla.@}</p>
@@ -1011,7 +1011,7 @@
 21301 from old men, these I do not notice as (being
 21302 of, i. e.) belonging to even one ({@ekasya api@})
 21303 of those standing here ({@iha@}) on the ground
-21304 ({@bhūmāu@}).’</p>
+21304 ({@bhūmau@}).’</p>
 21305 <p>{@19. √3 ci + vi-nis,@} 992. {@--√car + vi,@} 1051.</p>
 21306 <p>{@20.@} ‘Thought (it) an arrived-time, i. e.
 21307 thought that the time had arrived (cf. note
@@ -1058,10 +1058,10 @@
 21347 cf. 4^13^) was uttered ({@√muc@}).’</p>
 21348 <p>{@22-23.@} Same construction. ‘The cry
 21349 “Bravo” was uttered ({@īritas, √īr@}) by…
-21350 praising ({@√śaṅs@}) N.’ --Note the generous
+21350 praising ({@√śaṃs@}) N.’ --Note the generous
 21351 magnanimity of the gods.</p>
 21352 <head>NOTES TO PAGE {@15.@}</head>
-21353 <p>{@1. kāuravya,@} see 1^14^N. end.</p>
+21353 <p>{@1. kauravya,@} see 1^14^N. end.</p>
 21354 <p>{@2. √śvas + ā,@} caus. imf. --U. f. {@antar-
 21355 ātmanā.@}</p>
 21356 <p>{@3.@} See {@yad@} 3: correl. in line 4.</p>
@@ -1085,7 +1085,7 @@
 21374 others, perceived those very gods as their
 21375 refuge, i. e. perceived that the gods had been
 21376 good to them.’</p>
-21377 <p>{@11-12. vṛte,@} 303b. --U. f. {@nalāya aṣṭāu@}
+21377 <p>{@11-12. vṛte,@} 303b. --U. f. {@nalāya aṣṭau@}
 21378 (483^3^) {@…dadus@} (800c). --The four gods
 21379 give each two gifts, and, besides, one gift in
 21380 common, a couple of children ({@mithunam,@}
@@ -1130,9 +1130,9 @@
 21418 <head>NOTES TO PAGE {@16.@}</head>
 21419 <p>{@1. √1 kṛ,@} caus., 1070, 1045.</p>
 21420 <p>{@2. uṣya, √3 vas,@} irreg. (990^2^) for {@uṣitvā.@}</p>
-21421 <p>{@4.@} U. f. {@bhrājamānas aṅśumān:@} after
+21421 <p>{@4.@} U. f. {@bhrājamānas aṃśumān:@} after
 [Page310-b+ 45]
-21422 clision ({@bhrājamāno 'ṅśumān@}), the anu-
+21422 clision ({@bhrājamāno 'ṃśumān@}), the anu-
 21423 swāra belongs to the {@o,@} and so--in {@nāgarī@}
 21424 --has to be put over the o and to the left of
 21425 the avagraha.</p>
@@ -1142,8 +1142,8 @@
 21429 sought to bless the sacrificer with their
 21430 presence, as in old time they did for Yayāti.
 21431 His story is told MBh. i., chap. 75.</p>
-21432 <p>{@7.@} U. f. {@anyāis ca bahubhis, dhīmān,
-21433 kratubhis ca āptadakṣiṇāis:@} the second
+21432 <p>{@7.@} U. f. {@anyais ca bahubhis, dhīmān,
+21433 kratubhis ca āptadakṣiṇais:@} the second
 21434 {@ca@} seems superfluous.</p>
 21435 <p>{@8.@} U. f. {@punar@} (178) {@ca…upavaneṣu@}
 21436 (126).</p>
@@ -1306,7 +1306,7 @@
 21590 in 1251, and published at Madrid in 1860 by Gayangos.</p>
 21591 <p>§ 32. {@E.@} Of the descendants in the fifth degree from the original, only two
 21592 need be mentioned: {@3.@} The Persian {%Anwār-i Suhailī%} or ‘Lights of Canopus,’ a sim-
-21593 plified recast of Nasr Allah's, made about 1494 by Husain Wāiz al-Kāshifī. English
+21593 plified recast of Nasr Allah's, made about 1494 by Husain Waiz al-Kāshifī. English
 21594 translations of this have been published by Eastwick and by Wollaston, see below.
 21595 {@4.@} The {%Directorium humanae vitae,%} made from the Hebrew about 1270 by John
 21596 of Capua, and printed about 1480.</p>
@@ -1604,8 +1604,8 @@
 21881 <p>{@20.@} ‘Of (the three,) an unborn (i. e. no
 21882 son at all), a dead one, and (1253a) a fool,
 21883 …’: see {@2vara.@} --See {@ca5.@}</p>
-21884 <p>{@21.@} U. f. {@duḥkhakarāu@} (supply stas)
-21885 {@ādyāu.@}</p>
+21884 <p>{@21.@} U. f. {@duḥkhakarau@} (supply stas)
+21885 {@ādyau.@}</p>
 21886 <p>{@22.@} See ca3. {@--jāto,@} lit. ‘(is) born’;
 21887 pregnantly, ‘is born in reality or to some
 21888 noble purpose.’</p>
@@ -1638,12 +1638,12 @@
 21915 <p>{@4^a^.@} See {@ta3.@} For gen., 296b. --‘Though
 21916 born (of whomsoever =) of humble parent-
 21917 age.’</p>
-21918 <p>{@5.@} See {@√1kṛ6.@} --Note the puns in {@vaṅśa-
+21918 <p>{@5.@} See {@√1kṛ6.@} --Note the puns in {@vaṃśa-
 21919 viśuddhas@} and {@nirguṇas,@} which words thus
 21920 stand in covert and playful contrast w. {@yasya
 21921 tasya prasūtas@} and {@guṇavān.@}</p>
 21922 <p>{@6.@} U. f. {@na adhīta@} (see {@√i + adhi@}) {@…etāsu.@}</p>
-21923 <p>{@7.@} See {@vidvāṅs.@} --See go. {@--√saḍ.@}</p>
+21923 <p>{@7.@} See {@vidvāṃs.@} --See go. {@--√saḍ.@}</p>
 21924 <p>{@8.@} end. Passives, 770c, 769. --U. f. {@yad
 21925 ca ucyate,@} explained under {@ya2.@}</p>
 21926 <p>{@9.@} ‘What is not to be, that will not be:
@@ -1665,7 +1665,7 @@
 21941 --U. f. {@upa_eti lakṣmīs.@}</p>
 21942 <p>{@16. √han + ni,@} 992^2^. {@--kuru,@} 714. {@--ātma-@}
 21943 has the force of a possessive of the {%second%}
-21944 person here: cf. {@ātmaṅ.@}</p>
+21944 person here: cf. {@ātman3.@}</p>
 21945 <p>{@17.@} The loc. absolute expresses one con-
 21946 dition, and {@yadi na sidhyati@} a second.</p>
 21947 <p>{@20-21.@} The collective result of a man's
@@ -1700,7 +1700,7 @@
 [Page319-a+ 48]
 21976 <p>{@15.@} Pass. of {%caus.%} of {@√paṭh,@} 1052a.</p>
 21977 <p>{@16.@} U. f. {@asmin@} (208) {@tu…na apatyam.@}</p>
-21978 <p>{@20.@} U. f. {@-sañgāt,@} ‘by sticking to…,’
+21978 <p>{@20.@} U. f. {@-saṅgāt,@} ‘by sticking to…,’
 21979 291^2^.</p>
 21980 <p>{@22.@} ‘You (are) an authority for….’</p>
 21981 <p>{@23.@} For gen., 297a. {@--sam-arpitavān,@}
@@ -1753,7 +1753,7 @@
 22027 my killing…, because I killed.’</p>
 22028 <p>{@2.@} Another me need not be expressed with
 22029 {@putrās@} and {@dārās:@} whose they are is clear
-22030 from {@nirvaṅśo 'smi.@}</p>
+22030 from {@nirvaṃśo 'smi.@}</p>
 22031 <p>{@3. upadiṣṭas:@} the {@upadeśa@} consisted of
 22032 the three words marked by {@iti.@}</p>
 22033 <p>{@4.@} U. f. {@-upadeśāt,@} ‘in accordance with
@@ -1793,7 +1793,7 @@
 22067 --Observe that the logically important idea
 22068 is often put in a grammatically subordinate
 22069 word.</p>
-22070 <p>{@18.@} See {@ātmaṅ@} and {@√1iṣ + abhi.@} --Cf.
+22070 <p>{@18.@} See {@ātman3@} and {@√1iṣ + abhi.@} --Cf.
 22071 Dhammapada, stanza 129, and SBE. x. 36.</p>
 22072 <p>{@20.@} Note the use or the omission of {@ca@}
 [Page320-a+ 49]
@@ -1823,7 +1823,7 @@
 22096 is a duty.”’</p>
 22097 <p>{@5^a^.@} Words used pregnantly, cf. 18^1^N.</p>
 22098 <p>{@6. √grah + prati,@} 722 end.</p>
-22099 <p>{@7.@} U. f. {@yāvat asāu (= pānthas)…tāvat
+22099 <p>{@7.@} U. f. {@yāvat asau (= pānthas)…tāvat
 22100 …ni-magnas (√majj).@}</p>
 22101 <p>{@9.@} See {@atas 1. --√sthā + ud,@} 233a, caus.
 22102 1042d.</p>
@@ -1867,7 +1867,7 @@
 22139 the difference between that and {@svabhāva.@}</p>
 22140 <p>{@22.@} Metre, {@mālinī,@} p. 316, § 43.</p>
 22141 <head>NOTES TO PAGE {@23.@}</head>
-22142 <p>{@1.@} ‘Even yonder ({@asāu@}) moon (sky-
+22142 <p>{@1.@} ‘Even yonder ({@asau@}) moon (sky-
 22143 wandering, etc., p. 22) is eclipsed ({@grasyate@})
 22144 ….’ The demon Rāhu got a part of the
 22145 drink of immortality--cf. 32^12^N. The Sun
@@ -1931,7 +1931,7 @@
 22202 truth that underlies the doctrine of free-
 22203 trade.</p>
 22204 <p>{@9.@} U. f. {@kim@} (see {@1ka 1@}) {@anena@} (501) {@ut-.@}
-22205 --Join {@anu-bhavadbhis@} (741) w. {@sarvāis.@}</p>
+22205 --Join {@anu-bhavadbhis@} (741) w. {@sarvais.@}</p>
 22206 <p>{@10. sthīyatām,@} see {@√sthā@} 3; imv. pass.,
 22207 770b, used impers., 999. ‘Let all remain in
 22208 one place, enjoying pleasure by means of
@@ -1953,7 +1953,7 @@
 22223 <p>{@20.@} U. f. {@ā-gatya upa-sthitas.@} --See
 22224 denom. {@√phala.@}</p>
 22225 <p>{@21-22.@} U. f. {@etasya (= mṛgasya) utkṛt-
-22226 yamānasya (√kṛt) māṅsa_asṛg-anuliptāni
+22226 yamānasya (√kṛt) māṃsa_asṛg-anuliptāni
 22227 asthīni@} (431) {@mayā….@}</p>
 22228 <p>{@23. √las + ud.@} cf. 162. {@--chinddhi, √chid,@}
 22229 689. --See {@tāvant@} 3b.</p>
@@ -1977,7 +1977,7 @@
 22247 see JAOS. vi. 176-7.</p>
 22248 <p>{@8. etān = pāśān:@} cf. the ecclesiastical
 22249 prohibition of meat on Fridays. --End, see
-22250 {@√mañ.@}</p>
+22250 {@√man5.@}</p>
 22251 <p>{@9.@} U. f. {@yad tvayā ucyate, tad…,@} ‘what
 22252 you say, that I'll do.’</p>
 22253 <p>{@10.@} See {@sthita@} 4.</p>
@@ -2013,7 +2013,7 @@
 22282 {@a-satyasaṃdham. --bhag-,@} voc. s. {%fem.%}</p>
 22283 <p>{@5.@} See {@2sama@} 2. {@--kār-,@} see {@√1kṛ,@} {%caus.%}
 22284 end, and 25^21^N.</p>
-22285 <p>{@6.@} U. f. {@ca añgāras:@} see {@ca@} 1b end.</p>
+22285 <p>{@6.@} U. f. {@ca aṅgāras:@} see {@ca@} 1b end.</p>
 22286 <p>{@7. atha vā@} = ‘or rather, to express myself
 22287 more to the point,--this ({@iyam@}) is the way
 22288 ({@sthitis@}) of scoundrels.’</p>
@@ -2037,7 +2037,7 @@
 22306 <p>{@18.@} U. f. {@harṣa_utphulla-locanena,@} ‘hav-
 22307 ing joy-expanded eyes, his eyes wide open
 22308 with joy.’</p>
-22309 <p>{@19. asāu@} = the farmer.</p>
+22309 <p>{@19. asau@} = the farmer.</p>
 22310 <p>{@19-20.@} Note the position of the gerunds
 22311 as a help to the correct phrasing.</p>
 22312 <p>{@20.@} U. f. {@bandhanāt,@} 290; not acc.</p>
@@ -2097,7 +2097,7 @@
 22364 <p>{@6.@} U. f. {@eṣas@} (see {@etad@}) refers forward
 22365 here ! On the duty of hospitality, see Manu
 22366 iii. 99f. {@--√īr + sam-ud.@}</p>
-22367 <p>{@7.@} ‘To an enemy ({@arāu,@} 304) even,…
+22367 <p>{@7.@} ‘To an enemy ({@arau,@} 304) even,…
 22368 should be shown.’ So Plautus says, Trin.
 22369 679 and Rud. 438, that one does not withhold
 22370 fire and water even from a foc.</p>
@@ -2111,7 +2111,7 @@
 22378 <p>{@14.@} Render loc. by ‘towards.’ --Cf. 21^19^.</p>
 22379 <p>{@15. cāṇḍ-,@} loc. as in 28^8^.</p>
 22380 <p>{@16-17. yasya@} limits {@gṛhāt@} and refers to
-22381 {@tasmāi@} (and to a {@tasmāt,@} understood w.
+22381 {@tasmai@} (and to a {@tasmāt,@} understood w.
 22382 {@ā-dāya@}). {@--sa = atithis. --dat-tvā,@} 991 cf.
 22383 955c. --See {@√gam1.@}</p>
 22384 <p>{@21.@} First {@evam,@} ‘so,’ namely as at 27^17^.</p>
@@ -2128,10 +2128,10 @@
 22395 <p>{@23.@} U. f. {@-rāgeṇa idam…adhy-ava-
 22396 sāyitam, √sā.@}</p>
 22397 <head>NOTES TO PAGE {@29.@}</head>
-22398 <p>{@1-2.@} U. f. {@iti atra āika-:@} see {@atra@} 1. ‘The
+22398 <p>{@1-2.@} U. f. {@iti atra aika-:@} see {@atra@} 1. ‘The
 22399 law-books, though contradicting ({@√vad + vi@})
-22400 …, have unanimity on this point, {@“ahiṅsā
-22401 paramo dharmas:”@}’ {@ahiṅsā@} is a cardinal
+22400 …, have unanimity on this point, {@“ahiṃsā
+22401 paramo dharmas:”@}’ {@ahiṃsā@} is a cardinal
 22402 virtue among Buddhists.</p>
 22403 <p>{@3.@} See {@nivṛtta.@} --See {@ya3.@}</p>
 22404 <p>{@4. svarga-:@} for lingual {@ṇ,@} see 193.</p>
@@ -2152,7 +2152,7 @@
 22418 <p>{@11-12. √1pṛ + pra,@} 770c. {@--kaḥ kuryāt@}
 22419 (714), rhetorical question, cf. 18^1^N.</p>
 22420 <p>{@13. vi-śvāsya,@} grd of {%caus.,%} 1051 and ^8^.</p>
-22421 <p>{@15.@} U. f. {@yeṣām…, tāis…vi-lapadbhis.@}</p>
+22421 <p>{@15.@} U. f. {@yeṣām…, tais…vi-lapadbhis.@}</p>
 22422 <p>{@16. √rabh,@} 160. --U. f. {@koṭarāt.@}</p>
 22423 <p>{@18. -asthīni,@} 431. --U. f. {@“anena (=
 22424 gṛdhreṇa) eva…khāditās” iti niścitya,
@@ -2204,11 +2204,11 @@
 22469 <p>{@8-9.@} Note position of gerunds, each mark-
 22470 ing the end of its clause. ‘A cat was kept
 22471 ({@dhṛtas@}) by him ({@tena@}),…reflecting,…going,
-22472 …satisfying,…bringing.’ {@--māṅsa_ādi-
+22472 …satisfying,…bringing.’ {@--māṃsa_ādi-
 22473 āhāra,@} ‘flesh-etc.-food.’</p>
 22474 <p>{@9.@} end. U. f. {@tad-bhayāt,@} ‘from fear of it
 22475 (i. e. the cat).’</p>
-22476 <p>{@10. √sṛ + nis,@} Epic present, 734. --U. f. {@asāu.@}</p>
+22476 <p>{@10. √sṛ + nis,@} Epic present, 734. --U. f. {@asau.@}</p>
 22477 <p>{@13.@} U. f. {@saṃcaran,@} 208.</p>
 22478 <p>{@14.@} See {@kadā@} end.</p>
 22479 <p>{@15.@} See 17^11^N. --U. f. {@tadā@} (correl. of
@@ -2244,7 +2244,7 @@
 [Page324-b+ 50]
 22509 <p>Buch der Beisplele, p. 35^3^, 36^16^.</p>
 22510 <p>Benfey, 1. 167f: ii. 57. Lancereau, p. 332.</p>
-22511 <p>--U. f. {@kasmin cid tarāu…apatyāni.@}</p>
+22511 <p>--U. f. {@kasmin cid tarau…apatyāni.@}</p>
 22512 <head>NOTES TO PAGE {@32.@}</head>
 22513 <p>{@1.@} ‘By a tree-hollow-abiding-black-serpent’
 22514 --see {@√sthā + ava.@}</p>
@@ -2314,14 +2314,14 @@
 22577 agre.@} --See {@2antara@} 4.</p>
 22578 <p>{@2.@} Note use of acc. w. caus., ‘to cause my
 22579 master to know:’ so {@mām,@} next line.</p>
-22580 <p>{@4. tam = siṅham. --gṛhītvā,@} see {@√grah1,@}
+22580 <p>{@4. tam = siṃham. --gṛhītvā,@} see {@√grah1,@}
 22581 and 254^3^.</p>
 22582 <p>{@5.@} U. f. {@“paśyatu svāmī” iti uktvā.
 22583 --tasmin kūpa-jale = tasya kūpasya jale,@}
-22584 cf. 24^14^N. {@--tasya (= siṅhasya) eva,@} ‘his
+22584 cf. 24^14^N. {@--tasya (= siṃhasya) eva,@} ‘his
 22585 own.’</p>
-22586 <p>{@6. darś-,@} 959, from caus. --U. f. {@asāu
-22587 (= siṅhas) darpa_ā-dhmātas (√dham) tasya
+22586 <p>{@6. darś-,@} 959, from caus. --U. f. {@asau
+22587 (= siṃhas) darpa_ā-dhmātas (√dham) tasya
 22588 (= pratibimbasya) upari@} (‘upon’)….</p>
 22589 <p>{@7-8.@} ‘Therefore I say (the proverb)
 22590 having {@yasya buddhir balaṃ tasya@} as its
@@ -2364,7 +2364,7 @@
 22626 kampamānān…:@} ‘by the birds, seeing…,
 22627 it was said.’</p>
 22628 <p>{@3.@} ‘We have constructed nests with straws
-22629 brought hither ({@-āhṛtāis@}) by the beak-
+22629 brought hither ({@-āhṛtais@}) by the beak-
 22630 merely’ (see {@mātrā@} 2, and references).</p>
 22631 <p>{@4.@} ‘Endowed with hands, feet, and so
 22632 forth (see {@ādi@} 2), why are you in distress
@@ -2400,7 +2400,7 @@
 22661 <p>La Fontaine, book v., no. 21; Regnier, i. p. 431.</p>
 22662 <p>Benfey, i. 462-3; ii. 308.</p>
 22663 <p>{@13-14.@} ‘By the washerman, covering (him)
-22664 with a tiger-skin, that one ({@asāu = gardabhas@})
+22664 with a tiger-skin, that one ({@asau = gardabhas@})
 22665 was let loose….’ {@--pracchādya,@} see {@√1chad
 22666 + pra,@} and 227. --See {@√muc,@} and 1051^3^.</p>
 22667 <p>{@15.@} See {@buddhi2.@}</p>
@@ -2416,7 +2416,7 @@
 22677 ran….’</p>
 22678 <p>{@20.@} See {@iti@} 2a end.</p>
 22679 <head>NOTES TO PAGE {@35.@}</head>
-22680 <p>{@1-2.@} See {@√car3.@} --See {@śreyāṅs@} and 464.
+22680 <p>{@1-2.@} See {@√car3.@} --See {@śreyāṃs@} and 464.
 22681 {@-- -paricchannas, √1chad,@} 957d.</p>
 22682 <p>{@3.@} SELECTION XII. The elephant, the
 22683 hares, and the moon. Hitopadeśa, book iii.,
@@ -2444,7 +2444,7 @@
 22705 <p>{@9-10. ā-hūya,@} gerund. --See {@√ākulaya.@}
 [Page326-b+ 48]
 22706 --U. f. {@eva atra āgant-,@} see {@√gam + ā@} end.
-22707 {@--vinañkṣyati,@} see {@√1naś.@}</p>
+22707 {@--vinaṅkṣyati,@} see {@√1naś.@}</p>
 22708 <p>{@11. viṣīdata,@} see {@√sad,@} and 185.</p>
 22709 <p>{@13.@} ‘How shall I speak…?’ --See
 22710 {@yūthapa.@}</p>
@@ -2463,7 +2463,7 @@
 22723 have been driven away ({@√sṛ + nis,@} caus. pass.),
 22724 therein not rightly (see {@√yuj5@}) hast thou
 22725 done.’</p>
-22726 <p>{@3.@} See {@prasiddhi,@} and cf. {@śaśa, śaśāñka,@}
+22726 <p>{@3.@} See {@prasiddhi,@} and cf. {@śaśa, śaśāṅka,@}
 22727 and {@śaśin.@} The Jātaka tells how the rabbit
 22728 offered up its own life for Śakra and how
 22729 Śakra in grateful recognition placed the
@@ -2506,7 +2506,7 @@
 22765 <p>{@13. tatas@} ({@= bhāṇḍāt,@} 1098), see {@tatas@} 1.</p>
 22766 <p>{@13-14.@} ‘Kept pretending to be dead:’ see
 22767 {@√dṛś + sam,@} caus., and {@sthita@} 4.</p>
-22768 <p>{@14-15.@} U. f. {@-svāminā asāu (= sṛgālas)
+22768 <p>{@14-15.@} U. f. {@-svāminā asau (= sṛgālas)
 22769 utthāpya@} (1051^5^, 1042d). The two gerunds
 22770 go with the logical subject, {@-svāminā.@}</p>
 22771 <p>{@15-16.@} Note how the gerunds, {@gatvā,
@@ -2552,9 +2552,9 @@
 22810 <p>{@8.@} See {@√sthā + anu2.@}</p>
 22811 <p>{@9-10. tatas…tena_api śabdas karta-
 22812 vyas,@} ‘Then he too will raise a howl.’</p>
-22813 <p>{@11.@} U. f. {@syāt, tasya asāu (= svabhāvas).@}
+22813 <p>{@11.@} U. f. {@syāt, tasya asau (= svabhāvas).@}
 22814 --‘What inherent-nature anyone ({@yasya@})
-22815 may have, that (nature--{@asāu@}) of him is
+22815 may have, that (nature--{@asau@}) of him is
 22816 hard to overcome:’ see {@ya6.@}</p>
 22817 <p>{@12.@} U. f. {@tad kim na aśnāti.@} ‘If a dog
 22818 (427) is made well-fed, i. e. put on good
@@ -2612,7 +2612,7 @@
 22869 The third is of a kind with which Bühler
 22870 compares the early Christian name ‘Quod-
 22871 vult-dea,’ and the Puritan ‘Fight-the-battle-
-22872 of-faith,’ etc. --U. f. {@dvāu…edhete (√edh).@}
+22872 of-faith,’ etc. --U. f. {@dvau…edhete (√edh).@}
 22873 --‘Both Forethought and who (is) Readywit,
 22874 these two…:’ the {@yas@} merely fills out the
 22875 metre, see {@ya3.@}</p>
@@ -2683,14 +2683,14 @@
 22939 which was near the Ganges.</p>
 22940 <p>{@13-14.@} U. f. {@…ānīya,…ārabhya@} (see
 22941 {@√rabh + ā@} 3), {@…yāvat@} (see {@yāvant@} 3),
-22942 {@pañkti-krameṇa…dhatta@} (668).</p>
+22942 {@paṅkti-krameṇa…dhatta@} (668).</p>
 22943 <p>{@15. svabhāva-dveṣāt:@} the enmity of ich-
 22944 neumons and serpents was proverbial: “They
 22945 fight like cats and dogs;” cf. Pañcatantra,
 22946 p. 110^22^f, ed. Kosegarten, = book ii., p. 7^11^f,
 22947 ed. Bombay; and selection xxi.</p>
 22948 <p>{@15-16. tathā@} etc. = 37^13^: cf. 33^14^N.</p>
-22949 <p>{@17.@} U. f. {@tāis (= nakulāis)…ā-ruhya,…
+22949 <p>{@17.@} U. f. {@tais (= nakulais)…ā-ruhya,…
 22950 sarve….@}</p>
 [Page329-a+ 48]
 22951 <p>{@18. āvām,@} 491. --Cf. 33^7-8^N.</p>
@@ -2714,7 +2714,7 @@
 22969 <p>{@5. vadann eva,@} cf. {@cintayann eva,@} s. v.
 22970 {@eva2.@}</p>
 22971 <p>{@7-8.@} Construe: {@yas na karoti iha vacas
-22972 suhṛdām…, sas@} etc. {@--bhraṣṭas, √bhraṅś.@}
+22972 suhṛdām…, sas@} etc. {@--bhraṣṭas, √bhraṃś.@}
 22973 --With line 7, cf. 25^14^.</p>
 22974 <p>{@9.@} SELECTION XVII. The hermit, and the
 22975 mouse that was changed to a tiger. Hito-
@@ -2792,7 +2792,7 @@
 23046 <p>{@18-19.@} U. f. {@kasmin cid deśe,@} ‘in a cer-
 23047 tain place.’ {@--sthāpitās,@} 1051^3^, 1042d.</p>
 23048 <p>{@20-21.@} U. f. {@bakas api apūrva-kulīra-
-23049 māṅsa_arthī…kulīras api:@} the {@api's@} may
+23049 māṃsa_arthī…kulīras api:@} the {@api's@} may
 [Page330-a+ 51]
 23050 be rendered by ‘and’ or ‘but,’ as the sense
 23051 requires--cf. {@api5.@}</p>
@@ -2847,15 +2847,15 @@
 23100 described by H. H. Wilson, {%Works,%} ii. 222-43.</p>
 [Page330-b+ 49]
 23101 <p>{@12-14.@} U. f. {@tatas tam (= śarāvam) ā-dāya,
-23102 asāu (devaśarmā), śayyā-nikṣipta + dehas@}
-23103 (1297) san (redundant, {@√1as3@}), {@rātrāu acin-
+23102 asau (devaśarmā), śayyā-nikṣipta + dehas@}
+23103 (1297) san (redundant, {@√1as3@}), {@rātrau acin-
 23104 tayat.@} --The long cpd: ‘in a dish-filled-
 23105 pot-maker's-shed-part ({@ekadeśe@}).’</p>
 23106 <p>{@14-17.@} Construe: {@yadi aham, imam…
 23107 vikrīya,…prāpnomi, tadā@} (introduces verb
-23108 of apodosis, {@karomi@}) {@tāis (= kapardakāis)
+23108 of apodosis, {@karomi@}) {@tais (= kapardakais)
 23109 …śarāvān tatas ghaṭa_ādīn upakrīya
-23110 vikrīya, anekadhā vṛddhāis…-ādikam
+23110 vikrīya, anekadhā vṛddhais…-ādikam
 23111 upakrīya,…utpādya,…karomi.@} As a
 23112 help to the correct phrasing, note that the
 23113 interjected adverbial clauses end each with
@@ -2907,7 +2907,7 @@
 23158 matvā.@}</p>
 23159 <p>{@17. snātvā,@} to remove the supposed im-
 23160 purity arising from touching a dog. {@--
-23161 yayāu,@} 800c. --Read {@cchāgas@} for {@-go.@}</p>
+23161 yayau,@} 800c. --Read {@cchāgas@} for {@-go.@}</p>
 23162 <p>{@19-20.@} See {@√1vid4. --vañcyate,@} pass.
 23163 of caus. {@--chāgatas,@} see 1098c^3^.</p>
 23164 <head>NOTES TO PAGE {@44.@}</head>
@@ -2953,11 +2953,11 @@
 23203 doing.</p>
 23204 <p>{@9.@} U. f. {@cira-kāla-pālitam…-rakṣārtham.@}</p>
 23205 <p>{@11.@} Natural enemies--cf. 39^15^N.</p>
-23206 <p>{@12-13.@} U. f. {@asāu…āyāntam.@} --‘Having
+23206 <p>{@12-13.@} U. f. {@asau…āyāntam.@} --‘Having
 23207 blood-smeared snout-and-paws.’</p>
 23208 <p>{@14.@} See {@√dhṛ + ava:@} his conclusion was
 23209 {@“mama…bhakṣitas:” anena = nakulena.@}</p>
-23210 <p>{@15-16.@} U. f. {@asāu upasṛtya.@} --See {@√sthā́.@}</p>
+23210 <p>{@15-16.@} U. f. {@asau upasṛtya.@} --See {@√sthā́.@}</p>
 23211 <p>{@16-17.@} ‘Finding out that the ichneumon
 23212 was his benefáctor, (and) possessing a dis-
 23213 covered ({@√bhū + vi@}) deed ({@kṛtyā@}), i. e. dis-
@@ -2973,7 +2973,7 @@
 23223 quite definitely known. According to the author's fancy, it unites in itself all
 23224 stories as does the ocean all rivers, and he therefore calls it the ‘Ocean of the
 23225 Streams of Story’ or Kathā-sarit-sāgara. Following out the metaphor, he divides
-23226 the work into one hundred and twenty-four chapters, called {@tarañgas@} or ‘billows.’
+23226 the work into one hundred and twenty-four chapters, called {@taraṅgas@} or ‘billows.’
 23227 By another division, independent of the one just mentioned, the work is broken into
 23228 eighteen books, called {@lambakas,@} which Brockhaus, without authority, conjectured
 23229 to mean ‘surges.’ The work contains about 22,000 distichs, that is, about one-
@@ -3010,7 +3010,7 @@
 23259 Soma, i. e. Somadeva, and was the son of the virtuous Brahman Rāma. Somadeva
 23260 says that he made this collection of stories to please the queen Sūryavatī, and gives
 23261 some of the facts relating to the royal house of Kaśmīr then regnant. These facts
-23262 are supplemented and confirmed by the Rājatarañginī or ‘Chronicles of Kaśmīr,’
+23262 are supplemented and confirmed by the Rājataraṅginī or ‘Chronicles of Kaśmīr,’
 23263 written by Kalhaṇa, about 1148-1157 A. D.^2^ Combining these sources, Bühler
 23264 reaches conclusions which may here be summarized briefly.</p>
 23265 <p>§ 48. In the year 79, i. e. 4079, of {@loka-kāla,^3^@} Saṃgrāmarāja, a descendant of
@@ -3051,7 +3051,7 @@
 23299 āḍhya's original. The former was made by Kṣemendra Vyāsa-dāsa, a contemporary
 23300 of Somadeva. Its date is not far from the year 1037 A. D., and it is therefore some
 23301 thirty or forty years prior to Somadeva's work.^1^ Both Kṣemendra and Somadeva
-23302 distinctly assert that they translated from an original in the {@pāiśācī bhāṣā@} or
+23302 distinctly assert that they translated from an original in the {@paiśācī bhāṣā@} or
 23303 ‘Goblin dialect’; and internal evidence^2^ confirms their assertions, and, further,
 23304 makes it certain that each worked independently of the other. But Somadeva seems
 23305 to have been well aware of the faults of his predecessor, and his work is a decided
@@ -3060,12 +3060,12 @@
 23308 <p>§ 50. Although Somadeva was a Brahman, there are yet many remaining traces
 23309 of the Buddhist character of his original, and even direct allusions^3^ to the Buddhist
 23310 Birth Stories occur. Indeed, Weber maintained^4^ that Guṇāḍhya was a Buddhist.
-23311 The name {@pāiśācī bhāṣā@} seems to have covered a number of Low Prākrit dialects^5^
+23311 The name {@paiśācī bhāṣā@} seems to have covered a number of Low Prākrit dialects^5^
 23312 spoken by the most ignorant and degraded classes in many different parts of India.
 23313 In one of these dialects the Bṛhat-kathā is actually written.</p>
 23314 <p>§ 51. It remains--partly by way of introduction to selection xxvii.--to com-
 23315 plete and summarize the half-mythical account there given of the origin of the stories.</p>
-23316 <p>In a retired spot on the Himālayan peak Kāilāsa, the god Śiva, to please his
+23316 <p>In a retired spot on the Himālayan peak Kailāsa, the god Śiva, to please his
 23317 wife Pārvatī, was telling her (Kathā-sarit-sāgara, i. 48) the adventures of the Seven
 23318 Fairy Kings. Unfortunately, he was overheard by his Gaṇa or attendant (see {@gaṇa@}),
 23319 Puṣpadanta. Puṣpadanta foolishly told the tale to his wife, and she recited it in
@@ -3110,8 +3110,8 @@
 23357 position as minister. With two pupils he retires to the Vindhya, and, falling in
 23358 with a host of Piśācas (vii. 26), learns their dialect. In this he addresses Kāṇabhūti,
 23359 who exists himself at the time as a Piśāca. Kāṇabhūti tells the tales in ‘his own
-23360 dialect’ ({@svabhāṣayā,@} 53^4^), i. e. Pāiśācī, to Guṇāḍhya. The hearer writes them down
-23361 in Pāiśācī, and with his own blood, since he had no ink by him. Kāṇabhūti is then
+23360 dialect’ ({@svabhāṣayā,@} 53^4^), i. e. Paiśācī, to Guṇāḍhya. The hearer writes them down
+23361 in Paiśācī, and with his own blood, since he had no ink by him. Kāṇabhūti is then
 23362 released.</p>
 23363 <p>Guṇāḍhya, in order to “publish the stories to the world,” sends the manuscript
 23364 to Sātavāhana. The king, puffed up by his newly-acquired knowledge of Sanskrit
@@ -3138,7 +3138,7 @@
 23385 <head>NOTES TO PAGE {@45.@}</head>
 23386 <p>LINE {@2.@} SELECTION XXII. King Putraka
 23387 and the seven-league boots. Kathā-sarit-
-23388 sāgara, Tarañga iii. 45.--Kṣemendra gives
+23388 sāgara, Taraṅga iii. 45.--Kṣemendra gives
 23389 the tale in his Bṛhat-kathā-mañjarī, at ii. 48.
 23390 Tawney, i. 14, adduces many parallels, among
 23391 them, Grimm's Fairy Tales, no. 197, The
@@ -3154,10 +3154,10 @@
 23401 {@√raj + vi.@}</p>
 23402 <p>{@4-5.@} The sense-divisions do not correspond
 23403 with the metrical divisions here as they do
-23404 in the Epos. U. f. {@bhraman ava_āpa asāu
-23405 -ekatatparāu puruṣāu dvāu; tatas tāu@} etc.
+23404 in the Epos. U. f. {@bhraman ava_āpa asau
+23405 -ekatatparau puruṣau dvau; tatas tau@} etc.
 23406 --see {@iti2.@}</p>
-23407 <p>{@6.@} U. f. {@maya_asura-sutāu āvām@} sc. {@svas.@}</p>
+23407 <p>{@6.@} U. f. {@maya_asura-sutau āvām@} sc. {@svas.@}</p>
 [Page334-b+ 22]
 23408 <p>{@8.@} ‘On account of this (is) our fighting.
 23409 Who (is) mighty (= proves to be the strong-
@@ -3185,7 +3185,7 @@
 23430 <head>NOTES TO PAGE {@46.@}</head>
 23431 <p>{@1.@} SELECTION XXIII. Story of Mousey,
 23432 the thrifty merchant. Kathā-sarit-sāgara,
-23433 Tarañga, vi. 28.--It is introduced as a story
+23433 Taraṅga, vi. 28.--It is introduced as a story
 23434 which Guṇāḍhya hears on his return to
 23435 Supratiṣṭhita--see p. 333, § 52. It may be
 23436 called a kind of pendant to selection xix.
@@ -3242,7 +3242,7 @@
 23486 tebhyas,@} abl.</p>
 23487 <p>{@15-16.@} Loc. absolute. --The rains made
 23488 the roads impassable for the wood-men.
-23489 {@--paṇ-,@} 486b. {@--śatāis,@} 281b.</p>
+23489 {@--paṇ-,@} 486b. {@--śatais,@} 281b.</p>
 23490 <p>{@19-20.@} ‘A golden mouse was sent (1042d)
 23491 by me, making (it), to that V.; and he gave
 23492 ({@adāt@})….’</p>
@@ -3290,7 +3290,7 @@
 23533 iii. 197. 1 = 13274, of Śibi himself; and at
 23534 xiii. 32. 3 = 2046, of Vṛṣadarbha, the son of
 23535 Śibi.</p>
-23536 <p>--Śibi Āuśīnara is the traditional author
+23536 <p>--Śibi Auśīnara is the traditional author
 23537 of RV. x. 179. 1, and seems to be the heros
 23538 eponymos of a clan that dwelt between the
 23539 Indus and Akesines. See Zimmer, {%Altin-
@@ -3310,7 +3310,7 @@
 23553 w. 982. --‘Indra himself, having taken on
 23554 …, pursued ({@anv-apatat@}) Dharma’--see
 23555 {@dharma3.@}</p>
-23556 <p>{@5.@} U. f. {@añkam aśiśriyat:@} see {@√śri3;@} for
+23556 <p>{@5.@} U. f. {@aṅkam aśiśriyat:@} see {@√śri3;@} for
 23557 aorist, 859^3^, 864.</p>
 23558 <p>{@7.@} ‘This (is my) proper food. Surrender
 23559 (758) to me (297a)….’</p>
@@ -3327,8 +3327,8 @@
 23570 etad” divyā vāk ud-abhūt.@} ‘“That in-
 23571 deed ís equal”’, referring to the promise
 23572 contained in line 10, {@etat-samam.@}</p>
-23573 <p>{@18-19.@} U. f. {@tuṣṭāu akṣ-@} (pred. adj.)…
-23574 {@dattvā@} (991, 955c) {@ca…anyān tāu…
+23573 <p>{@18-19.@} U. f. {@tuṣṭau akṣ-@} (pred. adj.)…
+23574 {@dattvā@} (991, 955c) {@ca…anyān tau…
 23575 īyatus@} (783b^2^).</p>
 23576 <p>{@20.@} SELECTION XXV. Story of Ahalyā.
 [Page336-b+ 48]
@@ -3336,7 +3336,7 @@
 23578 pattern of wifely virtue, but Indra does not
 23579 requite her with equal fidelity. His amours
 23580 are as notorious as those of Zeus. Indra is
-23581 invoked with the words {@ahalyāyāi jāra,@} as
+23581 invoked with the words {@ahalyāyai jāra,@} as
 23582 early as the ŚB. (iii. 3. 4^18^). He is reproached
 23583 for his affair with Ahalyā, at MBh. v. 12. 6 =
 23584 373; and this is narrated at length in the
@@ -3362,7 +3362,7 @@
 23604 biguous on account of its dialect, (but yet)
 23605 having some regard for (verbal) truth, “This
 23606 is, of course, a eat {%or%} my lover”’--see
-23607 {@majjāo.@} Gāutama takes it in the latter
+23607 {@majjāo.@} Gautama takes it in the latter
 23608 sense and replies {@tvaj-jāra.@}</p>
 23609 <p>{@11.@} ‘He caused to fall on her a curse,
 23610 truth-regard-limited’ ({@-kḷptāntam@}), i. e. not
@@ -3376,7 +3376,7 @@
 23618 “Rāma removed the guilt of Ahalyā by
 23619 merely looking at her,” says the Viṣṇu-
 23620 purāṇa, iv. 4. 42.</p>
-23621 <p>{@14. datta-śāpas,@} 1299, 1308. {@--yayāu,@}
+23621 <p>{@14. datta-śāpas,@} 1299, 1308. {@--yayau,@}
 23622 800c.</p>
 23623 <p>{@16.@} SELECTION XXVI. The king who
 23624 didn't know his Sanskrit grammar. Kathā-
@@ -3408,8 +3408,8 @@
 23649 limbs as delicate as a Ś. blossom.’ --U. f.
 23650 {@abhy-agāt.@}</p>
 23651 <p>{@4.@} ‘She said “Don't with water ({@mā
-23652 udakāis@}--cf. line 8) pelt me.”’ He under-
-23653 stands it as “With comfits ({@modakāis@}) pelt
+23652 udakais@}--cf. line 8) pelt me.”’ He under-
+23653 stands it as “With comfits ({@modakais@}) pelt
 23654 me.”</p>
 23655 <p>{@5. ānāyayat, √nī + ā,@} caus. imf.</p>
 23656 <p>{@7. rājann,@} 210. --See {@2antara@} 1.</p>
@@ -3453,11 +3453,11 @@
 23693 <p>{@13. iyat@} (451) {@dṛṣṭvā.@} --See {@√man@} 1.</p>
 23694 <p>{@15-16.@} ‘Ś. having thus announced his
 23695 vision’--see {@√1vid + ni@} and 1308. --U. f.
-23696 {@asta-māunas…avadat.@}</p>
+23696 {@asta-maunas…avadat.@}</p>
 23697 <p>{@17-18.@} The question goes to {@pāṇḍityam.@}
 23698 --See {@√śak@} B1, pass. of caus. of desid.
 23699 {@--kālena:@} for instr., 281c. Similarly {@var-
-23700 ṣāis,@} line 21.</p>
+23700 ṣais,@} line 21.</p>
 23701 <p>{@19. tena = pāṇḍityena. --eṣā,@} ‘this’
 23702 that you see about me. {@--na pratibhāsate@}
 23703 = ‘sordet.’</p>
@@ -3477,7 +3477,7 @@
 23717 tam@}) these three languages which pass cur-
 23718 rent’ ({@√bhū + saṃ@}). See p. 334, § 52. --See
 23719 {@tadvat. --Kṣemendra@} (vi. 52) has {@apa-
-23720 bhraṅśa@} for Somadeva's {@deśabhāṣā.@} Both
+23720 bhraṃśa@} for Somadeva's {@deśabhāṣā.@} Both
 23721 of these terms denote indeed a Prākrit
 [Page338-a+ 48]
 23722 dialect; but, in contrast with the word
@@ -3508,14 +3508,14 @@
 23747 tory of the stories. Kathā-sarit-sāgara, Tar.
 23748 viii.--It forms Kṣemendra's eighth chapter
 23749 (of only 16 couplets), {%Jour. As.,%} 8. vi. 449.
-23750 For a general explanation of the Tarañga,
+23750 For a general explanation of the Taraṅga,
 23751 see p. 333, § 51f.</p>
 23752 <p>{@3-4.@} ‘So, by G's request (vii. 113), that
 23753 tale was told by K. in his own ({@piśāca@})
 23754 dialect.’</p>
 23755 <p>{@5-6.@} ‘And by G., likewise in (lit. with)
 23756 that dialect, in (lit. with, 281c) seven years
-23757 ({@varṣāis@}), it ({@sā@}) was written down as seven
+23757 ({@varṣais@}), it ({@sā@}) was written down as seven
 23758 couplet-lacs’ (appositively).</p>
 23759 <p>{@7-8.@} U. f. {@mā@} (580) {@…hārṣus@} (882) {@iti:@}
 23760 ‘Thinking “Let them not steal it,” i. e. Fear-
@@ -3545,7 +3545,7 @@
 23783 {@maṣī@} in vocab.</p>
 23784 <p>{@9-10.@} ‘The sky ({@ambaram@}) became filled
 23785 ({@nirantaram@}) with S. etc., who came ({@āyā-
-23786 tāis@}) to listen, [became filled {%or%} covered] as
+23786 tais@}) to listen, [became filled {%or%} covered] as
 23787 if ({@iva@}) with a canopy.’</p>
 23788 <p>{@12.@} See {@√gam4.@} K. was orig. a {@yakṣa,@}
 23789 see p. 333, § 51. {@--śāpa-muktas@} would be
@@ -3554,10 +3554,10 @@
 23792 earth; and this business (of making it so)
 23793 was enjoined on (lit. announced to, {@ud-īritas@})
 23794 me by Durgā when she told how my curse
-23795 would end (lit. in the declaration, {@-uktāu,@} of
+23795 would end (lit. in the declaration, {@-uktau,@} of
 23796 the end, {@-anta-@}).’ See p. 333, § 51.</p>
 23797 <p>{@19-20.@} The two nominatives in 1. 19 are
-23798 in partitive apposition to {@śiṣyāu…ubhāu,@}
+23798 in partitive apposition to {@śiṣyau…ubhau,@}
 23799 the subject of {@ūcatus.@}</p>
 23800 <head>NOTES TO PAGE {@54.@}</head>
 23801 <p>{@1.@} Explained under {@sthāna6.@}</p>
@@ -3605,7 +3605,7 @@
 23842 troklos, Il. 17. 426: cf. Pliny, {%Nat. Hist.,%} viii.
 23843 42 = 64.</p>
 23844 <p>{@5.@} See {@√vad4.@} --See {@ja.@}</p>
-23845 <p>{@8-9.@} U. f. {@ūcus…girāu…ko 'pi….@}</p>
+23845 <p>{@8-9.@} U. f. {@ūcus…girau…ko 'pi….@}</p>
 23846 <p>{@14-15.@} ‘He saw him completely ({@abhitas@})
 23847 overspread ({@√3kṛ@}) with tangled locks, (that
 23848 were) like (iva) the smoke of what was left
@@ -3654,7 +3654,7 @@
 23890 (the help of) those two, King S., having
 23891 comforted that Kathā, in order to narrate
 23892 ({@vaktum@}) her {%or%} its descent-to-earth in that
-23893 ({@pāiśācī@}) dialect, composed ({@cakre@}) the
+23893 ({@paiśācī@}) dialect, composed ({@cakre@}) the
 23894 Kathāpīṭha.’ This is the name of the pre-
 23895 fatory {@lambaka;@} but there is a double mg,
 23896 ‘he made the pedestal of Kathā (personified),
@@ -3755,7 +3755,7 @@
 23989 {%Manu,%} p. lvii f; Muir, i^2^. 161f, aud esp. 181f.</p></note>
 [Page341+ 47]
 23990 examples highly worthy of imitation. Thus the Veda says (TS. iii. 1. 9^4^), ‘Manu
-23991 divided his property among his sons’; and this is quoted by Bāudhāyana in his
+23991 divided his property among his sons’; and this is quoted by Baudhāyana in his
 23992 Dharma-sūtra as such an example. Such simple beginnings are entirely natural; but
 23993 they are also sufficient to show how, with the growth of legal literature, the authors
 23994 of law-books came to cite all kinds of (supposititious) sayings and doings of Manu as
@@ -3763,7 +3763,7 @@
 23996 was once started, the oftener he was thus cited, the greater his factitious authority
 23997 and the temptation to cite him would become. Accordingly, if we examine the four
 23998 oldest Dharma-sūtras, we find much more frequent reference to Manu in Vasiṣṭha,
-23999 the latest of them, than in Gāutama, the oldest. And thus, at last, what had been
+23999 the latest of them, than in Gautama, the oldest. And thus, at last, what had been
 24000 a mere name, a part of the traditional inheritance of the mythical past, attained to
 24001 greatness as a personal authority and actual law-giver.</p>
 24002 <p>§ 56. Before proceeding to our other questions, let us rehearse briefly the native
@@ -3815,8 +3815,8 @@
 24047 tion handed down from generation to generation. Thus among the adherents of the
 24048 Black Yajur-veda, we find the family of Āpastamba; and, bearing his name, we find
 24049 not only a Brāhmaṇa, but also a complete Kalpa-sūtra in its three subdivisions
-24050 of Śrāuta-sūtra or ‘Rules for the fire-sacrifices,’ Gṛhya-sūtra or ‘Domestic usages,’
-24051 and Dharma-sūtra or ‘Sacred law.’ The Kalpa-sūtra of Bāudhāyana doubtless had
+24050 of Śrauta-sūtra or ‘Rules for the fire-sacrifices,’ Gṛhya-sūtra or ‘Domestic usages,’
+24051 and Dharma-sūtra or ‘Sacred law.’ The Kalpa-sūtra of Baudhāyana doubtless had
 24052 a similar make-up. Good editions of various Gṛhya- and Dharma-sūtras are now
 24053 accessible in text and translation. They treat^1^ of the sacraments, of the duties of a
 24054 Brahman in the various stages of his life, as student, householder, hermit, beggar,
@@ -3835,12 +3835,12 @@
 24067 is the ‘Law-book of the Mānavans.’ This is a particular thesis, quite different from
 24068 the general conclusion just stated; and, although very widely accepted, it is not
 24069 universally so. The theory^2^ of this connection proceeds as follows. Among the
-24070 schools of the Black Yajur-veda, especially among those of the Māitrāyaṇīya branch
+24070 schools of the Black Yajur-veda, especially among those of the Maitrāyaṇīya branch
 24071 thereof, we find the school of the Mānavans.^3^ According to the investigations of
-24072 Dr. von Schröder,^4^ the Māitrāyaṇīya seems to have been one of the oldest and most
-24073 important of all the schools of the Yajus-period.^5^ Of these Māitrāyaṇīyas there are
+24072 Dr. von Schröder,^4^ the Maitrāyaṇīya seems to have been one of the oldest and most
+24073 important of all the schools of the Yajus-period.^5^ Of these Maitrāyaṇīyas there are
 24074 still some representatives surviving in Western India; and their Sūtras are entitled
-24075 Mānava-sūtras. Manuscripts of the Mānava-śrāuta-sūtra and the Mānava-gṛhya-
+24075 Mānava-sūtras. Manuscripts of the Mānava-śrauta-sūtra and the Mānava-gṛhya-
 24076 sūtra are still extant.^6^</p>
 24077 <p>§ 60. Unfortunately, the Mānava-dharma-sūtra, the link most important to
 24078 connect our Bhṛgu-saṃhitā with the Vedic schools, is still missing. The researches
@@ -3851,7 +3851,7 @@
 24083 Gesetzbuch des Manu,%} p. 100f; by West and Bühler
 24084 in 1867, see {%Digest^2^,%} p. 27; by Schröder in 1879, {%Mo-
 24085 natsberichte der Berliner Akad.%} for 1879, p. 700, and
-24086 in 1881, ed. of Māitrāyaṇī-saṃhitā, i. p. XVIII; and
+24086 in 1881, ed. of Maitrāyaṇī-saṃhitā, i. p. XVIII; and
 24087 finally by Bühler in 1887, in his {%Manu,%} p. xviii-xlv.</p></note>
 24088 <note n="342-3"><p>See Caraṇa-vyūha, ISt. iii. 258.</p></note>
 24089 <note n="342-4"><p>In the places just cited.</p></note>
@@ -3889,17 +3889,17 @@
 24120 thereto) of the non-sectarian schools of special sciences, whose teachings claimed
 24121 validity for all Aryans. In the old Vedic schools, the pupils had to learn the texts
 24122 of the Mantras and Brāhmaṇas of their sect, and the short ancillary treatises, on
-24123 ritual, etymology, metre, etc., called Añgas or ‘Limbs’ of the Veda. With the
+24123 ritual, etymology, metre, etc., called Aṅgas or ‘Limbs’ of the Veda. With the
 24124 development of these subjects to elaborate disciplines, it became impossible for a
 24125 student to master them all. He must either content himself with a thorough verbal
 24126 but unintelligent acquaintance with the texts and short treatises of his own sect; or
 24127 else he must become a specialist in the ritual, the law, or some other subject, and
 24128 renounce an extensive knowledge of the sacred texts.</p>
 24129 <p>§ 64. That this truly describes the course of things is shown by the present
-24130 state of learning in India. A good Vāidik is able to recite all the texts of his branch
+24130 state of learning in India. A good Vaidik is able to recite all the texts of his branch
 24131 of the Veda. But in order to have an elaborate sacrifice performed, there is need of
-24132 a Śrotriya specialist, who, though ignorant of the other Añgas, is yet a master of
-24133 the ritual. In the case of two of the Añgas, grammar and astronomy, the Vedic
+24132 a Śrotriya specialist, who, though ignorant of the other Aṅgas, is yet a master of
+24133 the ritual. In the case of two of the Aṅgas, grammar and astronomy, the Vedic
 24134 schools possess no sectarian text-books of their own. These subjects, it would seem,
 24135 had been abandoned to the specialists at an early period. For a good while longer
 24136 the sacred law was cultivated in the Vedic schools, as appears from the existence of
@@ -3934,8 +3934,8 @@
 24164 structing a treatise that aspired to universal acceptance, they must {%ipso facto%} with-
 24165 draw any claim thereto which rested on the high standing of the Sūtra-original as a
 24166 sectarian work. The problem then was, in accomplishing this task, to avoid too
-24167 violent a break with tradition. Had they taken the Gāutama-sūtra, and recast it,
-24168 waiving for it all claim to general validity on the score of Gāutama's authority, it
+24167 violent a break with tradition. Had they taken the Gautama-sūtra, and recast it,
+24168 waiving for it all claim to general validity on the score of Gautama's authority, it
 24169 would indeed have been a bold proceeding to father it upon Vyāsa or Manu or any
 24170 of the great sages of yore. By choosing the Mānava-sūtra, after their silent waiver
 24171 on the one hand, they had only, on the other, to interpret its title expressly as
@@ -3986,7 +3986,7 @@
 24215 <p>The householder. Precepts and prohibitions … … … 62^8^</p>
 24216 <p>Virtue is the only true friend … … … 63^7^</p>
 24217 <p>The struggle for existence … … … 63^21^</p>
-24218 <p>Wanton life-taking. Etymology of {%māṅsa%} … … … 64^2^</p>
+24218 <p>Wanton life-taking. Etymology of {%māṃsa%} … … … 64^2^</p>
 24219 <p>Women. The faithful widow … … … 64^8^</p>
 24220 <p>The forest-hermit. Self-castlgation … … … 64^16^</p>
 24221 <p>The pious mendicant … … … 64^22^</p>
@@ -4009,14 +4009,14 @@
 24238 ing manifest ({@vy-añjayann@}) this (universe),
 24239 the grosser elements and so forth,…revealed
 24240 himself’ (u. f. {@prādus āsīt@}).</p>
-24241 <p>{@19-20.@} U. f. {@yas asāu atī-@} etc., {@sas…
-24242 ud-babhāu.@}</p>
+24241 <p>{@19-20.@} U. f. {@yas asau atī-@} etc., {@sas…
+24242 ud-babhau.@}</p>
 24243 <head>NOTES TO PAGE {@57.@}</head>
 24244 <p>{@1-2.@} Join the ablatives w. {@sisṛkṣus.@} --
-24245 U. f. {@apas…ādāu.@} Primeval waters: cf.
+24245 U. f. {@apas…ādau.@} Primeval waters: cf.
 24246 Muir, iv^2^. 24f; also Strabo, xv. 59, p. 713.</p>
 24247 <p>{@3-4.@} ‘That (seed) became a golden (u. f.
-24248 {@hāimam@}) egg, having sun-like splendor
+24248 {@haimam@}) egg, having sun-like splendor
 [Page345-b+ 41]
 24249 ({@prabhā@}).’ --Brahmán is conceived as too
 24250 distant to be a father; cf. ZDMG. xxxii. 295.</p>
@@ -4117,7 +4117,7 @@
 24343 {@--tad-vidām = veda-vidām. --ātmanas
 24344 tuṣṭis@} may decide in cases where no rule of
 24345 morals and no usage is involved. --L. 14
-24346 agrees exactly with Gāutama's Dharma-
+24346 agrees exactly with Gautama's Dharma-
 24347 śāstra, i. 1-2, except that it is in metrical
 24348 form.</p>
 24349 <p>{@16-17. -uditam, √vad.@} --See {@√i + pra.@}</p>
@@ -4169,14 +4169,14 @@
 24394 2 is done to bring it about that the child
 24395 prove a male. No. 3 is a consecration of the
 24396 pregnant woman by the parting of her hair.</p>
-24397 <p>{@3-4. gārbhāis homāis:@} ‘the oblations
+24397 <p>{@3-4. gārbhais homais:@} ‘the oblations
 24398 relating to pregnancy’ are involved in sacra-
 24399 ments 2 and 3. --The ligation of the girdle
 24400 accompanies investiture (9). --U. f. {@enas
 24401 apa-mṛjyate.@}</p>
 24402 <p>{@5-6.@} See {@vratá.@} --U. f. {@ijyayā,@} ‘offer-
 24403 ing’ to Gods, Rishis, and Manes, while he is
-24404 a student. {@--sutāis:@} procreation of sons is
+24404 a student. {@--sutais:@} procreation of sons is
 24405 a duty. ‘A Brahman is born laden with
 24406 three debts. He owes Veda-study to the
 24407 Rishis; sacrifice to the Gods; and sons to
@@ -4184,7 +4184,7 @@
 24409 sacrifices’ are five, to the Gods, Beings,
 24410 Manes, Bráhman, and men: enumerated
 24411 ŚB. xi. 5. 6^1^ or AGS. iii. 1 (= SBE. xxix. 217)
-24412 or Manu iii. 69f. {@--yajñāis,@} such as a certain
+24412 or Manu iii. 69f. {@--yajñais,@} such as a certain
 24413 Soma-ceremony called {@jyotiṣṭoma,@} says a
 24414 Scholiast. --U. f. {@brāhmī,@} ‘holy, fit for
 24415 union with Bráhman.’</p>
@@ -4239,7 +4239,7 @@
 24463 {%Fleckeisen's Jahrbücher,%} 1880, p. 451. Or see
 24464 SBE. xxix. 112f, 119f.</p>
 24465 <p>{@8-9. brahmaṇas@} (see {@bráhman@} 2) limits
-24466 {@ādāu@} and {@ante.@} --See {@√1kṛ@} 7. {@--sravati,@}
+24466 {@ādau@} and {@ante.@} --See {@√1kṛ@} 7. {@--sravati,@}
 24467 subject {@bráhma. --√1śṛ + vi.@}</p>
 24468 <p>{@10-11. a + u + m = om.@} --Prajāpati belongs
 24469 to the period succeeding the RV., and is later
@@ -4310,7 +4310,7 @@
 24533 For the long adverb, see vocab.</p>
 24534 <p>{@11-12.@} U. f. {@“bhavati” iti evam:@} see {@iti@} 4.</p>
 24535 <p>{@13-14.@} U. f. {@ṛtvijas.@} ‘One should say [to
-24536 those in line 13] {@“asāu aham,”@} rising up to
+24536 those in line 13] {@“asau aham,”@} rising up to
 24537 meet (them, even if they are) the younger.’</p>
 24538 <p>{@15-16.@} The ‘second’ or ‘spiritual birth’
 [Page348-b+ 49]
@@ -4324,7 +4324,7 @@
 24546 matter. And the gods, assembling ({@sametya@}),
 24547 said ({@ūcus@}) to them {%etc.%}’</p>
 24548 <p>{@22.@} See {@iti2f@} and 1102a^2^ near end.</p>
-24549 <p>{@23.@} See {@ṣaṭtriṅśat@} and {@ābdika.@} The
+24549 <p>{@23.@} See {@ṣaṭtriṃśat@} and {@ābdika.@} The
 24550 Brahmanical school-term lasted 4(1/2) months,
 24551 began with the {@upākarman@} and ended with
 24552 the {@utsarga@}--see Bühler's {%Manu,%} p. xlvi,
@@ -4388,7 +4388,7 @@
 24609 monies. --See {@yuj2.@}</p>
 24610 <p>{@12-13.@} There is so frequent need of water
 24611 for ceremonial purification that a Brahman
-24612 should never be without it (see Bāudhāyana,
+24612 should never be without it (see Baudhāyana,
 24613 i. 6 and 7, esp. i. 7. 1, or SBE. xiv. 160f); hence
 24614 the jar. --See {@vedá@}--not {@véda.@} --‘Gold
 24615 ear-rings:’ <gr></gr>,
@@ -4412,7 +4412,7 @@
 24633 divinities--83^1^) was shown by the Persians
 24634 (Hdt. i. 138; Strabo, xv. 3. 16, p. 733) and the
 24635 Greeks (Hesiod, {%Works and Days,%} 757). {@--
-24636 paśyaṅs,@} ‘facing.’</p>
+24636 paśyaṃs,@} ‘facing.’</p>
 24637 <p>{@22-23.@} If the earth be regarded as a flat
 [Page349-b+ 49]
 24638 surface, under which the sun passes by night
@@ -4441,7 +4441,7 @@
 24661 <p>{@1-2. ā-cakṣīta,@} 616. ‘Nor let him tell
 24662 (the fact that she is drinking--{@√2dhā@}) to
 24663 any body’ (297a). --U. f. {@divi in-.@}</p>
-24664 <p>{@3-4.@} U. f. {@-dhvanāu@} (‘at the sound of’)
+24664 <p>{@3-4.@} U. f. {@-dhvanau@} (‘at the sound of’)
 24665 {@ṛg-yajuṣī@} (1253a) {@na adhi_iyīta@} (616)…
 24666 {@adhi_itya vā api antam@} etc. See {@vā@} 1 end.
 24667 --Respecting this and the next {@śloka@} (SV.
@@ -4470,7 +4470,7 @@
 24689 eat herbs; tigers eat gazelles; men eat fish;
 24690 lions eat elephants.”--Scholiast.</p>
 24691 <head>NOTES TO PAGE {@64.@}</head>
-24692 <p>{@2-3.@} U. f. {@kuryāt,@} 59^9^N. --See {@sañga2.@}
+24692 <p>{@2-3.@} U. f. {@kuryāt,@} 59^9^N. --See {@saṅga2.@}
 24693 --See {@tu@} 3.</p>
 24694 <p>{@6-7.@} U. f. {@bhakṣayitā@} (1050, cf. 944)…
 24695 {@iha admi aham.@} --‘{%Me eat%} in t'other world
@@ -4479,7 +4479,7 @@
 24698 meat = That is why meat is called meat.’
 24699 An example of Hindu etymologies, which
 24700 are often little better than mere puns--as
-24701 here, {@māṃ sa@} and {@māṅsam.@} Hopkins notes
+24701 here, {@māṃ sa@} and {@māṃsam.@} Hopkins notes
 24702 that this is given in varied form, MBh. xiii.
 24703 116. 35 = 5714. Cf. Whitney, AJP. iii. 402;
 24704 also 94^16^.</p>
@@ -4488,14 +4488,14 @@
 24707 <gr></gr>
 24708 <gr></gr> etc. Notable exceptions to
 24709 this statement are found in the ancient
-24710 legends of Māitreyī and Gārgī--SBE. xv.
+24710 legends of Maitreyī and Gārgī--SBE. xv.
 24711 108, 130, 136.</p>
 24712 <p>{@10-11.@} ‘Any thing disliked of her husband
 24713 (296b), displeasing to him.’ --It is note-
 24714 worthy that widow-burning (see p. 382) is
 24715 quite ignored here. It is not mentioned
 24716 anywhere in Manu; and the same is true of
-24717 Yājñavalkya, Nārada, Gāutama, Āpastamba,
+24717 Yājñavalkya, Nārada, Gautama, Āpastamba,
 24718 and most of the others.--Jolly, {%Sitzungs-
 24719 berichte der Bairischen Akad.,%} 1876, p. 447.
 24720 He thinks it originated among the lower
@@ -4534,12 +4534,12 @@
 24752 {@pipīlikā-madhya@} or ‘ant-middled.’</p>
 24753 <p>{@7-8.@} ‘One should follow the same rule
 24754 entire, in (case of) the {@yava-madhyama@}
-24755 (see this), intent, performing ({@caraṅś@}) the
+24755 (see this), intent, performing ({@caraṃś@}) the
 24756 lunar penance with the bright fortnight
 24757 first.’</p>
-24758 <p>--These are fully described, e. g. by Gāu-
+24758 <p>--These are fully described, e. g. by Gau-
 24759 tama, xxvii. (transl. SBE. ii. 296f), and by
-24760 Bāudhāyana, iii. 8 (SBE. xiv. 303f).</p>
+24760 Baudhāyana, iii. 8 (SBE. xiv. 303f).</p>
 24761 <p>{@9f.@} Cf. below, p. 357, § 90. --For a
 24762 summary of this schematic exposition of
 24763 the doctrine of metempsychosis, see {%Indian
@@ -4563,7 +4563,7 @@
 24781 victims when required by the ritual, or to
 24782 a man when inflicted as a lawful penalty.</p>
 24783 <p>{@19.@} U. f. {@manasā eva ayam@} (lit. ‘this one’
-24784 = ‘a man’) {@upa-bhuñkte.@} See {@√2bhuj + upa@} 2.</p>
+24784 = ‘a man’) {@upa-bhuṅkte.@} See {@√2bhuj + upa@} 2.</p>
 [Page351-a+ 49]
 24785 <head>NOTES TO PAGE {@66.@}</head>
 24786 <p>{@1.@} ‘And ({@ca@}) he [if he does right for the
@@ -4583,7 +4583,7 @@
 24800 (which result) from right-doing and from
 24801 wrong-doing’ (1098). --See {@√1dhā3.@}</p>
 24802 <p>{@8-9.@} See {@sattva2, rajas4, tamas3,@} and
-24803 esp. {@guṇa3,@} and also {@ātmañ,@} and {@mahanṭ,@}
+24803 esp. {@guṇa3,@} and also {@ātman5,@} and {@mahanṭ,@}
 24804 all technical terms here. --‘One should
 24805 know goodness, passion, and darkness as
 24806 the {@ātman's@} three qualities, with which the
@@ -4671,7 +4671,7 @@
 24886 <p>{@16-17.@} ‘Nineteen wives went to the wood
 24887 to play. Twenty came home. The rest were
 [Page352-b+ 7]
-24888 eaten by a tiger.’ --Solution: {@ekonā viṅśatir
+24888 eaten by a tiger.’ --Solution: {@ekonā viṃśatir
 24889 nāryaḥ@} = ‘wives twenty lacking one’ (477a);
 24890 or, dividing {@eko nā@} (stem {@nṛ@}), ‘one man (and)
 24891 twenty wives.’</p>
@@ -4887,7 +4887,7 @@
 25096 diverse malign influences, and prayers and charms for success in the various affairs
 25097 of life, as love, gaming, quarrels, journeys, and the like. It has a high degree of
 25098 interest for the student of popular superstitions. The Saṃhitā has come down to us
-25099 in at least two recensions. The one is called the Pāippalāda Śākhā.^9^ The other was
+25099 in at least two recensions. The one is called the Paippalāda Śākhā.^9^ The other was
 25100 published in 1856 by Roth and Whitney.^10^ About a sixteenth part of the RV. stanzas
 25101 occur also--with more or less interesting variants--in books i. to xix. of this text.
 25102 Shankar P. Pandit of Bombay is now editing the AV. with Sāyaṇa's comment.</p>
@@ -4924,20 +4924,20 @@
 25132 happened that the sectarian schools of the Yajurveda were especially numerous and
 25133 flourishing.</p>
 25134 <p>§ 87. The Black Yajurveda. The various schools of this, the older Yajurveda,
-25135 bear the names of men reputed to be the pupils--directly or indirectly--of Vāiśam-
+25135 bear the names of men reputed to be the pupils--directly or indirectly--of Vaiśam-
 25136 pāyana, a name great in the Epos. At least five schools^4^ possessed special Saṃhitās,
 25137 of which four are still extant: to wit, the Saṃhitā of the Kaṭhas (<gr></gr>) or the
-25138 Kāṭhaka; that of the Kapiṣṭhala-Kaṭhas (<gr></gr>); that of the Māitrāyaṇīyas;
-25139 and that of the school of Āpastamba, a subdivision of the Tāittirīyas. The one last
-25140 mentioned, the Tāittirīya Saṃhitā, was the first to be printed in a scholarly edition.^5^
-25141 The Māitrāyaṇī Saṃhitā has recently been published by Dr. L. von Schröder, Leip-
+25138 Kāṭhaka; that of the Kapiṣṭhala-Kaṭhas (<gr></gr>); that of the Maitrāyaṇīyas;
+25139 and that of the school of Āpastamba, a subdivision of the Taittirīyas. The one last
+25140 mentioned, the Taittirīya Saṃhitā, was the first to be printed in a scholarly edition.^5^
+25141 The Maitrāyaṇī Saṃhitā has recently been published by Dr. L. von Schröder, Leip-
 25142 zig, 1881-86. The others are still unedited. In all these texts of the old Yajus
 25143 Saṃhitās, the sacred formulas are commingled with prose passages, explanatory and
 25144 prescriptive. A single such passage is a {@Brā́hmaṇa,^6^@} ‘the dictum of a {@brahmán@} {%or%}
 25145 priest,’ ‘a priestly discourse.’</p>
 25146 <p>§ 88. The White Yajurveda. To remedy this confusion, a new school of
 25147 Adhvaryus, called the Vājasaneyins, arranged a Saṃhitā of ‘clear formulas’ ({@śuklāni
-25148 yajūṅṣi@}), i. e. a text in which the formulas or Mantras were separated from the
+25148 yajūṃṣi@}), i. e. a text in which the formulas or Mantras were separated from the
 25149 priestly discourses or Brāhmaṇas.^7^ Not without some little animus, doubtless, they
 25150 turned to account the double meaning of {@śukla,@} ‘clear’ or ‘white,’ and fixed the
 25151 name of “Dark” ({@kṛṣṇa,@} ‘dark’ or ‘black’) upon the mingled or uncleared texts of
@@ -5042,7 +5042,7 @@
 25248 details of the sacrifice, and do not undertake a systematic exposition thercof. But
 25249 when the ceremonies had grown to tremendous length and complexity, it became
 25250 necessary to have manuals giving full and orderly directions for the use of the
-25251 celebrant. Such works are the ‘Rules for the sacrifices’ or Śrāuta-sūtras, so called
+25251 celebrant. Such works are the ‘Rules for the sacrifices’ or Śrauta-sūtras, so called
 25252 because they stand in most intimate relation to the Veda or ‘sacred texts’ ({@śruti@}),
 25253 and continually cite these texts, and prescribe the manner and the occasions of their
 25254 employment with the various ceremonies.</p>
@@ -5138,36 +5138,36 @@
 25343 Entwicklung%} (Leipzig, 1887), the first third of which
 25344 is devoted to the Veda, and especially to the period
 25345 of the Yajurveda.</p>
-25346 <p>{@2. Rigveda. Brāhmaṇas etc.@} The Āitareya
+25346 <p>{@2. Rigveda. Brāhmaṇas etc.@} The Aitareya
 25347 Brāhmaṇa was edited by Aufrecht--see {%List,%} no. 16.
 [Page359-b+ 39]
 25348 Haug had already published the text with a trans-
 25349 lation (Bombay, 1863), criticised and corrected by
 25350 Weber, 1St. ix. 177-380.</p>
-25351 <p>The Āitareya Āraṇyaka is associated with the
+25351 <p>The Aitareya Āraṇyaka is associated with the
 25352 Brāhmaṇa of the same name. It has five books and
 25353 was edited with Sāyaṇa's comment by R. Mitra in
 25354 the {%Bibliotheca Indica,%} 1876. See SBE. i. p. xci f.</p>
-25355 <p>Āitareya Upaniṣad is the name borne by certain
+25355 <p>Aitareya Upaniṣad is the name borne by certain
 25356 parts of the Āraṇyaka, viz. book ii., chap's 4, 5, 6--
 25357 see SBE. i. p. xcvi. The text was edited and trans-
 25358 lated by Röer, BI., 1849-53. Müller gives another
 25359 translation, SBE. i. 200f.</p>
-25360 <p>The Śāñkhāyana or Kāuṣītaki Brāhmaṇa was
+25360 <p>The Śāṅkhāyana or Kauṣītaki Brāhmaṇa was
 25361 edited by Bruno Lindner (Jena, Costenoble, 1887).
 25362 A translation is soon to follow.</p>
-25363 <p>The Kāuṣītaki Brāhmaṇa Upaniṣad was edited
+25363 <p>The Kauṣītaki Brāhmaṇa Upaniṣad was edited
 25364 (with Śaṃkara's comment) and translated by Cowell,
 25365 BI., 1861. Another translation, by Müller, SBE.
 25366 i. 271f; introduction, ibidem, p. xcviii.</p>
-25367 <p>{@3. Rigveda. Sūtras etc.@} Āśvalāyana's Śrāuta-
+25367 <p>{@3. Rigveda. Sūtras etc.@} Āśvalāyana's Śrauta-
 25368 sūtra was edited by R. Vidyāratna, BI., 1874.</p>
 25369 <p>Āśvalāyana's Gṛhya-sūtra was edited (with trans-
 25370 lation) by Stenzler--see {%List,%} no. 17. English ver-
 25371 sion by Oldenberg, SBE. xxix.</p>
-25372 <p>Śānkhāyana's Śrāuta-sūtra was edited by Alfred
+25372 <p>Śānkhāyana's Śrauta-sūtra was edited by Alfred
 25373 Hillebrandt, BI., 1886.</p>
-25374 <p>Śāñkhāyana's Gṛhya-sutra was edited in 1878 by
+25374 <p>Śāṅkhāyana's Gṛhya-sutra was edited in 1878 by
 25375 Oldenberg, ISt. xv. 1-166, with translation. English
 25376 version by Oldenberg, SBE. xxix.</p>
 25377 <p>No Dharma-sūtra is certainly known to be attached
@@ -5201,14 +5201,14 @@
 25404 <p>LINES {@1-2. īḻe, √īḍ:@} accentless, 592: for
 25405 the new letter, see p. 291 µ 8, and Whitney,
 25406 5 end. --RV. x. 2. 5 plays on the etymology
-25407 of {@ṛtv-íj@} thus: {@agnír…devā́ṅ ṛtu-śó yajāti.@}
+25407 of {@ṛtv-íj@} thus: {@agnír…devā́ṃ ṛtu-śó yajāti.@}
 25408 --For superl., 471.</p>
 25409 <p>{@3. pū́rvebhis,@} 330, Vedic instr.: for {@r@}
 25410 final w. initial {@ṛ,@} Whitney, 14 end.</p>
-25411 <p>{@4.@} U. f. {@devā́ṅs ā́ ihá.@} This interesting
+25411 <p>{@4.@} U. f. {@devā́ṃs ā́ ihá.@} This interesting
 25412 combination is really the result of a historic
 25413 survival, and is fully explained at 209.
-25414 Observe that {@āṅ,@} though transliterated with
+25414 Observe that {@āṃ,@} though transliterated with
 25415 two letters, is a simple nasalized vowel, 209a.
 25416 {@--ā́…vakṣati:@} position of prefix, 1081;
 25417 accent of verb form, 1082; {@√vah,@} aor. sub.,
@@ -5318,7 +5318,7 @@
 25519 and {@kílā:@} see references in vocab.; the pro-
 25520 longations are in the even syllables of the
 25521 cadence. {@--vivitse,@} 798a.</p>
-25522 <p>{@9.@} Pronounce {@víaṅsam:@} cf. Whitney, 84a.</p>
+25522 <p>{@9.@} Pronounce {@víaṃsam:@} cf. Whitney, 84a.</p>
 25523 <p>{@10. kúliśenā,@} 248b. {@--ví-vṛkṇā,@} nom. pl.
 25524 neut., common in Veda, for {@-āni: √vraśc.
 25525 --śay-a-te,@} transition-form (749) from root-
@@ -5418,7 +5418,7 @@
 25617 <p>--It seems unavoidable to join {@devá ékas@}
 25618 with {%c:%} cf. i. 33. 4 and i. 165. 6 = 73^14^. --Second
 25619 {@ájayas@} begins a new clause: hence acct, 593^2^.</p>
-25620 <p>{@4.@} Explained under {@yá@} 4: {@asmāi@} means
+25620 <p>{@4.@} Explained under {@yá@} 4: {@asmai@} means
 25621 Vritra. {@--ákirad dh-,@} 163. --Cf. what is
 25622 said of Yahve at Psalm xviii. 13, 14.</p>
 25623 <p>{@5. yuyudhā́te,@} 800a. --U. f. {@utá aparī́-
@@ -5493,7 +5493,7 @@
 25690 Before the all-beholding Sun.</p>
 25691 <p>{@14. ádṛśram@} (834b end) {@…ví@} (1081^2^)--
 25692 passively, 998b: equiv. to {@vy-adṛkṣata,@} 882.
-25693 {@--jánāṅ,@} 209.</p>
+25693 {@--jánāṃ,@} 209.</p>
 25694 <p>{@18-19.@} See {@pratyáñc3.@} --Pronounce {@de-
 25695 vā́naām,@} 113^3^. {@--pratyáññ,@} 210. --Pro-
 25696 nounce {@súar@} (Whitney, 84b): reg. written
@@ -5505,7 +5505,7 @@
 25702 persist in miswriting; it is a typical mistake
 25703 belonging to the second stage of the tradi-
 25704 tion--see p. 354, § 79, and KZ. xxvi. 60.</p>
-25705 <p>{@--jánāṅ ánu:@} if joined w. ppl., render
+25705 <p>{@--jánāṃ ánu:@} if joined w. ppl., render
 25706 ‘stirring {%or%} busy among (so RV. viii. 9. 2b)
 25707 his follows;’ if w. {@páśyasi@} (acct, 595a),
 25708 ‘over the peoples thou dost look on busy
@@ -5601,7 +5601,7 @@
 25796 go the rays. For thou, O (God) who hast a
 25797 face on all sides, on all sides dost protect.’</p>
 25798 <p>{@20.@} ‘Bring us across the (stream of) foes
-25799 as with a boat.’ See {@nāú@} and {@√2pṛ + ati.@}</p>
+25799 as with a boat.’ See {@nau4@} and {@√2pṛ + ati.@}</p>
 25800 <head>NOTES TO PAGE {@73.@}</head>
 25801 <p>{@2.@} Pronounce {@sá naḥ síndhviva nāváyā,@}
 25802 w. elision of {@-m@} and combination: instance
@@ -5722,7 +5722,7 @@
 25915 used as instr. (or gen.) also. ‘With (= in
 25916 company of) us combined, (and) by our
 25917 united prowess.’ --Pronounce {@yújiebhis,
-25918 pāúṅsiebhis.@}</p>
+25918 pau4ṃsiebhis.@}</p>
 25919 <p>{@17. kṛṇávāmā@} (248c), pres. subjunctive
 25920 (700) of {@√kṛ,@} 715. {@--krátvā,@} Classic {@kra-
 25921 tunā,@} 342. {@--maruto,@} voc.: the spokesmen
@@ -5775,7 +5775,7 @@
 25967 delighted me, upon looking at (you), O
 25968 Maruts, and delight ye me now.’</p>
 25969 <p>{@8.@} See {@√mah. --prá yātana,@} 618. {@--
-25970 sákhīṅr,@} 209.</p>
+25970 sákhīṃr,@} 209.</p>
 25971 <p>{@9.@} See {@√vat. --bhūta,@} 835. {@--návedās,@}
 25972 415e, as nom. pl. m.</p>
 25973 <p>--The accent-rules for the oblique cases
@@ -5871,7 +5871,7 @@
 26061 (v. 82) we find verses run in the same mould.
 26062 And it is interesting to find the RV. stanzas
 26063 iii. 62. 10 ({@gāyatrī@}) and v. 82. 1 repeated in
-26064 juxtaposition in the Tāittirīya {@āraṇyaka@} at
+26064 juxtaposition in the Taittirīya {@āraṇyaka@} at
 26065 i. 11. 2 and i. 11. 3. After the pattern of the
 26066 {@gāyatrī@} have been made a good many wooden
 26067 and halting stanzas: so TA. x. 1. 5, 6.</p>
@@ -5965,7 +5965,7 @@
 26153 and read {@indra. --té urvī́@} (342) etc. are
 26154 accusatives dual neuter, object of the verbs
 26155 in next line. {@--mahitvā́@} (330) ‘by might.’</p>
-26156 <p>{@6. sám āirayam, √īr,@} 585. {@--dhāráyaṃ
+26156 <p>{@6. sám airayam, √īr,@} 585. {@--dhāráyaṃ
 26157 ca@} makes a new clause, hence acct, 593^2^.</p>
 26158 <p>{@7-8.@} ‘I made the dropping rains to stream.
 26159 I uphold heaven in the place of eternal order.
@@ -6038,7 +6038,7 @@
 26224 The wide expanse of air she fills.</p>
 26225 <p>{@6-7. ā-paprúṣī,@} sc. {@jráyas,@} or with Sāyaṇa,
 26226 {@jagat,@} ‘the world,’ ‘all’: the stems of this
-26227 perf. ppl. are {@paprivā́ṅs-@} and {@paprúṣ-,@} cf.
+26227 perf. ppl. are {@paprivā́ṃs-@} and {@paprúṣ-,@} cf.
 26228 803 and 459. --Pronounce {@ví āvar@} ({@√1vṛ,@}
 26229 831^2^, 585^2^). --‘According to thy wont, be
 26230 gracious.’</p>
@@ -6068,7 +6068,7 @@
 26254 riks (see Sāyaṇa to RV. v. 24 and to PB.
 26255 xiii. 12. 5).</p>
 26256 <p>--Tradition (Kātyāyana) ascribes this
-26257 hymn and also x. 57-60 to the Gāupāyana
+26257 hymn and also x. 57-60 to the Gaupāyana
 26258 brothers, Bandhu, Subandhu, Śrutabandhu,
 26259 and Viprabandhu. In his comments to x.
 26260 57-60, Sāyaṇa gives the pertinent legendary
@@ -6170,8 +6170,8 @@
 26354 and joined with the subject--‘with a
 26355 frightening.’ {@--mā́…ní gārīt: √2gṛ;@} aor.,
 26356 899a; combination w. {@mā́,@} 579.</p>
-26357 <p>{@17.@} Pronounce {@tuám mitṛó asi…tāú
-26358 mehā́vatam. --mitró,@} ‘friend.’ --U. f. {@tāú@}
+26357 <p>{@17.@} Pronounce {@tuám mitṛó asi…tau4
+26358 mehā́vatam. --mitró,@} ‘friend.’ --U. f. {@tau4@}
 26359 (see {@tá2@} end) {@mā ihá avatam:@} ‘so do ye
 26360 two help me here, (thou) and V.’ With the
 26361 peculiar omission of {@tvám@} compare that of
@@ -6284,10 +6284,10 @@
 [Page371-a+ 48]
 26466 <p>--STANZA 5 may be spoken by maid or by
 26467 lover or by both. With the AV. reading,
-26468 {@svápantu asyāi jñātáyaḥ@} (see 365. 3), it must
+26468 {@svápantu asyai jñātáyaḥ@} (see 365. 3), it must
 26469 be spoken by the lover. Stanzas 6-8 may
 26470 be spoken by both.</p>
-26471 <p>{@12-13. nas,@} expect {@nāu@}--see above. --
+26471 <p>{@12-13. nas,@} expect {@nau@}--see above. --
 26472 See under {@yáthā@} 2 and cf. {@yá@} 2.</p>
 26473 <p>{@14-15.@} See {@vṛṣabhá@} 1. {@--ténā sahas-
 26474 yènā@} (248b), ‘by (aid of) this mighty one.’
@@ -6312,7 +6312,7 @@
 26493 <gr></gr>.
 26494 Each of the parts into which the verse is
 26495 broken is a ‘syllable-pentad’ or {@akṣara-
-26496 pañkti;@} and each is an independent {@pāda,@}
+26496 paṅkti;@} and each is an independent {@pāda,@}
 26497 since verbs at the beginning of the even
 26498 pentads are accented, e. g., at vii. 34. 3^b^, 3^d^, 4^b^,
 26499 6^b^. A pentad-couplet is sometimes joined
@@ -6398,7 +6398,7 @@
 26577 langes Renier,%} p. 85.</p>
 26578 <p>{@8. yuyóta:@} irreg. impv. (654) of {@√2yu;@} ac-
 26579 cented, as standing at the beg. of a {@pāda@} (see
-26580 above). {@--práṇañ naḥ,@} u. f. {@prá-nak@} (192a,
+26580 above). {@--práṇaṅ naḥ,@} u. f. {@prá-nak@} (192a,
 26581 161) {@nas: nak,@} for {@nak-t, √2naś,@} 833, 218^3^;
 26582 augmentless aor. as subjunct., w. {@mā́.@}</p>
 26583 <p>{@9.@} Classic, {@priyā́ṇi nā́māni@} (425d). {@--
@@ -6515,10 +6515,10 @@
 26692 {@--īm,@} enclitic pron., with which {@vṛ́ṣaṇam@} is
 26693 in epexegetical apposition--cf. 70^6^N. {@--
 26694 kárate,@} root-aor. subjunctive, 836. --See
-26695 {@vṛ́ṣaṅ,@} and cf. the Hebrew conception of
+26695 {@vṛ́ṣan3,@} and cf. the Hebrew conception of
 26696 the sun that “rejoiceth as a {%strong man%} to
 26697 run a race,” Ps. xix. 5.</p>
-26698 <p>{@8. maṅsi, √maṇ,@} {%s%}-aor. mid. 1st pers. s.,
+26698 <p>{@8. maṃsi, √maṇ,@} {%s%}-aor. mid. 1st pers. s.,
 26699 882. --‘So now, having come (805) to the
 26700 sight of him, as Agni's face I deem Varuṇa's.’
 26701 When I contemplate Varuṇa, his face seems
@@ -6539,7 +6539,7 @@
 26715 {@mádhya3.@}</p>
 26716 <p>{@11. ádhi apā́m snúbhis,@} <gr></gr>
 26717 <gr></gr> pronounce {@sā́nubhis.@} --U. f.
-26718 {@preñkhé. --prá…īñkhayāvahāi@} (1043. 2)
+26718 {@preṅkhé. --prá…īṅkhayāvahai@} (1043. 2)
 26719 is apodosis, as the accent shows. --See
 26720 1 {@śúbh@} and {@kám.@}</p>
 26721 <p>{@12.@} U. f. {@nāví ā́_adhāt@} (829). --Pro-
@@ -6550,7 +6550,7 @@
 26726 --U. f. {@yā́t@} (see this) {@nú dyā́vas@} (361d)
 26727 {@tatánan@} (810a), {@yā́t uṣā́sas (tatánan).@} Cf.
 26728 Psalm lxxii. 5, 7, 17.</p>
-26729 <p>{@14.@} Pronounce {@kúa tyā́ni nāu sakhiā́@}
+26729 <p>{@14.@} Pronounce {@kúa tyā́ni nau sakhiā́@}
 26730 and see {@kvà. --sácāvahe:@} tense, see 778a;
 26731 depends on {@yád.@} --See {@yád@} 3. --Muir com-
 26732 pares Psalm lxxxix. 49.</p>
@@ -6589,7 +6589,7 @@
 26764 7^10^N., 79^15^N.), and the disease is supposed to
 26765 come from him and as a punishment for sin:
 26766 see AV. iv. 16. 7; also AB. vii. 15, {@atha
-26767 ha_āikṣvākaṃ varuṇo jagrāha; tasya
+26767 ha_aikṣvākaṃ varuṇo jagrāha; tasya
 26768 ha_udaraṃ jajñe;@} and ŚB. ii. 5. 2^2^. Cf.
 26769 Hillebrandt, p. 63-65, 54. Ludwig's interpre-
 26770 tation is quite different: see his notes, vol.
@@ -6683,14 +6683,14 @@
 26856 heaven with his plume.’ Just so, RV. x.
 26857 125. 7^d^.</p>
 26858 <p>{@2-3.@} See {@√vṛdh3@} and 807^2^. {@--ji-gy-úṣ-as@}
-26859 (787--strong stem {@ji-gī-vā́ṅs@}) goes also with
+26859 (787--strong stem {@ji-gī-vā́ṃs@}) goes also with
 26860 te. --U. f. {@indra ā́ vṛṇīmahe@} (718).</p>
 26861 <p>{@4-5.@} U. f. {@ví antárikṣam@} (Whitney, 90b^2^)
 26862 {@atirat (√tṛ). --ábhinat, √bhid,@} 692. {@--
 26863 valám,@} cf. Indra's epithet, 5^17^.</p>
 26864 <p>{@6-7.@} U. f. {@úd gā́s@} (361c) {@ājat (√aj). --
 26865 āvíṣ-kṛṇván,@} 187, 1078.</p>
-26866 <p>{@8-9. dṛḻhā́ni dṛṅhitā́ni ca,@} ‘(were) made
+26866 <p>{@8-9. dṛḻhā́ni dṛṃhitā́ni ca,@} ‘(were) made
 26867 stable and (were) established,’ both from
 26868 {@√dṛh. --parā-ṇúde:@} form of inf., 192a, 970a:
 26869 use of inf., 982c. --‘Steady, not for thrust-
@@ -6746,8 +6746,8 @@
 26918 selection lxxii., p. 97.</p>
 26919 <p>{@18-19. ut-sísṛpsatas (√sṛp)@} and {@ā-rúruk-
 26920 ṣatas (√ruh),@} acc. pl. m. of ppl., 1027, 1029.
-26921 {@--dyā́m,@} 361d. {@--dásyūṅr,@} u. f. {@dásyūn,@}
-26922 prop. {@dásyūṅs,@} see 209 and b and 338^2^. --
+26921 {@--dyā́m,@} 361d. {@--dásyūṃr,@} u. f. {@dásyūn,@}
+26922 prop. {@dásyūṃs,@} see 209 and b and 338^2^. --
 26923 See {@√dhū + ava@} and 706. --Cf. the legend
 26924 at Odyssey xi. 305-20, and see Eggeling,
 26925 SBE. xii. 286.</p>
@@ -6814,7 +6814,7 @@
 26985 fusion of {@dhī@} and {@dī@} are adduced. 2. Lud-
 26986 wig, ‘durch die künstlichen mittel des {@ghṛta,@}’
 26987 see {@2dhītí.@} 3. Sāyaṇa takes it from {@√dhā,@}
-26988 ‘put,’ and renders by {@nidhānāis,@} ‘with the
+26988 ‘put,’ and renders by {@nidhānais,@} ‘with the
 26989 deposits’ of ghee. 4. Best taken as
 26990 ‘draughts,’ {@√dhā,@} ‘drink,’ see {@1dhītí@} and
 26991 reference, and cf. RV. x. 115. 1.</p>
@@ -6890,7 +6890,7 @@
 27059 982a.</p>
 27060 <p>{@3-4.@} See {@√bhaj,@} caus. {@--uśatī́s,@} fem.
 27061 ppl., {@√vaś.@}</p>
-27062 <p>{@5-6.@} U. f. {@tásmāi,@} the master of the new
+27062 <p>{@5-6.@} U. f. {@tásmai,@} the master of the new
 27063 dwelling. {@--gamāma,@} 848^3^. {@--janáyathā@}
 27064 (248c), ‘produce, i. e. bring:’ for aught the
 27065 accent shows, it may be co-ordinate with
@@ -6946,10 +6946,10 @@
 27114 12, 13. Compare also MS. iv. 14. 16; ii. 7. 11;
 27115 TA. vi. 1. 1; 4. 2; 6. 1; 3. 1, 2. For st. 9, see
 27116 note thereto, 83^15^.</p>
-27117 <p>{@7-8. parā_īyivā́ṅsam, √i,@} 803, 783b^2^. --
+27117 <p>{@7-8. parā_īyivā́ṃsam, √i,@} 803, 783b^2^. --
 27118 ‘Along after ({@ánu@}) i. e. unto the mighty
 27119 heights,’ i. e. to the other world. {@--anu-
-27120 paspaśānám, √1paś,@} 807. {@--vāivasvatám,@}
+27120 paspaśānám, √1paś,@} 807. {@--vaivasvatám,@}
 27121 cf. 85^13^N. So also in the Avesta, Yima is
 27122 V's son. --‘Gatherer of the peoples;’ pre-
 27123 cisely so in the Avesta, Vd. ii. 21, Yima makes
@@ -6967,7 +6967,7 @@
 27135 Dschemschid,%} ZDMG. iv. 417-431; and SBE.
 27136 iv. p. lxxv., and p. 10-21.</p>
 27137 <p>--We read at AV. xviii. 4. 7,
-27138 {@tīrthāís taranti praváto mahī́r íti,@}
+27138 {@tīrthai4s taranti praváto mahī́r íti,@}
 27139 By passes pass they to the mighty beights, 'tis said.
 27140 This is most interesting as a reminiscence of
 27141 the same traditional material of which RV.
@@ -6976,7 +6976,7 @@
 27144 repperit:’ {@gātúm,@} q. v., pregnantly, like <gr></gr>
 27145 at John xiv. 2. {@--eṣā́ gávyūtis,@} i. e. the {@gātú,@}
 27146 just mentioned. {@--ápa-bhartavā́ u:@} the
-27147 {@pada-pāṭha@} reads {@-tavāí u@} (133); form of
+27147 {@pada-pāṭha@} reads {@-tavai4 u@} (133); form of
 27148 inf., 972^2^; use of inf., 982c. --For the
 27149 thought, see an Avestan parallel, Kaegi, N.
 27150 270. {@--yátrā,@} 248a. {@--parā_īyús,@} 783b^2^.
@@ -6985,7 +6985,7 @@
 27152 {@párā yanti.@}</p>
 27153 <p>{@11-12. prá_ihi,@} 617, see vocab. --The
 27154 AV. modernizes the forms a little, reading
-27155 {@rā́jānāu, mádantān. --paśyāsi,@} subjunctive
+27155 {@rā́jānau, mádantān. --paśyāsi,@} subjunctive
 27156 (760. 2), w. future mg, as in Homer. --Note
 27157 the appropriate connection of this stanza
 27158 with st. 2 and observe the identical {@pādas.@}</p>
@@ -7003,10 +7003,10 @@
 27170 Christian conceptions at Philippians iii. 21,
 27171 I. Cor. xv. 40f.</p>
 27172 <p>{@15-16.@} U. f. {@ápa_ita, ví_ita, ví ca sar-
-27173 pata_átas. asmāí@} (accent, 74^9^N.) {@etám….
+27173 pata_átas. asmai4@} (accent, 74^9^N.) {@etám….
 27174 áhobhis adbhís…ví-aktam (√añj). --vī̀ta,@}
 27175 acct, 128 end; so {@vī̀va,@} 77^5^N. {@--akran,@} 831.
-27176 --Second {@asmāi,@} accentless, cf. 74^9^N.</p>
+27176 --Second {@asmai,@} accentless, cf. 74^9^N.</p>
 27177 <p>--Pāda {%c.%} ‘(A place of rest) adorned
 27178 with days, with waters, with nights:’ i. e.
 27179 where the delights of earth are found again,
@@ -7014,7 +7014,7 @@
 27181 etc. Note the especial mention of waters in
 27182 the enumeration of the joys of heaven at
 27183 RV. ix. 113. 7f, and in the description of the
-27184 ‘Assembly-hall’ of Yama Vāivasvata, MBh.
+27184 ‘Assembly-hall’ of Yama Vaivasvata, MBh.
 27185 ii. 8. 7 = 317. And observe how very frequent
 27186 are the allusions to the waters in the men-
 27187 tions of Paradise in the Koran, e. g. xlvii.
@@ -7025,7 +7025,7 @@
 27192 {@ápeta vī̀ta ví ca sarpatā́to
 27193 yé átra sthá purāṇā́ yé ca nū́tanāḥ.
 27194 ádād yamó avasā́nam pṛthivyā́
-27195 ákrann imám pitáro lokám asmāi,@}
+27195 ákrann imám pitáro lokám asmai,@}
 27196 and substantially so read MS., TS., TB. The
 27197 scholiast to VS. takes this as an address to
 27198 ‘Yama's men.’ It {%is%} a little forced to refer
@@ -7034,7 +7034,7 @@
 27200 <p>{@17-18.@} In {%this%} stanza, these dogs, the off-
 27201 spring of Saramā, are ill-disposed (dur-
 27202 vidátra)--see introduction. --Pronounce
-27203 {@śuā́nāu.@} --‘Four-eyed:’ later this is taken
+27203 {@śuā́nau.@} --‘Four-eyed:’ later this is taken
 27204 to mean ‘with two eyes and two round spots
 27205 above the eyes.’ Note the Parsi custom of
 27206 having such a dog (cf. Vd. viii. 16) view the
@@ -7055,7 +7055,7 @@
 27221 dogs are kindly creatures.</p>
 27222 <head>NOTES TO PAGE {@84.@}</head>
 27223 <p>{@1.@} Pronounce {@tā́bhiām.@} --Verbs, 668.</p>
-27224 <p>{@2-3.@} U. f. {@asutṛ́pāu:@} admits several ex-
+27224 <p>{@2-3.@} U. f. {@asutṛ́pau:@} admits several ex-
 27225 planations--see vocab., and Bergaigne, iii.
 27226 72. --These messengers go about to con-
 27227 duct to the other world those who have
@@ -7111,8 +7111,8 @@
 27276 <p>{@8-9.@} Note the combination of {@triṣṭubh@}
 27277 and {@jagatī pādas@} (11, 12, 12, 11). Pronounce
 27278 {@diā́m.@} --See {@dhárman. --apás, óṣadhīṣu,@}
-27279 cf. x. 58. 7. --See {@hitá@} 2. {@--śarīrāis,@} Sāyaṇa,
-27280 {@‘śarīra_avayavāis’@} (‘members’).</p>
+27279 cf. x. 58. 7. --See {@hitá@} 2. {@--śarīrais,@} Sāyaṇa,
+27280 {@‘śarīra_avayavais’@} (‘members’).</p>
 27281 <p>--For this stanza there is abundant and
 27282 interesting illustrative material. See Muir,
 27283 v. 298, 319; Kaegi, N. 275, 275a. Man is a
@@ -7295,7 +7295,7 @@
 27456 antiquity; and it has become the nucleus of
 27457 later legends. Of these, the oldest is that
 27458 reported by Yāska, in the Nirukta, xii. 10;
-27459 and the next is that of Śāunaka, in the
+27459 and the next is that of Śaunaka, in the
 27460 Bṛhaddevatā, vi. 33 to vii. 2. Ś's version is
 27461 quoted in full by Sāyaṇa, in his comment to
 27462 RV. vii. 72. 2, in order to prove that the Rishi
@@ -7328,7 +7328,7 @@
 27489 <p>{@13. yamásya mātā́:@} proleptically; prop.,
 27490 she who afterwards became Y's mother.</p>
 27491 <p>{@14. kṛtvī́,@} 993b. {@--adadus,@} 668.</p>
-27492 <p>{@15.@} U. f. {@utá_aśvínāu abharat yád tád
+27492 <p>{@15.@} U. f. {@utá_aśvínau abharat yád tád
 27493 ā́sīt | ájahāt (2hā 1) u. --dvā́ mith-,@} ‘two
 27494 pairs’ (Yama, Yamī; Aśvins): Yāska, ‘the
 27495 two (Y. and Y.) that formed a pair’ (‘she
@@ -7369,7 +7369,7 @@
 27529 are the Children of the Sun ?</p>
 27530 <p>--Yāska {%tells%} more than does the text; yet
 27531 we are not sure that he (to say nothing of
-27532 Śāunaka) {%knew%} anything more than is con-
+27532 Śaunaka) {%knew%} anything more than is con-
 27533 tained in the two stanzas. We are therefore
 27534 not obliged to interpret the stanzas so as to
 27535 fadge with Yāska's story.</p>
@@ -7523,7 +7523,7 @@
 27680 additions in his {%Indo-Aryans,%} ii. 114-155); see
 27681 esp. p. 257f (= 50f = 147f).</p>
 27682 <p>--The Rigveda gives no warrant for the
-27683 custom. Śāunaka, in the Bṛhad-devatā,
+27683 custom. Śaunaka, in the Bṛhad-devatā,
 27684 furnishes important positive evidence against
 27685 it (see {%Chips,%} ii. 37); and likewise Manu, v.
 27686 156-8 (= 64^10^f, see N.). Cf. Kaegi, N. 51.</p>
@@ -7580,7 +7580,7 @@
 27736 <p>{@6-7.@} See {@padá@} 3. --Discussions of {@√yup,@}
 27737 Ludwig, v. 514, Whitney, AJP. iii. 402, Roth,
 27738 {%Festgruss an Böhtlingk,%} 1888, p. 98-99. {@--
-27739 āíta,@} 620. --See {@√1dhā@} 7. {@--√pyā + ā.@}</p>
+27739 ai4ta,@} 620. --See {@√1dhā@} 7. {@--√pyā + ā.@}</p>
 27740 <p>{@6^a^.@} Either ‘Clogging Death's foot [by a
 27741 bundle of brush ({@kūdī́@}) or a billet of wood,
 27742 tied to the corpse's foot], as ye came;’ or
@@ -7597,7 +7597,7 @@
 27752 Roth, l. c.) in connection with xii. 2. 29. Roth
 27753 adduces the device of Hermes, in the Homeric
 27754 Hymn to Hermes, 80-84.</p>
-27755 <p>{@8-9.@} U. f. {@ví mṛtāís@} (283^2^) {@ā_avavṛtran
+27755 <p>{@8-9.@} U. f. {@ví mṛtai4s@} (283^2^) {@ā_avavṛtran
 27756 (√vṛt + vy-ā):@} Whitney takes the form as a
 27757 3d pl. (550^4^) impf. mid. of the redup. class,
 27758 present-stem {@vavṛt,@} irreg. like {@cakṛ@} (expect
@@ -7634,7 +7634,7 @@
 27789 And twenty others added on.…
 27790 Live thou a hundred autumns yet.
 27791 See also Bhartṛhari's fine stanza, {@āyur-
-27792 varṣaśataṃ nṛṇām@} etc., {@Vāirāgya-śataka,@}
+27792 varṣaśataṃ nṛṇām@} etc., {@Vairāgya-śataka,@}
 27793 50 Bohlen = 107 Telang.--Among Semitic
 27794 peoples, the sacred age was 120 years; while
 27795 the pious Egyptian prayed to Osiris that he
@@ -7704,7 +7704,7 @@
 27857 dent from the connection in which RV. x.
 27858 18. 8 occurs at AV. xviii. 3. 1-4. She is bidden
 27859 to rise with our stanza, {@úd īrṣva nāri@}--see
-27860 Śāñkhāyana Śrāuta-sūtra, xvi. 13. 13.</p>
+27860 Śāṅkhāyana Śrauta-sūtra, xvi. 13. 13.</p>
 27861 <p>In this light, the logical connection of
 27862 pādas {%a b%} with pādas {%c d%} becomes clear. She
 27863 is to forsake the corpse and “come hither”
@@ -7760,7 +7760,7 @@
 27912 ne gravis esse velis !
 27913 tu levis ossa tegas !
 27914 etc., cited by J. Grimm, l. c., p. 193 = 214.
-27915 {@--asmāi@} and {@enam,@} cf. 84^4^N. --U. f. {@bhūme.
+27915 {@--asmai@} and {@enam,@} cf. 84^4^N. --U. f. {@bhūme.
 27916 --√1 vṛ + abhi,@} 712.</p>
 27917 <p>{@6-7. mít-as,@} nom. pl.: cf. 486b. {@--
 27918 gṛhā́sas:@} cf. 80^1^ and N., and Kaegi, N. 329.
@@ -7888,7 +7888,7 @@
 28038 <gr></gr>, e. g. to the battle of Plataea (Hdt.
 28039 ix. 33, 37), and for similar motives--<gr></gr>
 28040 <gr></gr>.</p>
-28041 <p>{@14-15. tisrás,@} 482c. {@--stávāi@} (626, 617),
+28041 <p>{@14-15. tisrás,@} 482c. {@--stávai@} (626, 617),
 28042 ‘I will praise,’ sc. {@tám,@} meaning Kuru-
 28043 śravaṇa. {@--sah-,@} sc. {@yajñé.@} --K's horses
 28044 ({%trīga%}) still come to fetch the priest in state
@@ -7982,8 +7982,8 @@
 28130 in narrative form.</p>
 28131 <p>{@6-7. víśve devās:@} see {@devá@} 2b; note
 28132 accentual unity, 314^4^ (JAOS. xi. 61). {@--śās-
-28133 tána:@} acct, 594a; form, 618. {@--manávāi:
-28134 √mañ;@} form, 713, 700. {@--yád@} seems super-
+28133 tána:@} acct, 594a; form, 618. {@--manávai:
+28134 √man5;@} form, 713, 700. {@--yád@} seems super-
 28135 fluous. --See {@√sad + ni.@}</p>
 28136 <p>--‘Teach me (the way) in which, chosen
 28137 here as {@hótṛ,@} I am to be minded (= what I
@@ -8031,7 +8031,7 @@
 28178 shall win,’ cf. 82^2^ and N.</p>
 28179 <p>{@16-17.@} See 486 for construction. ‘3339
 28180 gods.’ {@--√ukṣ,@} 585. {@--ástṛṇan,@} 725. --
-28181 U. f. {@asmāi | ā́t íd hótāram.@}</p>
+28181 U. f. {@asmai | ā́t íd hótāram.@}</p>
 28182 <head>NOTES TO PAGE {@89.@}</head>
 28183 <p>SELECTION LVII. RV. x. 53. 6 and 8.
 28184 Burial and wedding-stanzas.--Rubricated as
@@ -8058,7 +8058,7 @@
 28204 yajante.@} --Note again that {@janáyā@} and
 28205 Eng. {%produce%} coincide in having the mgs
 28206 ‘generate’ and (as here--cf. i. 31. 17, {@ā́ vahā
-28207 dāíviaṃ jánam,@} and 82^8^) ‘fetch along {%or%}
+28207 dai4viaṃ jánam,@} and 82^8^) ‘fetch along {%or%}
 28208 bring to view.’</p>
 28209 <p>--STANZA 6 is really a prayer to Agni and
 28210 his flames to help in the work of devotion.
@@ -8285,9 +8285,9 @@
 28427 vater.%} The mothers-in-law have thus made
 28428 their mark in the language--see Kluge.</p>
 28429 <p>{@8-9.@} U. f. {@sám@} (sc. {@añjantu@}) {@ā́pas hṛ́da-
-28430 yāni@} (note neglect of dual) {@nāu@} (gen.). A
+28430 yāni@} (note neglect of dual) {@nau@} (gen.). A
 28431 real anointing of both took place. --In line
-28432 9, a {@dadhātu@} goes with each {@sám,@} and {@nāu@} is
+28432 9, a {@dadhātu@} goes with each {@sám,@} and {@nau@} is
 28433 acc. {@--Dhātṛ́@} is esp. the deity who ‘puts’
 28434 fruit in the womb--RV. x. 184. 1. --See
 28435 u 1 end.</p>
@@ -8310,7 +8310,7 @@
 [Page391-a+ 48]
 28452 <p>{@10-11.@} Note the accentless and accented
 28453 vocatives. --See {@√nī + ud@} and 248c. --U. f.
-28454 {@utá_ā́gas cakrúṣam@} ({@= cakṛvā́ṅsam,@} 462c).
+28454 {@utá_ā́gas cakrúṣam@} ({@= cakṛvā́ṃsam,@} 462c).
 28455 The disease is a punishment for sin, cf. p. 374.</p>
 28456 <p>{@12-13.@} See {@1idám@} end. --Zimmer queries,
 28457 p. 45, whether the two Monsoons are here
@@ -8323,7 +8323,7 @@
 28464 {@átho,@} 1122a^2^, 138c. {@--√2su + parā.@}</p>
 28465 <p>{@18-19.@} Pāda {%c,%} bad metre. {@--ayám,@} the
 28466 sick man.</p>
-28467 <p>{@20.@} U. f. {@íd vāí,@} see {@vāí.@}</p>
+28467 <p>{@20.@} U. f. {@íd vai4,@} see {@vai4.@}</p>
 28468 <head>NOTES TO PAGE {@91.@}</head>
 28469 <p>{@1.@} ‘The waters are healers (lit. healing)
 28470 of everything.’ On use of {@sárva,@} see 77^11^N.
@@ -8370,8 +8370,8 @@
 28510 (83^18^). --See {@√ās + upa.@} --‘For whom {@mádhu@}
 28511 flows:’ Yama and the Fathers are the eager
 28512 recipients of sweet drink-offerings--cf. AV.
-28513 xviii. 2. 1-3, and RV. x. 15 passim. {@--tā́ṅś@}
-28514 cid = ‘thóse:’ {@tā́ṅś cid evá@} = ‘júst those.’</p>
+28513 xviii. 2. 1-3, and RV. x. 15 passim. {@--tā́ṃś@}
+28514 cid = ‘thóse:’ {@tā́ṃś cid evá@} = ‘júst those.’</p>
 28515 <p>{@6-7.@} Pronounce {@súar.@} --‘Who made
 28516 {@tápas@} their glory.’ --Heaven can be won
 28517 only by the pious and (stanza 3) the brave:
@@ -8533,7 +8533,7 @@
 28670 into the little clauses and choppy sentences with
 28671 which it proceeds. As a help to this it is important
 28672 to observe that the particle {%átha%} marks the beginning
-28673 of a new clause, and that the postpositive {%vāi%} marks
+28673 of a new clause, and that the postpositive {%vai%} marks
 28674 the foregoing word as the first of its clause. Analo-
 28675 gous is the use of {%nāma%} to distinguish a proper name
 28676 from an identical appellative. Cf. Pliny, {%Epp.%} vi. 31,
@@ -8550,10 +8550,10 @@
 28687 spacing, and by punctuation. In spoken language it
 28688 is often wrong to render them otherwise than by
 28689 inflection or by stress of voice.</p>
-28690 <p>{@14.@} U. f. {@vāí.@} --See {@√brū + apa.@}</p>
+28690 <p>{@14.@} U. f. {@vai4.@} --See {@√brū + apa.@}</p>
 28691 <p>{@14-15.@} U. f. {@tā́m yád ápṛchan@} (207), {@sā́
 28692 abravīt: “adyá amṛta” íti. té abruvan:
-28693 “ná vāí iyám@} etc.” --Difference between
+28693 “ná vai4 iyám@} etc.” --Difference between
 28694 imperf. {@amriyata@} and aor. {@amṛta@} (834a)
 28695 illustrated at 928^3^. --Accent of {@tè,@} Whit-
 28696 ney 84d, 135.</p>
@@ -8571,7 +8571,7 @@
 28707 ii. 2. 14, 15. Cf. Iliad i. 403, ii. 814, xiv. 291,
 28708 xx. 74, Od. x. 305; and A. F. Pott's {%Anti-
 28709 kaulen,%} p. 71.</p>
-28710 <p>{@--sṛjāvahāi,@} faulty reading for {@-mahāi ?@}
+28710 <p>{@--sṛjāvahai,@} faulty reading for {@-mahai ?@}
 28711 --U. f. {@áhar vā́vá tárhi ā́sīt, ná rā́tris.@}
 28712 verb-acct, cf. 89^9^N.</p>
 28713 <p>--‘Yama died. The gods sought to console Yamī
@@ -8600,8 +8600,8 @@
 28736 yatra@} (1260--see {@yátra@}) {@ák-. --iyám,@} see
 28737 {@1idám,@} middle: so {@imā́m,@} line 2.</p>
 28738 <p>{@2. téṣām = párvatānām. --achinat,@} 692.
-28739 {@--tāís = párvatāis,@} used evidently in the
-28740 manner of paper-weights. {@--adṛṅhat, √dṛh.@}
+28739 {@--tai4s = párvatais,@} used evidently in the
+28740 manner of paper-weights. {@--adṛṃhat, √dṛh.@}
 28741 The like achievement at RV. ii. 12. 2.</p>
 28742 <p>{@3.@} Explained under {@yá@} 3.</p>
 28743 <p>{@4.@} U. f. {@yónis hí eṣām@} (accentless, 74^9^N.)
@@ -8614,7 +8614,7 @@
 28750 p. 43; Perry, JAOS. xi. 127f, 148f; and {%Lit-
 28751 eratur-Blatt für Orient. Philol.,%} ii. 4.</p>
 [Page394-a+ 49]
-28752 <p>{@5.@} ‘The Āindrābārhaspatyan oblation he
+28752 <p>{@5.@} ‘The Aindrābārhaspatyan oblation he
 28753 should offer ({@nír-vapet@}), who, as a sovereign,
 28754 shouldn't exactly succeed in his attacks.’
 28755 This is a typical Brāhmaṇa passage. It
@@ -8630,8 +8630,8 @@
 28765 <p>{@6.@} U. f. {@odanám apacat. --úñśiṣṭam,@} see
 28766 this: final {@t (= d)@} before {@ś@} becomes {@ñ@} in MS.
 28767 {@--āśnāt, √2aś.@}</p>
-28768 <p>{@6-7.@} U. f. {@tám vāí índram antár evá…
-28769 sántam…ápa_āumbhat@} ({@√ubh;@} augment,
+28768 <p>{@6-7.@} U. f. {@tám vai4 índram antár evá…
+28769 sántam…ápa_aumbhat@} ({@√ubh;@} augment,
 28770 585): ‘Indra, being (yet) an embryo, withín
 28771 (her), she bound with an iron bond.’ {@--
 28772 ápa_ubdhas,@} 160.</p>
@@ -8641,7 +8641,7 @@
 28776 --U. f. {@abhi-pary-ā́_avartata,@} 1080, 1083.</p>
 28777 <p>{@10.@} U. f. {@yás…, tám eténa yājayet…,@}
 28778 ‘One should teach him to sacrifice with this
-28779 Āindrābārhaspatyan (oblation), who {%etc.%}’</p>
+28779 Aindrābārhaspatyan (oblation), who {%etc.%}’</p>
 28780 <p>{@11. eṣás,@} same as {@yó@} and {@tám,@} line 10.</p>
 28781 <p>{@12-13.@} U. f. {@nir-upyáte,@} impers. ‘it is
 28782 offered:’ combination, 92^11^N.; form, {@√vap,@}
@@ -8695,7 +8695,7 @@
 28829 form from {@√lī@} in the passage before us would
 28830 of course be {@ny-àlayata.@}</p>
 28831 <p>{@16-17.@} U. f. {@pra_éṣam@} (see {@√2iṣ + pra@} 2 and
-28832 ref.) {@āicchan@} ({@√1iṣ,@} 585). In the metaphor,
+28832 ref.) {@aicchan@} ({@√1iṣ,@} 585). In the metaphor,
 28833 Agni is implicitly likened to a hunted beast.</p>
 28834 <p>{@17-18. tám aśapat@} etc., ‘Him (the fish)
 28835 he (Agni) cursed (as follows): {@“dhiyā́…
@@ -8741,7 +8741,7 @@
 28874 they.’</p>
 28875 <p>{@5-6.@} U. f. {@sas (Vṛtra) avet@} (see {@√1vid3,@}
 28876 and 620): “{@mām@} etc.; {@hanta ! imān bhī-
-28877 ṣayāi@}” ({@√bhī,@} caus., 1042f, 1043. 2).</p>
+28877 ṣayai@}” ({@√bhī,@} caus., 1042f, 1043. 2).</p>
 28878 <p>{@7. √śvas + abhi-pra:@} imperf., 631. {@--
 28879 adravan:@} simple root {@dru,@} without prefix;
 28880 note that the prefix {@ā@} with {@√dru@} exactly
@@ -8761,7 +8761,7 @@
 28894 secondary literature.</p>
 28895 <p>{@10-11.@} U. f. {@sas@} (Indra, this time) {@avet:
 28896 “ime…; ime…; hanta ! imāh asmin ukthe
-28897 ā bhajāi.”@} See {@√bhaj + ā:@} the subjunctive
+28897 ā bhajai.”@} See {@√bhaj + ā:@} the subjunctive
 28898 has the force of a future.</p>
 [Page395-b+ 48]
 28899 <p>SELECTION LXVIII. AB. iii. 21. Legend
@@ -8834,7 +8834,7 @@
 28965 to setting up in life as a householder.
 28966 Described at ISt. v. 285f, x. 327f.</p>
 28967 <p>{@12-14.@} U. f. {@sas ha uvāca:@} “{@te mā etad
-28968 brūtha: ‘vācaṃyamas eva edhi.’ na vāi
+28968 brūtha: ‘vācaṃyamas eva edhi.’ na vai
 28969 …vaditavyam; na vadan jātu, na anṛtam
 28970 vadet.@} etc.” ‘He said: “What ye say to
 28971 me, then, amounts to this: ‘Just hold thy
@@ -8921,7 +8921,7 @@
 29050 SBE. i. 21. --See {@iti@} 1.</p>
 29051 <p>{@10-11.@} Ppls w. {@cerus,@} see {@√car@} 2 and 1075b.
 29052 --See {@√1rudh + ava,@} {%desid.,%} 1027.</p>
-29053 <p>{@11-13.@} U. f. {@“na vāi…upa dhattha:
+29053 <p>{@11-13.@} U. f. {@“na vai…upa dhattha:
 29054 ati vā eva…; na vā…; tasmāt na….”@}</p>
 29055 <p>{@13-14.@} See {@ha@} end. --See explan. under
 29056 {@ta2.@} --See {@yathā@} 6.</p>
@@ -8929,7 +8929,7 @@
 29058 {@ṣaṣṭim@} and {@ṣaṣṭim@} and {@atha lokampṛṇās:@}
 29059 the apodosis-clauses, with {@atha me@} and {@atha
 29060 amṛtās.@} The second protasis-clause has an
-29061 appendix, {@adhi ṣaṭtriṅśatam,@} see {@adhi.@} --
+29061 appendix, {@adhi ṣaṭtriṃśatam,@} see {@adhi.@} --
 29062 For impv. with conditional mg, cf. example
 29063 under {@atha2,@} and 82^2^N. --For {@daśa@} {%etc.,%}
 29064 see 480.</p>
@@ -8941,7 +8941,7 @@
 29070 <p>{@18-19.@} The acquisition of immortality is
 29071 otherwise related, ŚB. ii. 2. 2^8^f, Muir, ii^3^. 372.</p>
 29072 <p>{@21-23.@} U. f. “{@na atas…asat@} (636^3^):
-29073 {@yadā eva…harāsāi@} (736), etc.” See {@atas3.@}
+29073 {@yadā eva…harāsai@} (736), etc.” See {@atas3.@}
 29074 ‘“From this time on, not any other with his
 29075 body shall be immortal: just when thou this
 29076 (thy) allotted-portion shalt seize, then parting
@@ -8985,10 +8985,10 @@
 29113 in that case, we'll fetch (it) back.”’</p>
 29114 <p>{@10-11.@} ‘“Together ours (is) that; so
 29115 fetch it back.” Thus said he.’</p>
-29116 <p>{@11. iti@} (the one before {@tāu aśvināu@}) =
+29116 <p>{@11. iti@} (the one before {@tau aśvinau@}) =
 29117 ‘on the strength of that agreement.’</p>
 29118 <p>{@12. asiñcan:@} see {@√sic3.@}</p>
-29119 <p>{@13. vy-uṣṭāyām (√1 vas) rātrāu,@} 303b.
+29119 <p>{@13. vy-uṣṭāyām (√1 vas) rātrau,@} 303b.
 29120 So {@an-udite āditye.@}</p>
 29121 <p>{@14. √3vas + ud@}--a queer verb to use for
 29122 this mg. --U. f. {@ṛṣiṇā abhy-anu_uktam
@@ -9103,7 +9103,7 @@
 29229 <row>100^12^</row><row>‘The following’ ((1/2) {%stanza%})</row><row>= 89^4^</row>
 29230 <row>100^12^</row><row>{@jīvaṃ rudanti@}</row><row>= 88^4^</row>
 29231 <row>100^14^</row><row>{@mā vidan@}</row><row>= 89^13^</row>
-29232 <row>100^15^</row><row>{@sumañgalīr@}</row><row>= 89^15^</row>
+29232 <row>100^15^</row><row>{@sumaṅgalīr@}</row><row>= 89^15^</row>
 29233 <row>100^15^</row><row>{@iha priyam@}</row><row>= 89^17^</row>
 29234 <row>100^18^</row><row>{@ā naḥ prajām@} (4 {%stanzas%})</row><row>= 89^19^</row>
 29235 <row>100^19^</row><row>{@sam añjantu@}</row><row>= 90^8^</row>
@@ -9113,14 +9113,14 @@
 29239 mother's and on the father's side,--” as
 29240 aforesaid.’</p>
 29241 <p>The rule referred to is in Āśvalāyana's
-29242 Śrāuta-sūtra, ix. 3. 20 (p. 714, {%Bibl. Ind.%}), and
+29242 Śrauta-sūtra, ix. 3. 20 (p. 714, {%Bibl. Ind.%}), and
 29243 continues thus,</p>
 29244 <p>“--for ten generations back, are endowed
 29245 with knowledge, austerity, and works of
 29246 merit.” See Weber's interesting discussion
 29247 of ancestor-tests, ISt. x. 84-8.</p>
 [Page399-a+ 50]
-29248 <p>{@8-11.@} U. f. {@aṣṭāu piṇḍān kṛtvā@} (127^2^), {@…
+29248 <p>{@8-11.@} U. f. {@aṣṭau piṇḍān kṛtvā@} (127^2^), {@…
 29249 piṇḍān abhimantrya, kumārīm brūyāt,
 29250 “eṣām ekam gṛhāṇa”@} (722). ‘Making
 29251 eight lumps (of earth), conjuring the lumps
@@ -9164,7 +9164,7 @@
 29289 later one has {@gṛhṇīyāt:@} cf. 92^16^N. {@--kāma-
 29290 yīta@} (1043. 3), as if of the 1st gen'l conj.,
 29291 instead of {@kāmayeta.@} So {@vācayīta,@} 101^2^,
-29292 106^4^; {@kalpayīran,@} 105^1^. {@--pumāṅsas@} etc.;
+29292 106^4^; {@kalpayīran,@} 105^1^. {@--pumāṃsas@} etc.;
 29293 <gr>-
 29294 </gr> etc., Megasthenes, in Strabo, xv. 60,
 29295 p. 713; also ŚB. xiv. 9. 4^14^f or SBE. xv. 219f.</p>
@@ -9174,7 +9174,7 @@
 29298 she touches him, he, offering, standing facing
 29299 west, of her, facing east, seated, with RV. x.
 29300 85. 36, the thumb only should grasp, in case
-29301 he should desire {@“pumāṅsas…jāyeran.”@}’</p>
+29301 he should desire {@“pumāṃsas…jāyeran.”@}’</p>
 29302 <head>NOTES TO PAGE {@99.@}</head>
 29303 <p>{@1. pari-ṇayam:@} we should read {@pari-ṇay-
 29304 añ@} or (BI.) {@-an,@} pres. ppl. --‘Leading (her)
@@ -9213,7 +9213,7 @@
 29337 use of the Vedic formula, ISt. x. 160.</p>
 29338 <p>{@4-5. ehi,@} used just like <gr></gr> or <gr></gr>; but
 29339 cf. the variants noted ISt. v. 332N. --If we
-29340 could read {@priyāu,@} the metre would be in
+29340 could read {@priyau,@} the metre would be in
 29341 order (8 + 8 + 11 + 8); but cf. TS. iv. 2. 5^1^.</p>
 29342 <p>{@6.@} Force of repetition--‘With each lead-
 29343 ing-around’ (1260). --She mounts the stone
@@ -9221,7 +9221,7 @@
 29345 way in which she is to put her foot on her
 29346 enemies.</p>
 [Page400-a+ 50]
-29347 <p>{@9.@} U. f. {@vadhv-añjalāu@} (134 end) {@upa-
+29347 <p>{@9.@} U. f. {@vadhv-añjalau@} (134 end) {@upa-
 29348 stīrya@} (see {@√stṛ + upa@}). The loc. is adjunct
 29349 of {@ā-vapati@} as well as of the gerund.</p>
 29350 <p>{@9-11.@} The first pouring ({@upastaraṇa@}) of
@@ -9301,7 +9301,7 @@
 29423 {%b.%} mounting stone.
 29424 In this way, the fourth oblation comes directly
 29425 after the third mounting of the stone.</p>
-29426 <p>{@20-21. asyāi,@} 365. 3. ‘Then he loosens
+29426 <p>{@20-21. asyai,@} 365. 3. ‘Then he loosens
 29427 her two braids, if they are made; (i. e. if)
 29428 two braids of wool at her two temples are
 29429 tied.’</p>
@@ -9330,7 +9330,7 @@
 29451 formula, used on sealing a friendship, e. g.
 29452 between two men, who would take seven
 29453 steps together hand in hand by way of rati-
-29454 fying their bond. {@Sāptapadam māitram,@}
+29454 fying their bond. {@Sāptapadam maitram,@}
 29455 ‘Friendship (if genuine) is constant,’ be-
 29456 came a common proverb.</p>
 29457 <p>--The application of the formula to the
@@ -9388,12 +9388,12 @@
 29508 of curds, he should offer (them) in turn (to
 29509 her); or, with the rest of the {@ājya,@} he anoints
 29510 ({@anakti, √añj@}) his and her heart.’ {@hṛdaye:@}
-29511 better as dual, on account of the {@nāu@} (dual,
+29511 better as dual, on account of the {@nau@} (dual,
 29512 90^8^) in the stanza which accompanies the
 29513 action.</p>
 29514 <p>{@20-21.@} See {@ūrdhvam. --brahma-cāri-
-29515 ṇāu:@} see ISt. v. 325N. 3, 331. --U. f. {@alam-
-29516 kurvāṇāu,@} 714.</p>
+29515 ṇau:@} see ISt. v. 325N. 3, 331. --U. f. {@alam-
+29516 kurvāṇau,@} 714.</p>
 29517 <p>{@22.@} Counting of time by nights: see Kae-
 29518 gi, N. 68* and citations, and Zimmer, p. 360.
 29519 --‘Or, “(They should be continent) a year,”
@@ -9408,7 +9408,7 @@
 29528 ture-passage, acc. to Bühler, is TS. ii. 5. 1^5^,
 29529 {@kā́mam ā́ víjanitoḥ sám bhavāma,@} ‘Let us
 29530 have intercourse after our heart's desire till
-29531 a child be begotten.’ Explicit is Bāudhāyana,
+29531 a child be begotten.’ Explicit is Baudhāyana,
 29532 iv. 1. 17 = SBE. xiv. 315; MBh. xii. 21. 12 = 626.
 29533 Cf. Ludwig, v. 549 (N. to RV. i. 179. 2), and iv.
 29534 315: also Exodus xxi. 10f, and I Cor. vii. 3.</p>
@@ -9455,7 +9455,7 @@
 29574 <row>104^15^</row><row>‘The following’</row><row>= 87^6^</row>
 29575 <row>104^16^</row><row>{@ut te stabhnāmi@}</row><row>= 87^8^</row>
 29576 <row>104^20^</row><row>{@kravyādam@} ((1/2) {%stanza%})</row><row>= 84^20^</row>
-29577 <row>105^5^</row><row>{@ihāivāyam@} ((1/2) {%stanza%})</row><row>= 85^1^</row>
+29577 <row>105^5^</row><row>{@ihaivāyam@} ((1/2) {%stanza%})</row><row>= 85^1^</row>
 29578 <row>105^9^</row><row>{@tantuṃ tanvan@}</row><row>= 89^1^</row>
 29579 <row>105^11^</row><row>{@ā rohatāyur@}</row><row>= 86^14^</row>
 29580 <row>105^12^</row><row>{@imaṃ jīvebhyaḥ@}</row><row>= 86^10^</row>
@@ -9513,7 +9513,7 @@
 29631 by {@ādahanasya.@} For a similar definitive
 29632 apposition, cf. 98^17^.</p>
 29633 <p>{@13.@} ‘This has been stated above’--at
-29634 Śrāuta-sūtra, vi. 10. 2, given in Stenzler's note.</p>
+29634 Śrauta-sūtra, vi. 10. 2, given in Stenzler's note.</p>
 29635 <p>{@14.@} Rule 17, sc. ‘should be.’</p>
 29636 <p>{@16. etām diśam,@} ‘to that quarter,’ men-
 29637 tioned 101^7^.</p>
@@ -9564,8 +9564,8 @@
 29681 <p>{@18. āsec-,@} sc. {@pātrāṇi.@} --See {@√1pṛ. --
 29682 putras,@} the dead man's.</p>
 29683 <p>{@19.@} ‘And the metallic ware (and) pottery.’</p>
-29684 <p>{@21-22.@} U. f. {@vṛkkāu@} (134 end) {@ud-dhṛtya
-29685 (√1 hṛ). --dakṣiṇe@} (sc. {@pāṇāu@}) {@dakṣiṇam@}
+29684 <p>{@21-22.@} U. f. {@vṛkkau@} (134 end) {@ud-dhṛtya
+29685 (√1 hṛ). --dakṣiṇe@} (sc. {@pāṇau@}) {@dakṣiṇam@}
 29686 (sc. {@vṛkkam ā-dadhyāt@}), etc.</p>
 29687 <p>{@22-23.@} ‘“And two meal-cakes,” (say)
 29688 some [, he should put on the hands of the
@@ -9579,10 +9579,10 @@
 29696 “agnaye {@svāhā@} etc.” {@--pañcamīm@} (sc.
 29697 {@ājya_āhutim juhuyāt@}) {@urasi pretasya@}--</p>
 29698 <p>{@4-5.@} U. f. “{@asmāt@} accent, {@asmā́t,@} 74^9^N.)
-29699 {@vāi@} (see {@vāi@}) {@…tvat adhi@} (see {@adhi@})
+29699 {@vai@} (see {@vai@}) {@…tvat adhi@} (see {@adhi@})
 29700 {@jāyatām,@}” a metrical mantra, substantially
 [Page403-b+ 50]
-29701 identical with VS. xxxv. 22. {@--asāu,@} voc.,
+29701 identical with VS. xxxv. 22. {@--asau,@} voc.,
 29702 ‘O so-and-so.’</p>
 29703 <p>{@6.@} See {@√2iṣ + pra3.@}</p>
 29704 <p>{@6-8.@} ‘If the {@āh-@} should reach (the corpse)
@@ -9590,7 +9590,7 @@
 29706 him”--this may one know. Happy will
 29707 that one be in that world: so (will) this one,
 29708 that is, the son, in this (world).’ U. f.
-29709 {@rātsyati (√rādh) asāu amutra: evam ayam
+29709 {@rātsyati (√rādh) asau amutra: evam ayam
 29710 asmin, iti putras.@} The last iti marks
 29711 putras as an explanation of {@ayam.@}</p>
 29712 <p>{@8-11.@} Rules 3-4 are counterparts of 2.</p>
@@ -9603,7 +9603,7 @@
 29719 refers to the departed.</p>
 29720 <p>{@12-13.…iti samānam,@} ‘with the man-
 29721 tras “{@prehi prehi@} etc.” in the same way’--
-29722 as indieated, namely, in the Śrāuta-sūtra, at
+29722 as indieated, namely, in the Śrauta-sūtra, at
 29723 vi. 10. 19-20 (p. 505-6), i. e. with the 24 stan-
 29724 zas there enumerated. They are RV. x. 14.
 29725 7, 8, 10, 11; x. 16. 1-6; x. 17. 3-6; x. 18. 10-13;
@@ -9619,14 +9619,14 @@
 29735 Sūtra proper, line 7. Cf. 92^16^N.</p>
 29736 <p>{@15.@} U. f. {@avakām, śīpālam iti@} (marks {@śī@}-
 29737 as a gloss to {@avakām@}) {@ava-dhāpayet. tatas
-29738 (= gartāt) ha@} (see {@ha@}) {@vāi@} etc.</p>
+29738 (= gartāt) ha@} (see {@ha@}) {@vai@} etc.</p>
 29739 <p>{@17.@} With regard to the pertinence of the
 29740 mantra, see Roth, ZDMG. viii. 472, 468. {@--
 29741 savyāvṛtas,@} cf. 99^1^N.</p>
 29742 <p>{@18-20.@} The end of each clause is marked
 29743 by a gerund. --U. f. {@udakam a-vahat…
 29744 un-majjya,…gṛhītvā, ut-tīrya,…enāni@}
-29745 ({@= vāsāṅsi,@} i. e. the ones they had on before
+29745 ({@= vāsāṃsi,@} i. e. the ones they had on before
 29746 changing) {@ā-pīḍya,…āsate.@} --See {@ā́@} 4. --
 29747 Similarly, the bride keeps silence till star-
 29748 light, 100^8^N.</p>
@@ -9668,8 +9668,8 @@
 29783 {%Ilios,%} numbers 986, 988-93. A male urn is
 29784 one without these breasts.</p>
 29785 <p>{@9-10.@} § 3, cf. 101^17^. {@--prasavyam,@} 99^1^N.</p>
-29786 <p>{@11-12.@} U. f. {@añguṣṭha_upakaniṣṭhikā-
-29787 bhyām@} (cf. 105^16^) {@ekāikam asthi a-@} etc.
+29786 <p>{@11-12.@} U. f. {@aṅguṣṭha_upakaniṣṭhikā-
+29787 bhyām@} (cf. 105^16^) {@ekaikam asthi a-@} etc.
 29788 Even the Brāhmaṇas give evidence of a well-
 29789 developed body of popular beliefs about
 29790 the fingers: cf. ŚB. iii. 1. 3^25^; iii. 3. 2^2, 13^f, and
@@ -9701,7 +9701,7 @@
 29815 {@uttarām@} (= RV. x. 18. 12 = 87^6^), sc. {@japet.@}</p>
 29816 <p>{@16-17.@} U. f. {@kapālena@} (sc. {@kumbham@})
 29817 {@api-dhāya, atha an-avekṣam praty-ā-
-29818 vrajya, apas@} etc. {@--asmāi,@} the deceased.</p>
+29818 vrajya, apas@} etc. {@--asmai,@} the deceased.</p>
 29819 <p>{@18.@} See {@√1mṛ + abhi.@} For the force of
 29820 the prefix, cf. what was said by a little
 29821 newsboy, as reported by my colleague,
@@ -9717,7 +9717,7 @@
 29831 <p>{@1. upa-kalpayiran@} (for {@-yeran,@} see 98^20^N.),
 29832 ‘they should provide’: the verb has 11
 29833 objects (lines 1 to 4).</p>
-29834 <p>{@2-3.@} U. f. {@śamīmayyāu araṇī.@} A legend
+29834 <p>{@2-3.@} U. f. {@śamīmayyau araṇī.@} A legend
 29835 explaining why the sacred fire is made with
 29836 sticks of {@śamī@} (see this) is given at MBh.
 29837 ix. 47. 14 = 2741 f.</p>
@@ -9754,7 +9754,7 @@
 29867 compare 101^4^.</p>
 [Page405-b+ 21]
 29868 <head>NOTES TO PAGE {@106.@}</head>
-29869 <p>{@1.@} U. f. {@yatra abhi-raṅsyamānās@} ({@√ram,@}
+29869 <p>{@1.@} U. f. {@yatra abhi-raṃsyamānās@} ({@√ram,@}
 29870 939) {@bhavanti,@} ‘where they are about (=
 29871 intending) to tarry’: not so well the vocab.
 29872 --See {@ahata.@} Respecting the Hindu washer-

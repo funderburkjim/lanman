@@ -68,7 +68,7 @@
 20042 under {@rājan,@} and the acc. sing. {@nāma@} under {@nāman@} (Whitney, 424); but {@nalo,@} as standing
 20043 for {@nala-s@} (175a, 330), must be looked for under {@nala.@} The stems in {@ṛ@} or {@ar@} are entered
 20044 in the form {@ṛ.@} The stems of the perf. act. ppl. and of the primary comparatives are
-20045 given as ending in {@vāṅs@} and {@yāṅs.@} The stems in at or {@ant@} are given in the fuller form,
+20045 given as ending in {@vāṃs@} and {@yāṃs.@} The stems in at or {@ant@} are given in the fuller form,
 20046 ant, and similarly those in {@mant@} and {@vant;@} and the feminines of these and of the in-stems
 20047 are not given, since they are always made in {@antī@} or {@atī, matī, vatī, inī.@}</p>
 20048 <p>All verb-forms must be sought under the root. Thus {@āsīt@} will be defined only under
@@ -90,7 +90,7 @@
 20063 <p>The pronouns of the first and second person would require a dozen different arti-
 20064 cles apiece if all their forms were given alphabetically. The same is true to a greather
 20065 or less extent of the other pronouns. The student should therefore learn, as early as
-20066 possible, the forms given at 491, 495, 499b, 501 (especially {@ayam: asāu@} is less important),
+20066 possible, the forms given at 491, 495, 499b, 501 (especially {@ayam: asau@} is less important),
 20067 504, and 509. The uses of {@sa-s,@} etc., {@eṣa-s,@} etc., and {@ayam,@} etc., are given under {@ta, etad,@}
 20068 and {@idam@} respectively.</p>
 20069 <p>As for compounds, they are given with completeness for the Vedic selections, and
@@ -105,24 +105,24 @@
 20078 stands in the alphabetic place of the sibilant. Thus the {%visarga%} of {@adhaḥ-śāyin,@} as
 20079 equivalent to {@ś@} (172), brings this word just before {@adhas@} (p. 115, top), and not between
 20080 {@adha@} and {@adhanya.@}</p>
-20081 <p>The sign {@ṅ,@} as representing “the {%anusvāra%} of more independent origin” (Whitney,
-20082 73^3^), has its place before all the mutes etc. (Whitney, 5). Thus in {@aṅś-a,@} the {@ṅ@} repre-
+20081 <p>The sign {@ṃ,@} as representing “the {%anusvāra%} of more independent origin” (Whitney,
+20082 73^3^), has its place before all the mutes etc. (Whitney, 5). Thus in {@aṃś-a,@} the {@ṃ@} repre-
 20083 sents a nasalization of the radical vowel, and the word comes immediately after a. So
-20084 {@haṅsa@} comes just after {@ha,@} p. 284; {@daṅś@} and {@daṅṣṭrin,@} at the beginning of the letter {@d.@}</p>
+20084 {@haṃsa@} comes just after {@ha,@} p. 284; {@daṃś@} and {@daṃṣṭrin,@} at the beginning of the letter {@d.@}</p>
 20085 <p>The sign {@ṃ,@} as representing an assimilated {@m,@} is differently placed, according to its
 20086 phonetic value. On the one hand, if {@ṃ,@} as product of a {@m@} assimilated to a semivowel,
 20087 sibilant, or {@h@} (see 213c, d), represent a nasal semivowel or {%anusvāra,%} then its place is like
-20088 that of {@ṅ.@} Thus {@saṃyatendriya@} follows {@sa,@} and {@saṃhita@} comes just before {@sakacchapa@}
+20088 that of {@ṃ.@} Thus {@saṃyatendriya@} follows {@sa,@} and {@saṃhita@} comes just before {@sakacchapa@}
 20089 (p. 263), and {@puṃs@} before {@puṭa@} (p. 191).</p>
 20090 <p>On the other hand, if, for instance, as product of a {@m@} assimilated to a guttural, the
-20091 sign {@ṃ@} represent guttural {@ñ,@} then its place is that of {@ñ;@} and a similar rule applies
+20091 sign {@ṃ@} represent guttural {@ṅ,@} then its place is that of {@ṅ;@} and a similar rule applies
 20092 to all the other cases under 213b. Thus {@saṃkaṭa@} and {@saṃkalpa@} follow {@sagara,@} and
-20093 {@saṃgama@} follows {@sañga,@} p. 264; so {@saṃcaya@} (whose {@ṃ = ñ@}) follows {@sajya;@} and {@saṃtati@}
+20093 {@saṃgama@} follows {@saṅga,@} p. 264; so {@saṃcaya@} (whose {@ṃ = ñ@}) follows {@sajya;@} and {@saṃtati@}
 20094 (whose {@ṃ = n@}) follows {@sant,@} p. 266.</p>
 20095 <p>Vedic {@ḻ@} is placed after {@ḍ,@} and {@ḻh@} after {@ḍh.@}</p>
 20096 <head>THE CONTENTS OF THE SEPARATE ARTICLES.</head>
 20097 <p>Homonyms, unless differentiated by accent, are distinguished by a prefixed number
-20098 (cf. {@añga, vayas@}); similarly homonymous roots (cf. {@kṛ@}).</p>
+20098 (cf. {@aṅga, vayas@}); similarly homonymous roots (cf. {@kṛ@}).</p>
 20099 <p>References to the Grammar in square brackets {%immediately after%} a declinable stem
 20100 refer to some peculiarity of declension. Occasionally, typical cases of stems are given.
 20101 Thus under {@dṛ́ś@} are given the nom. and acc. sing. and instr. dual; from these, the other

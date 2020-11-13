@@ -108,16 +108,16 @@
 20255 <p>RV. … … … Rigveda Saṃhitā.</p>
 20256 <p>SV. … … … Sāmaveda Saṃhitā.</p>
 20257 <p>AV. … … … Atharvaveda Saṃhitā.</p>
-20258 <p>MS. … … … Māitrāyaṇī Saṃhitā.</p>
-20259 <p>TS. … … … Tāittirīya Saṃhitā.</p>
+20258 <p>MS. … … … Maitrāyaṇī Saṃhitā.</p>
+20259 <p>TS. … … … Taittirīya Saṃhitā.</p>
 20260 <p>VS. … … … Vājasaneyi Saṃhitā.</p>
 20261 <p>K. … … … Kāṭhaka.</p>
-20262 <p>AB. … … … Āitareya Brāhmaṇa.</p>
+20262 <p>AB. … … … Aitareya Brāhmaṇa.</p>
 20263 <p>ŚB. … … … Śatapatha Brāhmaṇa.</p>
-20264 <p>PB. … … … Pañcaviṅśa {%or%} Tāṇḍya Br.</p>
-20265 <p>TA. … … … Tāittirīya Āraṇyaka.</p>
+20264 <p>PB. … … … Pañcaviṃśa {%or%} Tāṇḍya Br.</p>
+20265 <p>TA. … … … Taittirīya Āraṇyaka.</p>
 20266 <p>AGS. … … … Aśvalāyana Gṛhya-sūtra.</p>
-20267 <p>ŚGS. … … … Śāñkhāyana Gṛhya-sūtra.</p>
+20267 <p>ŚGS. … … … Śāṅkhāyana Gṛhya-sūtra.</p>
 20268 <p>PGS. … … … Pāraskara Gṛhya-sūtra.</p>
 20269 <p>JASB. … … … Journal of the Asiatic Society of Bengal.</p>
 20270 <p>JA. … … … Journal Asiatique.</p>
@@ -141,12 +141,12 @@
 20288 <p>SBE. … … … Sacred Books of the East--transl. by various scholars and ed. F. Max Müller.</p>
 20289 <head>Vol.</head>
 20290 <p>i. Upaniṣads. 1.</p>
-20291 <p>ii. Laws. 1. Apastamba, Gāutama.</p>
+20291 <p>ii. Laws. 1. Apastamba, Gautama.</p>
 20292 <p>iv. Avesta. 1. Vendīdād.</p>
 20293 <p>vii. Laws. Viṣṇu.</p>
 20294 <p>x. Dhammapada, etc.</p>
 20295 <p>xii. Śatapatha Brāhmaṇa. 1. See p. 356, N. 9.</p>
-20296 <p>xiv. Laws. 2. Vasiṣṭha, Bāudhāyana.</p>
+20296 <p>xiv. Laws. 2. Vasiṣṭha, Baudhāyana.</p>
 20297 <p>xv. Upaniṣads. 2.</p>
 20298 <p>xxiii. Avesta. 2. Yashts, etc.</p>
 20299 <p>xxv. Manu.</p>
