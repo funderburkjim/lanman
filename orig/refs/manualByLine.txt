@@ -1,0 +1,8 @@
+; Manual corrections to lsr0_refs.txt
+; Start non-closed bold text
+3050 old 05280 {@kumāra@} {%and%} {@svāmikumāra. [kṛttikā,
+3050 new 05280 {@kumāra@} {%and%} {@svāmikumāra@}. [kṛttikā,
+9784 old 11881 tasya babhūva, lordship became his, he
+9784 new 11881 tasya babhūva@}, lordship became his, he
+9785 old 11882 attained lordship,@} 37^1^; {%seldom w. dat.,%}
+9785 new 11882 attained lordship, 37^1^; {%seldom w. dat.,%}

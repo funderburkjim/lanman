@@ -1,12 +1,13 @@
 conversion from AS to IAST for Lanman refs.
 June 4, 2020 begin.
-Begin with orig0/lsr0_refs.txt
+Begin with a copy of orig0/lsr0_refs.txt
+cp ../../orig0/lsr0_refs.txt temp_lsr0_refs.txt
 
 * check_ea   Extended ASCII inventory at start
-python check_ea.py ../../orig0/lsr0_refs.txt check_ea_before.txt
+python check_ea.py temp_lsr0_refs.txt check_ea_before.txt
 
 * inventory of 'as'
-python check_as.py ../../orig0/lsr0_refs.txt as_romanuni.xml check_as_before.txt as_romanuni1.xml
+python check_as.py temp_lsr0_refs.txt as_romanuni.xml check_as_before.txt as_romanuni1.xml
 
 check_as_before.txt shows all 100 
  - AS codes (letter-number)
@@ -142,8 +143,9 @@ m3 -> ṃ
 ç -> ś
 Ç -> Ś
 
+
 * lsr1_refs.txt
-python as_iast.py ../../orig0/lsr0_refs.txt as_romanuni2 lsr1_refs.txt
+python as_iast.py temp_lsr0_refs.txt as_romanuni2 lsr1_refs.txt
 
 NOTE: also diphthongs  added to as_romanuni2
 
@@ -165,11 +167,42 @@ line 19638  c1 -> C1
 line 19650  c2 -> C2
 m3 ṁ 379. Should change to m2 (standard anusvara) NOTE: This change made
 
-* dict.txt, explanation.txt, abbreviation.txt, notes.txt
-Separate lsr1_refs.txt into these subsections.
-python separate.py lsr1_refs.txt 
+* miscellaneous manual changes
+These are required prior to closing bold and italics.
+python ../../meta/updateByLine.py lsr1_refs.txt manualByLine.txt temp_lsr1a_refs.txt
+
+* close bold and italics
+It is useful to have bold markup complete in a single line.
+And similarly for italic markup.
+
+The next program generates 'change transactions' to apply to lsr1_refs.txt.
+For example,
+lines 26299 and 26300 are
+
+28062 tive. The objective gen. would be {@devā́nām.
+28063 --asmi:@} the present does not necessarily
+
+We generate two change transactions to close the bold markup:
+26299 old 28062 tive. The objective gen. would be {@devā́nām.
+26299 new 28062 tive. The objective gen. would be {@devā́nām.@}
+26300 old 28063 --asmi:@} the present does not necessarily
+26300 new 28063 --asmi:@} the present does not necessarily
+
+python close_bold.py bold temp_lsr1a_refs.txt manualByLine_bold.txt
+python ../../meta/updateByLine.py temp_lsr1a_refs.txt manualByLine_bold.txt temp_lsr1b_refs.txt
+
+Do similar for italics  {%...%}
+
+python close_bold.py italic temp_lsr1b_refs.txt manualByLine_italic.txt
+python ../../meta/updateByLine.py temp_lsr1b_refs.txt manualByLine_italic.txt lsr2_refs.txt
+
+* vocabulary.txt, explanation.txt, abbreviation.txt, notes.txt
+Separate lsr2_refs.txt into these subsections.
+python separate.py lsr2_refs.txt 
 This generates 4 files, which are moved to parent directory:
 18033 lines written to vocabulary.txt
 178 lines written to explanations.txt
 163 lines written to abbreviations.txt
 9776 lines written to notes.txt
+
+These are moved to parent directory
