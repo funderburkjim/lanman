@@ -84,8 +84,8 @@
 20058 place; such, for example, are {@ṛta, kṛta, gata, jāta, nivṛtta, bhūta, sthita, hita,@} etc.
 20059 Gerunds with {@a-@} or {@su-@} (e. g. {@a-citvā@}) are of course treated in alphabetic place.</p>
 20060 <p>Such adverbs as are merely case-forms of substantive or adjective stems, are
-20061 generally to be sought for under those stems. Those from pronominal stems (e. g. {@kim,
-20062 tad, yad@}) receive separate treatment.</p>
+20061 generally to be sought for under those stems. Those from pronominal stems (e. g. {@kim,@}
+20062 {@tad, yad@}) receive separate treatment.</p>
 [Page291+ 47]
 20063 <p>The pronouns of the first and second person would require a dozen different arti-
 20064 cles apiece if all their forms were given alphabetically. The same is true to a greather
@@ -99,8 +99,8 @@
 20072 <head>THE ALPHABETIC ORDER.</head>
 20073 <p>The order of the letters is given by Whitney at § 5 (compare § 7); but several
 20074 matters which are frequent occasions of stumbling, may be noticed here.</p>
-20075 <p>The {%visarga%} has the first place after the vowels. Thus {@antaḥ-pura@} (for {@antar
-20076 + pura@}) stands next after {@anta,@} p. 116, and not after {@antardhāna.@} But the {%visarga%}
+20075 <p>The {%visarga%} has the first place after the vowels. Thus {@antaḥ-pura@} (for {@antar@}
+20076 {@+ pura@}) stands next after {@anta,@} p. 116, and not after {@antardhāna.@} But the {%visarga%}
 20077 which is regarded as equivalent to a sibilant and exchangeable with it (Whitney, 7^2^),
 20078 stands in the alphabetic place of the sibilant. Thus the {%visarga%} of {@adhaḥ-śāyin,@} as
 20079 equivalent to {@ś@} (172), brings this word just before {@adhas@} (p. 115, top), and not between

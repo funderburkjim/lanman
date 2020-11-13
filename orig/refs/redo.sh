@@ -20,8 +20,8 @@ echo "lsr2_refs.txt"
 python close_bold.py italic temp_lsr1b_refs.txt manualByLine_italic.txt
 python ../../meta/updateByLine.py temp_lsr1b_refs.txt manualByLine_italic.txt lsr2_refs.txt
 
-echo "Separating lsr1_refs into sections"
-python separate.py lsr1_refs.txt
+echo "Separating lsr2_refs into sections"
+python separate.py lsr2_refs.txt
 echo "Moving section files to parent directory"
 mv abbreviations.txt ../
 mv explanations.txt ../
