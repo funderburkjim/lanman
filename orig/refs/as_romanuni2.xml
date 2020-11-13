@@ -60,7 +60,6 @@
 <e> <s>INIT</s> <in>m2</in> <out>m2</out> </e>
 <e> <s>INIT</s> <in>m4</in> <out>m4</out> </e>
 <e> <s>INIT</s> <in>n2</in> <out>ṇ</out> </e>
-<e> <s>INIT</s> <in>n3</in> <out>ṅ</out> </e>
 <e> <s>INIT</s> <in>n4</in> <out>n4</out> </e>
 <e> <s>INIT</s> <in>n5</in> <out>ñ</out> </e>
 <e> <s>INIT</s> <in>o10</in> <out>ô</out> </e>
@@ -125,5 +124,44 @@
 <e> <s>INIT</s> <in>A1u</in> <out>Au</out> </e>
 <e> <s>INIT</s> <in>a1i</in> <out>ai</out> </e>
 <e> <s>INIT</s> <in>a1u</in> <out>au</out> </e>
+
+<!-- nasal corrections
+n3ç print ṅç SLP1=MS  IAST=ṃś  44 cases
+n3s print ṅs SLP1=Ms  IAST=ṃs 124 cases
+n3s2 print ṅṣ SLP1=Mz IAST=ṃṣ   8 cases
+n3h  print ṅh SLP1=Mh IAST=ṃh  31 cases
+
+<e> <s>INIT</s> <in>n3</in> <out>ṅ</out> </e>
+  Change to anusvAra
+-->
+<e> <s>INIT</s> <in>n3ç</in> <out>ṃś</out> </e> 
+<e> <s>INIT</s> <in>n3s</in> <out>ṃs</out> </e>
+<e> <s>INIT</s> <in>n3s2</in> <out>ṃṣ</out> </e>
+<e> <s>INIT</s> <in>n3h</in> <out>ṃh</out> </e>
+<e> <s>INIT</s> <in>n3</in> <out>ṃ</out> </e>
+<!-- exceptions : homophone number-->
+<e> <s>INIT</s> <in>an3,@}</in> <out>an3,@}</out> </e>
+<e> <s>INIT</s> <in>tman3</in> <out>tman3</out> </e>
+<!-- n5 errors.
+   Text prints guttural nasal as n with macron.
+   Digitization of lsr0_refs shows this (incorrectly) as n5
+   There are 144 matches with n5 before g or k.
+   These n5 to transcode to ṅ
+<e> <s>INIT</s> <in></in> <out></out> </e>
+<e> <s>INIT</s> <in></in> <out></out> </e>
+-->
+<e> <s>INIT</s> <in>n5k</in> <out>ṅk</out> </e>
+<e> <s>INIT</s> <in>n5g</in> <out>ṅg</out> </e>
+<e> <s>INIT</s> <in>n5m</in> <out>ṅm</out> </e>
+<e> <s>INIT</s> <in>n5-m</in> <out>ṅ-m</out> </e>
+<e> <s>INIT</s> <in>udan5-</in> <out>udaṅ-</out> </e>  <!-- mukha -->
+<e> <s>INIT</s> <in>{@an5-</in> <out>{@aṅ-</out> </e>
+<e> <s>INIT</s> <in>{@n5,@}</in> <out>{@ṅ,@}</out> </e>
+<e> <s>INIT</s> <in>{@n5;@}</in> <out>{@ṅ;@}</out> </e>
+<e> <s>INIT</s> <in>man5.@}</in> <out>man5.@}</out> </e>  <!-- homonym -->
+<e> <s>INIT</s> <in>man5;@}</in> <out>man5;@}</out> </e>  <!-- homonym -->
+<e> <s>INIT</s> <in>tman5,@}</in> <out>tman5,@}</out> </e> <!-- homonym -->
+<e> <s>INIT</s> <in>an5 n</in> <out>aṅ n</out> </e>
+
 
 </fsm>

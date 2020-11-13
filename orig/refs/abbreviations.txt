@@ -114,10 +114,10 @@
 20261 <p>K. … … … Kāṭhaka.</p>
 20262 <p>AB. … … … Aitareya Brāhmaṇa.</p>
 20263 <p>ŚB. … … … Śatapatha Brāhmaṇa.</p>
-20264 <p>PB. … … … Pañcaviṅśa {%or%} Tāṇḍya Br.</p>
+20264 <p>PB. … … … Pañcaviṃśa {%or%} Tāṇḍya Br.</p>
 20265 <p>TA. … … … Taittirīya Āraṇyaka.</p>
 20266 <p>AGS. … … … Aśvalāyana Gṛhya-sūtra.</p>
-20267 <p>ŚGS. … … … Śāñkhāyana Gṛhya-sūtra.</p>
+20267 <p>ŚGS. … … … Śāṅkhāyana Gṛhya-sūtra.</p>
 20268 <p>PGS. … … … Pāraskara Gṛhya-sūtra.</p>
 20269 <p>JASB. … … … Journal of the Asiatic Society of Bengal.</p>
 20270 <p>JA. … … … Journal Asiatique.</p>
