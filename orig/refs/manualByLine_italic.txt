@@ -2691,8 +2691,8 @@
 14381 old 16388 wīc,%} Eng. {%York,%} prop. ‘Eber-stadt’ or
 14381 new 16388 {%wīc,%} Eng. {%York,%} prop. ‘Eber-stadt’ or
 ; Case 523
-14386 old 16393 <HI>{@vai4,@}¦ {%postpositive particle, emphasizing the
-14386 new 16393 <HI>{@vai4,@}¦ {%postpositive particle, emphasizing the%}
+14386 old 16393 <HI>{@vaí,@}¦ {%postpositive particle, emphasizing the
+14386 new 16393 <HI>{@vaí,@}¦ {%postpositive particle, emphasizing the%}
 14387 old 16394 preceding word, e. g.%} 3^17^, 96^13^; {%rare in
 14387 new 16394 {%preceding word, e. g.%} 3^17^, 96^13^; {%rare in
 ; Case 524

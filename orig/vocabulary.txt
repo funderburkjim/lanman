@@ -1267,7 +1267,7 @@
 03540 <HI>{@asūyā,@}¦ {%f.%} impatience. [{@√asūya,@} 1149^6^.]
 03541 <HI>{@ásṛj@}¦ [432], {%n.%} blood, 24^22^. [cf. Cyprian <gr></gr>,
 03542 ‘blood.’]
-03543 <HI>{@asau4,@}¦ {%see%} 501 {%and%} {@adas.@}
+03543 <HI>{@asaú,@}¦ {%see%} 501 {%and%} {@adas.@}
 03544 <HI>{@ásta,@}¦ {%n.%} home; {@ástam,@} {%w.%} {@i, gam, yā,@} go
 03545 home; {%esp.%} of the sun [{%see%} 1092b], set.
 03546 [prob. {@√1as:@} for mg, cf. {@bhavana.@}]
@@ -1861,7 +1861,7 @@
 [Page129-b+ 50]
 04123 <HI>{@idā́nīm,@}¦ {%adv.%} now. [pron. root i, 1103b.]
 04124 <HI>{@√idh@}¦ {%or%} {@indh@} ({@inddhé@} [694]; {@īdhé@} [783b];
-04125 {@ai4ndhiṣṭa; indhiṣyáti; iddhá; -ídhya@}).
+04125 {@aíndhiṣṭa; indhiṣyáti; iddhá; -ídhya@}).
 04126 kindle. [cf. <gr></gr>, ‘burn’; Lat. {%aed-e-s,%}
 04127 ‘fire-place, hearth, dwelling’ (cf. {%stove%} and
 04128 Ger. {%Stube,%} ‘room’); {%aestus, *aid-tu-s,%}
@@ -1924,7 +1924,7 @@
 04184 just, quite; {@nacirād iva,@} right soon.
 04185 [pron. root i, 1102b.]
 04186 <HI>{@√liṣ@}¦ ({@iccháti@} [753]; {@iyéṣa, īṣús@} [783b];
-04187 {@ai4ṣīt; eṣiṣyáti; iṣṭá; éṣṭum; -íṣya@}).
+04187 {@aíṣīt; eṣiṣyáti; iṣṭá; éṣṭum; -íṣya@}).
 04188 seek; desire; {%esp. w. inf.%} [981^3^]; {%pass.%} be
 04189 desired; be approved {%or%} recognized, {%and%}
 04190 {%so%} pass for, 59^18^; {@iṣṭá,@} desired, {%i. e.%} desir-
@@ -1978,7 +1978,7 @@
 04237 in this book, 17^6^; {%w. loc.%} [{%cf.%} 1099^4^], {@iha@}
 04238 {@samaye,@} in this case, 41^10^, 42^15^. [pron.
 04239 root i, 1100a.]
-04240 <HI>{@√īkṣ@}¦ ({@ī́kṣate; īkṣā́ṃ cakre; ai4kṣiṣṭa;@}
+04240 <HI>{@√īkṣ@}¦ ({@ī́kṣate; īkṣā́ṃ cakre; aíkṣiṣṭa;@}
 04241 {@īkṣiṣyáte; īkṣitá; ī́kṣitum; īkṣitvā́;@}
 04242 {@-ī́kṣya; īkṣyáte@}). look; look at; see;
 04243 behold. [desid. of {@√*aś,@} ‘see,’ contained in
@@ -2073,7 +2073,7 @@
 04330 <HI>{@uktha-várdhana,@}¦ {%a.%} strengthening, {%i. e.%}
 04331 refreshing {%or%} delighting one's self with
 04332 hymns of praise. [acct, 1271.]
-04333 <HI>{@√ukṣ@}¦ [252] {%or%} {@vakṣ (ukṣáti, -te; au4kṣīt;@}
+04333 <HI>{@√ukṣ@}¦ [252] {%or%} {@vakṣ (ukṣáti, -te; aúkṣīt;@}
 04334 {@ukṣiṣyáti; ukṣitá; -úkṣya).@} sprinkle;
 04335 besprinkle; drop, {%intrans.,%} 75^7^. [secondary
 04336 form (108g end) of {@√*uj@} or {@ug:@} cf. <gr></gr>,
@@ -2092,7 +2092,7 @@
 04349 wonted; {@ucitá:@} {@--1.@} with which one is
 04350 pleased; proper; suitable; {@--2.@} accus-
 04351 tomed.
-04352 <HI>{@uccá,@}¦ {%a.%} lofty; {@uccai4s,@} {%adv.%} [1112c], high;
+04352 <HI>{@uccá,@}¦ {%a.%} lofty; {@uccaís,@} {%adv.%} [1112c], high;
 04353 {%of sound,%} loud. [fr. {@uccā́,@} adv. instr.
 04354 (1112e) of {@údañc.@}]
 04355 <HI>{@uccaya,@}¦ {%m.%} heap, pile, collection. [{@√1ci +@}
@@ -2378,7 +2378,7 @@
 04629 womb.’]
 04630 <HI>{@ulbaṇá,@}¦ {%a.%} lumpy, knotty, thick, massy.
 04631 [{@ulba,@} for {@*urva,@} hence {@ṇ,@} 189.]
-04632 <HI>{@√uṣ@}¦ ({@óṣati; uvóṣa; au4ṣīt; uṣṭá@}). burn.
+04632 <HI>{@√uṣ@}¦ ({@óṣati; uvóṣa; aúṣīt; uṣṭá@}). burn.
 04633 [for cognates, see the collateral form
 04634 {@√1vas,@} ‘light up,’ also {@uṣás, usrá,@} etc.:
 04635 cf. <gr></gr>, ‘singe’; <gr></gr>, ‘kindle’; Lat. {%ūr-o,%}
@@ -2435,9 +2435,9 @@
 04685 low,’ {@√*vṛ,@} ‘roll, turn hither and thither’:
 04686 cf. <gr></gr>, Lat. {%volvo,%} ‘roll’; Ger.
 04687 {%Welle,%} ‘wave.’]
-04688 <HI>{@√1ūh@}¦ ({@ū́hati; au4hīt; ūḍhá, ūhitá; ū́hi-@}
+04688 <HI>{@√1ūh@}¦ ({@ū́hati; aúhīt; ūḍhá, ūhitá; ū́hi-@}
 04689 {@tum; -ū́hya@}). remove.
-04690 <HI>{@√2ūh@}¦ ({@óhate@} [745a]; {@ūhé; au4hīt, au4hiṣṭa;@}
+04690 <HI>{@√2ūh@}¦ ({@óhate@} [745a]; {@ūhé; aúhīt, aúhiṣṭa;@}
 04691 {@ū́hitum; -ū́hya@}). notice.
 04692 <HI>{@+ api,@}¦ grasp; understand, 88^10^.
 04693 <HI>{@√ṛ@}¦ ({@íyarti@} [643c]; {@ṛṇóti; ṛccháti@} [753
@@ -2646,7 +2646,7 @@
 04892 that. [518.]
 04893 <HI>{@etā́vant,@}¦ {%a.%} thus much, 12^9^; {@etāvān…@}
 04894 {@yena,@} so great…that, 21^10^. [{@etá,@} 517.]
-04895 <HI>{@√edh@}¦ ({@édhate; edhā́ṃ cakre; ai4dhiṣṭa;@}
+04895 <HI>{@√edh@}¦ ({@édhate; edhā́ṃ cakre; aídhiṣṭa;@}
 04896 {@edhitá; édhitum@}). thrive; prosper.
 04897 [ident. w. {@√ṛdh,@} q. v.: cf. {@geha@} w.
 04898 {@gṛha.@}]
@@ -2741,7 +2741,7 @@
 04985 simple.
 04986 <HI>{@aupamya,@}¦ {%n.%} similitude; likeness. [{@upa-@}
 04987 {@mā́,@} 1211.]
-04988 <HI>{@au4paveśi,@}¦ {%m. patronymic of Aruna.%} [{@úpa-@}
+04988 <HI>{@aúpaveśi,@}¦ {%m. patronymic of Aruna.%} [{@úpa-@}
 04989 {@veśi@} (or {@upaveśá ?@}): cf. 1221.]
 04990 <HI>{@auṣadhá,@}¦ {%a.%} consisting of herbs; {%as n.%}
 04991 herbs {%collectively;%} simples; medicine.
@@ -3757,7 +3757,7 @@
 05981 <HI>{@kheda-vaśa,@}¦ {%a.%} having depression as
 05982 one's controlling influence, under the do-
 05983 minion of sorrow.
-05984 <HI>{@√khyā@}¦ ({@khyā́ti; cakhyau4; ákhyat@} [847];
+05984 <HI>{@√khyā@}¦ ({@khyā́ti; cakhyaú; ákhyat@} [847];
 05985 {@khyāsyáti; khyātá; khyā́tum; -khyā́ya;@}
 05986 {@khyāyáte; khyāpáyati, -te@} [1042d]).
 05987 {%simple verb only in pass. and caus. --pass.%}
@@ -4272,7 +4272,7 @@
 06486 <HI>{@ghna,@}¦ {%a.%} killing; destroying; removing.
 06487 [{@√ghan,@} {%i. e.%} {@han:@} see 216. 9.]
 06488 <HI>{@ghnya,@}¦ {%grdv.%} to be slain, {%in%} {@aghnya.@} [do.]
-06489 <HI>{@√ghrā@}¦ ({@jíghrati@} [749a]; {@jaghrau4; ghrātá;@}
+06489 <HI>{@√ghrā@}¦ ({@jíghrati@} [749a]; {@jaghraú; ghrātá;@}
 06490 {@-ghrā́ya; ghrāyáte; ghrāpáyati@} [1042d]).
 06491 smell; snuff at.
 06492 <HI>{@ca,@}¦ {%encl. conj.%} and, also, <gr></gr>, que; {@--1a.@} {%is%}
@@ -4747,7 +4747,7 @@
 06951 <HI>{@jána,@}¦ {%m.%} creature; man; person; {%in pl.%}
 06952 ({%e. g.%} 40^16^), {%and collectively in sing.%} ({%e. g.%}
 06953 77^11^), folks; a people {%or%} race {%or%} tribe;
-06954 {@dai4vya jána,@} heavenly race, the gods.
+06954 {@daívya jána,@} heavenly race, the gods.
 06955 [{@√jan:@} cf. <gr></gr>, Lat. {%genus,%} Eng. {%kin,%}
 06956 ‘race.’]
 06957 <HI>{@jana-padá,@}¦ {%m.%} (tribe-place, {%i. e.%}) district;
@@ -4915,7 +4915,7 @@
 07116 <HI>{@jóṣas,@}¦ {%n.%} pleasure. [{@√juṣ.@}]
 07117 <HI>{@jña,@}¦ {%vbl.%} knowing, {%at end of cpds.%} [{@√jñā,@}
 07118 333.]
-07119 <HI>{@√jñā@}¦ ({@jānā́ti, jānīté@} [730]; {@jajñau4, jajñé;@}
+07119 <HI>{@√jñā@}¦ ({@jānā́ti, jānīté@} [730]; {@jajñaú, jajñé;@}
 07120 {@ájñāsīt@} [911], {@ájñāsta; jñāsyáti, -te;@}
 07121 {@jñātá; jñā́tum; jñātvā́; -jñā́ya; jñā-@}
 07122 {@yáte; jñāpáyati, -te, jñapáyati, -te@}
@@ -4955,7 +4955,7 @@
 07155 standing (what one reads), 68^15^. [{@jñāna.@}]
 07156 <HI>{@jñeya,@}¦ {%grdv.%} to be known {%or%} considered as.
 07157 [{@jñā.@}]
-07158 <HI>{@√jyā@}¦ {%or%} {@ji@} {%or%} {@jī@} ({@jinā́ti; jijyau4@} [785];
+07158 <HI>{@√jyā@}¦ {%or%} {@ji@} {%or%} {@jī@} ({@jinā́ti; jijyaú@} [785];
 07159 ájyāsīt; jyāsyáti; jītá).@} <gr></gr>; over-
 07160 power. [cf. {@1jyā́,@} ‘power,’ and {@√1ji,@}
 07161 ‘overpower.’]
@@ -4994,7 +4994,7 @@
 07193 <HI>{@jhalla,@}¦ {%m.%} a cudgel-fighting athlete (de-
 07194 scended from outcast Kshatriyas).
 07195 <HI>{@ṭhio,@}¦ {%a Prakrit form for%} {@sthito.@}
-07196 <HI>{@√ḍhānk@}¦ ({@ḍhau4kate; ḍuḍhauké; ḍhauk-@}
+07196 <HI>{@√ḍhānk@}¦ ({@ḍhaúkate; ḍuḍhauké; ḍhauk-@}
 07197 {@itá; ḍhaukáyati@}). approach; {%caus.%} bring
 07198 near.
 07199 <HI>{@+ upa,@}¦ bring to; provide.
@@ -5809,7 +5809,7 @@
 07992 <HI>{@+ ā,@}¦ {%in%} {@ādahana.@}
 07993 <HI>{@+ vi,@}¦ injure by burning, 84^17^.
 07994 <HI>{@+ sam,@}¦ consume.
-07995 <HI>{@√1dā@}¦ ({@dádāti, dádati@} [668]; {@dadau4, dadé;@}
+07995 <HI>{@√1dā@}¦ ({@dádāti, dádati@} [668]; {@dadaú, dadé;@}
 07996 {@ádāt, ádita@} [884]; {@dāsyáti, -te; dattá@}
 07997 [955c], {@-tta@} [1087c]; {@dā́tum; dattvā́;@}
 07998 {@-dā́ya; dīyáte@} [770b]; {@dítsati@} [1030];
@@ -5933,7 +5933,7 @@
 08114 a god of the sky or bright day, but rather
 08115 a god of battle or fighting, the chief occu-
 08116 pation of our early forefathers:) w. nom.
-08117 {@dyau4s,@} cf. <gr></gr>, w. voc. {@dyau11ṣ@}
+08117 {@dyaús,@} cf. <gr></gr>, w. voc. {@dyau11ṣ@}
 08118 {@pítar,@} cf. <gr></gr>, Lat {%Jū-piter,%} ‘Heaven
 08119 Father’: w. {@dúhitar divas,@} cf. <gr></gr>
 08120 <gr></gr> Oedipus Rex 159: cf.
@@ -6289,7 +6289,7 @@
 08463 1211.]
 08464 <HI>{@daivika,@}¦ {%a.%} of the gods; divine. [{@deva,@}
 08465 1222e.]
-08466 <HI>{@dai4vya,@}¦ {%a.%} of the gods; divine. [{@devá,@}
+08466 <HI>{@daívya,@}¦ {%a.%} of the gods; divine. [{@devá,@}
 08467 1211.]
 08468 <HI>{@dola,@}¦ {%m.%} a swinging; {%f.%} {@dolā,@} a dooly
 08469 ({%Anglo-Indian term%}), a little bamboo chair
@@ -6332,13 +6332,13 @@
 08505 thing, object; {@--3.@} {%esp.%} worthy object.
 08506 [{@√dru:@} see {@draviṇa.@}]
 08507 <HI>{@draṣṭavyà,@}¦ {%grdv.%} to be seen. [{@√dṛś.@}]
-08508 <HI>{@√1drā@}¦ ({@drā́ti; dadrau4; ádrāsīt;@} {%intens.%}
+08508 <HI>{@√1drā@}¦ ({@drā́ti; dadraú; ádrāsīt;@} {%intens.%}
 08509 [1002c, 1024^2^] {@daridrāti@}). run; {%intens.%}
 08510 run about, run hither and thither. [cf.
 08511 <gr></gr>, ‘run’: see {@√dru.@}]
 08512 <HI>{@+ apa,@}¦ run off. [cf. <gr></gr>, ‘run
 08513 off.’]
-08514 <HI>{@√2drā@}¦ ({@drā́ti; drā́yate; dadrau4; ádrāsīt;@}
+08514 <HI>{@√2drā@}¦ ({@drā́ti; drā́yate; dadraú; ádrāsīt;@}
 08515 {@drāsyáti; drāṇá@}). sleep. [cf. <gr></gr>,
 08516 ‘slept’; Lat. {%dormīre,%} ‘sleep.’]
 08517 <HI>{@+ ni,@}¦ go to sleep; sleep.
@@ -6475,7 +6475,7 @@
 08645 <HI>{@dhánvan,@}¦ {%n.%} bow. [{@√dhan,@} 1169. 1a.]
 08646 <HI>{@dhanvin,@}¦ {%a. subst.%} having a bow, bow-
 08647 man. [{@dhanvan,@} 1230b.]
-08648 <HI>{@√dham@}¦ {%or%} {@dhmā@} ({@dhámati@} [750]; {@dadhmau4;@}
+08648 <HI>{@√dham@}¦ {%or%} {@dhmā@} ({@dhámati@} [750]; {@dadhmaú;@}
 08649 {@ádhmāsīt; dhamiṣyáti; dhamitá, dhmā-@}
 08650 {@tá; -dhmā́ya@}). blow, breathe out; blow
 08651 (pipe, shell, bag-pipe, bellows). [see 108g
@@ -6532,7 +6532,7 @@
 08701 and cf. <gr></gr>, ‘run.’]
 08702 <HI>{@dhavala,@}¦ {%a.%} dazzlingly white. [{@√2dhāv,@}
 08703 ‘rinse,’ 1189, 1188.]
-08704 <HI>{@√1dhā@}¦ ({@dádhāti, dhatté@} [668]; {@dadhau4,@}
+08704 <HI>{@√1dhā@}¦ ({@dádhāti, dhatté@} [668]; {@dadhaú,@}
 08705 {@dadhé; ádhāt, ádhita@} [884]; {@dhāsyáti,@}
 08706 {@-te;@} {%V.%} {@-dhita,@} {%later%} {@hitá@} [954c]; {@dhā́tum;@}
 08707 {@dhitvā́; -dhā́ya; dhīyáte; dídhiṣati,@}
@@ -6637,7 +6637,7 @@
 08804 <HI>{@+ śrad,@}¦ {%see%} {@śrad.@}
 08805 <HI>{@+ sam,@}¦ put together, unite; embroil in,
 08806 {%w. loc.,%} 73^14^.
-08807 <HI>{@√2dhā@}¦ ({@dháyati@} [761d 2]; {@dadhau4; ádhāt;@}
+08807 <HI>{@√2dhā@}¦ ({@dháyati@} [761d 2]; {@dadhaú; ádhāt;@}
 08808 {@dhāsyáti; dhītá; dhā́tum; -dhī́ya; dhī-@}
 08809 {@tvā́@}). suck; drink, 63^1^. [cf. {@dadhi, dhenu:@}
 08810 also <gr></gr>, ‘sucked’; <gr></gr>, ‘milk-
@@ -6796,7 +6796,7 @@
 08960 bearing. [{@2dhīra,@} 1211.]
 08961 <HI>{@√dhmā,@}¦ {%see%} {@√dham.@}
 08962 <HI>{@√dhyā@}¦ ({@dhyā́ti, dhyā́yati@} [761d 1]; {@da-@}
-08963 {@dhyau4; ádhyāsīt@} [911]; {@dhyāsyáti;@}
+08963 {@dhyaú; ádhyāsīt@} [911]; {@dhyāsyáti;@}
 08964 {@dhyātá; dhyātvā́; -dhyā́ya@}). think upon;
 08965 meditate. [see {@√dhī@} and 108g.]
 08966 <HI>{@+ abhi,@}¦ set the mind on something;
@@ -7450,7 +7450,7 @@
 09601 <HI>{@nó,@}¦ {%adv.%} and not, 21^14^; {@no ced,@} and if not,
 09602 {%see%} {@ced. [ná + u.]@}
 09603 <HI>{@nau,@}¦ {%see%} 491.
-09604 <HI>{@nau4@}¦ [361a], {%f.%} boat; ship. [cf. <gr></gr>, Lat.
+09604 <HI>{@naú@}¦ [361a], {%f.%} boat; ship. [cf. <gr></gr>, Lat.
 09605 {%nāvis,%} ‘ship’; perhaps AS. {%naca,%} ‘skiff’:
 09606 perhaps ‘the swimmer,’ {@√snū,@} cf. {@√snā.@}]
 09607 <HI>{@nyag-ródha,@}¦ {%m.%} Ficus índica, banyan
@@ -7911,7 +7911,7 @@
 10053 <HI>{@paścā́t,@}¦ {%see%} {@paśca.@}
 10054 <HI>{@paścima,@}¦ {%a.%} last, 52^16^; westerly. [{@paśca:@}
 10055 cf. 1224a and b.]
-10056 <HI>{@√1pā@}¦ ({@píbati, -te@} [671, 749]; {@papau4, papé;@}
+10056 <HI>{@√1pā@}¦ ({@píbati, -te@} [671, 749]; {@papaú, papé;@}
 10057 {@ápāt; pāsyáti, -te; pītá@} [954c]; {@pā́tum;@}
 10058 {@pītvā́; -pā́ya, -pī́ya@}). drink. [cf. <gr>-
 10059 </gr>, ‘have drunk’; <gr></gr>, ‘The Burn,
@@ -8398,7 +8398,7 @@
 [Page194-a+ 50]
 10531 <HI>{@póṣa,@}¦ {%m.%} thriving, development; welfare.
 10532 [{@√puṣ.@}]
-10533 <HI>{@pau4ṃsya,@}¦ {%n.%} manliness; manly deed.
+10533 <HI>{@paúṃsya,@}¦ {%n.%} manliness; manly deed.
 10534 [{@puṃs,@} 1211^2^.]
 10535 <HI>{@pauruṣá,@}¦ {%n.%} manliness; manly deed.
 10536 [{@púruṣa,@} 1208f.]
@@ -8740,7 +8740,7 @@
 10866 one must strike. [do.]
 10867 <HI>{@prahṛṣṭa-manas,@}¦ {%a.%} having a delighted
 10868 heart. [{@√hṛṣ + pra.@}]
-10869 <HI>{@√prā@}¦ ({@prā́ti; paprau4; áprās@} [889]; {@prā-@}
+10869 <HI>{@√prā@}¦ ({@prā́ti; papraú; áprās@} [889]; {@prā-@}
 10870 {@tá@}). fill. [Vedic collateral form of {@√1pṛ,@}
 10871 ‘fill,’ q. v.: cf. <gr></gr>, Lat. {%plē-nus,%} ‘full.’]
 10872 {@+ ā,@} fill.
@@ -9559,7 +9559,7 @@
 11669 ‘sand.’]
 11670 <HI>{@bhásman,@}¦ {%n.%} ashes. [‘consumed’: see
 11671 {@√bhas.@}]
-11672 <HI>{@√bhā@}¦ ({@bhā́ti; babhau4; bhāsyáti; bhātá@}).
+11672 <HI>{@√bhā@}¦ ({@bhā́ti; babhaú; bhāsyáti; bhātá@}).
 11673 be bright, shine; appear. [cf. <gr></gr>,
 11674 Lat. {%fā-ri,%} ‘make appear, reveal, say’;
 11675 Eng. {%ban,%} ‘public proclamation, manda-
@@ -10542,7 +10542,7 @@
 12632 {@īśvara.@}]
 12633 <HI>{@mahaujas,@}¦ {%a.%} having great strength,
 12634 mighty. [{@mahā + ojas.@}]
-12635 <HI>{@√1mā@}¦ ({@mímīte@} [660-3]; {@mamau4, mamé;@}
+12635 <HI>{@√1mā@}¦ ({@mímīte@} [660-3]; {@mamaú, mamé;@}
 12636 {@ámāsta; mitá@} [954c]; {@mā́tum; mitvā́;@}
 12637 {@-mā́ya@}). {@--1.@} measure; {@--2.@} measure
 12638 with, compare; {@--3.@} mete out; {@--4.@} ar-
@@ -11120,7 +11120,7 @@
 13199 <HI>{@+ sam,@}¦ keep together, 73^4^.
 13200 <HI>{@mradas,@}¦ {%n.%} softness [{@√mrad,@} collateral
 13201 form of {@√mṛd,@} q. v.]
-13202 <HI>{@√mlā@}¦ ({@mlā́yati; mamlau4; ámlāsīt;@}
+13202 <HI>{@√mlā@}¦ ({@mlā́yati; mamlaú; ámlāsīt;@}
 13203 {@mlāná@}). wither. [collateral form of
 13204 {@√1mṛ,@} ‘die,’ and so ‘perish, decay,
 13205 fade.’]
@@ -11540,7 +11540,7 @@
 13611 <HI>{@√yah,@}¦ stir, move quickly, {%inferred fr.%} {@yakṣ,@}
 13612 q. v., {%and%} {@yahva,@} ‘continually moving,
 13613 restless.’
-13614 <HI>{@√yā@}¦ ({@yā́ti; yayau4; áyāsīt@} [911]; {@yāsyáti;@}
+13614 <HI>{@√yā@}¦ ({@yā́ti; yayaú; áyāsīt@} [911]; {@yāsyáti;@}
 13615 {@yātá; yā́tum; yātvā́; -yā́ya@}). {@--1.@} go,
 13616 39^1^; {@yātas, avasitasya,@} of him that
 13617 journeys (and) of him that rests, 71^8^; {%w.%}
@@ -11602,7 +11602,7 @@
 [Page225-b+ 50]
 13672 <HI>{@yāvayád-dveṣas,@}¦ {%a.%} driving away foes.
 13673 [{@√2yu,@} ‘keep off’: see 1309.]
-13674 <HI>{@√1yu@}¦ ({@yau4ti@} [626], {%3rd pl.%} {@yuvánti,@} {%mid.%}
+13674 <HI>{@√1yu@}¦ ({@yaúti@} [626], {%3rd pl.%} {@yuvánti,@} {%mid.%}
 13675 {@yuté; yuváti, -te;@} {%finite forms Vedic%}
 13676 {%only;%} {@yutá; -yū́ya@}). fasten, hold fast;
 13677 draw towards one, attract; join, unite.
@@ -11989,8 +11989,8 @@
 14051 <HI>{@+ vi,@}¦ abandon, separate from, {%in%} viraha.
 14052 <HI>{@rahas,@}¦ {%n.%} solitude; lonely place; {%as adv.%}
 14053 [1111b], secretly. [{@√rah.@}]
-14054 <HI>{@√1rā@}¦ ({@rárāte; rarau4, raré; árāsta; rātá@}).
-14055 give, grant, bestow. [see {@rai4:@} cf. {@rayí.@}]
+14054 <HI>{@√1rā@}¦ ({@rárāte; raraú, raré; árāsta; rātá@}).
+14055 give, grant, bestow. [see {@raí:@} cf. {@rayí.@}]
 14056 <HI>{@√2rā@}¦ ({@rā́yati@} [761d 1]). bark; bark at.
 14057 [cf. Lat. {%in-rī-re,%} ‘growl at.’]
 14058 <HI>{@rākṣasa,@}¦ {%a.%} demoniacal; {%as m.%} a demo-
@@ -12148,7 +12148,7 @@
 14207 {%caus.%} {@reṣáyati; árīriṣat@}). be hurt; re-
 14208 ceive harm; {%caus.%} harm.
 14209 <HI>{@√rī,@}¦ {%see%} {@ri.@}
-14210 <HI>{@√ru@}¦ ({@rau4ti@} [626]; {@ruváti; rurā́va; árāvīt;@}
+14210 <HI>{@√ru@}¦ ({@raúti@} [626]; {@ruváti; rurā́va; árāvīt;@}
 14211 {@rutá; rótum@}). cry; yell; howl; hum,
 14212 26^9^. [cf. <gr></gr>, ‘howl’; Lat. {%raucus,%}
 14213 ‘screaming, hoarse’; AS. {%rȳn,%} ‘a roar-
@@ -12286,7 +12286,7 @@
 14342 ‘dust,’ w. {%stieben,%} ‘fly asunder’: 1162.]
 14343 <HI>{@revā,@}¦ {%f.%} Revā, a river, the same as the
 14344 Narmadā, {%q. v.%}
-14345 <HI>{@rai4@}¦ [361b], {%m., rarely f.%} possessions; wealth;
+14345 <HI>{@raí@}¦ [361b], {%m., rarely f.%} possessions; wealth;
 14346 prosperity. [stem strictly rā́: prop. ‘be-
 14347 stowal,’ {@√1rā,@} see 361b and {@rayí:@} w. acc.
 14348 {@rā́-m,@} cf. Lat. nom. {%rē-s,%} ‘property.’]
@@ -13189,7 +13189,7 @@
 15227 {%bear.%}]
 15228 <HI>{@vahye-śayá,@}¦ {%a.%} lying on litters. [{@vahya,@}
 15229 1250c: acct, 1270.]
-15230 <HI>{@√1vā@}¦ ({@vā́ti; vavau4; ávāsīt@} [882]; {@vās-@}
+15230 <HI>{@√1vā@}¦ ({@vā́ti; vavaú; ávāsīt@} [882]; {@vās-@}
 15231 {@yáti; vātá; vā́tum; vāpáyati@} [1042d]).
 15232 blow. [cf. <gr></gr>, ‘blow’; Goth.
 15233 {%va-ian,%} Ger. {%weh-en,%} AS. {%wāwan,%} ‘blow’;
@@ -14375,7 +14375,7 @@
 16390 ‘Nor-ton.’]
 16391 <HI>{@véśman,@}¦ {%n.%} (settlement, {%i. e.%}) dwelling,
 16392 house, abode, chamber. [{@√viś,@} 1168. 1a.]
-16393 <HI>{@vai4,@}¦ {%postpositive particle, emphasizing the%}
+16393 <HI>{@vaí,@}¦ {%postpositive particle, emphasizing the%}
 16394 {%preceding word, e. g.%} 3^17^, 96^13^; {%rare in%}
 16395 {%the%} {@saṃhitā,@} 90^20^, 103^4^ ({%in a quoted%} {@man-@}
 16396 {@tra@}); {%excessively common in the%} {@brāhmaṇa@}
@@ -14409,7 +14409,7 @@
 16423 <HI>{@vaivasvatá,@}¦ {%a.%} descended from Vivas-
 16424 vant; {%as m.%} son of V., {%i. e.%} Yama. [{@vívas-@}
 16425 {@vant,@} 1208 and a and a^2^.]
-16426 <HI>{@vai4śya,@}¦ {%adj. subst.%} man of the viś {%or%} folk
+16426 <HI>{@vaíśya,@}¦ {%adj. subst.%} man of the viś {%or%} folk
 16427 {%or%} third caste, 57^16^. [{@víś,@} 1211.]
 16428 <HI>{@voc,@}¦ {%quasi-root, see%} 854 {%and%} {@√vac.@}
 16429 <HI>{@vyàṃsa,@}¦ {%a.%} having the shoulders apart,
@@ -14685,7 +14685,7 @@
 16694 one's self; get the upper hand, prevail;
 16695 {%Vedic only.%} [cf. <gr></gr>, Doric <gr>-
 16696 </gr>, ‘distinguished.’]
-16697 <HI>{@śanakai4s,@}¦ {%adv.%} quietly; gently; slowly.
+16697 <HI>{@śanakaís,@}¦ {%adv.%} quietly; gently; slowly.
 16698 [instr. (1112c) of an unused stem {@*śa-@}
 16699 {@naka,@} diminutive to {@*śana,@} see {@śanais.@}]
 16700 <HI>{@śanais,@}¦ {%adv.%} quietly; gently; slowly;
@@ -15349,7 +15349,7 @@
 17345 {%of cpd,%} 11^9^; best as distinguished from
 17346 {%(abl.), equiv. to%} better than, 68^14^. [see
 17347 {@śreyāṃs.@}]
-17348 <HI>{@śrai4ṣṭhya,@}¦ {%n.%} supremacy, precedence.
+17348 <HI>{@śraíṣṭhya,@}¦ {%n.%} supremacy, precedence.
 17349 [{@śréṣṭha,@} 1211^2^ end.]
 17350 <HI>{@śrótra,@}¦ {%n.%} ear; hearing. [{@√śru,@} 1185a.]
 17351 <HI>{@śrótriya,@}¦ {%a.%} studied, learned (in sacred
@@ -16868,12 +16868,12 @@
 18834 cloud-born,’ {%and to be taken in its adj.%}
 18835 {%sense, as epithet of%} {@vidyut,@} {%at%} 2^9^. [see
 18836 {@sudāman@} and 1208a.]
-18837 <HI>{@sau4bhaga,@}¦ {%n.%} happiness. [{@subhága,@}
+18837 <HI>{@saúbhaga,@}¦ {%n.%} happiness. [{@subhága,@}
 18838 1208f.]
 18839 <HI>{@saubhagatvá,@}¦ {%n.%} condition of happi-
-18840 ness; weal and blessing. [{@sau4bhaga,@}
+18840 ness; weal and blessing. [{@saúbhaga,@}
 18841 1239.]
-18842 <HI>{@sau4bhāgya,@}¦ {%n.%} happiness, {%esp.%} conjugal
+18842 <HI>{@saúbhāgya,@}¦ {%n.%} happiness, {%esp.%} conjugal
 18843 felicity, 89^16^; charmingness, 2^5^. [{@su-@}
 18844 {@bhága@} (1211, 1204c)--see its mgs.]
 18845 <HI>{@saumyá,@}¦ {%a.%} {@--1.@} of {%or%} relating to Soma;
@@ -16949,7 +16949,7 @@
 18913 present, cf. 161^1^ and^4^.]
 18914 <HI>{@+ pra,@}¦ get ahead in attacking, succeed
 18915 in one's attacks, 93^5, 10, 11^.
-18916 <HI>{@√stu@}¦ ({@stau4ti@} [626], {@stuté; tuṣṭā́va, tn-@}
+18916 <HI>{@√stu@}¦ ({@staúti@} [626], {@stuté; tuṣṭā́va, tn-@}
 18917 {@ṣṭuvé; ástauṣīt, ástoṣṭa; ástāvīt;@}
 18918 {@staviṣyáti, -te; stoṣyáti, -te; stutá;@}
 18919 {@stótum; stutvā́; -stútya, -stū́ya; stū-@}
@@ -17033,7 +17033,7 @@
 18996 {@√sthā,@} 1188e: for mg 1, cf. Eng. {%steady,%}
 18997 cognate w. {%stand,%} and cf. {@sthira;@} for 2,
 18998 cf. Eng. {%of long standing.%}]
-18999 <HI>{@√sthā@}¦ ({@tíṣṭhati, -te@} [671, 749a]; {@tasthau4,@}
+18999 <HI>{@√sthā@}¦ ({@tíṣṭhati, -te@} [671, 749a]; {@tasthaú,@}
 19000 {@tasthé; ásthāt, ásthita@} [884]; {@sthāsyáti,@}
 19001 {@-te; sthitá; sthā́tum; sthitvā́; -sthā́ya;@}
 19002 {@sthīyáte; sthāpáyati, -te@} [1042d]).
@@ -17202,13 +17202,13 @@
 19161 appears also in Ger. {%Stall,%} Eng. {%stall,%}
 19162 ‘stand, {%i. e.%} standing-place,’ and in Ger.
 19163 {%still,%} Eng. {%still,%} ‘standing, not moving.’]
-19164 <HI>{@√snā@}¦ ({@snā́ti; sasnau4; snāsyáti, -te;@}
+19164 <HI>{@√snā@}¦ ({@snā́ti; sasnaú; snāsyáti, -te;@}
 19165 {@snātá; snā́tum; snātvā́; -snā́ya@}). bathe;
 19166 perform a religious ablution, {%esp.%} at the
 19167 end of religious studentship (62^6^) {%or%} of a
 19168 vow. [orig. {@snā@} or {@snū@} (so {@sthā, sthū@}):
 19169 cf. <gr></gr> in <gr></gr>, ‘swam’; Lat.
-19170 {%nā-re,%} ‘swim’: see also under {@nau4.@}]
+19170 {%nā-re,%} ‘swim’: see also under {@naú.@}]
 19171 <HI>{@snā́taka,@}¦ {%a.%} who has performed the
 19172 ablution customary at the end of religious
 19173 pupilage. [{@snātá,@} 1222.]
@@ -17758,7 +17758,7 @@
 19707 {@yáte; hāná; hā́tum@}). move, {%intrans.,%}
 19708 run away, yield.
 [Page286-a+ 50]
-19709 <HI>{@√2hā@}¦ ({@jáhāti@} [665]; {@jahau4; áhāsīt@} [913];
+19709 <HI>{@√2hā@}¦ ({@jáhāti@} [665]; {@jahaú; áhāsīt@} [913];
 19710 {@hāsyáti; hīná@} [957a]; {@hā́tum; hitvā́;@}
 19711 {@-hā́ya; hīyáte, hī́yate@}). {@--1.@} leave, {%i. e.:%}
 19712 quit; leave in the lurch, 82^1^; desert,

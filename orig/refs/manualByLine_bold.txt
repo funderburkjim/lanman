@@ -293,8 +293,8 @@
 1987 old 04238 samaye,@} in this case, 41^10^, 42^15^. [pron.
 1987 new 04238 {@samaye,@} in this case, 41^10^, 42^15^. [pron.
 ; Case 59
-1989 old 04240 <HI>{@√īkṣ@}¦ ({@ī́kṣate; īkṣā́ṃ cakre; ai4kṣiṣṭa;
-1989 new 04240 <HI>{@√īkṣ@}¦ ({@ī́kṣate; īkṣā́ṃ cakre; ai4kṣiṣṭa;@}
+1989 old 04240 <HI>{@√īkṣ@}¦ ({@ī́kṣate; īkṣā́ṃ cakre; aíkṣiṣṭa;
+1989 new 04240 <HI>{@√īkṣ@}¦ ({@ī́kṣate; īkṣā́ṃ cakre; aíkṣiṣṭa;@}
 1990 old 04241 īkṣiṣyáte; īkṣitá; ī́kṣitum; īkṣitvā́;
 1990 new 04241 {@īkṣiṣyáte; īkṣitá; ī́kṣitum; īkṣitvā́;@}
 1991 old 04242 -ī́kṣya; īkṣyáte@}). look; look at; see;
@@ -305,8 +305,8 @@
 2013 old 04264 īḻitá@}). supplicate; call upon; praise.
 2013 new 04264 {@īḻitá@}). supplicate; call upon; praise.
 ; Case 61
-2084 old 04333 <HI>{@√ukṣ@}¦ [252] {%or%} {@vakṣ (ukṣáti, -te; au4kṣīt;
-2084 new 04333 <HI>{@√ukṣ@}¦ [252] {%or%} {@vakṣ (ukṣáti, -te; au4kṣīt;@}
+2084 old 04333 <HI>{@√ukṣ@}¦ [252] {%or%} {@vakṣ (ukṣáti, -te; aúkṣīt;
+2084 new 04333 <HI>{@√ukṣ@}¦ [252] {%or%} {@vakṣ (ukṣáti, -te; aúkṣīt;@}
 2085 old 04334 ukṣiṣyáti; ukṣitá; -úkṣya).@} sprinkle;
 2085 new 04334 {@ukṣiṣyáti; ukṣitá; -úkṣya).@} sprinkle;
 ; Case 62
@@ -400,13 +400,13 @@
 2438 old 04680 vam,@} from now on. [cf. Lat. {%arduus,%}
 2438 new 04680 {@vam,@} from now on. [cf. Lat. {%arduus,%}
 ; Case 80
-2446 old 04688 <HI>{@√1ūh@}¦ ({@ū́hati; au4hīt; ūḍhá, ūhitá; ū́hi-
-2446 new 04688 <HI>{@√1ūh@}¦ ({@ū́hati; au4hīt; ūḍhá, ūhitá; ū́hi-@}
+2446 old 04688 <HI>{@√1ūh@}¦ ({@ū́hati; aúhīt; ūḍhá, ūhitá; ū́hi-
+2446 new 04688 <HI>{@√1ūh@}¦ ({@ū́hati; aúhīt; ūḍhá, ūhitá; ū́hi-@}
 2447 old 04689 tum; -ū́hya@}). remove.
 2447 new 04689 {@tum; -ū́hya@}). remove.
 ; Case 81
-2448 old 04690 <HI>{@√2ūh@}¦ ({@óhate@} [745a]; {@ūhé; au4hīt, au4hiṣṭa;
-2448 new 04690 <HI>{@√2ūh@}¦ ({@óhate@} [745a]; {@ūhé; au4hīt, au4hiṣṭa;@}
+2448 old 04690 <HI>{@√2ūh@}¦ ({@óhate@} [745a]; {@ūhé; aúhīt, aúhiṣṭa;
+2448 new 04690 <HI>{@√2ūh@}¦ ({@óhate@} [745a]; {@ūhé; aúhīt, aúhiṣṭa;@}
 2449 old 04691 ū́hitum; -ū́hya@}). notice.
 2449 new 04691 {@ū́hitum; -ū́hya@}). notice.
 ; Case 82
@@ -452,8 +452,8 @@
 2656 old 04894 yena,@} so great…that, 21^10^. [{@etá,@} 517.]
 2656 new 04894 {@yena,@} so great…that, 21^10^. [{@etá,@} 517.]
 ; Case 90
-2657 old 04895 <HI>{@√edh@}¦ ({@édhate; edhā́ṃ cakre; ai4dhiṣṭa;
-2657 new 04895 <HI>{@√edh@}¦ ({@édhate; edhā́ṃ cakre; ai4dhiṣṭa;@}
+2657 old 04895 <HI>{@√edh@}¦ ({@édhate; edhā́ṃ cakre; aídhiṣṭa;
+2657 new 04895 <HI>{@√edh@}¦ ({@édhate; edhā́ṃ cakre; aídhiṣṭa;@}
 2658 old 04896 edhitá; édhitum@}). thrive; prosper.
 2658 new 04896 {@edhitá; édhitum@}). thrive; prosper.
 ; Case 91
@@ -487,8 +487,8 @@
 2751 old 04987 mā́,@} 1211.]
 2751 new 04987 {@mā́,@} 1211.]
 ; Case 97
-2752 old 04988 <HI>{@au4paveśi,@}¦ {%m. patronymic of Aruna.%} [{@úpa-
-2752 new 04988 <HI>{@au4paveśi,@}¦ {%m. patronymic of Aruna.%} [{@úpa-@}
+2752 old 04988 <HI>{@aúpaveśi,@}¦ {%m. patronymic of Aruna.%} [{@úpa-
+2752 new 04988 <HI>{@aúpaveśi,@}¦ {%m. patronymic of Aruna.%} [{@úpa-@}
 2753 old 04989 veśi@} (or {@upaveśá ?@}): cf. 1221.]
 2753 new 04989 {@veśi@} (or {@upaveśá ?@}): cf. 1221.]
 ; Case 98
@@ -865,8 +865,8 @@
 4252 old 06458 -ghúṣya; ghoṣáyati@}). sound; make a
 4252 new 06458 {@-ghúṣya; ghoṣáyati@}). sound; make a
 ; Case 165
-4283 old 06489 <HI>{@√ghrā@}¦ ({@jíghrati@} [749a]; {@jaghrau4; ghrātá;
-4283 new 06489 <HI>{@√ghrā@}¦ ({@jíghrati@} [749a]; {@jaghrau4; ghrātá;@}
+4283 old 06489 <HI>{@√ghrā@}¦ ({@jíghrati@} [749a]; {@jaghraú; ghrātá;
+4283 new 06489 <HI>{@√ghrā@}¦ ({@jíghrati@} [749a]; {@jaghraú; ghrātá;@}
 4284 old 06490 -ghrā́ya; ghrāyáte; ghrāpáyati@} [1042d]).
 4284 new 06490 {@-ghrā́ya; ghrāyáte; ghrāpáyati@} [1042d]).
 ; Case 166
@@ -1042,8 +1042,8 @@
 4917 old 07110 ájārīt; jīrṇá@} [957b]). decay; grow frail
 4917 new 07110 {@ájārīt; jīrṇá@} [957b]). decay; grow frail
 ; Case 198
-4926 old 07119 <HI>{@√jñā@}¦ ({@jānā́ti, jānīté@} [730]; {@jajñau4, jajñé;
-4926 new 07119 <HI>{@√jñā@}¦ ({@jānā́ti, jānīté@} [730]; {@jajñau4, jajñé;@}
+4926 old 07119 <HI>{@√jñā@}¦ ({@jānā́ti, jānīté@} [730]; {@jajñaú, jajñé;
+4926 new 07119 <HI>{@√jñā@}¦ ({@jānā́ti, jānīté@} [730]; {@jajñaú, jajñé;@}
 4927 old 07120 ájñāsīt@} [911], {@ájñāsta; jñāsyáti, -te;
 4927 new 07120 {@ájñāsīt@} [911], {@ájñāsta; jñāsyáti, -te;
 ; Case 199
@@ -1061,8 +1061,8 @@
 4995 old 07187 jvaláyati, -te@}). burn bright; flame; {%caus.%}
 4995 new 07187 {@jvaláyati, -te@}). burn bright; flame; {%caus.%}
 ; Case 201
-5005 old 07196 <HI>{@√ḍhānk@}¦ ({@ḍhau4kate; ḍuḍhauké; ḍhauk-
-5005 new 07196 <HI>{@√ḍhānk@}¦ ({@ḍhau4kate; ḍuḍhauké; ḍhauk-@}
+5005 old 07196 <HI>{@√ḍhānk@}¦ ({@ḍhaúkate; ḍuḍhauké; ḍhauk-
+5005 new 07196 <HI>{@√ḍhānk@}¦ ({@ḍhaúkate; ḍuḍhauké; ḍhauk-@}
 5006 old 07197 itá; ḍhaukáyati@}). approach; {%caus.%} bring
 5006 new 07197 {@itá; ḍhaukáyati@}). approach; {%caus.%} bring
 ; Case 202
@@ -1230,8 +1230,8 @@
 5812 old 07987 dagdhvā́; -dáhya; dahyáte@}). {@--1.@} burn
 5812 new 07987 {@dagdhvā́; -dáhya; dahyáte@}). {@--1.@} burn
 ; Case 232
-5820 old 07995 <HI>{@√1dā@}¦ ({@dádāti, dádati@} [668]; {@dadau4, dadé;
-5820 new 07995 <HI>{@√1dā@}¦ ({@dádāti, dádati@} [668]; {@dadau4, dadé;@}
+5820 old 07995 <HI>{@√1dā@}¦ ({@dádāti, dádati@} [668]; {@dadaú, dadé;
+5820 new 07995 <HI>{@√1dā@}¦ ({@dádāti, dádati@} [668]; {@dadaú, dadé;@}
 5821 old 07996 ádāt, ádita@} [884]; {@dāsyáti, -te; dattá@}
 5821 new 07996 {@ádāt, ádita@} [884]; {@dāsyáti, -te; dattá@}
 ; Case 233
@@ -1260,8 +1260,8 @@
 5924 old 08097 --2.@} {%as n.%} day. [perhaps ppl. of {@√dī@} or
 5924 new 08097 {@--2.@} {%as n.%} day. [perhaps ppl. of {@√dī@} or
 ; Case 238
-5944 old 08117 {@dyau4s,@} cf. <gr></gr>, w. voc. {@dyau11ṣ
-5944 new 08117 {@dyau4s,@} cf. <gr></gr>, w. voc. {@dyau11ṣ@}
+5944 old 08117 {@dyaús,@} cf. <gr></gr>, w. voc. {@dyau11ṣ
+5944 new 08117 {@dyaús,@} cf. <gr></gr>, w. voc. {@dyau11ṣ@}
 5945 old 08118 pítar,@} cf. <gr></gr>, Lat {%Jū-piter,%} ‘Heaven
 5945 new 08118 {@pítar,@} cf. <gr></gr>, Lat {%Jū-piter,%} ‘Heaven
 ; Case 239
@@ -1344,8 +1344,8 @@
 6327 old 08492 dyotiṣyáti; dyuttá; -dyútya@}). gleam;
 6327 new 08492 {@dyotiṣyáti; dyuttá; -dyútya@}). gleam;
 ; Case 254
-6349 old 08514 <HI>{@√2drā@}¦ ({@drā́ti; drā́yate; dadrau4; ádrāsīt;
-6349 new 08514 <HI>{@√2drā@}¦ ({@drā́ti; drā́yate; dadrau4; ádrāsīt;@}
+6349 old 08514 <HI>{@√2drā@}¦ ({@drā́ti; drā́yate; dadraú; ádrāsīt;
+6349 new 08514 <HI>{@√2drā@}¦ ({@drā́ti; drā́yate; dadraú; ádrāsīt;@}
 6350 old 08515 drāsyáti; drāṇá@}). sleep. [cf. <gr></gr>,
 6350 new 08515 {@drāsyáti; drāṇá@}). sleep. [cf. <gr></gr>,
 ; Case 255
@@ -1391,8 +1391,8 @@
 6481 old 08643 vīt@}). set in motion; run. [secondary
 6481 new 08643 {@vīt@}). set in motion; run. [secondary
 ; Case 263
-6486 old 08648 <HI>{@√dham@}¦ {%or%} {@dhmā@} ({@dhámati@} [750]; {@dadhmau4;
-6486 new 08648 <HI>{@√dham@}¦ {%or%} {@dhmā@} ({@dhámati@} [750]; {@dadhmau4;@}
+6486 old 08648 <HI>{@√dham@}¦ {%or%} {@dhmā@} ({@dhámati@} [750]; {@dadhmaú;
+6486 new 08648 <HI>{@√dham@}¦ {%or%} {@dhmā@} ({@dhámati@} [750]; {@dadhmaú;@}
 6487 old 08649 ádhmāsīt; dhamiṣyáti; dhamitá, dhmā-
 6487 new 08649 {@ádhmāsīt; dhamiṣyáti; dhamitá, dhmā-@}
 6488 old 08650 tá; -dhmā́ya@}). blow, breathe out; blow
@@ -1405,8 +1405,8 @@
 6525 old 08686 maṇā,@} according to the established order
 6525 new 08686 {@maṇā,@} according to the established order
 ; Case 265
-6543 old 08704 <HI>{@√1dhā@}¦ ({@dádhāti, dhatté@} [668]; {@dadhau4,
-6543 new 08704 <HI>{@√1dhā@}¦ ({@dádhāti, dhatté@} [668]; {@dadhau4,@}
+6543 old 08704 <HI>{@√1dhā@}¦ ({@dádhāti, dhatté@} [668]; {@dadhaú,
+6543 new 08704 <HI>{@√1dhā@}¦ ({@dádhāti, dhatté@} [668]; {@dadhaú,@}
 6544 old 08705 dadhé; ádhāt, ádhita@} [884]; {@dhāsyáti,
 6544 new 08705 {@dadhé; ádhāt, ádhita@} [884]; {@dhāsyáti,
 ; Case 266
@@ -1442,8 +1442,8 @@
 6643 old 08802 dheyam,@} I must take such a course, that…,
 6643 new 08802 {@dheyam,@} I must take such a course, that…,
 ; Case 272
-6648 old 08807 <HI>{@√2dhā@}¦ ({@dháyati@} [761d 2]; {@dadhau4; ádhāt;
-6648 new 08807 <HI>{@√2dhā@}¦ ({@dháyati@} [761d 2]; {@dadhau4; ádhāt;@}
+6648 old 08807 <HI>{@√2dhā@}¦ ({@dháyati@} [761d 2]; {@dadhaú; ádhāt;
+6648 new 08807 <HI>{@√2dhā@}¦ ({@dháyati@} [761d 2]; {@dadhaú; ádhāt;@}
 6649 old 08808 dhāsyáti; dhītá; dhā́tum; -dhī́ya; dhī-
 6649 new 08808 {@dhāsyáti; dhītá; dhā́tum; -dhī́ya; dhī-@}
 6650 old 08809 tvā́@}). suck; drink, 63^1^. [cf. {@dadhi, dhenu:@}
@@ -1488,11 +1488,11 @@
 ; Case 280
 6806 old 08962 <HI>{@√dhyā@}¦ ({@dhyā́ti, dhyā́yati@} [761d 1]; {@da-
 6806 new 08962 <HI>{@√dhyā@}¦ ({@dhyā́ti, dhyā́yati@} [761d 1]; {@da-@}
-6807 old 08963 dhyau4; ádhyāsīt@} [911]; {@dhyāsyáti;
-6807 new 08963 {@dhyau4; ádhyāsīt@} [911]; {@dhyāsyáti;
+6807 old 08963 dhyaú; ádhyāsīt@} [911]; {@dhyāsyáti;
+6807 new 08963 {@dhyaú; ádhyāsīt@} [911]; {@dhyāsyáti;
 ; Case 281
-6807 old 08963 {@dhyau4; ádhyāsīt@} [911]; {@dhyāsyáti;
-6807 new 08963 {@dhyau4; ádhyāsīt@} [911]; {@dhyāsyáti;@}
+6807 old 08963 {@dhyaú; ádhyāsīt@} [911]; {@dhyāsyáti;
+6807 new 08963 {@dhyaú; ádhyāsīt@} [911]; {@dhyāsyáti;@}
 6808 old 08964 dhyātá; dhyātvā́; -dhyā́ya@}). think upon;
 6808 new 08964 {@dhyātá; dhyātvā́; -dhyā́ya@}). think upon;
 ; Case 282
@@ -1743,8 +1743,8 @@
 7877 old 10012 pā́śa.@} [cf. <gr></gr>, ‘peg’;
 7877 new 10012 {@pā́śa.@} [cf. <gr></gr>, ‘peg’;
 ; Case 329
-7922 old 10056 <HI>{@√1pā@}¦ ({@píbati, -te@} [671, 749]; {@papau4, papé;
-7922 new 10056 <HI>{@√1pā@}¦ ({@píbati, -te@} [671, 749]; {@papau4, papé;@}
+7922 old 10056 <HI>{@√1pā@}¦ ({@píbati, -te@} [671, 749]; {@papaú, papé;
+7922 new 10056 <HI>{@√1pā@}¦ ({@píbati, -te@} [671, 749]; {@papaú, papé;@}
 7923 old 10057 ápāt; pāsyáti, -te; pītá@} [954c]; {@pā́tum;
 7923 new 10057 {@ápāt; pāsyáti, -te; pītá@} [954c]; {@pā́tum;
 ; Case 330
@@ -1902,8 +1902,8 @@
 8746 old 10864 pra.@}]
 8746 new 10864 {@pra.@}]
 ; Case 360
-8751 old 10869 <HI>{@√prā@}¦ ({@prā́ti; paprau4; áprās@} [889]; {@prā-
-8751 new 10869 <HI>{@√prā@}¦ ({@prā́ti; paprau4; áprās@} [889]; {@prā-@}
+8751 old 10869 <HI>{@√prā@}¦ ({@prā́ti; papraú; áprās@} [889]; {@prā-
+8751 new 10869 <HI>{@√prā@}¦ ({@prā́ti; papraú; áprās@} [889]; {@prā-@}
 8752 old 10870 tá@}). fill. [Vedic collateral form of {@√1pṛ,@}
 8752 new 10870 {@tá@}). fill. [Vedic collateral form of {@√1pṛ,@}
 ; Case 361
@@ -2223,8 +2223,8 @@
 10550 old 12632 īśvara.@}]
 10550 new 12632 {@īśvara.@}]
 ; Case 419
-10553 old 12635 <HI>{@√1mā@}¦ ({@mímīte@} [660-3]; {@mamau4, mamé;
-10553 new 12635 <HI>{@√1mā@}¦ ({@mímīte@} [660-3]; {@mamau4, mamé;@}
+10553 old 12635 <HI>{@√1mā@}¦ ({@mímīte@} [660-3]; {@mamaú, mamé;
+10553 new 12635 <HI>{@√1mā@}¦ ({@mímīte@} [660-3]; {@mamaú, mamé;@}
 10554 old 12636 ámāsta; mitá@} [954c]; {@mā́tum; mitvā́;
 10554 new 12636 {@ámāsta; mitá@} [954c]; {@mā́tum; mitvā́;
 ; Case 420
@@ -2353,8 +2353,8 @@
 11089 old 13161 ámarṣiṣṭa; -mṛ́ṣya;@} {%caus.%} {@marṣáyati@}).
 11089 new 13161 {@ámarṣiṣṭa; -mṛ́ṣya;@} {%caus.%} {@marṣáyati@}).
 ; Case 443
-11131 old 13202 <HI>{@√mlā@}¦ ({@mlā́yati; mamlau4; ámlāsīt;
-11131 new 13202 <HI>{@√mlā@}¦ ({@mlā́yati; mamlau4; ámlāsīt;@}
+11131 old 13202 <HI>{@√mlā@}¦ ({@mlā́yati; mamlaú; ámlāsīt;
+11131 new 13202 <HI>{@√mlā@}¦ ({@mlā́yati; mamlaú; ámlāsīt;@}
 11132 old 13203 mlāná@}). wither. [collateral form of
 11132 new 13203 {@mlāná@}). wither. [collateral form of
 ; Case 444
@@ -2529,8 +2529,8 @@
 11476 old 13540 yatá; yáṃtum; yamitvā́; -yámya@}).
 11476 new 13540 {@yatá; yáṃtum; yamitvā́; -yámya@}).
 ; Case 477
-11551 old 13614 <HI>{@√yā@}¦ ({@yā́ti; yayau4; áyāsīt@} [911]; {@yāsyáti;
-11551 new 13614 <HI>{@√yā@}¦ ({@yā́ti; yayau4; áyāsīt@} [911]; {@yāsyáti;@}
+11551 old 13614 <HI>{@√yā@}¦ ({@yā́ti; yayaú; áyāsīt@} [911]; {@yāsyáti;
+11551 new 13614 <HI>{@√yā@}¦ ({@yā́ti; yayaú; áyāsīt@} [911]; {@yāsyáti;@}
 11552 old 13615 yātá; yā́tum; yātvā́; -yā́ya@}). {@--1.@} go,
 11552 new 13615 {@yātá; yā́tum; yātvā́; -yā́ya@}). {@--1.@} go,
 ; Case 478
@@ -2609,8 +2609,8 @@
 12122 old 14173 tá;@} {%pass.%} {@ricyáte;@} {%caus.%} {@recáyati@}). {@--1.@}
 12122 new 14173 {@tá;@} {%pass.%} {@ricyáte;@} {%caus.%} {@recáyati@}). {@--1.@}
 ; Case 491
-12159 old 14210 <HI>{@√ru@}¦ ({@rau4ti@} [626]; {@ruváti; rurā́va; árāvīt;
-12159 new 14210 <HI>{@√ru@}¦ ({@rau4ti@} [626]; {@ruváti; rurā́va; árāvīt;@}
+12159 old 14210 <HI>{@√ru@}¦ ({@raúti@} [626]; {@ruváti; rurā́va; árāvīt;
+12159 new 14210 <HI>{@√ru@}¦ ({@raúti@} [626]; {@ruváti; rurā́va; árāvīt;@}
 12160 old 14211 rutá; rótum@}). cry; yell; howl; hum,
 12160 new 14211 {@rutá; rótum@}). cry; yell; howl; hum,
 ; Case 492
@@ -2816,8 +2816,8 @@
 13155 old 15186 -úhya; uhyáte@}). {@--1.@} conduct, 84^11^;
 13155 new 15186 {@-úhya; uhyáte@}). {@--1.@} conduct, 84^11^;
 ; Case 528
-13200 old 15230 <HI>{@√1vā@}¦ ({@vā́ti; vavau4; ávāsīt@} [882]; {@vās-
-13200 new 15230 <HI>{@√1vā@}¦ ({@vā́ti; vavau4; ávāsīt@} [882]; {@vās-@}
+13200 old 15230 <HI>{@√1vā@}¦ ({@vā́ti; vavaú; ávāsīt@} [882]; {@vās-
+13200 new 15230 <HI>{@√1vā@}¦ ({@vā́ti; vavaú; ávāsīt@} [882]; {@vās-@}
 13201 old 15231 yáti; vātá; vā́tum; vāpáyati@} [1042d]).
 13201 new 15231 {@yáti; vātá; vā́tum; vāpáyati@} [1042d]).
 ; Case 529
@@ -3595,8 +3595,8 @@
 16937 old 18894 stāyú.@}]
 16937 new 18894 {@stāyú.@}]
 ; Case 673
-16960 old 18916 <HI>{@√stu@}¦ ({@stau4ti@} [626], {@stuté; tuṣṭā́va, tn-
-16960 new 18916 <HI>{@√stu@}¦ ({@stau4ti@} [626], {@stuté; tuṣṭā́va, tn-@}
+16960 old 18916 <HI>{@√stu@}¦ ({@staúti@} [626], {@stuté; tuṣṭā́va, tn-
+16960 new 18916 <HI>{@√stu@}¦ ({@staúti@} [626], {@stuté; tuṣṭā́va, tn-@}
 16961 old 18917 ṣṭuvé; ástauṣīt, ástoṣṭa; ástāvīt;
 16961 new 18917 {@ṣṭuvé; ástauṣīt, ástoṣṭa; ástāvīt;@}
 16962 old 18918 staviṣyáti, -te; stoṣyáti, -te; stutá;
@@ -3621,8 +3621,8 @@
 16977 old 18933 -stī́rya@}). {@--1.@} strew, {%esp.%} the sacrificial
 16977 new 18933 {@-stī́rya@}). {@--1.@} strew, {%esp.%} the sacrificial
 ; Case 677
-17044 old 18999 <HI>{@√sthā@}¦ ({@tíṣṭhati, -te@} [671, 749a]; {@tasthau4,
-17044 new 18999 <HI>{@√sthā@}¦ ({@tíṣṭhati, -te@} [671, 749a]; {@tasthau4,@}
+17044 old 18999 <HI>{@√sthā@}¦ ({@tíṣṭhati, -te@} [671, 749a]; {@tasthaú,
+17044 new 18999 <HI>{@√sthā@}¦ ({@tíṣṭhati, -te@} [671, 749a]; {@tasthaú,@}
 17045 old 19000 tasthé; ásthāt, ásthita@} [884]; {@sthāsyáti,
 17045 new 19000 {@tasthé; ásthāt, ásthita@} [884]; {@sthāsyáti,
 ; Case 678
@@ -3658,8 +3658,8 @@
 17181 old 19133 mahān,@} with which the intellect, pervad-
 17181 new 19133 {@mahān,@} with which the intellect, pervad-
 ; Case 684
-17213 old 19164 <HI>{@√snā@}¦ ({@snā́ti; sasnau4; snāsyáti, -te;
-17213 new 19164 <HI>{@√snā@}¦ ({@snā́ti; sasnau4; snāsyáti, -te;@}
+17213 old 19164 <HI>{@√snā@}¦ ({@snā́ti; sasnaú; snāsyáti, -te;
+17213 new 19164 <HI>{@√snā@}¦ ({@snā́ti; sasnaú; snāsyáti, -te;@}
 17214 old 19165 snātá; snā́tum; snātvā́; -snā́ya@}). bathe;
 17214 new 19165 {@snātá; snā́tum; snātvā́; -snā́ya@}). bathe;
 ; Case 685
@@ -4914,8 +4914,8 @@
 ; Case 928
 24110 old 25917 united prowess.’ --Pronounce {@yújiebhis,
 24110 new 25917 united prowess.’ --Pronounce {@yújiebhis,@}
-24111 old 25918 pau4ṃsiebhis.@}</p>
-24111 new 25918 {@pau4ṃsiebhis.@}</p>
+24111 old 25918 paúṃsiebhis.@}</p>
+24111 new 25918 {@paúṃsiebhis.@}</p>
 ; Case 929
 24113 old 25920 (700) of {@√kṛ,@} 715. {@--krátvā,@} Classic {@kra-
 24113 new 25920 (700) of {@√kṛ,@} 715. {@--krátvā,@} Classic {@kra-@}
@@ -4997,10 +4997,10 @@
 24550 old 26348 tham.@} --U. f. {@atre:@} the Sun is addressing
 24550 new 26348 {@tham.@} --U. f. {@atre:@} the Sun is addressing
 ; Case 945
-24559 old 26357 <p>{@17.@} Pronounce {@tuám mitṛó asi…tau4
-24559 new 26357 <p>{@17.@} Pronounce {@tuám mitṛó asi…tau4@}
-24560 old 26358 mehā́vatam. --mitró,@} ‘friend.’ --U. f. {@tau4@}
-24560 new 26358 {@mehā́vatam. --mitró,@} ‘friend.’ --U. f. {@tau4@}
+24559 old 26357 <p>{@17.@} Pronounce {@tuám mitṛó asi…taú
+24559 new 26357 <p>{@17.@} Pronounce {@tuám mitṛó asi…taú@}
+24560 old 26358 mehā́vatam. --mitró,@} ‘friend.’ --U. f. {@taú@}
+24560 new 26358 {@mehā́vatam. --mitró,@} ‘friend.’ --U. f. {@taú@}
 ; Case 946
 24636 old 26432 --Yāska, Nirukta x. 17, says {@yad yad rūpaṃ
 24636 new 26432 --Yāska, Nirukta x. 17, says {@yad yad rūpaṃ@}
@@ -5178,11 +5178,11 @@
 ; Case 980
 25391 old 27172 <p>{@15-16.@} U. f. {@ápa_ita, ví_ita, ví ca sar-
 25391 new 27172 <p>{@15-16.@} U. f. {@ápa_ita, ví_ita, ví ca sar-@}
-25392 old 27173 pata_átas. asmai4@} (accent, 74^9^N.) {@etám….
-25392 new 27173 {@pata_átas. asmai4@} (accent, 74^9^N.) {@etám….
+25392 old 27173 pata_átas. asmaí@} (accent, 74^9^N.) {@etám….
+25392 new 27173 {@pata_átas. asmaí@} (accent, 74^9^N.) {@etám….
 ; Case 981
-25392 old 27173 {@pata_átas. asmai4@} (accent, 74^9^N.) {@etám….
-25392 new 27173 {@pata_átas. asmai4@} (accent, 74^9^N.) {@etám….@}
+25392 old 27173 {@pata_átas. asmaí@} (accent, 74^9^N.) {@etám….
+25392 new 27173 {@pata_átas. asmaí@} (accent, 74^9^N.) {@etám….@}
 25393 old 27174 áhobhis adbhís…ví-aktam (√añj). --vī̀ta,@}
 25393 new 27174 {@áhobhis adbhís…ví-aktam (√añj). --vī̀ta,@}
 ; Case 982
@@ -5308,11 +5308,11 @@
 ; Case 1002
 25968 old 27738 {%Festgruss an Böhtlingk,%} 1888, p. 98-99. {@--
 25968 new 27738 {%Festgruss an Böhtlingk,%} 1888, p. 98-99. {@--@}
-25969 old 27739 ai4ta,@} 620. --See {@√1dhā@} 7. {@--√pyā + ā.@}</p>
-25969 new 27739 {@ai4ta,@} 620. --See {@√1dhā@} 7. {@--√pyā + ā.@}</p>
+25969 old 27739 aíta,@} 620. --See {@√1dhā@} 7. {@--√pyā + ā.@}</p>
+25969 new 27739 {@aíta,@} 620. --See {@√1dhā@} 7. {@--√pyā + ā.@}</p>
 ; Case 1003
-25986 old 27755 <p>{@8-9.@} U. f. {@ví mṛtai4s@} (283^2^) {@ā_avavṛtran
-25986 new 27755 <p>{@8-9.@} U. f. {@ví mṛtai4s@} (283^2^) {@ā_avavṛtran@}
+25986 old 27755 <p>{@8-9.@} U. f. {@ví mṛtaís@} (283^2^) {@ā_avavṛtran
+25986 new 27755 <p>{@8-9.@} U. f. {@ví mṛtaís@} (283^2^) {@ā_avavṛtran@}
 25987 old 27756 (√vṛt + vy-ā):@} Whitney takes the form as a
 25987 new 27756 {@(√vṛt + vy-ā):@} Whitney takes the form as a
 ; Case 1004
@@ -5420,8 +5420,8 @@
 ; Case 1024
 26446 old 28206 ‘generate’ and (as here--cf. i. 31. 17, {@ā́ vahā
 26446 new 28206 ‘generate’ and (as here--cf. i. 31. 17, {@ā́ vahā@}
-26447 old 28207 dai4viaṃ jánam,@} and 82^8^) ‘fetch along {%or%}
-26447 new 28207 {@dai4viaṃ jánam,@} and 82^8^) ‘fetch along {%or%}
+26447 old 28207 daíviaṃ jánam,@} and 82^8^) ‘fetch along {%or%}
+26447 new 28207 {@daíviaṃ jánam,@} and 82^8^) ‘fetch along {%or%}
 ; Case 1025
 26479 old 28239 felices sint:’ not so well the vocab. {@--út-
 26479 new 28239 felices sint:’ not so well the vocab. {@--út-@}
@@ -5503,16 +5503,16 @@
 26940 new 28691 <p>{@14-15.@} U. f. {@tā́m yád ápṛchan@} (207), {@sā́@}
 26941 old 28692 abravīt: “adyá amṛta” íti. té abruvan:
 26941 new 28692 {@abravīt: “adyá amṛta” íti. té abruvan:@}
-26942 old 28693 “ná vai4 iyám@} etc.” --Difference between
-26942 new 28693 {@“ná vai4 iyám@} etc.” --Difference between
+26942 old 28693 “ná vaí iyám@} etc.” --Difference between
+26942 new 28693 {@“ná vaí iyám@} etc.” --Difference between
 ; Case 1040
 26985 old 28735 <p>{@1.@} U. f. {@parā-pā́tam@} (995) {@āsata, yátra-
 26985 new 28735 <p>{@1.@} U. f. {@parā-pā́tam@} (995) {@āsata, yátra-@}
 26986 old 28736 yatra@} (1260--see {@yátra@}) {@ák-. --iyám,@} see
 26986 new 28736 {@yatra@} (1260--see {@yátra@}) {@ák-. --iyám,@} see
 ; Case 1041
-27019 old 28768 <p>{@6-7.@} U. f. {@tám vai4 índram antár evá…
-27019 new 28768 <p>{@6-7.@} U. f. {@tám vai4 índram antár evá…@}
+27019 old 28768 <p>{@6-7.@} U. f. {@tám vaí índram antár evá…
+27019 new 28768 <p>{@6-7.@} U. f. {@tám vaí índram antár evá…@}
 27020 old 28769 sántam…ápa_aumbhat@} ({@√ubh;@} augment,
 27020 new 28769 {@sántam…ápa_aumbhat@} ({@√ubh;@} augment,
 ; Case 1042

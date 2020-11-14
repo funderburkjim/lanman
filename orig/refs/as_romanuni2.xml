@@ -124,6 +124,9 @@
 <e> <s>INIT</s> <in>A1u</in> <out>Au</out> </e>
 <e> <s>INIT</s> <in>a1i</in> <out>ai</out> </e>
 <e> <s>INIT</s> <in>a1u</in> <out>au</out> </e>
+<!-- accented diphthongs.  67 cases -->
+<e> <s>INIT</s> <in>a1i4</in> <out>aí</out> </e>
+<e> <s>INIT</s> <in>a1u4</in> <out>aú</out> </e>
 
 <!-- nasal corrections
 n3ç print ṅç SLP1=MS  IAST=ṃś  44 cases
