@@ -1,0 +1,16 @@
+adjtxt.py
+adjtxt0.py
+adjtxt1.py
+clean.sh
+extra1.py
+headword.py
+hw0.py
+hw1.py
+hw2.py
+invert_meta.py
+manualByLine_edit.txt
+meta_hw.py
+prepnotes.org
+readme.org
+redo.sh
+redo_hw.sh

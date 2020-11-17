@@ -1,0 +1,150 @@
+; derived from ../orig/abbreviations.txt 
+a.:adjective.
+abl.:ablative.
+acc.:accusative.
+acct.:accent.
+acct:accent.
+act.:active, actively.
+adj.:adjective, adjectively.
+adv.:adverb, adverbial.
+advly.:adverbially.
+aor.:aorist.
+AS.:Anglo-Saxon.
+assev.:asseverative.
+B.:Brāhmaṇa.
+beg.:beginning.
+caus.:causative.
+cf.:compare.
+colloq.:colloquial.
+comp.:comparative.
+conj.:conjunction.
+correl.:correlative.
+; next may not have trailing [.]
+cpds.:compounds.
+cpds:compounds.
+cpd:compound
+dat.:dative.
+denom.:denominative.
+deriv.:derivative
+derivs.:derivatives.
+desid.:desiderative.
+e.g.:for example.
+e. g.:for example.
+encl.:enclitic.
+Eng.:English.
+equiv.:equivalent.
+esp.:especially, especial.
+etc.:and so forth.
+excl.:exclamation.
+f.:feminine
+fem.:feminine.
+ff.:and the following.
+fig.:figuratively, figurative.
+fr.:from.
+fut.:future.
+gen.:genitive.
+Ger.:German.
+Goth.:Gothic.
+grd.:gerund.
+grdv.:gerundive.
+Hdt.:Herodotus.
+ident.:identical.
+i. e.:that is.
+imf.:imperfect.
+impers.:impersonally, impersonal.
+imv.:imperative.
+ind.:indicative.
+indecl.:indeclinable.
+indef.:indefinite.
+inf.:infinitive.
+instr.:instrumental.
+intens.:intensive.
+interr.:interrogative.
+intrans.:intransitive, intransitively.
+irreg.:irregularly, irregular.
+Lat.:Latin.
+lit.:literally, literal.
+loc.:locative.
+m.:masculine.
+masc.:masculine.
+MBh.:Mahābhārata.
+met.:metaphorically, metaphor.
+mg:meaning
+mg.:meaning
+mgs:meanings.
+mgs.:meanings.
+mid.:middle.
+N.:note.
+n.:neuter.
+neut.:neuter.
+nom.:nominative.
+num.:numeral.
+opp.:opposed, opposite.
+opt.:optative.
+orig.:originally, original.
+pass.:passive, passively.
+pcl.:particle.
+perf.:perfect.
+pers.:person, personal.
+pl.:plural.
+poss.:possibly.
+ppl.:participle.
+prep.:preposition.
+pres.:present.
+prob.:probably, probable.
+pron.:pronoun, pronominal.
+prop.:properly.
+q. v.:which see.
+q.v.:which see.
+reg.:regularly, regular.
+RV.:Rigveda.
+S.:Sūtra.
+s. v.:sub voce.
+s.:singular.
+sc.:scilicet.
+sing.:singular.
+Skt.:Sanskrit.
+subst.:@substantive, substantively.
+superl.:superlative.
+trans.:transitive, transitively.
+U. f.:uncombined form or forms.
+vbl.:verbal.
+V.:Vedic, Veda.
+voc.:vocative.
+w.:with.
+;<head>ABBREVIATIONS OF TITLES.</head>
+;<head>See also pages 315-16, 332, 340, 359, 398, 402.</head>
+RV.:Rigveda Saṃhitā.
+SV.:Sāmaveda Saṃhitā.
+AV.:Atharvaveda Saṃhitā.
+MS.:Maitrāyaṇī Saṃhitā.
+TS.:Taittirīya Saṃhitā.
+VS.:Vājasaneyi Saṃhitā.
+K.:Kāṭhaka.
+AB.:Aitareya Brāhmaṇa.
+ŚB.:Śatapatha Brāhmaṇa.
+PB.:Pañcaviṃśa or Tāṇḍya Br.
+TA.:Taittirīya Āraṇyaka.
+AGS.:Aśvalāyana Gṛhya-sūtra.
+ŚGS.:Śāṅkhāyana Gṛhya-sūtra.
+PGS.:Pāraskara Gṛhya-sūtra.
+JASB.:Journal of the Asiatic Society of Bengal.
+JA.:Journal Asiatique.
+JRAS.:Journal of the Royal Asiatic Society.
+JAOS.:Journal of the American Oriental Society.
+PAOS.:Proceedings of the American Oriental Society.
+ZDMG.:Zeitschrift der Deutschen Morgenländischen Gesellschaft.
+AJP.:American Journal of Philology--ed. B. L. Gildersleeve.
+Ind. Ant.:Indian Antiquary--ed. James Burgess.
+ISt.:Indische Studien--ed. Albrecht Weber.
+KZ.:Zeitschrift für vergleichende Sprachforschung--ed. A. Kuhn.
+ASL.:History of Ancient Sanskrit Literature, by Max Müller.
+BI.:Bibliotheca Indica--publ. by the Asiatic Society of Bengal.
+BR.:Böhtlingk and Roth's Sanskrit-Wörterbuch--see Brief List, p. xviii, no. 5.
+GKR.:Geldner, Kaegi, and Roth's Siebenzig Lieder--see p. xix, no. 15.
+HIL.:History of Indian Literature, Weber--see p. xx, no. 21.
+IA.:Indische Alterthumskunde, by Christian Lassen.
+ILuC.:Indiens Literatur und Cultur, Schroeder--see p. 359, § 100.
+OLSt.:Oriental and Linguistic Studies, Whitney--see p. 359, § 100.
+VP.:Viṣṇu Purāṇa--Bombay text; or Wilson's translation, ed. 1 or ed. 2 (F. Hall).
+SBE.:Sacred Books of the East--transl. by various scholars and ed. F. Max Müller.

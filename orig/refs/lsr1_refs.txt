@@ -2669,7 +2669,7 @@
 04907 125. 8; there; {@yátra…enā́,@} whither…
 04908 thither. [pron. root {@a,@} see {@idám,@} and cf.
 04909 502^2^ and 1112a.]
-04910 <HI>{@eraṇḍa,@}¦ {%m.%} Rici¤nus communis, {%i. e.%} castor-
+04910 <HI>{@eraṇḍa,@}¦ {%m.%} Ricĭnus communis, {%i. e.%} castor-
 04911 oil plant {%or%} Palma Christi.
 [Page137-b+ 48]
 04912 <HI>{@evá,@}¦ {%adv.%} {@--1.@} in this way; so; {%in this sig-
@@ -3395,7 +3395,7 @@
 05618 <HI>{@kṛṣṇa-pakṣa,@}¦ {%m.%} the dark lunar fort-
 05619 night.
 05620 <HI>{@kṛṣṇa-sarpa,@}¦ {%m.%} a very poisonous black
-05621 Cobra, Colu¤ber Naga.
+05621 Cobra, Colŭber Naga.
 05622 <HI>{@kṛṣṇājiná,@}¦ {%n.%} skin of the black antelope.
 05623 [ajína.]
 05624 <HI>{@√kṛṣṇāya@}¦ ({@kṛṣṇāyáte@}). blacken. [{@kṛṣṇá,@}
@@ -3877,7 +3877,7 @@
 06091 {@manasā gam,@} (go with the mind, {%i. e.%}) per-
 06092 ceive, 15^10^.
 06093 <p>[cf. <gr></gr>, ‘go’; Lat.
-06094 {%ve¤nio, *gve¤mio,%} ‘come’; AS. {%cum-an,%} Eng.
+06094 {%vĕnio, *gvĕmio,%} ‘come’; AS. {%cum-an,%} Eng.
 06095 {%come;%} for the {%kw%} which is to be expected
 06096 in Germanic as answering to the old {%gv,%}
 06097 cf. Ger. {%be-quem,%} Old Eng. {%cwēme,%} ‘con-ve-
@@ -4068,7 +4068,7 @@
 06278 <HI>{@√2gṛ@}¦ ({@giráti; jagā́ra; ágārīt; gīrṇá@}
 06279 [957b]; {@-gī́rya@}). swallow. [cf. <gr></gr>,
 06280 ‘food,’ <gr></gr>, ‘eat,’ <gr></gr>,
-06281 ‘folk-devouring’; Lat. {%carni-vo¤r-us,%} ‘flesh-
+06281 ‘folk-devouring’; Lat. {%carni-vŏr-us,%} ‘flesh-
 06282 eating,’ {%de-vorāre,%} ‘swallow down, de-
 06283 vour.’]
 06284 <HI>{@+ ni,@}¦ swallow down; devour (the sun in
@@ -4403,7 +4403,7 @@
 06606 [orig. a descriptive cpd, stem {@candra-mās@}
 06607 (383d 6), nom. {@candra-mās,@} and so with
 06608 long ā throughout, but transferred to the
-06609 {@a¤s@}-declension (cf. 418).]
+06609 {@ăs@}-declension (cf. 418).]
 06610 <HI>{@candrá-varṇa,@}¦ {%a.%} of shining hue.
 06611 <HI>{@√cam,@}¦ sip, {%only with%} {@ā.@}
 06612 <HI>{@+ ā@}¦ ({@ā́cāmati@} [745d]; {@ā́cacāma; ā́cānta@}
@@ -5831,7 +5831,7 @@
 08006 make answer; {@śrāddhaṃ dā,@} perform a
 08007 {@śrāddha,@} 44^3^, 104^17^; {@punar dā,@} give back;
 08008 {%--desid.%} desire {%or%} be ready to give. [cf.
-08009 <gr></gr>, Lat. {%da¤-re,%} ‘give.’]
+08009 <gr></gr>, Lat. {%dă-re,%} ‘give.’]
 08010 <HI>{@+ anu,@}¦ ({%like Ger.%} nach-geben, ‘yield,’ {%and
 08011 so%}) grant, admit; {%ppl.%} {@ánutta@} [1087e], ad-
 08012 mitted.
@@ -5935,7 +5935,7 @@
 08108 that%} {@dív@} {%is sometimes fem. in Veda, so%} 92^1, 8^,
 08109 RV. x. 125. 7.
 08110 <p>[w. gen. {@div-ás,@} cf. the genitives <gr></gr>,
-08111 <gr></gr>, Lat. {%Jo¤v-is,%} and AS. {%Tiw-es%} in
+08111 <gr></gr>, Lat. {%Jŏv-is,%} and AS. {%Tiw-es%} in
 08112 {%Tiwes dœg,%} Eng. {%Tues-day:%} ({%Tiw%} corre-
 08113 sponds to the old Germanic {%Tiu,%} no longer
 08114 a god of the sky or bright day, but rather
@@ -5946,7 +5946,7 @@
 08119 Father’: w. {@dúhitar divas,@} cf. <gr></gr>
 08120 <gr></gr> Oedipus Rex 159: cf.
 08121 also <gr></gr>, ‘heavenly’; Lat. nom. {%Diovi-s,%}
-08122 ‘god of heaven,’ {%Jo¤v-em,%} ‘Jove’; {%sub dio,%}
+08122 ‘god of heaven,’ {%Jŏv-em,%} ‘Jove’; {%sub dio,%}
 08123 ‘under the sky’; Eng. {%Tewes-ley,%} ‘Tiw's
 08124 lea,’ a place in Surrey.]
 08125 <HI>{@divá,@}¦ {%n.%} heaven; day, {%in%} divé-dive, day by
@@ -6579,9 +6579,9 @@
 08739 <gr></gr>, ‘make one a king’; AS. {%dōn hine
 08740 tō cyninge,%} ‘make him a king’; Lat. {%fīo,%}
 08741 ‘am made’; Eng. {%do, deed;%} Ger. {%thun,%}
-08742 ‘do’; Slavic {%de¤-lo,%} ‘deed’: observe that
-08743 {%fi-eri,%} ‘become,’ is to {%fa¤-c-ere,%} ‘make,’ as
-08744 {%ī-re (√ja),%} ‘go,’ is to {%ja¤-c-ere,%} ‘make to
+08742 ‘do’; Slavic {%dĕ-lo,%} ‘deed’: observe that
+08743 {%fi-eri,%} ‘become,’ is to {%fă-c-ere,%} ‘make,’ as
+08744 {%ī-re (√ja),%} ‘go,’ is to {%jă-c-ere,%} ‘make to
 08745 go, throw.’]</p>
 08746 <HI>{@+ antar,@}¦ {@--1.@} put into the interior of
 08747 a thing; {%and so%} {@--2.@} hide, conceal.
@@ -6892,8 +6892,8 @@
 09046 Vedic only,%} 70^15, 18^, 71^7, 9^, etc.; {@ná,@} ‘like,’
 09047 {%does not coalesce metrically in Veda w. fol-
 09048 lowing initial vowel.%}</p>
-09049 <p>[cf. <gr></gr>, Lat. {%ne¤-,%} negative prefix in
-09050 <gr></gr>, ‘gain-less,’ {%ne¤-fas,%} ‘not right,
+09049 <p>[cf. <gr></gr>, Lat. {%nĕ-,%} negative prefix in
+09050 <gr></gr>, ‘gain-less,’ {%nĕ-fas,%} ‘not right,
 09051 wrong’; AS. and Old Eng. {%ne,%} ‘not’; AS.
 09052 {%nā (ne + ā),%} ‘not ever, never, no,’ Eng. {%no;%}
 09053 Eng. {%na-%} in {%nathless,%} AS. {%nā <gr></gr>ē lœs,%} ‘not
@@ -7664,7 +7664,7 @@
 09803 together, be united with; {@sampanna,@} en-
 09804 dowed with, 2^10^.
 09805 <HI>{@pád@}¦ [391], {%m.%} foot. [{@√pad:@} cf. <gr></gr>, Lat.
-09806 {%pe¤d-em,%} Eng. {%foot.%}]
+09806 {%pĕd-em,%} Eng. {%foot.%}]
 09807 <HI>{@padá,@}¦ {%n.%} {@--1.@} step, 17^21^, 99^23^; {@--2.@} foot-
 09808 step; {@--3.@} foot, 86^6^; {@--4.@} standing-place,
 09809 stead, place; home, 56^4^; station, position,
@@ -8267,7 +8267,7 @@
 10394 {%or%} bright; purify; <gr></gr>; {@pūtá,@} pure;
 10395 --2. {%mid.%} clear itself, flow clear. [cf. <gr></gr>,
 10396 Eng. {%fire%} (<gr></gr>): w. {@pūtá,@} cf.
-10397 Lat. {%pu¤tus,%} ‘clear,’ {%pūrus,%} ‘pure.’]
+10397 Lat. {%pŭtus,%} ‘clear,’ {%pūrus,%} ‘pure.’]
 10398 <HI>{@+ sam,@}¦ purify, clean.
 10399 <HI>{@pū́,@}¦ {%vbl.%} purifying, {%in cpds.%}
 10400 <HI>{@pūga,@}¦ {%m.%} betel-palm, Areca Catechu; {%as
@@ -8415,7 +8415,7 @@
 10539 form of {@√pī,@} q. v.]
 10540 <HI>{@+ ā,@}¦ become full of {%or%} rich in.
 10541 <HI>{@prá,@}¦ {%prep.%} forward, onward, forth, fore.
-10542 [cf. <gr></gr>, ‘before’; Lat. {%pro¤,%} later {%prō,%}
+10542 [cf. <gr></gr>, ‘before’; Lat. {%prŏ,%} later {%prō,%}
 10543 ‘before’; Eng. {%fore:%} see also the follow-
 10544 ing articles, and {@purás, purā́,@} and {@pū́rva.@}]
 10545 <HI>{@prakaraṇa,@}¦ {%n.%} treatment; discussion;
@@ -8995,7 +8995,7 @@
 11108 {%cf. Lat.%} serere). [for {@*bhandh:@} cf. <gr>-
 11109 </gr>, ‘connection (by marriage)’; <gr></gr>,
 11110 <gr></gr>, ‘rope’; Lat. {%of-fend-ix,%} ‘knot’;
-11111 {%fi¤d-es,%} ‘string’; {%foed-us,%} ‘league’; Eng.
+11111 {%fĭd-es,%} ‘string’; {%foed-us,%} ‘league’; Eng.
 11112 {%bind, band:%} for mgs, cf. Eng. {%connection%}
 11113 and {%league%} w. Lat. {%con-nectere%} and {%ligāre,%}
 11114 ‘bind together.’]
@@ -9177,7 +9177,7 @@
 11286 to notice {%or%} understand; {@--6b.@} teach;
 11287 announce to.
 11288 <p>[for {@*bhudh,@} orig. ‘be awake,’ cf.
-11289 Church Slavonic {%bu¤d-e¤ti,%} ‘be awake’: the
+11289 Church Slavonic {%bŭd-ĕti,%} ‘be awake’: the
 11290 cognate words of the related lauguages
 11291 agree closely in form, but show consider-
 11292 able diversity of mgs: mg 4 mediates
@@ -9380,7 +9380,7 @@
 11485 {%esp. (as in Eng.),%} good fortune, happy lot;
 11486 {@--4.@} loveliness. [{@√bhaj,@} 216. 1: --1. cf.
 11487 Old Persian {%baga,%} ‘God’; <gr></gr>
-11488 <gr></gr>; Slavonic {%bogu¤,%} ‘God’; for mg,
+11488 <gr></gr>; Slavonic {%bogŭ,%} ‘God’; for mg,
 11489 cf. Eng. {%lord,%} AS. {%hlāf-ord (*hlāf-weard ?),%}
 11490 ‘loaf-ward, loaf-keeper’; {@--3.@} for mg, cf.
 11491 the relation of <gr></gr>, ‘lot, fate,’ to <gr></gr>,
@@ -10086,7 +10086,7 @@
 12177 into’: cf. {@madgu,@} ‘duck’; Lat. {%merg-ere,%}
 12178 ‘duck’; {%merg-us,%} ‘diver’ bird: for the
 12179 phonetic relations, cf. {@majjan,@} Avestan
-12180 {@mazga,@} Church Slavonic {%mozgu¤,%} AS.
+12180 {@mazga,@} Church Slavonic {%mozgŭ,%} AS.
 12181 {%mearg,%} Eng. {%marrow,%} Ger. {%Mark,%} all mean-
 12182 ing ‘marrow,’ and, as meaning originally
 12183 ‘the inmost part {%or%} pith,’ prob. from this
@@ -10425,7 +10425,7 @@
 12510 tendants, henchmen.
 12511 <HI>{@marṣa,@}¦ {%m.%} patient endurance. [{@√mṛṣ.@}]
 12512 <HI>{@mála,@}¦ {%n. m.%} smut; impurity, physical and
-12513 moral. [cf. <gr></gr>, ‘dark’; Lat. {%ma¤lu-s,%}
+12513 moral. [cf. <gr></gr>, ‘dark’; Lat. {%mălu-s,%}
 12514 ‘bad.’]
 12515 <HI>{@malla,@}¦ {%m.%} {@--1.@} {%pl.%} the Mallas, a people;
 12516 {@--2.@} professional boxer and wrestler; one
@@ -10557,7 +10557,7 @@
 12639 range, form; build; make, 72^2^. [for 1,
 12640 cf. <gr></gr>, ‘measure’; Lat. {%ni-mi-us,%} ‘not
 12641 to be measured, excessive’; for 4, cf.
-12642 <gr></gr> and Lat. {%ma¤-nu-s,%} ‘former, {%i. e.%} hand’;
+12642 <gr></gr> and Lat. {%mă-nu-s,%} ‘former, {%i. e.%} hand’;
 12643 <gr></gr>, ‘handy, easy’: see also the col-
 12644 lateral form {@√1mi,@} ‘build, set up,’ and
 12645 under mātṛ́ and mā́s.]
@@ -11023,7 +11023,7 @@
 13096 <p>[original meaning ‘move hither and
 13097 thither over’: then, on the one hand,
 13098 {@--1.@} ‘range, rove, streifen,’ as in Avestan
-13099 {@me¤re¤gh,@} and Skt. {@mṛga;@} and, on the one hand,
+13099 {@mĕrĕgh,@} and Skt. {@mṛga;@} and, on the one hand,
 13100 other, {@--2.@} ‘go over with the hand, {%i. e.%}
 13101 rub, wipe, strip (a tree, a cow), milk’:
 13102 for 2, cf. <gr></gr>, ‘wipe off’; <gr></gr>,
@@ -11140,8 +11140,8 @@
 13211 tired, hidden.
 13212 <HI>{@mlecchá,@}¦ {%m.%} barbarian. [{@√mlech.@}]
 13213 <HI>{@√mlech@}¦ ({@mlécchati@}). speak unintelligibly
-13214 {%or%} barbarously. [root {@*mle¤k: mlécchati@}
-13215 is for {@*mle¤k-sketi,@} like {@pṛcchati,@} q. v., for
+13214 {%or%} barbarously. [root {@*mlĕk: mlécchati@}
+13215 is for {@*mlĕk-sketi,@} like {@pṛcchati,@} q. v., for
 13216 {@*pṛksketi:@} cf. <gr></gr>, ‘err,
 13217 miss’; <gr></gr>, ‘stupid.’]
 13218 <HI>{@yá@}¦ [509], {%relative pron.%} {@--1.@} who, which;
@@ -12381,7 +12381,7 @@
 14427 contemptible; low.
 14428 <p>[for derivation, see {@raghú@} and {@√raṃh:@}
 14429 cf. <gr></gr>, ‘small,’ <gr></gr>, ‘smallest’;
-14430 Lithuanian {%lèngvas,%} ‘light’; Lat. {%le¤vis,
+14430 Lithuanian {%lèngvas,%} ‘light’; Lat. {%lĕvis,
 14431 *lenhu-i-s ?,%} ‘1. swift, 2. light, not heavy,
 14432 3. insignificant, small’ (mgs quite parallel
 14433 w. those of {@laghu@}); AS. {%lung-re,%} ‘quickly’;
@@ -12695,7 +12695,7 @@
 14735 ({%e. g.%} a benediction), 101^2^, 106^4^; {@--2.@} cause
 14736 (a written leaf) to speak, {%i. e.%} read, 54^20^.</p>
 14737 <p>[cf. <gr></gr>, ‘voice, rumor’; Lat.
-14738 {%vo¤c-āre,%} ‘call’; Ger. {%er-wäh-nen,%} ‘mention’:
+14738 {%vŏc-āre,%} ‘call’; Ger. {%er-wäh-nen,%} ‘mention’:
 14739 w. {@vác-as,@} ‘word,’ cf. <gr></gr>, stem <gr></gr>,
 14740 ‘word,’ w. labialization: w. {@ávocam,
 14741 *a-va-uc-am,@} cf. <gr></gr>, ‘said’:
@@ -13804,7 +13804,7 @@
 15822 {@vaiśya;@} a man of the third caste, 59^22^.
 15823 [{@√viś,@} q. v.: cf. <gr></gr>, ‘three-
 15824 tribed Dorians’; also Keltic {%vic%} in {%Ordo-
-15825 vi¤c-es,%} people of North Wales, and {%Lemo-
+15825 vĭc-es,%} people of North Wales, and {%Lemo-
 15826 vīc-es,%} people of modern Limoges.]
 15827 <HI>{@viśaṅkā,@}¦ {%f.%} hesitation. [{@√śaṅk + vi,@}
 15828 1149.]
@@ -14090,7 +14090,7 @@
 16103 <HI>{@vṛ́ka,@}¦ {@--1.@} {%a.%} tearing, harming, {%in%} {@a-vṛka;@}
 16104 {@--2.@} {%m.%} (the tearer, {%i. e.%}) wolf. [{@√*vṛk@} or
 16105 {@*vrak,@} simpler form of {@√vraśc:@} cf. <gr></gr>,
-16106 <gr></gr>, Church Slavonic {%vlu¤ku¤,%} Lat. {%lupus,%}
+16106 <gr></gr>, Church Slavonic {%vlŭkŭ,%} Lat. {%lupus,%}
 16107 Eng. {%wolf.%}]
 16108 <HI>{@vṛkka,@}¦ {%dual m.%} the kidneys.
 16109 <HI>{@vṛkṣá,@}¦ {%m.%} tree. [‘that which is felled,’
@@ -15208,7 +15208,7 @@
 17199 <p>[cf. <gr></gr>, Lat. {%cor,%} gen.
 17200 {%cord-is,%} Lithuanian {%szirdìs,%} Ger. {%Herz,%} Eng.
 17201 {%heart:%} further, w. {@śrad-dhā,@} cf. Lat.
-17202 {%crēde¤re, *cred-dere,%} ‘trust’: --the regular
+17202 {%crēdĕre, *cred-dere,%} ‘trust’: --the regular
 17203 Skt. word for ‘heart’ is {@hṛ́d,@} and this can
 17204 not be connected w. the above words,
 17205 since they require in the Skt. an initial {@ś,
@@ -15385,7 +15385,7 @@
 17372 AS. {%hun-d,%} Eng. {%hound,%} ‘dog.’]
 17373 <HI>{@śváśura,@}¦ {%m.%} father-in-law. [for {@*svá-
 17374 śura:@} cf. <gr></gr>, Lat. {%socer, socerus,%} Church
-17375 Slavonic {%swekru¤,%} AS. {%sweor, *sweohor,%} Ger.
+17375 Slavonic {%swekrŭ,%} AS. {%sweor, *sweohor,%} Ger.
 17376 {%Schwäher,%} ‘father-in-law’: for {@ś@} in place
 17377 of {@s,@} cf. {@śaśa@} and {@√śuṣ.@}]
 17378 <HI>{@śvaśrū́@}¦ [355c], {%f.%} mother-in-law. [{@śvá-
@@ -16155,7 +16155,7 @@
 18127 <HI>{@savyá,@}¦ {%a.%} left, 101^19^, 102^11^, 103^2^; {%as m.%}
 18128 the left hand {%or%} foot, 60^5^. [prob. for
 18129 {@*syavya@} (as would appear fr. the Church
-18130 Slavonic form {%s¤uj,%} ‘sinister’), and so per-
+18130 Slavonic form {%šuj,%} ‘sinister’), and so per-
 18131 haps akin with <gr></gr>, Lat.
 18132 {%scaevus,%} ‘left.’]
 18133 <HI>{@savyatha,@}¦ {%a.%} with sorrow {%or%} trouble.
@@ -16261,7 +16261,7 @@
 18231 sāyáyati@}). bind; {%used almost exclusively
 18232 with%} {@ava@} {%and%} {@vi.@} [cf. <gr></gr>, stem <gr></gr>,
 18233 ‘strap, thong’; AS. {%sī-ma,%} ‘bond’; Church
-18234 Slavonic {%se¤-ti¤,%} Lithuanian {%së-tas,%} AS. {%sā-da,%}
+18234 Slavonic {%sĕ-tĭ,%} Lithuanian {%së-tas,%} AS. {%sā-da,%}
 18235 Ger. {%Sai-te,%} ‘string’; Church Slavonic
 18236 {%si-lo,%} AS. {%sā-l,%} Ger. {%Sei-l,%} ‘rope’: see also
 18237 {@√sīv@} and {@snā́yu.@}]
@@ -16398,7 +16398,7 @@
 18365 shape of) a thunderbolt, 97^12^. [cf.
 18366 <gr></gr>, ‘moisture’; AS. {%seōn, *sīh-an,%}
 18367 ‘filter, flow,’ Ger. {%seih-en,%} ‘strain’; Church
-18368 Slavonic {%si¤c-ati,%} Ger. {%seich-en,%} ‘mingere’:
+18368 Slavonic {%sĭc-ati,%} Ger. {%seich-en,%} ‘mingere’:
 18369 cf. also Swedish {%sila, *sih-la,%} ‘strain,’
 18370 whence Eng. {%sile,%} ‘drain, strain,’ whence
 18371 {%sil-t,%} ‘drainings, sediment.’]
@@ -16727,7 +16727,7 @@
 18688 <HI>{@sūnára,@}¦ {%f.%} {@-ī,@} {%a.%} gladsome, joyous. [cf.
 18689 {@sūnṛ́tā.@}]
 18690 <HI>{@sūnú,@}¦ {%m.%} son; {%once%} ({%at%} 57^5^), {%as f.%} daughter.
-18691 [{@√sū:@} cf. Church Slavonic {%synu¤,%} AS.
+18691 [{@√sū:@} cf. Church Slavonic {%synŭ,%} AS.
 18692 {%sunu,%} Eng. {%son:%} for mg, cf. {@2suta.@}]
 18693 <HI>{@sūnṛ́ta,@}¦ {%a.%} joyous, gladsome, kind; {@-ā,@}
 18694 as {%f.%} joy. [{@sūnára:@} see 1237^3^.]
@@ -17545,7 +17545,7 @@
 19490 alaṃkṛta:@} see {@alam.@}]
 19491 <HI>{@sváśva,@}¦ {%a.%} with goodly horses. [{@sú +
 19492 áśva,@} 1304b.]
-19493 <HI>{@svásṛ@}¦ [373], {%f.%} sister. [cf. Lat. {%so¤ror,%}
+19493 <HI>{@svásṛ@}¦ [373], {%f.%} sister. [cf. Lat. {%sŏror,%}
 19494 AS. {%sweoster, swuster,%} Eng. {%sister:%} cf.
 19495 369^2^ and 1182f: for {%t%} between {%s%} and {%r,%}
 19496 cf. {%Easter,%} under {@usra,@} and {%stream%} under
@@ -18026,7 +18026,7 @@
 19961 rattle; {%caus.%} cause to rattle.
 19962 <HI>{@hrādúni,@}¦ {%f.%} hail-stones, hail. [so called
 19963 from its rattling sound, {@√hrād:@} cf. <gr></gr>
-19964 <gr></gr>, Church Slavonic {%gradu¤,%} Lat.
+19964 <gr></gr>, Church Slavonic {%gradŭ,%} Lat.
 19965 {%grando,%} stem {%grand-in,%} ‘hail.’]
 19966 <HI>{@√hlād@}¦ ({@hlā́date; hlādáyati, -te@}). cool
 19967 off, {%intrans.,%} refresh one's self; {%caus.%} cool
@@ -24140,7 +24140,7 @@
 25946 <p>{@3.@} This {@vídānas@} may be referred to {@√1vid.
 25947 --cyávam,@} 563, 743. {@--īśe,@} as 1st pers. here.
 25948 --‘What things I may undertake, just I,
-25949 Indra, am master óf the¤m.’</p>
+25949 Indra, am master óf thĕm.’</p>
 25950 <p>{@4.@} U. f. {@ámandat mā marutas st-,@} 173a:
 25951 cf. 74^12^N. {@--yád…bráhma cakrá,@} a subject-
 25952 clause co-ordinate with {@stómas.@}</p>

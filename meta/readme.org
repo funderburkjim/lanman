@@ -1,0 +1,166 @@
+
+Begin 11-12-2020
+Code for reformatting vocabulary.txt to lan.txt, the Cologne
+meta-line format used for other dictionaries.
+
+The process assumed to start with vocabulary.txt
+   (../orig/vocabulary.txt).
+
+sh redo.sh will do the creation of temp_lanwithmeta1.txt. 
+
+* DONE Preliminary steps: These are done BEFORE the steps of redo.sh.
+   They do not need to be redone
+# headword.py, hw0.py, hw1.py, and hw2.py redo_hw.sh, headword.py
+# Also updateByLine.py
+# from Benfey meta-line conversion
+
+* TODO additional corrections to manualByLine.txt
+touch manualByLine.txt
+* ------------------------------------------------
+* Here are the steps of redo.sh
+
+* DONE  temp_lan0.txt
+# apply manual changes
+python updateByLine.py ../orig/vocabulary.txt manualByLine.txt temp_lan0.txt 
+* DONE lanhw0.txt
+python hw0.py temp_lan0.txt lanhw0.txt
+
+Sample output:
+0001-a:akasmād-āgantu,:18,19
+
+* DONE lanhw1.txt
+python hw1.py lanhw0.txt lanhw1.txt 
+
+Sample output:
+0001-a:akasmAdAgantu:18,19::akasmAd-Agantu
+
+* TODO  SKIP Step0d: create temp_lanhw2.txt consistent with temp_lan.txt
+cp lanhw1.txt temp_lanhw2.txt 
+#python hw2.py lanhw1.txt temp_lanhw2.txt > lanhw2_note.txt
+# no further need for anything but temp_lanhw2.txt
+rm lanhw0_note.txt lanhw1_note.txt lanhw0.txt lanhw1.txt 
+
+* DONE Step 1:  create lanwithmeta.txt
+# This is the first meta-version format of the dictionary
+python meta_hw.py temp_lan0.txt lanhw1.txt lanwithmeta.txt
+
+ 
+* DONE Step 2: Invert the process: i.e., undo the changes of meta_hw
+python invert_meta.py lanwithmeta.txt temp_lan_invert_meta.txt
+#python ../../diff.py temp_lan.txt lan_invert_meta.txt
+diff temp_lan.txt temp_lan_invert_meta.txt
+*--------------------------------------------------------------------
+* ------------------------------------------------
+* Some 'extra' adjustments to lanwithmeta
+* TODO EXTRA 1: lanwithmeta1.txt DOC INCOMPLETE
+python extra1.py lanwithmeta.txt lanwithmeta1.txt > temp_extra1.txt
+** (a) Adjust <LEND>
+Example Moving [Pagex] in a few cases
+OLD:
+<L>20<pc>1001-1<k1>aMSI<k2>aMSI<e>100
+{#aMSI}¦ •Adv. ‹mit› #{kar} {%theilen.%}  LAN20
+[Page1.001-2]
+<LEND>
+NEW:
+<L>20<pc>1001-1<k1>aMSI<k2>aMSI<e>100
+{#aMSI}¦ •Adv. ‹mit› #{kar} {%theilen.%}  LAN20
+<LEND>
+[Page1.001-2]
+** (b) Remove line numbers
+The line numbers are relative to the original digitization.  Not
+of interest for the dictionary.
+Example:
+OLD
+02300 <HI>{@1a,@}¦ {%pron. root, see%} {@idam@} {%and%} 502.
+NEW
+<HI>{@1a,@}¦ {%pron. root, see%} {@idam@} {%and%} 502.
+
+** (b) lang tags<g>X</g> -> <lang n="greek">X</lang>
+Generate changes to temp_lan0 for the few (6) cases where <g> and </g> are on
+separate lines
+python make_change_simple.py greek temp_lan0.txt temp_updateByLine_greek.txt
+X is either empty string (220) or '|' (7 cases) . Make result empty in each.
+** (c) division markup
+   change <> to <div n="lb">, 
+   change <HI>c. {#X#}¦  to <div n="pfx">c. {#X#}   << none of these for LAN
+
+** check tags again
+python filter_simple.py tag temp_lanwithmeta2.txt filter_simple_tag2.txt
+
+*--------------------------------------------------------------------
+* TODO EXTRA 2: lanwithmeta2.txt . various intraline changes
+python extra2.py lanwithmeta1.txt lanwithmeta2.txt 
+* FINAL RESULT FOR NOW  (09-14-2019)
+temp_lanwithmeta1.txt
+* ------------------------------------------------
+* OTHER STUFF NOT APPLICABLE TO LAN
+* --------------------------------------------------------------------
+* NOT LAN temp_lanwithmeta0.txt:   Convert 'key2' to SLP1 
+  This uses transcoder with as_slp1.xml.
+python key2slp1.py lanwithmeta.txt temp_lanwithmeta0.txt > key2slp1_log.txt
+
+NOTE: key2slp1_log.txt has 1100+ cases which are candidates for alternate
+      headword spellings and/or other alterations.
+* NOT LAN manualByLine_iast.txt 
+This is constructed iteratively.  Initially empty
+touch manualByLine_iast.txt
+* NOT LAN temp_lanwithmeta1a.txt   Apply manualByLine_iast.txt corrections 
+python ../../updateByLine.py temp_lanwithmeta1.txt manualByLine_iast.txt temp_lanwithmeta1a.txt
+
+* NOT LAN Preliminary work on iast conversion
+Note: It appears that letters with diacritics (coded as AS) are used for
+ words in other languages (etymologies) or Latinized Sanskrit words.  No
+ attempt is made to convert these to 'standard' IAST. We simply convert
+ to Unicode.
+ 
+# step 1
+#python filter_simple.py as temp_lanwithmeta1a.txt filter_simple_as.txt
+python filter_simple.py as lanwithmeta.txt filter_simple_as.txt
+44 distinct AS codes in the entries. 
+# step 2
+as_roman.xml is copied from web/utilitities/transcoder
+  The unicode is shown in \uxxxx format 
+python make_xxxas_roman.py as_roman.xml pre_as_iast.xml temp_as_roman_changes.txt
+This converts the \uxxxx codes to Unicode (easier to read).
+
+# step 4
+Make preliminary transcoder file for the codes in filter_simple_as,
+using existing as_romanuni.xml.
+python prepare_as_iast.py filter_simple_as.txt as_iast.xml
+# step 5  
+  Edit as_iast.xml to provide more conformity with modern IAST.
+
+# step 4 ,  check the list now
+python filter_simple.py as temp_lanwithmeta1a.txt filter_simple_as_after.txt
+
+
+
+* NOT LAN temp_lanwithmeta1.txt:   AS to IAST for body of entries
+  This uses transcoder with as_iast.xml
+python as_iast.py lanwithmeta.txt temp_lanwithmeta1.txt
+
+Check for AS-codes now
+python filter_simple.py as temp_lanwithmeta1.txt filter_simple_as_meta2.txt
+
+RESULE: 0  instances of AS codes in entry body
+
+* temp_lanwithmeta1a.txt -- insertion of missed headwords  
+python ../../updateByLine.py temp_lanwithmeta1.txt manualByLine_hw.txt temp_lanwithmeta1a.txt
+
+
+* Preliminary to extra1
+# find tags in entries
+python filter_simple.py tag temp_lanwithmeta1.txt filter_simple_tag.txt
+
+* temp_lanwithmeta3.txt:  reposition footnote(s) in entries
+python footnote.py temp_lanwithmeta2.txt temp_lanwithmeta3.txt
+
+python footnote_invert.py temp_lanwithmeta3.txt temp_lanwithmeta2_invert.txt
+python ../../diff.py temp_lanwithmeta2.txt temp_lanwithmeta2_invert.txt
+
+* FINAL RESULT FOR NOW  (02-01-2018)
+temp_lanwithmeta3.txt
+* NOT LAN temp_lanwithmeta4.txt: lbinfo markup 
+python line_adjust.py temp_lanwithmeta3.txt temp_lanwithmeta4.txt
+<lbinfo n="N"> technique employed. No change in number of lines of digitization.
+

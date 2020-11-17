@@ -2368,8 +2368,8 @@
 12361 old 14408 with%} {@puṇyā;@} good luck; prosperity, 18^14^;
 12361 new 14408 {%with%} {@puṇyā;@} good luck; prosperity, 18^14^;
 ; Case 460
-12384 old 14430 Lithuanian {%lèngvas,%} ‘light’; Lat. {%le¤vis,
-12384 new 14430 Lithuanian {%lèngvas,%} ‘light’; Lat. {%le¤vis,%}
+12384 old 14430 Lithuanian {%lèngvas,%} ‘light’; Lat. {%lĕvis,
+12384 new 14430 Lithuanian {%lèngvas,%} ‘light’; Lat. {%lĕvis,%}
 12385 old 14431 *lenhu-i-s ?,%} ‘1. swift, 2. light, not heavy,
 12385 new 14431 {%*lenhu-i-s ?,%} ‘1. swift, 2. light, not heavy,
 ; Case 461
@@ -2586,11 +2586,11 @@
 ; Case 502
 13806 old 15824 tribed Dorians’; also Keltic {%vic%} in {%Ordo-
 13806 new 15824 tribed Dorians’; also Keltic {%vic%} in {%Ordo-%}
-13807 old 15825 vi¤c-es,%} people of North Wales, and {%Lemo-
-13807 new 15825 {%vi¤c-es,%} people of North Wales, and {%Lemo-
+13807 old 15825 vĭc-es,%} people of North Wales, and {%Lemo-
+13807 new 15825 {%vĭc-es,%} people of North Wales, and {%Lemo-
 ; Case 503
-13807 old 15825 {%vi¤c-es,%} people of North Wales, and {%Lemo-
-13807 new 15825 {%vi¤c-es,%} people of North Wales, and {%Lemo-%}
+13807 old 15825 {%vĭc-es,%} people of North Wales, and {%Lemo-
+13807 new 15825 {%vĭc-es,%} people of North Wales, and {%Lemo-%}
 13808 old 15826 vīc-es,%} people of modern Limoges.]
 13808 new 15826 {%vīc-es,%} people of modern Limoges.]
 ; Case 504

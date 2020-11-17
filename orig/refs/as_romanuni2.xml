@@ -165,6 +165,12 @@ n3h  print ṅh SLP1=Mh IAST=ṃh  31 cases
 <e> <s>INIT</s> <in>man5;@}</in> <out>man5;@}</out> </e>  <!-- homonym -->
 <e> <s>INIT</s> <in>tman5,@}</in> <out>tman5,@}</out> </e> <!-- homonym -->
 <e> <s>INIT</s> <in>an5 n</in> <out>aṅ n</out> </e>
-
+<!-- vowel followed by ¤  -> vowel with breve -->
+<e> <s>INIT</s> <in>a¤</in> <out>ă</out> </e>
+<e> <s>INIT</s> <in>e¤</in> <out>ĕ</out> </e>
+<e> <s>INIT</s> <in>i¤</in> <out>ĭ</out> </e>
+<e> <s>INIT</s> <in>o¤</in> <out>ŏ</out> </e>
+<e> <s>INIT</s> <in>u¤</in> <out>ŭ</out> </e>
+<e> <s>INIT</s> <in>s¤</in> <out>š</out> </e>  <!-- caron -->
 
 </fsm>

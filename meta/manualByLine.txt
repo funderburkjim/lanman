@@ -1,0 +1,319 @@
+; 11-13-2020. Two cases where headword markup irregular
+1050 old 03327 <HI>{@√av (ávati; ā́va; ā́vīt; aviṣyáti; ūtá;@}
+1050 new 03327 <HI>{@√av@}¦ {@(ávati; ā́va; ā́vīt; aviṣyáti; ūtá;@}
+1051 old 03328 {@-ávya).@}¦ {@--1.@} set a-going; {@--2.@} further,
+1051 new 03328 {@-ávya).@} {@--1.@} set a-going; {@--2.@} further,
+;
+15180 old 17179 <HI>{@√ścut (ścótati; cuścóta; ácuścutat;@}
+15180 new 17179 <HI>{@√ścut@}¦ {@(ścótati; cuścóta; ácuścutat;@}
+; reposition headword markup
+1024 old 03302 <HI>{@√arh (árhati, -te; arháyati).@}¦ deserve;
+1024 new 03302 <HI>{@√arh@}¦ {@(árhati, -te; arháyati)@}. deserve;
+;
+1304 old 03576 <HI>{@áhan, áhar, áhas@}¦ [430a], {%n.%} day (as opp.
+1304 new 03576 <HI>{@áhan@}¦, {@áhar, áhas@} [430a], {%n.%} day (as opp.
+;
+2407 old 04658 <HI>{@ū́dhan, ū́dhar, ū́dhas [430b],@}¦ {%n.%} udder.
+2407 new 04658 <HI>{@ū́dhan@}¦, {@ū́dhar, ū́dhas [430b],@}¦ {%n.%} udder.
+;
+3105 old 05342 <HI>{@kíla, kílā@}¦ [248a], {%adv.%} indeed, {%emphasizing%}
+3105 new 05342 <HI>{@kíla@}¦, {@kílā@} [248a], {%adv.%} indeed, {%emphasizing%}
+; Need alternate headword naptf
+6949 old 09110 <HI>{@nápāt, náptṛ@}¦ [370], {%m.%} {@--1.@} {%in Veda,%} de-
+6949 new 09110 <HI>{@nápāt@}¦, {@náptṛ@} [370], {%m.%} {@--1.@} {%in Veda,%} de-
+;
+10357 old 12451 <HI>{@maya, --1.@}¦ {%called a derivative suffix%} ({%see%}
+10357 new 12451 <HI>{@maya@}¦, {@--1.@} {%called a derivative suffix%} ({%see%}
+; 45 changes when space character appears in headword
+115 old 02411 <HI>{@√aghāya (aghāyáti).@}¦ harm; plan mis-
+115 new 02411 <HI>{@√aghāya@}¦ {@(aghāyáti).@} harm; plan mis-
+;
+190 old 02484 <HI>{@√ajirāya (ajirāyate).@}¦ be swift; press
+190 new 02484 <HI>{@√ajirāya@}¦ {@(ajirāyate).@} be swift; press
+;
+427 old 02717 <HI>{@√adhvarya (adhvaryáti).@}¦ perform sac-
+427 new 02717 <HI>{@√adhvarya@}¦ {@(adhvaryáti).@} perform sac-
+;
+692 old 02976 <HI>{@áp [393],@}¦ {%f. plurale tantum.%} water; waters.
+692 new 02976 <HI>{@áp@}¦ [393], {%f. plurale tantum.%} water; waters.
+;
+711 old 02995 <HI>{@ápara [525],@}¦ {%pron. a.%} hinder, {%opp. of%} {@pūrva;@}
+711 new 02995 <HI>{@ápara@}¦ [525], {%pron. a.%} hinder, {%opp. of%} {@pūrva;@}
+;
+865 old 03146 <HI>{@√am (ámīti [634]; āmé; āmáyati).@}¦ press
+865 new 03146 <HI>{@√am@}¦ {@(ámīti@} [634]; {@āmé; āmáyati).@} press
+;
+955 old 03234 <HI>{@arí [343d],@}¦ {%a.%} {@--1.@} eager, {%esp.%} in one's re-
+955 new 03234 <HI>{@arí@}¦ [343d], {%a.%} {@--1.@} eager, {%esp.%} in one's re-
+;
+1013 old 03291 <HI>{@aryamán [426a],@}¦ {%m.%} bosom-friend, {%esp.%} a
+1013 new 03291 <HI>{@aryamán@}¦ [426a], {%m.%} bosom-friend, {%esp.%} a
+;
+1074 old 03351 <HI>{@√avadhīraya (avadhīrayati).@}¦ despise;
+1074 new 03351 <HI>{@√avadhīraya@}¦ {@(avadhīrayati).@} despise;
+;
+1177 old 03452 <HI>{@aṣṭá [483^3^],@}¦ {%num.%} eight. [cf. <gr></gr>, Lat.
+1177 new 03452 <HI>{@aṣṭá@}¦ [483^3^], {%num.%} eight. [cf. <gr></gr>, Lat.
+;
+1266 old 03539 <HI>{@√asūya (asūyáti).@}¦ be impatient.
+1266 new 03539 <HI>{@√asūya@}¦ {@(asūyáti).@} be impatient.
+;
+1277 old 03550 <HI>{@asthán [431],@}¦ {%n.%} bone. [cf. <gr></gr>, Lat.
+1277 new 03550 <HI>{@asthán@}¦ [431], {%n.%} bone. [cf. <gr></gr>, Lat.
+;
+1282 old 03555 <HI>{@asmá [494],@}¦ {%pron. stem.%} we, us. [cf. <gr></gr>,
+1282 new 03555 <HI>{@asmá@}¦ [494], {%pron. stem.%} we, us. [cf. <gr></gr>,
+;
+1365 old 03636 <HI>{@√ākulaya (ākulayati).@}¦ confuse; {@āku-@}
+1365 new 03636 <HI>{@√ākulaya@}¦ {@(ākulayati)@}. confuse; {@āku-@}
+;
+1902 old 04163 <HI>{@√inv (ínvati).@}¦ drive; send. [secondary
+1902 new 04163 <HI>{@√inv@}¦ {@(ínvati)@}. drive; send. [secondary
+;
+1907 old 04168 <HI>{@íyant [451],@}¦ {%a.%} so great; so much. [fr.
+1907 new 04168 <HI>{@íyant@}¦ [451], {%a.%} so great; so much. [fr.
+;
+1913 old 04173 <HI>{@√irasya (irasyáti).@}¦ be evil disposed.
+1913 new 04173 <HI>{@√irasya@}¦ {@(irasyáti)@}. be evil disposed.
+;
+2749 old 04993 <HI>{@1ká [504],@}¦ {%pron.%} {@--1.@} {%interrogative.%} who,
+2749 new 04993 <HI>{@1ká@}¦ [504], {%pron.%} {@--1.@} {%interrogative.%} who,
+;
+2830 old 05072 <HI>{@√kathaya (kathayati).@}¦ tell; talk about;
+2830 new 05072 <HI>{@√kathaya@}¦ {@(kathayati)@}. tell; talk about;
+;
+2946 old 05186 <HI>{@√kā (kāláyati).@}¦ drive. [cf. <gr></gr>, ‘urges
+2946 new 05186 <HI>{@√kā@}¦ {@(kāláyati)@}. drive. [cf. <gr></gr>, ‘urges
+;
+3988 old 06207 <HI>{@gír [392],@}¦ {%f.%} {@--1.@} invocation, praise, 74^12^;
+3988 new 06207 <HI>{@gír@}¦ [392], {%f.%} {@--1.@} invocation, praise, 74^12^;
+;
+6033 old 08212 <HI>{@√ducchunāya (ducchunāyáte).@}¦ seek to
+6033 new 08212 <HI>{@√ducchunāya@}¦ {@(ducchunāyáte)@}. seek to
+;
+8330 old 10464 <HI>{@√3 pṛ@}¦ ({@pṛṇóti; pṛtá; priyate; pāráyati@}).
+8330 new 10464 <HI>{@√3pṛ@}¦  ({@pṛṇóti; pṛtá; priyate; pāráyati@}).
+;
+9223 old 11339 <HI>{@bṛhánt [450a],@}¦ {%a.%} great; mighty; lofty.
+9223 new 11339 <HI>{@bṛhánt@}¦ [450a], {%a.%} great; mighty; lofty.
+;
+9297 old 11412 <HI>{@brahma-hán [402],@}¦ {%a.%} Brahman-slaying;
+9297 new 11412 <HI>{@brahma-hán@}¦ [402], {%a.%} Brahman-slaying;
+;
+9534 old 11644 <HI>{@bhávant [456],@}¦ {%a.%} lordly; {%--used in re-%}
+9534 new 11644 <HI>{@bhávant@}¦ [456], {%a.%} lordly; {%--used in re-%}
+;
+9598 old 11707 <HI>{@√bhām (bhāmitá).@}¦ rage, be angry.
+9598 new 11707 <HI>{@√bhām@}¦ {@(bhāmitá)@}. rage, be angry.
+;
+9687 old 11794 <HI>{@bhī́ [351],@}¦ {%f.%} fear. [{@√bhī,@} 348. 1.]
+9687 new 11794 <HI>{@bhī́@}¦ [351], {%f.%} fear. [{@√bhī,@} 348. 1.]
+;
+9739 old 11845 <HI>{@√bhur (bhuráti).@}¦ make short and quick
+9739 new 11845 <HI>{@√bhur@}¦ {@(bhuráti)@}. make short and quick
+;
+9826 old 11930 <HI>{@bhū́ [351-2],@}¦ {%a. at end of cpds,%} becoming,
+9826 new 11930 <HI>{@bhū́@}¦ [351-2], {%a. at end of cpds,%} becoming,
+;
+10022 old 12123 <HI>{@bhrā́tṛ [373],@}¦ {%m.%} brother. [origin un-
+10022 new 12123 <HI>{@bhrā́tṛ@}¦ [373], {%m.%} brother. [origin un-
+;
+10032 old 12132 <HI>{@bhrū́ [351],@}¦ {%f.%} brow. [cf. <gr></gr>, ‘eye-
+10032 new 12132 <HI>{@bhrū́@}¦ [351], {%f.%} brow. [cf. <gr></gr>, ‘eye-
+;
+10034 old 12134 <HI>{@ma [491],@}¦ {%pron. root, see%} {@ahám.@} [cf. <gr></gr>,
+10034 new 12134 <HI>{@ma@}¦ [491], {%pron. root, see%} {@ahám.@} [cf. <gr></gr>,
+;
+10036 old 12136 <HI>{@√maṃh (máṃhate).@}¦ make great {%or%} abund-
+10036 new 12136 <HI>{@√maṃh@}¦ {@(máṃhate)@}. make great {%or%} abund-
+;
+10056 old 12156 <HI>{@maghávan [428],@}¦ {%a.%} {@--1.@} abounding in
+10056 new 12156 <HI>{@maghávan@}¦ [428], {%a.%} {@--1.@} abounding in
+;
+10377 old 12471 <HI>{@mayo-bhū́ [352],@}¦ {%a.%} being for {%or%} conduc-
+10377 new 12471 <HI>{@mayo-bhū́@}¦ [352], {%a.%} being for {%or%} conduc-
+;
+10605 old 12694 <HI>{@mātṛ́ [373],@}¦ {%f.%} mother; applied also to the
+10605 new 12694 <HI>{@mātṛ́@}¦ [373], {%f.%} mother; applied also to the
+;
+10684 old 12772 <HI>{@māyākapota-vapus [418],@}¦ {%a.%} having
+10684 new 12772 <HI>{@māyākapota-vapus@}¦ [418], {%a.%} having
+;
+10716 old 12803 <HI>{@mā́s [397],@}¦ {%m.%} {@--1.@} moon, {%see%} {@candra-mās;@}
+10716 new 12803 <HI>{@mā́s@}¦ [397], {%m.%} {@--1.@} moon, {%see%} {@candra-mās;@}
+;
+11590 old 13660 <HI>{@yā́vant [517],@}¦ {@--1.@} {%a.%} as great, 101^9^; as
+11590 new 13660 <HI>{@yā́vant@}¦ [517], {@--1.@} {%a.%} as great, 101^9^; as
+;
+12890 old 14934 <HI>{@3 váyas,@}¦ {%n.%} {@--1.@} strength, of body and of
+12890 new 14934 <HI>{@3@}¦ {@váyas,@} {%n.%} {@--1.@} strength, of body and of
+;
+14720 old 16728 <HI>{@√3 śam@}¦ ({@śamnīté@}). harm.
+14720 new 16728 <HI>{@√3śam@}¦ ({@śamnīté@}). harm.
+;
+14721 old 16729 <HI>{@√4 śam@}¦ ({@śānta; -śámya; śamáyati, śāmá-@}
+14721 new 16729 <HI>{@√4śam@}¦  ({@śānta; -śámya; śamáyati, śāmá-@}
+;  this is not a headword
+14914 old 16918 <HI>{@√śaṃs + ā;@}¦ make supplication, 73^11^.
+14914 new 16918 {@√śaṃs+ ā@}; make supplication, 73^11^.
+;
+15437 old 17431 <HI>{@3 sa,@}¦ one, {%in%} {@sa-kṛt, sa-hasra.@} [for {@*sm@}
+15437 new 17431 <HI>{@3sa,@}¦ one, {%in%} {@sa-kṛt, sa-hasra.@} [for {@*sm@}
+;  move : outside of headword
+5920 old 08101 <HI>{@√div:@}¦ {%there is no verbal root%} {@div@} {%in Sanskrit:%}
+5920 new 08101 <HI>{@√div@}¦ : {%there is no verbal root%} {@div@} {%in Sanskrit:%}
+; accent error
+1385 old 03656 <HI>{@āṅgiras4a,@}¦ {%a.%} descended from Angiras.
+1385 new 03656 <HI>{@āṅgirasá,@}¦ {%a.%} descended from Angiras.
+; ---- bold markup errors
+2373 old 04624 (247) + nás,@} 193, 1315c: acct, 1298b.]
+2373 new 04624 (247) + {@nás,@} 193, 1315c: acct, 1298b.]
+; ----- <p> markup errors.   (<p> without closing </p>
+; 0 eva Type 3
+2692 old 04937 sometimes {@evā́,@} 248a.]
+2692 new 04937 sometimes {@evā́,@} 248a.]</p>
+; 0 ka Type 1
+2786 old 05029 nothing, 39^21^; no, no one, 20^10^;
+2786 new 05029 nothing, 39^21^; no, no one, 20^10^;</p>
+; 0 ka Type 3
+2797 old 05040 twain’; w. {@ka@} as indef., cf. <gr></gr> ‘any one.’]
+2797 new 05040 twain’; w. {@ka@} as indef., cf. <gr></gr> ‘any one.’]</p>
+; 0 kf Type 1
+3230 old 05464 om, 60^8, 9^;
+3230 new 05464 om, 60^8, 9^;</p>
+; 0 kf Type 1
+3244 old 05478 93^12^; {%--see also%} {@kṛta.@}
+3244 new 05478 93^12^; {%--see also%} {@kṛta.@}</p>
+; 0 kf Type 1
+3247 old 05481 intention.
+3247 new 05481 intention.</p>
+; 0 kzi Type 1
+3626 old 05853 <HI>{@+ upa,@}¦ rest on, be dependent on.
+3626 new 05853 <HI>{@+ upa,@}¦ rest on, be dependent on.</p>
+; 0 kzi Type 1
+3631 old 05857 </gr>, ‘get.’]
+3631 new 05857 </gr>, ‘get.’]</p>
+; 0 kzi Type 3
+3636 old 05862 master of.’]
+3636 new 05862 master of.’]</p>
+; 0 gam Type 3
+3912 old 06133 {%--caus.%} assemble, {%as trans.%}
+3912 new 06133 {%--caus.%} assemble, {%as trans.%}</p>
+; 0 graB Type 3
+4205 old 06420 <HI>{@+ upa-sam,@}¦ clasp with the hands.
+4205 new 06420 <HI>{@+ upa-sam,@}¦ clasp with the hands.</p>
+; 0 div Type 3
+5943 old 08124 lea,’ a place in Surrey.]
+5943 new 08124 lea,’ a place in Surrey.]</p>
+; 0 Darma Type 3
+6505 old 08675 and Ger. {%Ge-setz,%} ‘law,’ w. {%setzen,%} ‘set.’]
+6505 new 08675 and Ger. {%Ge-setz,%} ‘law,’ w. {%setzen,%} ‘set.’]</p>
+; 0 DA Type 1
+6569 old 08737 Ger. {%weg-thun,%} ‘do away {%or%} put away.’
+6569 new 08737 Ger. {%weg-thun,%} ‘do away {%or%} put away.’</p>
+; 0 DU Type 3
+6727 old 08892 one's self.
+6727 new 08892 one's self.</p>
+; 0 Df Type 3
+6775 old 08939 {%Eng.%} hold) assume as certain, 44^14^.
+6775 new 08939 {%Eng.%} hold) assume as certain, 44^14^.</p>
+; 0 mah Type 3
+10452 old 12544 {%mickle,%} ‘great.’]
+10452 new 12544 {%mickle,%} ‘great.’]</p>
+; 0 mah Type 2
+10456 old 12548 see 400^2^.]</p>
+10456 new 12548 see 400^2^.]
+; 0 ya Type 3
+11196 old 13273 parisons are rejected in toto by some.]
+11196 new 13273 parisons are rejected in toto by some.]</p>
+; 0 yakz Type 2
+11204 old 13281 doubted.]</p>
+11204 new 13281 doubted.]
+; 0 yaTA Type 3
+11359 old 13433 510, 1101: cf. article {@ya.@}]
+11359 new 13433 510, 1101: cf. article {@ya.@}]</p>
+; 0 yad Type 3
+11441 old 13514 1111a.]
+11441 new 13514 1111a.]</p>
+; 0 vI Type 3
+13977 old 16000 <HI>{@+ upa,@}¦ seek after.
+13977 new 16000 <HI>{@+ upa,@}¦ seek after.</p>
+; 0 vfj Type 3
+14120 old 16140 Eng. {%tort,%} from Lat. {%torquēre,%} ‘twist.’]
+14120 new 16140 Eng. {%tort,%} from Lat. {%torquēre,%} ‘twist.’]</p>
+; 0 SaraRa Type 3
+14772 old 16779 ‘hide.’]
+14772 new 16779 ‘hide.’]</p>
+; 0 SU Type 3
+15120 old 17120 ‘might’; <gr></gr>, ‘swell, billow.’]
+15120 new 17120 ‘might’; <gr></gr>, ‘swell, billow.’]</p>
+; 0 Srad Type 3
+15207 old 17206 {@*śṛd@} or {@śrad.@}]
+15207 new 17206 {@*śṛd@} or {@śrad.@}]</p>
+; 0 sac Type 3
+15576 old 17567 follow with the eyes, {%i. e.%}) see.’]
+15576 new 17567 follow with the eyes, {%i. e.%}) see.’]</p>
+; 0 sant Type 3
+15781 old 17768 Eng. {%sooth.%}]
+15781 new 17768 Eng. {%sooth.%}]</p>
+; 0 sarva Type 3
+16086 old 18067 see also {@kalya.@}]
+16086 new 18067 see also {@kalya.@}]</p>
+; 0 sah Type 3
+16193 old 18172 object.
+16193 new 18172 object.</p>
+; 0 stf Type 3
+16990 old 18954 <HI>{@+ pra,@}¦ spread out.
+16990 new 18954 <HI>{@+ pra,@}¦ spread out.</p>
+; 0 sTita Type 1
+17175 old 19135 constantly pervades all beings, 66^9^.
+17175 new 19135 constantly pervades all beings, 66^9^.</p>
+; 0 sTita Type 3
+17178 old 19138 cf. {@√sthā.@}]
+17178 new 19138 cf. {@√sthā.@}]</p>
+; 0 sPur Type 3
+17274 old 19232 <HI>{@+ pra,@}¦ shake, tremble.
+17274 new 19232 <HI>{@+ pra,@}¦ shake, tremble.</p>
+; 0 svar Type 3
+17512 old 19465 Eng. {%Sun-day.%}]
+17512 new 19465 Eng. {%Sun-day.%}]</p>
+;  miscellaneous markup corrections
+4922 old 07123 [1042d^2^]; jñaptá@}). know; have knowl-
+4922 new 07123 [1042d^2^]; {@jñaptá@}). know; have knowl-
+;
+4959 old 07159 ájyāsīt; jyāsyáti; jītá).@} <gr></gr>; over-
+4959 new 07159 {@ájyāsīt; jyāsyáti; jītá).@} <gr></gr>; over-
+;
+10799 old 12884 mithyā@} being used as a quasi-adj.]
+10799 new 12884 {@mithyā@} being used as a quasi-adj.]
+;
+13233 old 15270 {@vā_api, …ca,@} neither…, nor…, nor…,@}
+13233 new 15270 {@vā_api, …ca,@} neither…, nor…, nor…,
+; misc
+2497 old 04746 w. trans. mg: for mg, cf. Eng. {%reach,%} in-
+2497 new 04746 w. trans. mg: for mg, cf. Eng. {%reach,%} intrans.,
+2498 old 04747 trans., w. {%reach,%} trans., and Ger. {%langen%}
+2498 new 04747  w. {%reach,%} trans., and Ger. {%langen%}
+;
+11939 old 14002 {@--1.@} {%act.%} stop, {%trans.%} {@--2.@} {%mid.%} stop, {%in-%}
+11939 new 14002 {@--1.@} {%act.%} stop, {%trans.%} {@--2.@} {%mid.%} stop, {%intrans.%}
+11940 old 14003 {%trans.;%} rest; abide; stay gladly with;
+11940 new 14003  rest; abide; stay gladly with;
+;
+4389 old 06600 {@kadā,@} {%and%} {@kim.@} [cf. Lat. {%-quam%} and {%-cun%}-
+4389 new 06600 {@kadā,@} {%and%} {@kim.@} [cf. Lat. {%-quam%} and {%-cun-%} 
+;
+13133 old 15172 <HI>{@√vasūya@}¦ ({@vasūyáti@}). crave good. [de-
+13133 new 15172 <HI>{@√vasūya@}¦ ({@vasūyáti@}). crave good. [denom.
+13134 old 15173 nom. of {@vasu,@} 1058^1^, 1061.]
+13134 new 15173  of {@vasu,@} 1058^1^, 1061.]
+;
+14119 old 16139 the same metaphor as {@vṛjina@} and French-
+14119 new 16139 the same metaphor as {@vṛjina@} and French-Eng.
+14120 old 16140 Eng. {%tort,%} from Lat. {%torquēre,%} ‘twist.’]</p>
+14120 new 16140  {%tort,%} from Lat. {%torquēre,%} ‘twist.’]</p>
+;
+11782 old 13848 hasten, {%trans.;%} {@--2.@} {%mid.%} run; hasten, {%in-%}
+11782 new 13848 hasten, {%trans.;%} {@--2.@} {%mid.%} run; hasten, {%intrans.%}
+11783 old 13849 {%trans.%} [for {@*raṅgh:@} cf. the forms {@laṅgh@}
+11783 new 13849  [for {@*raṅgh:@} cf. the forms {@laṅgh@}

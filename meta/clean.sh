@@ -1,0 +1,13 @@
+rm adjtxt_pcdata.txt
+rm ben_invert_meta.txt
+rm ben_ls_page_adj.txt
+rm benwithmeta.txt
+rm headword.pyc
+rm temp_ben.txt
+rm temp_ben0.txt
+rm temp_ben0a.txt
+rm temp_ben0b.txt
+rm temp_benhw2.txt
+rm temp_benwithmeta1.txt
+rm temp_extra1.txt
+rm *~
