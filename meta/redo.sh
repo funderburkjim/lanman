@@ -15,5 +15,7 @@ echo "lanwithmeta1.txt"
 python extra1.py lanwithmeta.txt lanwithmeta1.txt #> temp_extra1.txt
 echo "lanwithmeta2.txt"
 python extra2.py lanwithmeta1.txt lanwithmeta2.txt 
+echo "lanwithmeta3.txt"
+python extra3.py lanwithmeta2.txt lanwithmeta3.txt 
 
 echo "redo.sh END"

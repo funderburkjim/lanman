@@ -34,12 +34,6 @@ python hw1.py lanhw0.txt lanhw1.txt
 Sample output:
 0001-a:akasmAdAgantu:18,19::akasmAd-Agantu
 
-* TODO  SKIP Step0d: create temp_lanhw2.txt consistent with temp_lan.txt
-cp lanhw1.txt temp_lanhw2.txt 
-#python hw2.py lanhw1.txt temp_lanhw2.txt > lanhw2_note.txt
-# no further need for anything but temp_lanhw2.txt
-rm lanhw0_note.txt lanhw1_note.txt lanhw0.txt lanhw1.txt 
-
 * DONE Step 1:  create lanwithmeta.txt
 # This is the first meta-version format of the dictionary
 python meta_hw.py temp_lan0.txt lanhw1.txt lanwithmeta.txt
@@ -88,79 +82,52 @@ X is either empty string (220) or '|' (7 cases) . Make result empty in each.
 python filter_simple.py tag temp_lanwithmeta2.txt filter_simple_tag2.txt
 
 *--------------------------------------------------------------------
-* TODO EXTRA 2: lanwithmeta2.txt . various intraline changes
+* DONE EXTRA 2: lanwithmeta2.txt . various intraline changes
 python extra2.py lanwithmeta1.txt lanwithmeta2.txt 
-* FINAL RESULT FOR NOW  (09-14-2019)
-temp_lanwithmeta1.txt
+
+Adjust line-ending '-'.
+Example:
+OLD:
+<L>8<pc>111-a<k1>akasmAdAgantu<k2>akasmAd-Agantu
+{@akasmād-āgantu,@}¦ {%<ab>m.</ab>%} an accidental ar-
+rival, a chance comer.
+<LEND>
+
+NEW:
+<L>8<pc>111-a<k1>akasmAdAgantu<k2>akasmAd-Agantu
+{@akasmād-āgantu,@}¦ {%<ab>m.</ab>%} an accidental arrival, <lbinfo n="ar-rival,"/>
+ a chance comer.
+<LEND>
+
+* DONE EXTRA 3: lanwithmeta3.txt
+python extra3.py lanwithmeta2.txt lanwithmeta3.txt 
+markup of cross-references to Sanskrit texts and to Whitney Grammar.
+Both have form of a number sequence,n, of 1 to 4 digits.
+If n<=106,  then the reference is to the Texts of Lanman
+      But Whitney n  refers to section of Whitney grammar
+if n> 106, then the reference is to Whitney.
+Example:
+<L>5<pc>111-a<k1>aMSumant<k2>aMSuma/nt
+{@aṃśumánt,@}¦ {%<ab>a.</ab>%} rich in beams, radiant; {%as%}
+{%<ab>m.</ab>%} the sun, 16^4^. [{@aṃśú,@} 1235b.]
+<LEND>
+16^4 refers to page 16, line 4 of Lanman text (see ../orig/reader.txt):
+00334 <lg><l><s>atIva mudito rAjA BrAjamAnoM 'SumAniva .</s></l>
+   oM 'SumAn -> aMSumAn, m. nom. sing. of aMSumant
+
+1235b refers to Whitney Grammar, section 1235,
+  which is about stems in 'mant'.
+
+We Want to have markup so that displays of vocabulary can link to these
+pages.
+Sample:
+16^4^ -> <ls n="lan,16,4">16^4^</ls> (in lanwithmeta3.txt and lan.xml
+1235b -> <ls n="wg,1235">1235b</ls>
+
+
+cp lanwithmeta3.txt /c/xampp/htdocs/cologne/csl-orig/v02/lan/lan.txt
+* FINAL RESULT FOR NOW  (11-22-2020)
+lanwithmeta3.txt finishes the adjustments for now.
+lanwithmeta3.txt is copied to csl-orig/v02/lan/lan.txt.
+ This latter file (lan.txt) may be further changed.
 * ------------------------------------------------
-* OTHER STUFF NOT APPLICABLE TO LAN
-* --------------------------------------------------------------------
-* NOT LAN temp_lanwithmeta0.txt:   Convert 'key2' to SLP1 
-  This uses transcoder with as_slp1.xml.
-python key2slp1.py lanwithmeta.txt temp_lanwithmeta0.txt > key2slp1_log.txt
-
-NOTE: key2slp1_log.txt has 1100+ cases which are candidates for alternate
-      headword spellings and/or other alterations.
-* NOT LAN manualByLine_iast.txt 
-This is constructed iteratively.  Initially empty
-touch manualByLine_iast.txt
-* NOT LAN temp_lanwithmeta1a.txt   Apply manualByLine_iast.txt corrections 
-python ../../updateByLine.py temp_lanwithmeta1.txt manualByLine_iast.txt temp_lanwithmeta1a.txt
-
-* NOT LAN Preliminary work on iast conversion
-Note: It appears that letters with diacritics (coded as AS) are used for
- words in other languages (etymologies) or Latinized Sanskrit words.  No
- attempt is made to convert these to 'standard' IAST. We simply convert
- to Unicode.
- 
-# step 1
-#python filter_simple.py as temp_lanwithmeta1a.txt filter_simple_as.txt
-python filter_simple.py as lanwithmeta.txt filter_simple_as.txt
-44 distinct AS codes in the entries. 
-# step 2
-as_roman.xml is copied from web/utilitities/transcoder
-  The unicode is shown in \uxxxx format 
-python make_xxxas_roman.py as_roman.xml pre_as_iast.xml temp_as_roman_changes.txt
-This converts the \uxxxx codes to Unicode (easier to read).
-
-# step 4
-Make preliminary transcoder file for the codes in filter_simple_as,
-using existing as_romanuni.xml.
-python prepare_as_iast.py filter_simple_as.txt as_iast.xml
-# step 5  
-  Edit as_iast.xml to provide more conformity with modern IAST.
-
-# step 4 ,  check the list now
-python filter_simple.py as temp_lanwithmeta1a.txt filter_simple_as_after.txt
-
-
-
-* NOT LAN temp_lanwithmeta1.txt:   AS to IAST for body of entries
-  This uses transcoder with as_iast.xml
-python as_iast.py lanwithmeta.txt temp_lanwithmeta1.txt
-
-Check for AS-codes now
-python filter_simple.py as temp_lanwithmeta1.txt filter_simple_as_meta2.txt
-
-RESULE: 0  instances of AS codes in entry body
-
-* temp_lanwithmeta1a.txt -- insertion of missed headwords  
-python ../../updateByLine.py temp_lanwithmeta1.txt manualByLine_hw.txt temp_lanwithmeta1a.txt
-
-
-* Preliminary to extra1
-# find tags in entries
-python filter_simple.py tag temp_lanwithmeta1.txt filter_simple_tag.txt
-
-* temp_lanwithmeta3.txt:  reposition footnote(s) in entries
-python footnote.py temp_lanwithmeta2.txt temp_lanwithmeta3.txt
-
-python footnote_invert.py temp_lanwithmeta3.txt temp_lanwithmeta2_invert.txt
-python ../../diff.py temp_lanwithmeta2.txt temp_lanwithmeta2_invert.txt
-
-* FINAL RESULT FOR NOW  (02-01-2018)
-temp_lanwithmeta3.txt
-* NOT LAN temp_lanwithmeta4.txt: lbinfo markup 
-python line_adjust.py temp_lanwithmeta3.txt temp_lanwithmeta4.txt
-<lbinfo n="N"> technique employed. No change in number of lines of digitization.
-
