@@ -1,0 +1,10 @@
+; preliminary adjustments to orig/notes.txt
+; eseape -> escape
+44 old 20354 <p>§ 5. Yudhishthira's exploits aroused the ill-will of his cousins, and, to eseape
+44 new 20354 <p>§ 5. Yudhishthira's exploits aroused the ill-will of his cousins, and, to escape
+; capitalize 'Selection', since other such instances are capitalized.
+5185 old 25388 <p>Selection XXXI. RV. i. 1. Hymn to
+5185 new 25388 <p>SELECTION XXXI. RV. i. 1. Hymn to
+; add bold 
+158 old 20466 <p>LINE 1. atha, see p. 114, s. v. atha 3.
+158 new 20466 <p>LINE {@1.@} atha, see p. 114, s. v. atha 3.
