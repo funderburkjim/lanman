@@ -130,4 +130,7 @@ cp lanwithmeta3.txt /c/xampp/htdocs/cologne/csl-orig/v02/lan/lan.txt
 lanwithmeta3.txt finishes the adjustments for now.
 lanwithmeta3.txt is copied to csl-orig/v02/lan/lan.txt.
  This latter file (lan.txt) may be further changed.
+* TODO lanlinks
+python lanlinks.py lanwithmeta3.txt lanlinks.txt
+
 * ------------------------------------------------
