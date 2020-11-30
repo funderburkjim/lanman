@@ -1,0 +1,17 @@
+; preliminary adjustments to orig/reader.txt
+; Change Ç to Ś (6 cases)
+2140 old 02046 <section>LXIX. ÇATAPATHA BRAHMANA II. 2. 2.</section>
+2140 new 02046 <section>LXIX. ŚATAPATHA BRAHMANA II. 2. 2.</section>
+2148 old 02053 <section>LXX. ÇATAPATHA BRAHMANA II. 2. 2.</section>
+2148 new 02053 <section>LXX. ŚATAPATHA BRAHMANA II. 2. 2.</section>
+2158 old 02063 <section>LXXI. ÇATAPATHA BRAHMANA X. 4. 3.</section>
+2158 new 02063 <section>LXXI. ŚATAPATHA BRAHMANA X. 4. 3.</section>
+2194 old 02097 <section>LXXII. ÇATAPATHA BRAHMANA XII. 7. 3.</section>
+2194 new 02097 <section>LXXII. ŚATAPATHA BRAHMANA XII. 7. 3.</section>
+2216 old 02118 <section>LXXIV. AÇVALAYANA'S GRIHYASUTRA I. 5, 7, 8.</section>
+2216 new 02118 <section>LXXIV. AŚVALAYANA'S GRIHYASUTRA I. 5, 7, 8.</section>
+2283 old 02182 <section>LXXV. AÇVALAYANA'S GRIHYASUTRA IV. 1--6.</section>
+2283 new 02182 <section>LXXV. AŚVALAYANA'S GRIHYASUTRA IV. 1--6.</section>
+; print change page 12, line 3
+255 old 00243 <lg><l><s>varRyamAnezu ca mayA Bavatsu rucirAnanA .</s></l>
+255 new 00243 <lg><l><s>varRayamAnezu ca mayA Bavatsu rucirAnanA .</s></l>

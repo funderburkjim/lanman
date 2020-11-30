@@ -1,0 +1,156 @@
+
+Begin 11-24-2020
+Code for reformatting reader.txt 
+
+The process assumed to start with 
+   ../orig/reader.txt.
+
+
+* DONE Preliminary steps: These are done BEFORE the steps of redo.sh.
+   They do not need to be redone
+
+* additional corrections to manualByLine.txt
+touch manualByLine.txt
+* ------------------------------------------------
+* Here are the steps of redo.sh
+
+* DONE  reader0.txt  Apply manualByLine
+# apply manual changes
+python updateByLine.py ../orig/reader.txt manualByLine.txt reader0.txt 
+* TODO (SECTION LABELS?) reader1.txt  Relabel lines  
+python relabel.py reader0.txt reader1.txt
+a. Remove [Pagex+ y] lines
+b. Label other lines as pppll  (page number, line number).
+   Exclude <section> lines in this line-numbering
+b+. Label section lines how?  -- not clear
+   
+c. Check manually with agreement of line-numbers and 
+d. There are 71 <section> lines. Content is a roman numeral.
+   'VIII. IX.', 'XIV. XV. XVI.', and 'XXIX. XXX.' have multiple
+   sections.  There are a total of 4 extra sections.
+   71 + 4 = 75, and the last section is 75 (LXXV)
+Section IX starts at line 03212.
+Section XV (three fishes) starts at 03809  (page 38, line 9)
+section XIV, continued starts at 03822 (page 38, line 22)
+Section XVI (the herons, ..) starts at 03908
+section XIV, concluded starts at 03919
+We insert <section> lines for these
+* dictlinks_edit.txt
+  Initialized from ../meta/lanlinks.txt
+  Then manually adjusted
+* TODO index.html
+python make_html1.py deva reader1.txt ../notes/lanlinks.txt dictlinks_edit.txt index.html
+* TODO open questions
+00919 Badra  : Not found in verse
+pratyakSadarzana   takes an infinite amount of time for simple search!
+01811 ya : Not found in verse
+* -------------------------------------------------------------
+* TODO lanhw0.txt
+python hw0.py reader0.txt lanhw0.txt
+
+Sample output:
+0001-a:akasmād-āgantu,:18,19
+
+* TODO lanhw1.txt
+python hw1.py lanhw0.txt lanhw1.txt 
+
+Sample output:
+0001-a:akasmAdAgantu:18,19::akasmAd-Agantu
+
+* TODO Step 1:  create lanwithmeta.txt
+# This is the first meta-version format of the dictionary
+python meta_hw.py reader0.txt lanhw1.txt lanwithmeta.txt
+
+ 
+* TODO Step 2: Invert the process: i.e., undo the changes of meta_hw
+python invert_meta.py lanwithmeta.txt temp_lan_invert_meta.txt
+#python ../../diff.py temp_lan.txt lan_invert_meta.txt
+diff temp_lan.txt temp_lan_invert_meta.txt
+*--------------------------------------------------------------------
+* ------------------------------------------------
+* Some 'extra' adjustments to lanwithmeta
+* TODO EXTRA 1: lanwithmeta1.txt DOC INCOMPLETE
+python extra1.py lanwithmeta.txt lanwithmeta1.txt > temp_extra1.txt
+** (a) Adjust <LEND>
+Example Moving [Pagex] in a few cases
+OLD:
+<L>20<pc>1001-1<k1>aMSI<k2>aMSI<e>100
+{#aMSI}¦ •Adv. ‹mit› #{kar} {%theilen.%}  LAN20
+[Page1.001-2]
+<LEND>
+NEW:
+<L>20<pc>1001-1<k1>aMSI<k2>aMSI<e>100
+{#aMSI}¦ •Adv. ‹mit› #{kar} {%theilen.%}  LAN20
+<LEND>
+[Page1.001-2]
+** (b) Remove line numbers
+The line numbers are relative to the original digitization.  Not
+of interest for the dictionary.
+Example:
+OLD
+02300 <HI>{@1a,@}¦ {%pron. root, see%} {@idam@} {%and%} 502.
+NEW
+<HI>{@1a,@}¦ {%pron. root, see%} {@idam@} {%and%} 502.
+
+** (b) lang tags<g>X</g> -> <lang n="greek">X</lang>
+Generate changes to reader0 for the few (6) cases where <g> and </g> are on
+separate lines
+python make_change_simple.py greek reader0.txt temp_updateByLine_greek.txt
+X is either empty string (220) or '|' (7 cases) . Make result empty in each.
+** (c) division markup
+   change <> to <div n="lb">, 
+   change <HI>c. {#X#}¦  to <div n="pfx">c. {#X#}   << none of these for LAN
+
+** check tags again
+python filter_simple.py tag temp_lanwithmeta2.txt filter_simple_tag2.txt
+
+*--------------------------------------------------------------------
+* TODO EXTRA 2: lanwithmeta2.txt . various intraline changes
+python extra2.py lanwithmeta1.txt lanwithmeta2.txt 
+
+Adjust line-ending '-'.
+Example:
+OLD:
+<L>8<pc>111-a<k1>akasmAdAgantu<k2>akasmAd-Agantu
+{@akasmād-āgantu,@}¦ {%<ab>m.</ab>%} an accidental ar-
+rival, a chance comer.
+<LEND>
+
+NEW:
+<L>8<pc>111-a<k1>akasmAdAgantu<k2>akasmAd-Agantu
+{@akasmād-āgantu,@}¦ {%<ab>m.</ab>%} an accidental arrival, <lbinfo n="ar-rival,"/>
+ a chance comer.
+<LEND>
+
+* TODO EXTRA 3: lanwithmeta3.txt
+python extra3.py lanwithmeta2.txt lanwithmeta3.txt 
+markup of cross-references to Sanskrit texts and to Whitney Grammar.
+Both have form of a number sequence,n, of 1 to 4 digits.
+If n<=106,  then the reference is to the Texts of Lanman
+      But Whitney n  refers to section of Whitney grammar
+if n> 106, then the reference is to Whitney.
+Example:
+<L>5<pc>111-a<k1>aMSumant<k2>aMSuma/nt
+{@aṃśumánt,@}¦ {%<ab>a.</ab>%} rich in beams, radiant; {%as%}
+{%<ab>m.</ab>%} the sun, 16^4^. [{@aṃśú,@} 1235b.]
+<LEND>
+16^4 refers to page 16, line 4 of Lanman text (see ../orig/reader.txt):
+00334 <lg><l><s>atIva mudito rAjA BrAjamAnoM 'SumAniva .</s></l>
+   oM 'SumAn -> aMSumAn, m. nom. sing. of aMSumant
+
+1235b refers to Whitney Grammar, section 1235,
+  which is about stems in 'mant'.
+
+We Want to have markup so that displays of vocabulary can link to these
+pages.
+Sample:
+16^4^ -> <ls n="lan,16,4">16^4^</ls> (in lanwithmeta3.txt and lan.xml
+1235b -> <ls n="wg,1235">1235b</ls>
+
+
+cp lanwithmeta3.txt /c/xampp/htdocs/cologne/csl-orig/v02/lan/lan.txt
+* FINAL RESULT FOR NOW  (11-22-2020)
+lanwithmeta3.txt finishes the adjustments for now.
+lanwithmeta3.txt is copied to csl-orig/v02/lan/lan.txt.
+ This latter file (lan.txt) may be further changed.
+* ------------------------------------------------
