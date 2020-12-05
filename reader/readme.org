@@ -39,7 +39,7 @@ We insert <section> lines for these
   Initialized from ../meta/lanlinks.txt
   Then manually adjusted
 * TODO index.html
-python make_html1.py deva reader1.txt ../notes/lanlinks.txt dictlinks_edit.txt index.html
+python make_html1.py deva reader1.txt ../notes/lanlinks.txt dictlinks_edit.txt ../notes/selections.txt index.html
 * TODO open questions
 00919 Badra  : Not found in verse
 pratyakSadarzana   takes an infinite amount of time for simple search!

@@ -683,7 +683,7 @@
 03116 <s>daro baBUva . ato 'haM bravImi .</s></p>
 03117 <lg><l><s>nirapekzo na kartavyo BftyEH svAmI kadA cana .</s></l>
 03118 <l><s>nirapekzaM praBuM kftvA BftyaH syAddaDikarRavat ..</s></l></lg>
-03108s <section>VIII. IX.</section>
+03108s <section>VIII.</section>
 03119 <p><s>kasmiMScittarO vAyasadaMpatI nivasataH . tayoScApatyAni ta-</s>
 03201 <s>rukowarAvasTitakfzRasarpeRa KAditAni . tataH punargarBavatI vA-</s>
 03202 <s>yasI brUte . svAmin . tyajyatAmayaM taruH . atra yAvatkfzRasa-</s>
@@ -814,7 +814,7 @@
 03717 <s>ato 'haM bravImi .</s></p>
 03718 <lg><l><s>AtmapakzaM parityajya parapakze ca yo rataH .</s></l>
 03719 <l><s>sa parErhanyate mUQo nIlavarRasfgAlavat ..</s></l></lg>
-03714s <section>XIV. XV. XVI.</section>
+03714s <section>XIV.</section>
 03720 <p><s>asti magaDadeSe PullotpalABiDAnaM saraH . tatra cirAtsaMka-</s>
 03721 <s>wavikawanAmAnO haMsO nivasataH . tayormitraM kambugrIvanAmA</s>
 03801 <s>kUrmaH prativasati . aTEkadA DIvarErAgatya tatroktaM yadadyAsmA-</s>

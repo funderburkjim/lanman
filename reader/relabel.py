@@ -96,6 +96,24 @@ def extra_sections(recs):
   recs1.append(rec)
  print('extra_sections inserts',n,'sections')
  return recs1
+
+def rename_sections(recs):
+ changes = [
+  ('<section>VIII. IX.</section>','<section>VIII.</section>'),
+  ('<section>XIV. XV. XVI.</section>','<section>XIV.</section>')
+  #('',''),
+ ]
+ n = 0
+ for irec,rec in enumerate(recs):
+  if rec.type != 'section':
+   continue
+  for old,new in changes:
+   if old in rec.text:
+    rec.text = rec.text.replace(old,new)
+    n = n + 1
+    break
+ print('rename',n,'sections')
+
 if __name__ == "__main__":
  filein = sys.argv[1] # reader0
  fileout = sys.argv[2] # reader1 
@@ -103,6 +121,7 @@ if __name__ == "__main__":
  print(len(recs))
  relabel(recs) # generate label attribute
  recs1 = extra_sections(recs)  # insert a few 'extra' sections. See readme
+ rename_sections(recs1)
  write(recs1,fileout)
  exit(0)
  print("file %s has %s lines" % (filename,n))

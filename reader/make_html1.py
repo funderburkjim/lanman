@@ -11,6 +11,7 @@ sections = {}
 class ReaderLine(object):
  def __init__(self,line):
   line = line.rstrip('\r\n')
+  self.line = line
   m = re.search(r'^([^ ]+) +(.*)$',line)
   if not m:
    # unexpected
@@ -28,6 +29,7 @@ class ReaderLine(object):
   self.pageBreak_html = ''
   self.note_links = []
   self.dict_links = []
+  self.note_section_links = []
 
  def get_anchor_html(self):
   html = '<a id="%s"/>' % self.anchorid
@@ -282,9 +284,14 @@ def init_html(navhtmlarr,recs,tranout):
    a.append("<table>")
   html1 = transcode(rec.html,tranin,tranout,'s')
   note_linkhtml = " ".join(rec.note_links)
+  if rec.type == 'section':
+   note_sectionhtml = " ".join(rec.note_section_links)
+  else:
+   note_sectionhtml = ""
   dict_linkhtml = " ".join(rec.dict_links)
   dict_linkhtml1 = transcode(dict_linkhtml,tranin,tranout,'s')
-  linkhtml = "%s %s" %(note_linkhtml,dict_linkhtml1)
+  
+  linkhtml = "%s %s %s" %(note_linkhtml,note_sectionhtml,dict_linkhtml1)
   row = "<tr><td>%s</td><td>%s</td></tr>" %(html1,linkhtml)
   a.append(row)
   #a.append(html1)
@@ -379,20 +386,92 @@ def add_dict_links(recs,links):
    hws = d[link]
    rec.dict_links = make_dict_links(hws)
 
+class Selection(object):
+ d = {}
+ def __init__(self,line):
+  line = line.rstrip('\r\n')
+  self.line = line
+  parts = line.split(':')
+  if len(parts) != 3:
+   print('Selection ERROR',line)
+   exit(1)
+  self.code,self.selstring,self.title = parts
+  self.used = 0
+  Selection.d[self.selstring] = self
+  # matchstring
+  s = re.sub(r'SELECTIONS? ','',self.selstring)
+  if s.startswith('XIV.,'):
+   self.matchstring = s
+  elif s == 'II.-XXI.':
+   self.matchstring = 'II.'
+  elif s == 'XXII.-XXVII.':
+   self.matchstring = 'XXII.'
+  elif s == 'XXXI.-LXXV.':
+   self.matchstring = 'XXXI.'
+  elif self.code.endswith(('a','b')):
+   self.matchstring = s
+  elif self.code == '29':
+   self.matchstring = 'XXIX.'
+  else:
+   self.matchstring = s
+  #if 'XIV.' in self.matchstring:
+  # print('Selection: sel=',self.selstring,' ; match=',self.matchstring)
+
+def init_selections(filein):
+ with codecs.open(filein,"r","utf-8") as f:
+  recs = [Selection(x) for x in f if not x.startswith(';')]
+ return recs
+
+def get_section_selections(section,selections):
+ ans = []
+ section1 = re.sub(r'[.][^,].*$','.',section)
+ #section1 = section
+ for x in selections:
+  if section.startswith('XIV.'):
+   if section == x.matchstring:
+    ans.append(x)
+  elif section1 == x.matchstring:
+   ans.append(x)
+ if False: #True: # len(ans) != 1:
+  temp = [x.selstring for x in ans]
+  print('section',section,' <-> selection',temp)
+ return ans
+
+def make_section_link(selection):
+ link = 'selection_%s'%selection.code
+ url = "../notes/index.html"
+ tooltip = 'Note on %s' %selection.selstring
+ target = "_lannotes"
+ href = "%s#%s" %(url,link)
+ html = '<a href="%s" title="%s" target="%s">Note</a>' %(href,tooltip,target)
+ return html
+
+def add_note_section_links(recs,selections):
+ for rec in recs:
+  if rec.type != 'section':
+   continue
+  section = rec.text
+  matches = get_section_selections(section,selections)
+  for selection in matches:
+   rec.note_section_links.append(make_section_link(selection))
+
 if __name__ == "__main__":
  tranout = sys.argv[1]
  filein = sys.argv[2]
  filenotelinks = sys.argv[3]   # links from reader to notes
  filedictlinks = sys.argv[4] # links from reader to dictionary
- fileout = sys.argv[5]  # 
+ fileselections = sys.argv[5] # selections in notes
+ fileout = sys.argv[6]  # 
  note_links = init_note_links(filenotelinks) # a set
  dict_links = init_dict_links(filedictlinks) # a set
+ selections = init_selections(fileselections)
 
  recs = init_lines(filein)  # records corresponding to each line
  adjust_recs(recs)
  init_markup(recs)  # modify recs
  add_note_links(recs,note_links)
  add_dict_links(recs,dict_links)
+ add_note_section_links(recs,selections)
 
  #exit(1)
  chapters = []
