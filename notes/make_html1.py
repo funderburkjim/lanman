@@ -162,7 +162,12 @@ def init_markup(lines):
   m = re.search(r'^\[Page(.*?)[+] ',line)
   if m:
    page = m.group(1)
-   newline = '<a id="page_%s"></a>Page %s' %(page,page)
+   scanurl = "https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=lan&page=%s" %page
+   target ="_lanscan"
+   tooltip = "Link to Lanman Reader Scans"
+   scanlink = '<a href="%s" target="%s" title="%s">%s</a>' %(scanurl,target,tooltip,page)
+   newline = '<a id="page_%s"></a>Page %s' %(page,scanlink)
+   #newline = '<a id="page_%s"></a>Page %s' %(page,page)
    lines[iline] = "<br/>%s<br/>" % newline
    continue
   rpage1,newline = head_pagenote(line)

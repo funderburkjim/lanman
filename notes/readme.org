@@ -53,7 +53,13 @@ python updateByLine.py ../orig/notes.txt manualByLine.txt notes0.txt
    <p>SELECTION LXXV.
 * notes1.txt (links)
 python extra3_notes.py notes0.txt notes1.txt
+Add links 
+<ls n="wg,X">X</ls> to Whitney Grammar
+<ls n="lan,Y">Z</ls> to Lanman
+change markup ^X^ to <sup>X</sup>
+remove digitization line-numbers.
 
+* notes2.txt o
 * index.html
 python make_html1.py notes1.txt selections.txt index.html
 
