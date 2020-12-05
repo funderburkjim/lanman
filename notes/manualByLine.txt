@@ -5,6 +5,8 @@
 ; capitalize 'Selection', since other such instances are capitalized.
 5185 old 25388 <p>Selection XXXI. RV. i. 1. Hymn to
 5185 new 25388 <p>SELECTION XXXI. RV. i. 1. Hymn to
+6580 old 26756 <p>Selection XLV. RV. vii. 89. To Va-
+6580 new 26756 <p>SELECTION XLV. RV. vii. 89. To Va-
 ; add bold 
 158 old 20466 <p>LINE 1. atha, see p. 114, s. v. atha 3.
 158 new 20466 <p>LINE {@1.@} atha, see p. 114, s. v. atha 3.

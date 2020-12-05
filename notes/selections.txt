@@ -1,0 +1,79 @@
+1:SELECTION I.:Nala and Damayantī
+2a:SELECTIONS II.-XXI.:Hitopadeśa
+2:SELECTION II.:Hitopadeśa Preface
+3:SELECTION III.:The tiger and the traveller
+4:SELECTION IV.:The deer and the crow
+5:SELECTION V.:The blind vulture
+6:SELECTION VI.:The ass, the dog, and the thief
+7:SELECTION VII.:The lion, the mouse, and the cat
+8:SELECTION VIII.:The crows and the serpent
+9:SELECTION IX.:The lion amd the old hare
+10:SELECTION X.:The birds and the apes
+11:SELECTION XI.:The ass in the tiger-skin
+12:SELECTION XII.:The elephant and the hares
+13:SELECTION XIII.:The blue jackal
+14:SELECTION XIV.:The geese and the tortoise
+15:SELECTION XV.:The three fishes
+14a:SELECTION XIV., continued:The geese and the tortoise, continued.
+16:SELECTION XVI.:The herons and the serpents
+14b:SELECTION XIV., concluded:The geese and the tortoise, concluded.
+17:SELECTION XVII.:The hermit and the mouse
+18:SELECTION XVIII.:The heron amd the fishes
+19:SELECTION XIX.:The Brahman and his jar
+20:SELECTION XX.:The Brahman and the goat
+21:SELECTION XXI.:The Brahman and the ichneumon
+22a:SELECTIONS XXII.-XXVII.:Kathā-sarit-sāgara
+22:SELECTION XXII.:King Putraka
+23:SELECTION XXIII.:Mousey and the merchant
+24:SELECTION XXIV.:King Śibi
+25:SELECTION XXV.:Ahalyā.
+26:SELECTION XXVI.:The king without Sanskrit grammar
+27:SELECTION XXVII.:The pathetic history
+28:SELECTION XXVIII.:Mānava-dharma-śāstra
+29:SELECTIONS XXIX. and XXX.:Play on words
+31a:SELECTIONS XXXI.-LXXV.:Vedic Literature
+31:SELECTION XXXI.:Hymn to Agni
+32:SELECTION XXXII.:Indra slays the dragon
+33:SELECTION XXXIII.:Hymn to Sūrya,
+34:SELECTION XXXIV.:Hymn to Agni.
+35:SELECTION XXXV.:Indra and the Maruts
+36:SELECTION XXXVI.:Hymn to Savitar
+37:SELECTION XXXVII.:Indra and Varuṇa
+38:SELECTION XXXVIII.:Hymn to Uṣas
+39:SELECTION XXXIX.:Hymn to Agni
+40:SELECTION XL.:Indra and Atri
+41:SELECTION XLI.:Magic sleep spells
+42:SELECTION XLII.:Hymn to the Maruts
+43:SELECTION XLIII.:Hymn to Varuṇa
+44:SELECTION XLIV.:Hymn to Varuṇa
+45:SELECTION XLV.:Hymn to Varuṇa
+46:SELECTION XLVI.:Indra and Namuci
+47:SELECTION XLVII.:Indra and the Maruts
+48:SELECTION XLVIII.:Hymn to Agni
+49:SELECTION XLIX.:Hymn to the waters
+50:SELECTION L.:Funeral-hymn
+51:SELECTION LI.:Funeral-hymn at cremation
+52:SELECTION LII.:Funeral-hymn
+53:SELECTION LIII.:Funeral-hymn
+54:SELECTION LIV.:The priest and the prince
+55:SELECTION LV.:Wedding stanza
+56:SELECTION LVI.:The gods install Agni
+57:SELECTION LVII.:Burial and wedding stanzas
+58:SELECTION LVIII.:Wedding hymn
+59:SELECTION LIX.:Exorcism for sickness
+60:SELECTION LX.:Hymn to Yama
+61:SELECTION LXI.:Burial stanza
+62:SELECTION LXII.:Hiraṇyagarbha
+63:SELECTION LXIII.:Yama and Yamī
+64:SELECTION LXIV.:Legend of the winged mountains
+65:SELECTION LXV.:The potency of the sacrifice
+66:SELECTION LXVI.:Legend of Agni the oblation-bearer
+67:SELECTION LXVII.:Legend of Indra and the Maruts
+68:SELECTION LXVIII.:Legend of Indra and the god Ka
+69:SELECTION LXIX.:The two kinds of deities
+70:SELECTION LXX.:Truth, untruth, and silence
+71:SELECTION LXXI.:How the gods got immortality
+72:SELECTION LXXII.:Legend of Indra and Namuci
+73:SELECTION LXXIII.:Explanation of section XXXII
+74:SELECTION LXXIV.:Wedding customs
+75:SELECTION LXXV.:Cremation and burial customs

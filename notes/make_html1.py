@@ -21,6 +21,24 @@ def init_lines(filein):
  print(len(lines),"lines read from",filein)
  return lines
 
+class Selection(object):
+ d = {}
+ def __init__(self,line):
+  line = line.rstrip('\r\n')
+  self.line = line
+  parts = line.split(':')
+  if len(parts) != 3:
+   print('Selection ERROR',line)
+   exit(1)
+  self.code,self.selstring,self.title = parts
+  self.used = 0
+  Selection.d[self.selstring] = self
+
+def init_selections(filein):
+ with codecs.open(filein,"r","utf-8") as f:
+  recs = [Selection(x) for x in f if not x.startswith(';')]
+ return recs
+
 def adjust_lines(lines):
  removals = [
  ]
@@ -176,6 +194,39 @@ def init_markup(lines):
   
   continue
 
+def init_markup_selections(lines,selections):
+ 
+ for iline,line in enumerate(lines):
+  if 'SELECTION' not in line:
+   continue
+  selections1 = [x for x in selections if x.selstring in line]
+  if len(selections1) == 0:
+   continue
+  if len(selections1) > 1:
+   #print('chk',[x.line for x in selections1])
+   selections2 = [x for x in selections1 if ',' in x.selstring]
+   assert len(selections2) == 1
+   selection = selections2[0]
+  else: # only 1
+   selection = selections1[0]
+  selection.used = selection.used + 1
+  anchor = '<a id="selection_%s"/>' % selection.code
+  newline = '%s %s' % (anchor,line)
+  # also, adjust formating of the select string, where needed
+  s = selection.selstring
+  newline = re.sub(r' %s'% s,r' <b style="font-size:larger">%s</b>' % s,newline)
+  lines[iline] = newline
+ # check usage
+ n = 0
+ for selection in selections:
+  if selection.used != 1:
+   n = n + 1
+   print('WARNING: Selection used',selection.used,'times',selection.line)
+ if n > 0:
+  print('WARNING:',n,'problems in init_markup_selections')
+ else:
+  print('init_markup_selections OK')
+
 def init_nav(chapters):
  a = [] 
  a.append('<div id="navbar">')
@@ -264,7 +315,7 @@ p {
 def init_html(navhtmlarr,lines):
  a = []
  a = html_header.splitlines()
- #a.append("<H3 class='header'>Whitney's Sanskrit Grammar</H3>")
+ #a.append("<H3 class='header'>Whitney Sanskrit Grammar</H3>")
  a = a + navhtmlarr
  a.append('<div id="text">')
  a = a + lines
@@ -275,10 +326,12 @@ def init_html(navhtmlarr,lines):
 
 if __name__ == "__main__":
  filein = sys.argv[1]
- fileout = sys.argv[2]  # 
+ fileSelections = sys.argv[2]
+ fileout = sys.argv[3]  # 
  lines = init_lines(filein)
+ selections = init_selections(fileSelections)
  init_markup(lines)  # modify lines
- chapters = []
+ init_markup_selections(lines,selections)
  navhtmlarr = [] # init_nav(chapters)
  adjust_lines(lines)
  htmlarr = init_html(navhtmlarr,lines)
