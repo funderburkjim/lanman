@@ -193,6 +193,7 @@ html_header = """
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="utf-8"/>
 <title>Lanman Reader Texts</title>
 <style>
 .head {

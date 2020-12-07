@@ -246,7 +246,7 @@ def adjust_whitney_3_period(lines):
   if newline != oldline:
    nadj = nadj + 1
    lines[iline] = newline
-   if True: #False: 
+   if False: #True:  
     print('; case %s'%nadj)
     print('%s old %s' %(iline+1,oldline))
     print('%s new %s' %(iline+1,newline))

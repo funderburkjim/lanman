@@ -15,7 +15,7 @@ sh redo.sh will do the creation of temp_lanwithmeta1.txt.
 # from Benfey meta-line conversion
 
 * TODO additional corrections to manualByLine.txt
-touch manualByLine.txt
+  touch manualByLine.txt
 * ------------------------------------------------
 * Here are the steps of redo.sh
 
@@ -69,7 +69,7 @@ OLD
 NEW
 <HI>{@1a,@}¦ {%pron. root, see%} {@idam@} {%and%} 502.
 
-** (b) lang tags<g>X</g> -> <lang n="greek">X</lang>
+** (b) lang tags<gr>X</gr> -> <lang n="greek">X</lang>
 Generate changes to temp_lan0 for the few (6) cases where <g> and </g> are on
 separate lines
 python make_change_simple.py greek temp_lan0.txt temp_updateByLine_greek.txt

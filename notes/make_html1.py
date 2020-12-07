@@ -5,6 +5,36 @@
 import codecs,re,sys
 import os
 
+class Abbrev(object):
+ d = {}
+ def __init__(self,abbrv,meaning):
+  self.abbrv = abbrv
+  self.meaning = meaning
+  # trailing period changed to [.] for regex search
+  if abbrv.endswith('.'):
+   abbrv1 = re.sub(r'[.]$','[.]',abbrv)
+   self.regex = '([^a-zA-Z0-9>])' + abbrv1
+   self.replace = r'\1<ab>%s</ab>' %abbrv
+  else:
+   abbrv1 = abbrv + '([^.])'
+   self.regex = '([^a-zA-Z0-9>])' + abbrv1
+   self.replace = r'\1<ab>%s</ab>\2' % abbrv
+  self.count = 0 # number of instances found
+  Abbrev.d[self.abbrv] = self
+
+def init_abbrevs(filein):
+ with codecs.open(filein,"r","utf-8") as f:
+  lines = [x.rstrip('\r\n') for x in f]
+ recs = []
+ for line in lines:
+  if line.startswith(';'):
+   continue
+  abbrv,meaning = line.split(':')
+  rec = Abbrev(abbrv,meaning)
+  recs.append(rec)
+ print(len(recs),"Abbreviations from",filein)
+ return recs
+
 def init_lines(filein):
  with codecs.open(filein,"r","utf-8") as f:
   lines0 = [x.rstrip('\r\n') for x in f]
@@ -63,6 +93,29 @@ def adjust_lines(lines):
    lines[iline] = line
    nchg = nchg + 1
  print('adjust_lines',nchg,'lines changed')
+
+def abbrev_lines(lines):
+ """ adjust <ab>X</ab> to <abbr title="Y">X</abbr>
+  where Y  = Abbrev.d[X].meaning
+ """
+ d = Abbrev.d
+ def f(m):
+  x = m.group(1)
+  if x not in d:
+   print('abbrev_lines warning. Abbreviation not found',x)
+   return x
+  y = Abbrev.d[x].meaning
+  #ans = '<abbr title="%s" >%s</abbr>' %(y,x)  Default styling is poor
+  ans = '<span title="%s" class="abbr">%s</span>' %(y,x)
+  return ans
+ nchg = 0
+ for iline,line in enumerate(lines):
+  oldline = line
+  newline = re.sub(r'<ab>(.*?)</ab>',f,line)
+  if newline != oldline:
+   lines[iline] = newline
+   nchg = nchg + 1
+ print('abbrev_lines',nchg,'lines changed')
 
 def head_selection(line):
  ## 5 such major sections
@@ -248,6 +301,7 @@ html_header = """
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="utf-8"/>
 <title>Lanman Reader Notes</title>
 <style>
 
@@ -311,6 +365,25 @@ p {
  margin-right:10px;
 }
 
+.meter {font-weight:bold;}
+
+.abbr {
+ /*border-bottom: 1px dotted #000; */
+/*
+ background-color:rgb(240, 240, 240);
+ text-decoration: none;
+*/
+/* ref; https://stackoverflow.com/questions/10131713/make-bottom-border-closer-to-text */
+    text-decoration: none;
+    position: relative;
+    background-repeat: repeat-x;
+    background-image: url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAAAAAAALAAAAAABAAEAAAICTAEAOw==);
+    background-position: left 15px bottom 5px;
+
+}
+.abbr:hover {
+ cursor:pointer;
+}
 </style>
 </head>
 <body>
@@ -332,13 +405,16 @@ def init_html(navhtmlarr,lines):
 if __name__ == "__main__":
  filein = sys.argv[1]
  fileSelections = sys.argv[2]
- fileout = sys.argv[3]  # 
+ fileabbr = sys.argv[3] # for abbreviation tooltips
+ fileout = sys.argv[4]  # 
  lines = init_lines(filein)
  selections = init_selections(fileSelections)
+ init_abbrevs(fileabbr)  # we use Abbrev.d
  init_markup(lines)  # modify lines
  init_markup_selections(lines,selections)
  navhtmlarr = [] # init_nav(chapters)
  adjust_lines(lines)
+ abbrev_lines(lines)
  htmlarr = init_html(navhtmlarr,lines)
 
  # print the new lines

@@ -149,11 +149,11 @@
 20457 verses ({@pāda@}). The first and second pādas form together a half-śloka or a line,
 20458 divided at the middle by the caesura: likewise the third and fourth. The more
 20459 important rules follow.</p>
-20460 <p>{%a.%} Odd pādas end usually with a first epitrite, <gr></gr>, or antispast, <gr></gr>.</p>
-20461 <p>{%b.%} Even pādas end in a diiambus, <gr></gr>, or second paeon, <gr></gr>.
-20462 So the type of the half-śloka is <gr></gr>. But</p>
-20463 <p>{%c.%} In no pāda may the syllables 2, 3, 4 form a tribrach, <gr></gr>, or anapaest, <gr></gr>;</p>
-20464 <p>{%d.%} Nor, in the even pādas, an amphimacer, <gr></gr>.</p>
+20460 <p>{%a.%} Odd pādas end usually with a first epitrite, <span class="meter">˘ ¯ ¯ ¯</span>, or antispast, <span class="meter">˘ ¯ ¯ ˘</span>.</p>
+20461 <p>{%b.%} Even pādas end in a diiambus, <span class="meter">˘ ¯ ˘ ¯ </span>, or second paeon, <span class="meter">˘ ¯ ˘ ˘ </span>.
+20462 So the type of the half-śloka is <span class="meter">oooo | ˘ ¯ ¯ ˘ || oooo | ˘ ¯ ˘ ˘</span>. But</p>
+20463 <p>{%c.%} In no pāda may the syllables 2, 3, 4 form a tribrach, <span class="meter">˘ ˘ ˘ </span>, or anapaest, <span class="meter">˘ ˘ ¯ </span>;</p>
+20464 <p>{%d.%} Nor, in the even pādas, an amphimacer, <span class="meter">¯ ˘ ¯ </span>.</p>
 20465 <head>NOTES TO PAGE {@1.@}</head>
 20466 <p>LINE {@1.@} atha, see p. 114, s. v. atha 3.
 20467 {@--nalopākhyāna-m,@} nom. s. n. (see 330) of
@@ -245,8 +245,8 @@
 20551 <gr></gr>), but has been transferred
 20552 (749) to the commonest of all classes, the
 20553 {@a@}-class, and is inflected as if the stem were
-20554 {@tiṣṭha,@} i. e. as if we had in Greek <gr>,
-20555 </gr>] {@--manujendrāṇām,@} gen. pl.
+20554 {@tiṣṭha,@} i. e. as if we had in Greek <gr></gr>,
+20555 <gr/></gr>] {@--manujendrāṇām,@} gen. pl.
 20556 of {@manujendra:@} after the lingual {@r,@} the {@n@}
 20557 of the ending is changed to lingual {@ṇ@}--see
 20558 189 and 190a: for the combination of {@ma-@}
@@ -656,7 +656,7 @@
 20954 taken notice of, O heroes, i. e. Understand
 20955 ye that one will take place here.’ {@--prabho,@}
 20956 341, see 1^14^N. end. --Observe that we have
-20957 <gr></gr> as the first half of the first
+20957 <span class="meter">˘ ˘ ¯ ˘ ¯ </span> as the first half of the first
 20958 pāda, a not infrequent irregularity.</p>
 [Page305-b+ 48]
 20959 <head>NOTES TO PAGE {@5.@}</head>
@@ -1494,32 +1494,32 @@
 21774 monoschematic--i. e. the stanza consists of one metrical scheme four times repeated.
 21775 The first two are simple and natural iambic-choriambic rhythms and are common in
 21776 the Veda. The name {@vasanta-tilakā@} means ‘Grace of the spring-time’; {@mālinī,@}
-21777 ‘Garlanded’; {@rathoddhatā@} seems to mean ‘Car-proud.’
-21778 {%a.%} <gr></gr> {@jagatī,@} 22^11^.
-21779 {%b.%} <gr></gr> {@triṣṭubh,@} 26^1^.
-21780 {%c.%} <gr></gr> {@vasanta-tilakā,@} 18^14^, 26^8^.
-21781 {%d.%} <gr></gr> {@mālinī,@} 22^22^.
-21782 {%e.%} <gr></gr> {@rathoddhatā,@} 56^11^.
+21777 ‘Garlanded’; {@rathoddhatā@} seems to mean ‘Car-proud.’<br/>
+21778 {%a.%} <span class="meter">˘ ¯ ˘ ¯ | ¯ ˘ ˘ ¯ | ˘ ¯ ˘ ¯ </span> {@jagatī,@} 22^11^.<br/>
+21779 {%b.%} <span class="meter">˘ ¯ ˘ ¯ | ¯ ˘ ˘ ¯ | ˘ ¯ ˘ </span> {@triṣṭubh,@} 26^1^.<br/>
+21780 {%c.%} <span class="meter">¯ ¯ ˘ ¯ | ˘ ˘ ˘ | ¯ ˘ ˘ ¯ | ˘ ¯ ¯ </span> {@vasanta-tilakā,@} 18^14^, 26^8^.<br/>
+21781 {%d.%} <span class="meter">˘ ˘ ˘ | ˘ ˘ ˘ | ¯ ¯ || ¯ ˘ ¯ | ¯ ˘ ¯ </span> {@mālinī,@} 22^22^.<br/>
+21782 {%e.%} <span class="meter">¯ ˘ ¯ | ˘ ˘ ˘ ¯ | ˘ ¯ ˘ ¯ </span> {@rathoddhatā,@} 56^11^.<br/>
 21783 The triṣṭubh is simply a catalectic form of the {@jagatī;@} but the catalexis gives the new
 21784 cadence a trochaic effect instead of iambic. The rhythm of the {@vasanta-tilakā@} is
 21785 closely analogous to that of the {@triṣṭubh.@} The {@rathoddhatā@} is essentially similar
 21786 to a {@jagatī@} without its anacrusis.</p>
 21787 <p>§ 44. THE {@āryā@} METRE is based on the number of morae--not on Thus:
-21788 the number of syllables. See Whitney, §§ 76-79. A light syllable counts <gr></gr>
-21789 as one mora; a heavy syllable, as two. In general, the {@āryā@}-foot con- <gr></gr>
-21790 sists of four morae. These appear either as two heavy syllables, or with <gr></gr>
-21791 one heavy one at the beginning or at the middle or at the end, or as <gr></gr>
-21792 four light syllables. In each half-stanza, a caesura occurs at the end of <gr></gr>
+21788 the number of syllables. See Whitney, §§ 76-79. A light syllable counts <span class="meter">¯ ¯ </span><br/>
+21789 as one mora; a heavy syllable, as two. In general, the {@āryā@}-foot consists  <span class="meter">¯ ˘ ˘ </span><br/>
+21790 of four morae. These appear either as two heavy syllables, or with <span class="meter">˘ ¯ ˘ </span><br/>
+21791 one heavy one at the beginning or at the middle or at the end, or as <span class="meter">˘ ˘ ¯ </span><br/>
+21792 four light syllables. In each half-stanza, a caesura occurs at the end of <span class="meter">˘ ˘  ˘ ˘ </span><br/>
 21793 the third foot, and the eighth or last foot of each half-stanza is catalectic.</p>
-21794 <p>The sixth foot of the first half-stanza must be an amphibrach, <gr></gr>, and that
+21794 <p>The sixth foot of the first half-stanza must be an amphibrach, <span class="meter">˘ ¯ ˘ </span>, and that
 [Page317-a+ 44]
 21795 of the second must be a single light syllable. No odd foot may be an amphibrach.
-21796 The metre occurs at 26^3^ and 56^5^ to 56^10^. The scheme is:
-21797 <gr></gr>
-21798 <gr></gr>
+21796 The metre occurs at 26^3^ and 56^5^ to 56^10^. The scheme is:<br/>
+21797 <span class="meter">¯ ¯ | ¯ ¯ | ¯ ¯ || ¯ ¯ | ¯ ¯ | ˘ ¯ ˘ | ¯ ¯ | ¯ </span><br/>
+21798 <span class="meter">¯ ¯ | ¯ ¯ | ¯ ¯ || ¯ ¯ | ¯ ¯ | ˘ | ¯ ¯ | ¯ </span><br/>
 21799 Applying this scheme, for example, to 56^5-6^, we have, with the proper resolutions:
-21800 <gr></gr>
-21801 <gr></gr>.</p>
+21800 <span class="meter">˘ ˘ ¯ | ˘ ¯ ˘ | ¯ ¯ || ¯ ¯ | ˘ ˘ ¯ | ˘ ¯ ˘ | ¯ ¯ | ˘ </span><br/>
+21801 <span class="meter">˘ ˘ ˘ ˘ | ¯ ˘ ˘ | ˘ ˘ ¯ || ˘ ˘ ¯ | ˘ ˘ ¯ | ˘ | ˘ ˘ ˘ ˘ | ¯</span>.</p>
 21802 <head>NOTES TO PAGE {@16.@}</head>
 21803 <p>LINE {@16.@} SELECTION II. Preface and intro-
 21804 duction to the Hitopadeśa. U. f. {@saṃskṛta_@}
@@ -3098,8 +3098,8 @@
 23346 ing these dialects, see Muir, {%Orig. Sanskrit Texts,%}
 23347 ii^3^. 43f, esp. p. 48 and 50. Cf. also Jacobi, Ausgewählte
 23348 Erzählungen in Māhārāshṭrī, Einl. § 2, § 15.</p></note>
-23349 <note n="333-6"><p>Its Prākrit form is Païtthāna; this is the HAI-
-23350 ©ANA of the <gr></gr> and the <gr></gr> of Ptolemy.
+23349 <note n="333-6"><p>Its Prākrit form is Païtthāna; this is the <lang n="greek">ΠAIΘANA</lang>
+23350 of the <gr></gr> and the <gr></gr> of Ptolemy.
 23351 See McCrindle, {%Ancient India as described by Ptol-%}
 23352 {%emy,%} pages 175-6, and J. Burgess, {%Arch. Survey of%}
 23353 {%Western India,%} iii. (Bīdar, etc.) p. 55.</p></note>
@@ -4150,17 +4150,17 @@
 24376 womb (<gr></gr>) they are under
 24377 the care of wise men.</p>
 24378 <p>--The {@saṃskāras@} or ‘sacraments.’
-24379 1. {@garbha_ādhāna,@} ‘conception.’
-24380 2. {@puṃ-savana,@} ‘male-ceremony.’
-24381 3. {@sīmanta_unnayana,@} ‘hair-parting.’
-24382 4. {@jāta-karman,@} ‘birth-ceremony.’
-24383 5. {@nāma-dheya,@} ‘name-giving.’
-24384 6. {@niṣkramaṇa,@} ‘going out.’
-24385 7. {@anna-prāśana,@} ‘rice-feeding.’
-24386 8. {@cūḍā-karman,@} ‘tonsure of scalp.’
-24387 9. {@upanāyana,@} ‘investiture.’
-24388 10. {@keśānta,@} ‘tonsure of beard.’
-24389 11. {@samāvartana,@} ‘return from study.’
+24379 1. {@garbha_ādhāna,@} ‘conception.’<br/>
+24380 2. {@puṃ-savana,@} ‘male-ceremony.’<br/>
+24381 3. {@sīmanta_unnayana,@} ‘hair-parting.’<br/>
+24382 4. {@jāta-karman,@} ‘birth-ceremony.’<br/>
+24383 5. {@nāma-dheya,@} ‘name-giving.’<br/>
+24384 6. {@niṣkramaṇa,@} ‘going out.’<br/>
+24385 7. {@anna-prāśana,@} ‘rice-feeding.’<br/>
+24386 8. {@cūḍā-karman,@} ‘tonsure of scalp.’<br/>
+24387 9. {@upanāyana,@} ‘investiture.’<br/>
+24388 10. {@keśānta,@} ‘tonsure of beard.’<br/>
+24389 11. {@samāvartana,@} ‘return from study.’<br/>
 24390 12. {@vivāha,@} ‘marriage.’</p>
 [Page347-a+ 50]
 24391 <p>Most of these are described at length,
@@ -5473,9 +5473,9 @@
 25671 associated with the word early and commonly
 25672 (Eggeling, SBE. xxvi. p. xxxi). For analogous
 25673 cases, see {@hótṛ@} and {@yamá@} in vocab.</p>
-25674 <p>In the present--very unusual--applica-
-25675 tion of the epithet to Sūrya,
-25676 <gr></gr>,
+25674 <p>In the present --very unusual-- application
+25675 of the epithet to Sūrya,<br/>
+25676 <gr></gr>,<br/>
 25677 the latter phase of mg predominates.</p>
 [Page363-a+ 52]
 25678 <p>{@11.@} ‘That every man may see the sun,
@@ -6308,8 +6308,8 @@
 26489 of the {@triṣṭubh@} syncopated at the sixth place,
 26490 i. e. with the prevailingly light sixth syllable
 26491 left out (cf. JAOS. xi. p. lxiii = PAOS. May,
-26492 1881). Thus,
-26493 <gr></gr>.
+26492 1881). Thus,<br/>
+26493 <span class="meter">¯ ¯ ˘ ¯ ¯ [˘] ˘ ¯ ˘ ¯ ¯ </span>.<br/>
 26494 Each of the parts into which the verse is
 26495 broken is a ‘syllable-pentad’ or {@akṣara-@}
 26496 {@paṅkti;@} and each is an independent {@pāda,@}
@@ -7022,10 +7022,10 @@
 27189 <p>--This pāda at best is bad. It is avoided
 27190 by the noteworthy, but not very helpful,
 27191 variants of the Yajurveda. VS. xii. 45 reads
-27192 {@ápeta vī̀ta ví ca sarpatā́to@}
-27193 {@yé átra sthá purāṇā́ yé ca nū́tanāḥ.@}
-27194 {@ádād yamó avasā́nam pṛthivyā́@}
-27195 {@ákrann imám pitáro lokám asmai,@}
+27192 {@ápeta vī̀ta ví ca sarpatā́to@}<br/>
+27193 {@yé átra sthá purāṇā́ yé ca nū́tanāḥ.@}<br/>
+27194 {@ádād yamó avasā́nam pṛthivyā́@}<br/>
+27195 {@ákrann imám pitáro lokám asmai,@}<br/>
 27196 and substantially so read MS., TS., TB. The
 27197 scholiast to VS. takes this as an address to
 27198 ‘Yama's men.’ It {%is%} a little forced to refer
@@ -7135,12 +7135,12 @@
 27299 his blood and seminal fluid in the waters are
 27300 put, what then becomes of this spirit ?’</p>
 27301 <p>Cf. the formula recited at the slaughter of
-27302 the sacrificial victim, AB. ii. 6. 13,
-27303 {@sūryaṃ cakṣur gamayatāt,@}
-27304 {@vātam prāṇam anvavasṛjatāt,@}
-27305 {@antarikṣam asum,@}
-27306 {@diśaḥ śrotram,@}
-27307 {@pṛthivīṃ śarīram.@}
+27302 the sacrificial victim, AB. ii. 6. 13,<br/>
+27303 {@sūryaṃ cakṣur gamayatāt,@}<br/>
+27304 {@vātam prāṇam anvavasṛjatāt,@}<br/>
+27305 {@antarikṣam asum,@}<br/>
+27306 {@diśaḥ śrotram,@}<br/>
+27307 {@pṛthivīṃ śarīram.@}<br/>
 27308 Dissolution into the five elements (see {@bhūta@})
 27309 is later the stereotyped phrase for death (see
 27310 {@pañcatva@}). Cf. the four elements <gr></gr>
@@ -9165,8 +9165,8 @@
 29290 {@yīta@} (1043. 3), as if of the 1st gen'l conj.,
 29291 instead of {@kāmayeta.@} So {@vācayīta,@} 101^2^,
 29292 106^4^; {@kalpayīran,@} 105^1^. {@--pumāṃsas@} etc.;
-29293 <gr>-
-29294 </gr> etc., Megasthenes, in Strabo, xv. 60,
+29293 <gr></gr>
+29294 etc., Megasthenes, in Strabo, xv. 60,
 29295 p. 713; also ŚB. xiv. 9. 4^14^f or SBE. xv. 219f.</p>
 29296 <p>--‘To the west of the fire, a millstone
 29297 setting, to the north-east, a water-jar, while

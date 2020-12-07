@@ -43,5 +43,5 @@ if __name__ == "__main__":
   for link in links:
    f.write(link+'\n')
    if dlinks[link] != 1:
-    print('link %s occurs %s times' %(link,dlinks[link]))
+    print('WARNING link %s occurs %s times' %(link,dlinks[link]))
  print(len(links),"written to",fileout)

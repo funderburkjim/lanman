@@ -108,6 +108,7 @@ subst.:@substantive, substantively.
 superl.:superlative.
 trans.:transitive, transitively.
 U. f.:uncombined form or forms.
+u. f.:uncombined form or forms.
 vbl.:verbal.
 V.:Vedic, Veda.
 voc.:vocative.

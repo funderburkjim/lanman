@@ -10,3 +10,140 @@
 ; add bold 
 158 old 20466 <p>LINE 1. atha, see p. 114, s. v. atha 3.
 158 new 20466 <p>LINE {@1.@} atha, see p. 114, s. v. atha 3.
+; Input metrical feet at some <gr></gr> locations
+; ˘ ¯ 
+; o = Latin small letter 'O'  
+; | = Fullwidth Vertical line
+; _ - Low Line
+152 old 20460 <p>{%a.%} Odd pādas end usually with a first epitrite, <gr></gr>, or antispast, <gr></gr>.</p>
+152 new 20460 <p>{%a.%} Odd pādas end usually with a first epitrite, <span class="meter">˘ ¯ ¯ ¯</span>, or antispast, <span class="meter">˘ ¯ ¯ ˘</span>.</p>
+153 old 20461 <p>{%b.%} Even pādas end in a diiambus, <gr></gr>, or second paeon, <gr></gr>.
+153 new 20461 <p>{%b.%} Even pādas end in a diiambus, <span class="meter">˘ ¯ ˘ ¯ </span>, or second paeon, <span class="meter">˘ ¯ ˘ ˘ </span>.
+154 old 20462 So the type of the half-śloka is <gr></gr>. But</p>
+154 new 20462 So the type of the half-śloka is <span class="meter">oooo | ˘ ¯ ¯ ˘ || oooo | ˘ ¯ ˘ ˘</span>. But</p>
+155 old 20463 <p>{%c.%} In no pāda may the syllables 2, 3, 4 form a tribrach, <gr></gr>, or anapaest, <gr></gr>;</p>
+155 new 20463 <p>{%c.%} In no pāda may the syllables 2, 3, 4 form a tribrach, <span class="meter">˘ ˘ ˘ </span>, or anapaest, <span class="meter">˘ ˘ ¯ </span>;</p>
+156 old 20464 <p>{%d.%} Nor, in the even pādas, an amphimacer, <gr></gr>.</p>
+156 new 20464 <p>{%d.%} Nor, in the even pādas, an amphimacer, <span class="meter">¯ ˘ ¯ </span>.</p>
+; close <gr> tag on line
+248 old 20554 {@tiṣṭha,@} i. e. as if we had in Greek <gr>,
+248 new 20554 {@tiṣṭha,@} i. e. as if we had in Greek <gr></gr>,
+249 old 20555 </gr>] {@--manujendrāṇām,@} gen. pl.
+249 new 20555 <gr/></gr>] {@--manujendrāṇām,@} gen. pl.
+;
+659 old 20957 <gr></gr> as the first half of the first
+659 new 20957 <span class="meter">˘ ˘ ¯ ˘ ¯ </span> as the first half of the first
+; These are only approximate renditions of scanned image
+1497 old 21777 ‘Garlanded’; {@rathoddhatā@} seems to mean ‘Car-proud.’
+1497 new 21777 ‘Garlanded’; {@rathoddhatā@} seems to mean ‘Car-proud.’<br/>
+1498 old 21778 {%a.%} <gr></gr> {@jagatī,@} 22^11^.
+1498 new 21778 {%a.%} <span class="meter">˘ ¯ ˘ ¯ | ¯ ˘ ˘ ¯ | ˘ ¯ ˘ ¯ </span> {@jagatī,@} 22^11^.<br/>
+1499 old 21779 {%b.%} <gr></gr> {@triṣṭubh,@} 26^1^.
+1499 new 21779 {%b.%} <span class="meter">˘ ¯ ˘ ¯ | ¯ ˘ ˘ ¯ | ˘ ¯ ˘ </span> {@triṣṭubh,@} 26^1^.<br/>
+1500 old 21780 {%c.%} <gr></gr> {@vasanta-tilakā,@} 18^14^, 26^8^.
+1500 new 21780 {%c.%} <span class="meter">¯ ¯ ˘ ¯ | ˘ ˘ ˘ | ¯ ˘ ˘ ¯ | ˘ ¯ ¯ </span> {@vasanta-tilakā,@} 18^14^, 26^8^.<br/>
+1501 old 21781 {%d.%} <gr></gr> {@mālinī,@} 22^22^.
+1501 new 21781 {%d.%} <span class="meter">˘ ˘ ˘ | ˘ ˘ ˘ | ¯ ¯ || ¯ ˘ ¯ | ¯ ˘ ¯ </span> {@mālinī,@} 22^22^.<br/>
+1502 old 21782 {%e.%} <gr></gr> {@rathoddhatā,@} 56^11^.
+1502 new 21782 {%e.%} <span class="meter">¯ ˘ ¯ | ˘ ˘ ˘ ¯ | ˘ ¯ ˘ ¯ </span> {@rathoddhatā,@} 56^11^.<br/>
+;
+1508 old 21788 the number of syllables. See Whitney, §§ 76-79. A light syllable counts <gr></gr>
+1508 new 21788 the number of syllables. See Whitney, §§ 76-79. A light syllable counts <span class="meter">¯ ¯ </span><br/>
+1509 old 21789 as one mora; a heavy syllable, as two. In general, the {@āryā@}-foot con- <gr></gr>
+1509 new 21789 as one mora; a heavy syllable, as two. In general, the {@āryā@}-foot consists  <span class="meter">¯ ˘ ˘ </span><br/>
+1510 old 21790 sists of four morae. These appear either as two heavy syllables, or with <gr></gr>
+1510 new 21790 of four morae. These appear either as two heavy syllables, or with <span class="meter">˘ ¯ ˘ </span><br/>
+1511 old 21791 one heavy one at the beginning or at the middle or at the end, or as <gr></gr>
+1511 new 21791 one heavy one at the beginning or at the middle or at the end, or as <span class="meter">˘ ˘ ¯ </span><br/>
+1512 old 21792 four light syllables. In each half-stanza, a caesura occurs at the end of <gr></gr>
+1512 new 21792 four light syllables. In each half-stanza, a caesura occurs at the end of <span class="meter">˘ ˘  ˘ ˘ </span><br/>
+1514 old 21794 <p>The sixth foot of the first half-stanza must be an amphibrach, <gr></gr>, and that
+1514 new 21794 <p>The sixth foot of the first half-stanza must be an amphibrach, <span class="meter">˘ ¯ ˘ </span>, and that
+;
+1517 old 21796 The metre occurs at 26^3^ and 56^5^ to 56^10^. The scheme is:
+1517 new 21796 The metre occurs at 26^3^ and 56^5^ to 56^10^. The scheme is:<br/>
+1518 old 21797 <gr></gr>
+1518 new 21797 <span class="meter">¯ ¯ | ¯ ¯ | ¯ ¯ || ¯ ¯ | ¯ ¯ | ˘ ¯ ˘ | ¯ ¯ | ¯ </span><br/>
+1519 old 21798 <gr></gr>
+1519 new 21798 <span class="meter">¯ ¯ | ¯ ¯ | ¯ ¯ || ¯ ¯ | ¯ ¯ | ˘ | ¯ ¯ | ¯ </span><br/>
+1521 old 21800 <gr></gr>
+1521 new 21800 <span class="meter">˘ ˘ ¯ | ˘ ¯ ˘ | ¯ ¯ || ¯ ¯ | ˘ ˘ ¯ | ˘ ¯ ˘ | ¯ ¯ | ˘ </span><br/>
+1522 old 21801 <gr></gr>.</p>
+1522 new 21801 <span class="meter">˘ ˘ ˘ ˘ | ¯ ˘ ˘ | ˘ ˘ ¯ || ˘ ˘ ¯ | ˘ ˘ ¯ | ˘ | ˘ ˘ ˘ ˘ | ¯</span>.</p>
+;
+3101 old 23349 <note n="333-6"><p>Its Prākrit form is Païtthāna; this is the HAI-
+3101 new 23349 <note n="333-6"><p>Its Prākrit form is Païtthāna; this is the <lang n="greek">ΠAIΘANA</lang>
+3102 old 23350 ©ANA of the <gr></gr> and the <gr></gr> of Ptolemy.
+3102 new 23350 of the <gr></gr> and the <gr></gr> of Ptolemy.
+;  add line breaks
+;
+4153 old 24379 1. {@garbha_ādhāna,@} ‘conception.’
+4153 new 24379 1. {@garbha_ādhāna,@} ‘conception.’<br/>
+4154 old 24380 2. {@puṃ-savana,@} ‘male-ceremony.’
+4154 new 24380 2. {@puṃ-savana,@} ‘male-ceremony.’<br/>
+4155 old 24381 3. {@sīmanta_unnayana,@} ‘hair-parting.’
+4155 new 24381 3. {@sīmanta_unnayana,@} ‘hair-parting.’<br/>
+4156 old 24382 4. {@jāta-karman,@} ‘birth-ceremony.’
+4156 new 24382 4. {@jāta-karman,@} ‘birth-ceremony.’<br/>
+4157 old 24383 5. {@nāma-dheya,@} ‘name-giving.’
+4157 new 24383 5. {@nāma-dheya,@} ‘name-giving.’<br/>
+4158 old 24384 6. {@niṣkramaṇa,@} ‘going out.’
+4158 new 24384 6. {@niṣkramaṇa,@} ‘going out.’<br/>
+4159 old 24385 7. {@anna-prāśana,@} ‘rice-feeding.’
+4159 new 24385 7. {@anna-prāśana,@} ‘rice-feeding.’<br/>
+4160 old 24386 8. {@cūḍā-karman,@} ‘tonsure of scalp.’
+4160 new 24386 8. {@cūḍā-karman,@} ‘tonsure of scalp.’<br/>
+4161 old 24387 9. {@upanāyana,@} ‘investiture.’
+4161 new 24387 9. {@upanāyana,@} ‘investiture.’<br/>
+4162 old 24388 10. {@keśānta,@} ‘tonsure of beard.’
+4162 new 24388 10. {@keśānta,@} ‘tonsure of beard.’<br/>
+4163 old 24389 11. {@samāvartana,@} ‘return from study.’
+4163 new 24389 11. {@samāvartana,@} ‘return from study.’<br/>
+;line breaks
+5476 old 25674 <p>In the present--very unusual--applica-
+5476 new 25674 <p>In the present --very unusual-- application
+5477 old 25675 tion of the epithet to Sūrya,
+5477 new 25675 of the epithet to Sūrya,<br/>
+5478 old 25676 <gr></gr>,
+5478 new 25676 <gr></gr>,<br/>
+; meter not accurate digitization
+; ¯ ¯ | ¯ ¯ | ¯ ¯ || ¯ ¯ | ¯ ¯ | ˘ | ¯ ¯ | ¯ </gr><br/>
+6311 old 26492 1881). Thus,
+6311 new 26492 1881). Thus,<br/>
+6312 old 26493 <gr></gr>.
+6312 new 26493 <span class="meter">¯ ¯ ˘ ¯ ¯ [˘] ˘ ¯ ˘ ¯ ¯ </span>.<br/>
+; line break
+7025 old 27192 {@ápeta vī̀ta ví ca sarpatā́to@}
+7025 new 27192 {@ápeta vī̀ta ví ca sarpatā́to@}<br/>
+7026 old 27193 {@yé átra sthá purāṇā́ yé ca nū́tanāḥ.@}
+7026 new 27193 {@yé átra sthá purāṇā́ yé ca nū́tanāḥ.@}<br/>
+7027 old 27194 {@ádād yamó avasā́nam pṛthivyā́@}
+7027 new 27194 {@ádād yamó avasā́nam pṛthivyā́@}<br/>
+7028 old 27195 {@ákrann imám pitáro lokám asmai,@}
+7028 new 27195 {@ákrann imám pitáro lokám asmai,@}<br/>
+; line break
+;(progn
+;(setq n 7139)
+;(while (<= n 7143)
+; (insert (format "%d old \n" n))
+; (insert (format "%d new \n" n))
+; (setq n (1+ n))
+;)
+;)
+7138 old 27302 the sacrificial victim, AB. ii. 6. 13,
+7138 new 27302 the sacrificial victim, AB. ii. 6. 13,<br/>
+7139 old 27303 {@sūryaṃ cakṣur gamayatāt,@}
+7139 new 27303 {@sūryaṃ cakṣur gamayatāt,@}<br/>
+7140 old 27304 {@vātam prāṇam anvavasṛjatāt,@}
+7140 new 27304 {@vātam prāṇam anvavasṛjatāt,@}<br/>
+7141 old 27305 {@antarikṣam asum,@}
+7141 new 27305 {@antarikṣam asum,@}<br/>
+7142 old 27306 {@diśaḥ śrotram,@}
+7142 new 27306 {@diśaḥ śrotram,@}<br/>
+7143 old 27307 {@pṛthivīṃ śarīram.@}
+7143 new 27307 {@pṛthivīṃ śarīram.@}<br/>
+; hyphen greek
+9168 old 29293 <gr>-
+9168 new 29293 <gr></gr>
+9169 old 29294 </gr> etc., Megasthenes, in Strabo, xv. 60,
+9169 new 29294 etc., Megasthenes, in Strabo, xv. 60,

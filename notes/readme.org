@@ -11,6 +11,10 @@ The process assumed to start with
 
 * additional corrections to manualByLine.txt
 touch manualByLine.txt
+Add changes as needed.
+Example:
+<gr></gr>  with 'meter'. About 100 lines.
+Use ¯ ˘ unicode, as in mw72.txt.  
 * ------------------------------------------------
 * Here are the steps of redo.sh
 
@@ -59,9 +63,29 @@ Add links
 change markup ^X^ to <sup>X</sup>
 remove digitization line-numbers.
 
-* notes2.txt o
+* notes2.txt (hyphens)
+* DONE EXTRA 2: notes2.txt . various intraline changes
+python extra2_notes.py notes1.txt notes2.txt
+
+Adjust line-ending '-'.
+Example:
+OLD:
+<L>8<pc>111-a<k1>akasmAdAgantu<k2>akasmAd-Agantu
+{@akasmād-āgantu,@}¦ {%<ab>m.</ab>%} an accidental ar-
+rival, a chance comer.
+<LEND>
+
+NEW:
+<L>8<pc>111-a<k1>akasmAdAgantu<k2>akasmAd-Agantu
+{@akasmād-āgantu,@}¦ {%<ab>m.</ab>%} an accidental arrival, <lbinfo n="ar-rival,"/>
+ a chance comer.
+<LEND>
+* notes3.txt  (abbreviation)
+python extra1_notes.py notes2.txt ../meta/abbrev.txt notes3.txt
+
+
 * index.html
-python make_html1.py notes1.txt selections.txt index.html
+python make_html1.py notes3.txt selections.txt ../meta/abbrev.txt index.html
 
 * lanlinks.txt
 python lanlinks.py index.html lanlinks.txt
