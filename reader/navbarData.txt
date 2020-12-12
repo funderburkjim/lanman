@@ -1,0 +1,79 @@
+rs_00101s:I.~ 1:I.:Nala and Damayantī
+rs_01602s:II.~ 2a:II.:Hitopadeśa:1
+rs_01602s:II.~ 2:II.:Hitopadeśa Preface
+rs_02003s:III.~ 3:III.:The tiger and the traveller
+rs_02304s:IV.~ 4:IV.:The deer and the crow
+rs_02705s:V.~ 5:V.:The blind vulture
+rs_03006s:VI.~ 6:VI.:The ass, the dog, and the thief
+rs_03107s:VII.~ 7:VII.:The lion, the mouse, and the cat
+rs_03108s:VIII.~ 8:VIII.:The crows and the serpent
+rs_03209s:IX.~ 9:IX.:The lion amd the old hare
+rs_03310s:X.~ 10:X.:The birds and the apes
+rs_03411s:XI.~ 11:XI.:The ass in the tiger-skin
+rs_03512s:XII.~ 12:XII.:The elephant and the hares
+rs_03613s:XIII.~ 13:XIII.:The blue jackal
+rs_03714s:XIV.~ 14:XIV.:The geese and the tortoise
+rs_03815s:XV.~ 15:XV.:The three fishes
+rs_03814as:XIV., continued~ 14a:XIV., continued:The geese and the tortoise, continued.
+rs_03916s:XVI.~ 16:XVI.:The herons and the serpents
+rs_03914bs:XIV., concluded~ 14b:XIV., concluded:The geese and the tortoise, concluded.
+rs_04017s:XVII.~ 17:XVII.:The hermit and the mouse
+rs_04118s:XVIII.~ 18:XVIII.:The heron amd the fishes
+rs_04219s:XIX.~ 19:XIX.:The Brahman and his jar
+rs_04320s:XX.~ 20:XX.:The Brahman and the goat
+rs_04421s:XXI.~ 21:XXI.:The Brahman and the ichneumon
+rs_04522s:XXII.~ 22a:XXII.:Kathā-sarit-sāgara:1
+rs_04522s:XXII.~ 22:XXII.:King Putraka
+rs_04623s:XXIII.~ 23:XXIII.:Mousey and the merchant
+rs_04824s:XXIV.~ 24:XXIV.:King Śibi
+rs_04825s:XXV.~ 25:XXV.:Ahalyā.
+rs_04926s:XXVI.~ 26:XXVI.:The king without Sanskrit grammar
+rs_05327s:XXVII.~ 27:XXVII.:The pathetic history
+rs_05628s:XXVIII.~ 28:XXVIII.:Mānava-dharma-śāstra
+rs_06829s:XXIX. XXX.~ 29:XXIX.:Play on words
+rs_06931s:XXXI. RIGVEDA I. 1.~ 31a:XXXI.:Vedic Literature:1
+rs_06931s:XXXI. RIGVEDA I. 1.~ 31:XXXI.:Hymn to Agni
+rs_07032s:XXXII. RIGVEDA I. 32.~ 32:XXXII.:Indra slays the dragon
+rs_07133s:XXXIII. RIGVEDA I. 50.~ 33:XXXIII.:Hymn to Sūrya,
+rs_07234s:XXXIV. RIGVEDA I. 97.~ 34:XXXIV.:Hymn to Agni.
+rs_07335s:XXXV. RIGVEDA I. 165.~ 35:XXXV.:Indra and the Maruts
+rs_07436s:XXXVI. RIGVEDA III. 62.~ 36:XXXVI.:Hymn to Savitar
+rs_07537s:XXXVII. RIGVEDA IV. 42.~ 37:XXXVII.:Indra and Varuṇa
+rs_07538s:XXXVIII. RIGVEDA IV. 52.~ 38:XXXVIII.:Hymn to Uṣas
+rs_07639s:XXXIX. RIGVEDA V. 24.~ 39:XXXIX.:Hymn to Agni
+rs_07640s:XL. RIGVEDA V. 40.~ 40:XL.:Indra and Atri
+rs_07741s:XLI. RIGVEDA VII. 55.~ 41:XLI.:Magic sleep spells
+rs_07742s:XLII. RIGVEDA VII. 56.~ 42:XLII.:Hymn to the Maruts
+rs_07843s:XLIII. RIGVEDA VII. 86.~ 43:XLIII.:Hymn to Varuṇa
+rs_07944s:XLIV. RIGVEDA VII. 88.~ 44:XLIV.:Hymn to Varuṇa
+rs_08045s:XLV. RIGVEDA VII. 89.~ 45:XLV.:Hymn to Varuṇa
+rs_08046s:XLVI. RIGVEDA VIII. 14.~ 46:XLVI.:Indra and Namuci
+rs_08247s:XLVII. RIGVEDA VIII. 85.~ 47:XLVII.:Indra and the Maruts
+rs_08248s:XLVIII. RIGVEDA VIII. 91.~ 48:XLVIII.:Hymn to Agni
+rs_08349s:XLIX. RIGVEDA X. 9.~ 49:XLIX.:Hymn to the waters
+rs_08350s:L. RIGVEDA X. 14.~ 50:L.:Funeral-hymn
+rs_08451s:LI. RIGVEDA X. 16.~ 51:LI.:Funeral-hymn at cremation
+rs_08552s:LII. RIGVEDA X. 17.~ 52:LII.:Funeral-hymn
+rs_08653s:LIII. RIGVEDA X. 18.~ 53:LIII.:Funeral-hymn
+rs_08754s:LIV. RIGVEDA X. 33.~ 54:LIV.:The priest and the prince
+rs_08855s:LV. RIGVEDA X. 40. 10.~ 55:LV.:Wedding stanza
+rs_08856s:LVI. RIGVEDA X. 52.~ 56:LVI.:The gods install Agni
+rs_08957s:LVII. RIGVEDA X. 53.~ 57:LVII.:Burial and wedding stanzas
+rs_08958s:LVIII. RIGVEDA X. 85. 36, 24--26, 32--33, 27, 43--47.~ 58:LVIII.:Wedding hymn
+rs_09059s:LIX. RIGVEDA X. 137.~ 59:LIX.:Exorcism for sickness
+rs_09160s:LX. RIGVEDA X. 154.~ 60:LX.:Hymn to Yama
+rs_09161s:LXI. RIGVEDA X. 155.~ 61:LXI.:Burial stanza
+rs_09162s:LXII. MAITRAYANI SANHITA II. 13. 23.~ 62:LXII.:Hiraṇyagarbha
+rs_09263s:LXIII. MAITRAYANI SANHITA I. 5. 12.~ 63:LXIII.:Yama and Yamī
+rs_09264s:LXIV. MAITRAYANI SANHITA I. 10. 13.~ 64:LXIV.:Legend of the winged mountains
+rs_09365s:LXV. MAITRAYANI SANHITA II. 1. 12.~ 65:LXV.:The potency of the sacrifice
+rs_09366s:LXVI. TAITTIRIYA SANHITA II. 6. 6.~ 66:LXVI.:Legend of Agni the oblation-bearer
+rs_09467s:LXVII. AITAREYA BRAHMANA III. 20.~ 67:LXVII.:Legend of Indra and the Maruts
+rs_09468s:LXVIII. AITAREYA BRAHMANA III. 21.~ 68:LXVIII.:Legend of Indra and the god Ka
+rs_09469s:LXIX. ŚATAPATHA BRAHMANA II. 2. 2.~ 69:LXIX.:The two kinds of deities
+rs_09570s:LXX. ŚATAPATHA BRAHMANA II. 2. 2.~ 70:LXX.:Truth, untruth, and silence
+rs_09571s:LXXI. ŚATAPATHA BRAHMANA X. 4. 3.~ 71:LXXI.:How the gods got immortality
+rs_09772s:LXXII. ŚATAPATHA BRAHMANA XII. 7. 3.~ 72:LXXII.:Legend of Indra and Namuci
+rs_09773s:LXXIII. NIRUKTA II. 16.~ 73:LXXIII.:Explanation of section XXXII
+rs_09874s:LXXIV. AŚVALAYANA'S GRIHYASUTRA I. 5, 7, 8.~ 74:LXXIV.:Wedding customs
+rs_10175s:LXXV. AŚVALAYANA'S GRIHYASUTRA IV. 1--6.~ 75:LXXV.:Cremation and burial customs

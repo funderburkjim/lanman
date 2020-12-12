@@ -40,6 +40,8 @@ We insert <section> lines for these
   Then manually adjusted
 * TODO index.html
 python make_html1.py deva reader1.txt ../notes/lanlinks.txt dictlinks_edit.txt ../notes/selections.txt index.html
+* TODO index2.html
+python make_html2.py deva reader1.txt ../notes/lanlinks.txt dictlinks_edit.txt ../notes/selections.txt navbarData.txt index2.html
 * TODO open questions
 00919 Badra  : Not found in verse
 pratyakSadarzana   takes an infinite amount of time for simple search!
