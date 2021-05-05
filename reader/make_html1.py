@@ -349,8 +349,8 @@ def make_dict_links(hws):
  #url = "https://www.sanskrit-lexicon.uni-koeln.de/simple/lan"
  #url = "http://localhost/cologne/simple/lan"  # for testing
  baseurl = "https://www.sanskrit-lexicon.uni-koeln.de/scans"
- # for debugging use local display
- baseurl = "http://localhost/cologne/"
+ # for debugging use local display 05-04-2021. Next does not work?
+ # baseurl = "http://localhost/cologne"
  url = "%s/csl-apidev/sample/list-0.2.php?dict=lan&input=hk&output=deva&key=" % baseurl
 
  tooltip = "see Lanman Dictionary" 

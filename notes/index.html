@@ -69,16 +69,20 @@ p {
 .meter {font-weight:bold;}
 
 .abbr {
- /*border-bottom: 1px dotted #000; */
-/*
+ border-bottom: 1px dotted #000;
  background-color:rgb(240, 240, 240);
  text-decoration: none;
+}
+.abbrx { // 
+/* ref; https://stackoverflow.com/questions/10131713/make-bottom-border-closer-to-text   
+ Unfortunately, this does not work well
 */
+
     text-decoration: none;
     position: relative;
     background-repeat: repeat-x;
     background-image: url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAAAAAAALAAAAAABAAEAAAICTAEAOw==);
-    background-position: left 15px bottom 5px;
+    background-position: left 15px bottom 5px
 
 }
 .abbr:hover {
